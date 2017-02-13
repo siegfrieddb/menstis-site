@@ -8,6 +8,7 @@ import access from 'safe-access'
 import typography from 'utils/typography'
 import include from 'underscore.string/include'
 import startsWith from 'lodash/startsWith'
+import Breakpoint from 'components/breakpoint'
 const { rhythm } = typography
 
 module.exports = React.createClass({
@@ -30,6 +31,7 @@ module.exports = React.createClass({
     const pageOptions = []
     // Sort pages.
     const pages = this.props.route.pages
+    const childPages = []
     pages.forEach((page) => {
       if (access(page, 'file.ext') === 'md' && !include(page.path, '/404') && startsWith(page.path,"/dedag/") ) {
         const title = access(page, 'data.title') || page.path
@@ -57,14 +59,27 @@ module.exports = React.createClass({
                     {isActive ? <strong>{title}</strong> : title}
             </Link>
           </li>
-
         )
+        childPages.push(page)
       }
     })
+    const docOptions = childPages.map((child) =>
+      <option
+        key={prefixLink(child.path)}
+        value={prefixLink(child.path)}
+      >
+        {child.data.title}
+      </option>
+
+    )
     return (
       <div>
 
       <div className="ui container" >
+        <h1></h1>
+        <Breakpoint
+          mobile
+        >
           <div
             style={{
               overflowY: 'auto',
@@ -91,8 +106,21 @@ module.exports = React.createClass({
             }}
           >
             {this.props.children}
-
           </div>
+          </Breakpoint>
+          <Breakpoint>
+            <strong>Topics:</strong>
+            {' '}
+            <select
+              defaultValue={this.props.location.pathname}
+              onChange={this.handleTopicChange}
+            >
+              {docOptions}
+            </select>
+            <br />
+            <br />
+            {this.props.children}
+          </Breakpoint>
       </div>
     </div>
 
