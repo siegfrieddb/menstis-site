@@ -52,6 +52,6 @@ Spanje / 2009 / 126' / **regie**: Alejandro Amen�bar, **scenario**: Alejandro 
 
 ### <font color="#808000">**Links**</font>
 
-Sylvain De Bleeckere schreef **een uitgebreid essay over de historische achtergrond** van het docudrama, **de epische cinematografie** en **de thematische verdieping van de betekeniswereld** die zowel handelt over **het fenomeen van de gedachtenis** vooral in het licht van **het ontstaan van het christendom als officiële kerkelijke religie in Europa** en de doorwerking ervan tot op heden. Hij brengt ook de visie van de regisseur ter sprake over **de relatie tussen de religieuze machten en het geweld van de religies tegenover elkaar**. Het essay verscheen als het tweede, uitgebreide deel van **Men(S)tis’ Studies # 1**. [Voor meer](../blog/index.html).
+Sylvain De Bleeckere schreef **een uitgebreid essay over de historische achtergrond** van het docudrama, **de epische cinematografie** en **de thematische verdieping van de betekeniswereld** die zowel handelt over **het fenomeen van de gedachtenis** vooral in het licht van **het ontstaan van het christendom als officiële kerkelijke religie in Europa** en de doorwerking ervan tot op heden. Hij brengt ook de visie van de regisseur ter sprake over **de relatie tussen de religieuze machten en het geweld van de religies tegenover elkaar**. Het essay verscheen als het tweede, uitgebreide deel van **Men(S)tis’ Studies # 1**. [Voor meer](../../blog/).
 
 <font size="-2">� Sylvain De Bleeckere, Men(S)tis, 2011</font>

@@ -4,6 +4,9 @@ import { Container } from 'react-responsive-grid'
 import { prefixLink } from 'gatsby-helpers'
 import { rhythm, scale } from 'utils/typography'
 import { config } from 'config'
+import  _  from 'lodash'
+import access from 'safe-access'
+import Header from 'components/Header'
 
 const style = {
   header: {
@@ -44,26 +47,15 @@ const style = {
 class Template extends React.Component {
   render () {
     const { location, children } = this.props
-    let header
-    if (location.pathname === prefixLink('/')) {
-      header = (
-        <header style={style.header}>
-          <h1 style={style.h1}><Link style={style.Link} to={prefixLink('/')} >  {config.blogTitle} </Link></h1>
-          <h2 style={style.h2}>{config.subTitle}</h2>
-        </header>
-      )
-    } else {
-      header = (
-        <header>
-          <h3 style={style.h3}><Link style={style.Link} to={prefixLink('/')} >  {config.blogTitle} </Link></h3>
-        </header>
-      )
-    }
+    
+      
+  
+
     return (
-    <Container style={style.Container}>
-      {header}
+    
+    <div className={'ui text container'}>
       {children}
-    </Container>
+    </div>
     )
   }
 }

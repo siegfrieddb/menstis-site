@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router'
-import Breakpoint from 'components/Breakpoint'
+import Header from 'components/Header'
 import find from 'lodash/find'
 import { prefixLink } from 'gatsby-helpers'
 import { config } from 'config'
@@ -63,9 +63,8 @@ module.exports = React.createClass({
     })
     return (
       <div>
-        <Breakpoint
-          mobile
-        >
+
+      <div className="ui container" >
           <div
             style={{
               overflowY: 'auto',
@@ -94,23 +93,9 @@ module.exports = React.createClass({
             {this.props.children}
 
           </div>
-          
-        </Breakpoint>
-        <Breakpoint>
-          <strong>Onderwerpen:</strong>
-          {' '}
-          <select
-            defaultValue={this.props.location.pathname}
-            onChange={this.handleTopicChange}
-          >
-            {pageOptions}
-          </select>
-          <br />
-          <br />
-          
-        </Breakpoint>
-        
       </div>
+    </div>
+
     )
   },
 })

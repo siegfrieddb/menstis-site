@@ -13,6 +13,7 @@ module.exports = React.createClass({
   propTypes: {
     body: React.PropTypes.string,
   },
+  
   render () {
     const title = DocumentTitle.rewind()
 
@@ -33,37 +34,11 @@ module.exports = React.createClass({
           <title>{title}</title>
           <TypographyStyle typography={typography} />
           <GoogleFont typography={typography} />
-          {css}
-          <style
-            dangerouslySetInnerHTML={{
-              __html:
-                `
-                  a {
-                    color: ${colors.bg};
-                  }
-                  .ball-0 {
-                    background-image: url(${prefixLink('/docs/some-react-code/0.jpg')});
-                  }
-                  .ball-1 {
-                    background-image: url(${prefixLink('/docs/some-react-code/1.jpg')});
-                  }
-                  .ball-2 {
-                    background-image: url(${prefixLink('/docs/some-react-code/2.jpg')});
-                  }
-                  .ball-3 {
-                    background-image: url(${prefixLink('/docs/some-react-code/3.jpg')});
-                  }
-                  .ball-4 {
-                    background-image: url(${prefixLink('/docs/some-react-code/4.jpg')});
-                  }
-                  .ball-5 {
-                    background-image: url(${prefixLink('/docs/some-react-code/5.jpg')});
-                  }
-                `,
-            }}
-          />
+          {css} 
+          <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.css"></link>
         </head>
         <body>
+        
           <div id="react-mount" dangerouslySetInnerHTML={{ __html: this.props.body }} />
           <script src={prefixLink(`/bundle.js?t=${BUILD_TIME}`)} />
         </body>

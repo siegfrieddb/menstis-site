@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script language="javascript" type="text/javascript">
+	isSubmitted = false;
+	
+	function submitOnce() {
+		if (isSubmitted) return false;
+		isSubmitted = true;
+		return true;
+	}
+	
+	function updateTotal() {
+		document.getElementById('kostprijs').value= document.getElementById('aantalLLMB2007').selectedIndex*3 +	
+		document.getElementById('aantalLLMB2010').selectedIndex*3 +	
+		document.getElementById('aantalLLMB2009').selectedIndex*3 +	
+		document.getElementById('aantalMethode').selectedIndex*12 +	
+		document.getElementById('aantalTabula').selectedIndex*2 +	 
+		document.getElementById('aantalGedachtenis').selectedIndex*15 +
+		document.getElementById('aantalParadijs').selectedIndex*15 +	
+		',00';
+	}	
+</script>
+
+<link href="/style/basic.css" rel="stylesheet" type="text/css" media="all">
+<link rel="icon" type="image/gif" href="/favicon.gif">
+</head>
+
+<body bgcolor="#FFFFF4" text="#7F7D82" link="#7366EE" vlink="#8388FF" alink="#F78A6A">
+<div align="center">
+<center>
+
+
+<table border="0" cellpadding="4" cellspacing="0" width="90%">
+    
+ 	<tr>
+		<td valign="top" bgcolor="#FCF9FF">
+             <!-- InstanceBeginEditable name="Inhoud" -->
+             <p>U kan hier  uw bestelling  doorgeven. We contacteren u vervolgens per email voor de leverings- en betalingsmodaliteiten.</p>             <p>Voor meer informatie:  <a href="mailto:info@menstis.be">info@menstis.be</a></p>
+             
+			   <FORM name="formulier" id="formulier" action="http://www.all2all.org/cgi-bin/FormMail.pl" method="POST" onSubmit="return submitOnce();">
+               <table border="0">
+                 <tr>
+                   <td width="122" align="right"><font color="#7F7D82">Naam:</font></td>
+                   <td colspan="2"><input type="text" name="realname" size="40"></td>
+                 </tr>
+                 <tr>
+                   <td align="right" valign="top"><font color="#7F7D82">Adres:</font></td>
+                   <td colspan="2"><input type="text" name="straat" size="60">
+                     <br>
+                     <input type="text" name="gemeente" size="40"></td>
+                 </tr>
+                 <tr>
+                   <td align="right"><font color="#7F7D82">Email:</font></td>
+                   <td colspan="2"><input type="text" name="email" size="60"></td>
+                 </tr>
+				 
+                 <tr>
+                  <td align="right" rowspan="7" valign="top"><font color="#7F7D82">Bestelling:</font></td>			                            
+ <td>Het aards paradijs als zinnebeeld : </td>
+ <td> Aantal                     
+                     <select name="aantalParadijs" id="aantalParadijs" onChange="updateTotal();">
+                       <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
+                       <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>	   					
+                     </select>			
+					 x 15 EURO 	 					 
+                   </td>						    		   
+                 </tr>
+                 
+                 <tr>
+					 <td>Gedachtenis : </td><td> Aantal                     
+                     <select name="aantalGedachtenis" id="aantalGedachtenis" onChange="updateTotal();">
+                       <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
+                       <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>	   					
+                     </select>			
+					 x 15 EURO 	 					 
+                   </td>		
+				 </tr>                                
+                 
+                 <tr>                            
+				     <td>Leren leven met beelden 2010 : </td><td> Aantal                     
+                     <select name="aantalLLMB2010" id="aantalLLMB2010" onChange="updateTotal();">
+                       <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
+                       <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
+						<option>11</option><option>12</option><option>13</option><option>14</option><option>15</option>
+						<option>16</option><option>17</option><option>18</option><option>19</option><option>20</option>
+						<option>21</option><option>22</option><option>23</option><option>24</option>			   					   
+                     </select>			
+					 x 3 EURO 	 					 
+                   </td>				   
+                 </tr>
+                                                   
+                 <tr>
+				     <td>Leren leven met beelden 2009 : </td><td> Aantal                     
+                     <select name="aantalLLMB2009" id="aantalLLMB2009" onChange="updateTotal();">
+                       <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
+                       <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
+						<option>11</option><option>12</option><option>13</option><option>14</option><option>15</option>
+						<option>16</option><option>17</option><option>18</option><option>19</option><option>20</option>
+						<option>21</option><option>22</option><option>23</option><option>24</option>			   					   
+                     </select>			
+					 x 3 EURO 	 					 
+                   </td>				   
+                 </tr>                
+	               
+                 <tr>                  	   
+                   <td>Leren leven met beelden 2007 : </td><td> Aantal                     
+                     <select name="aantalLLMB2007" id="aantalLLMB2007" onChange="updateTotal();">
+                       <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
+                       <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
+						<option>11</option><option>12</option><option>13</option><option>14</option><option>15</option>
+						<option>16</option><option>17</option><option>18</option><option>19</option><option>20</option>
+						<option>21</option><option>22</option><option>23</option><option>24</option>			   					   
+                     </select>			
+					 x 3 EURO 	 					 
+                   </td>				   
+                 </tr>
+				 
+
+			
+				 
+				 <tr>
+				     <td>Methode Boek &amp; CD : </td><td> Aantal                     
+                     <select name="aantalMethode" id="aantalMethode" onChange="updateTotal();">
+                       <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
+                       <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>		   					   
+                     </select>			
+					 x 12 EURO 	 					 
+                   </td>				   
+                 </tr>
+				 
+				 <tr>
+				     <td>Tabula Sacra : </td>
+				     <td> Aantal                     
+                     <select name="aantalTabula" id="aantalTabula" onChange="updateTotal();">
+                       <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
+                       <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>		   					   
+                     </select>			
+					 x 2 EURO 	 					 
+                   </td>				   
+                 </tr>				 
+				
+				 
+                 <tr>
+                   <td align="right" valign="top"><font color="#7F7D82">Opmerkingen:</font></td>
+                   <td colspan"2"><textarea name="deelnemers" cols="40" rows="5"></textarea></td>
+                 </tr>
+                 <tr>
+                   <td align="right"><font color="#7F7D82">Totale Kostprijs:</font></td>
+                   <td colspan="2"><input type="text" name="kostprijs" id="kostprijs" size="4" value="0,00" align="right" onBlur="updateTotal();">
+                     euro (levering niet inbegrepen)</td>
+                 </tr>
+                 <tr>
+                   <td colspan="3"><input type="reset" value="Annuleer">
+                     <input type="submit" value="Verzend"></td>
+                 </tr>
+               </table>
+               <input type="hidden" name="recipient" value="sylvain@menstis.be">
+               <input type="hidden" name="subject" value="Online bestelling">
+               <input type=hidden name="redirect" value="http://www.menstis.be/uitgeverij/bestellingbevestiging.html">
+               <input type=hidden name="print_blank_fields" value="1">
+             </FORM>
+             <!-- InstanceEndEditable -->
+		</td>
+     </tr>
+</table>
+</center>
+</div>
+</body>
+<!-- InstanceEnd --></html>
