@@ -13,8 +13,11 @@ Het Men(S)tis' **team** dat het event organiseert: **Sylvain De Bleeckere** (con
 
 Voor meer informatie in verband met de _Dag van de Religieuze Film_ kan u mailen naar dit adres: [**info@menstis.be**](mailto:info@menstis.be).
 
-![zaaloverzicht](./zaal.jpg)
 
-![zaaloverzicht](./zaal2.jpg)
+<img src="zaal.jpg" >
+
+<img src="zaal2.jpg" >
+
+
 
  

@@ -1,7 +1,6 @@
 ---
 title: Geschiedenis
 ---
-## Geschiedenis
 
 </font></td>
 
