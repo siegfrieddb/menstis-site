@@ -8,6 +8,10 @@
 
 }
 
+h1  {
+   color: #f26d80
+}
+
 .image-fit > img {
     object-fit: cover;
     height: 225px;
