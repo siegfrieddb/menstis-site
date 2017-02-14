@@ -3,7 +3,6 @@ title : Aan de tafel van het verborgen atelier
 SoldOut : true
 ---
 
-### Aan de tafel van het verborgen atelier
 
 ![](./tafel.jpg)
 
