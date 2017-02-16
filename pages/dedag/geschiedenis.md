@@ -22,7 +22,7 @@ publiceerde Sylvain De Bleeckere het boek
  van de toenmalige Trioscoop Hasselt. Er was tevens een inhoudelijk programma 
  in het nabijgelegen Sint-Jozelfscollege. 
  Over de _eerste_ en de _tweede_ editie van _De Dag van de Religieuze Film_ 
- is er **een korte archieffilm** te zien in de rubriek [Blog](../blog/index.html "archieffilm ").  
+ is er **een korte archieffilm** te zien in de rubriek [Blog](/blog/2015-01-04-Archief20Jaar/).  
 
 Nadien ging ieder jaar op krokusmaandag **De Dag** door; er werden telkens
  drie recente films vertoond in het kader van een thema.  

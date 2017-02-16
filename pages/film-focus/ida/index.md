@@ -1,6 +1,5 @@
-
 <center>
-<img src="<Ida.jpg" >
+<img src="Ida.jpg" >
 </center>
 
 <a name="Ida"></a>
