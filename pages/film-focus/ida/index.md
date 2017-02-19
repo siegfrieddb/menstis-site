@@ -47,21 +47,21 @@ resten van hun omgebrachte familieleden en geven hen een waardige begrafenis op 
   het Polen van het begin van de jaren zestig van vorige eeuw. In een interview met Ferdinand Derus (DVD Ida,
    Cinéart, 2014) vertelt de regisseur dat zijn oude indrukken van zijn vaderland geen kleur kennen. 
    Polen was toen ook geen blij land. Zijn moeder koos ervoor om samen met haar kind in het vrije
-    Westen een betere toekomst te zoeken. Dat negatief gegeven belet Pawlikowski niet om vanuit
-     een zekere nostalgie naar het Polen van zijn kindertijd terug te kijken. Vandaar om het contrast
+    Westen een betere toekomst te zoeken. Dat negatief gegeven belet Pawlikowski niet om _vanuit
+     een zekere nostalgie_ naar het Polen van zijn kindertijd terug te kijken. Vandaar om het contrast
       tussen wit en zwart niet extreem uit te werken, maar eerder te milderen. Dat gebeurt bijvoorbeeld
        door te kiezen voor de novicen en niet voor de volwaardige kloosterzusters. De kleding van de
         echte zusters kent immers een sterk contrast tussen de zwart en de witte delen. 
-        De kleding van de novicen daarentegen heeft het grijs als dominante kleur. In de
+        De kleding van de novicen daarentegen heeft _het grijs als dominante kleur_. In de
          beginsequenties zet de regisseur het zwart-wit sterk in de verf door de taferelen
           te situeren in een winters sneeuwlandschap. De witte sneeuw accentueert de contrasten
            met het kloostergebouw en de personages. Eens de reis van Anna/Ida naar haar tante begint,
             verdwijnt de sneeuw en gaat het scherpere zwart-wit contrast over in een algemeen grijs.
             Bovendien past het grijs
-          ook bij de sluier van verdriet die over de reis van Anna naar Wanda gaat, een reis naar 
+          ook bij _de sluier van verdriet_ die over de reis van Anna naar Wanda gaat, een reis naar 
           het traumatische leven van het Polen in de Tweede Wereldoorlog én van het naoorlogse Polen.
-           Het grijze zwart-wit is niet louter nostalgie, het is evenzeer de kleur van de rouw die Anna/Ida 
-           en Wanda samen dragen tijdens hun tocht naar de dood van hun familie. **Ida** is een filmische partituur geschreven in de toonaard van Em. 
+           Het _grijze zwart-wit_ is niet louter nostalgie, het is evenzeer _de kleur van de rouw_ die Anna/Ida 
+           en Wanda samen dragen tijdens hun tocht naar de dood van hun familie. **Ida** is een filmische partituur geschreven in _de toonaard van Em_. 
 
 <span class="menstis">UNIEKE BEELDCOMPOSITIES</span>. De film **Ida** heeft een bijzondere beeldende signatuur door de beslissing 
 van de regisseur Pawlikowski om niet alleen in zwart-wit te filmen, maar ook om te kiezen voor het beeldformaat 4:3.
