@@ -2,8 +2,6 @@
 title: Leren Leven Met Beelden
 ---
 
-### Leren Leven Met Beelden
-
 ![](./llb.jpg)
 
 **Auteur**

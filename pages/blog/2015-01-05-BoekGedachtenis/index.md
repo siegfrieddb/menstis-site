@@ -5,7 +5,5 @@ layout: post
 attachment: "Gedachtenis.pdf"
 linktext: "Lees Kennismaking"
 ---
-**[Kennismaking met het boek Gedachtenis](Gedachtenis.pdf)**
-
 Presentatie van **het boek** over **het thema gedachtenis**, belicht vanuit de films: **En waar de sterre bleef stille staan**, **Agora** en **Des hommes et des dieux**. 
 U kan het boek bestellen in onze rubriek [uitgeverij](/uitgeverij/)

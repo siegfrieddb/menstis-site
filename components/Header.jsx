@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
 import includes from 'underscore.string/include'
 import { colors, activeColors } from 'utils/colors'
-import { Container, Grid, Span } from 'react-responsive-grid'
 import typography from 'utils/typography'
 import { Link } from 'react-router'
 import { prefixLink } from 'gatsby-helpers'
 import { config } from 'config'
+import { Image } from 'semantic-ui-react'
 
 const { rhythm, adjustFontSizeTo } = typography
 
@@ -22,18 +22,19 @@ class Header extends Component {
         <div>
           <div className="ui fluid container ">
            
-            <div className="ui menu" > 
-                <Link
-                  to={prefixLink('/')}
-                  style={{
-                    textDecoration: 'none',
-                    fontSize: '2em',
-                    background: 'none'
-                  }}
-                >
-                  {config.siteTitle}
-                </Link>
-              
+            <div className="ui menu centered pointing secondary" > 
+
+                <div className='item'  style={{padding: '0px'} } >
+                  <div className="parent-menu blog-image ">
+                    <div className="child-menu" >
+                      <span style={{fontWeight: 'bold'} }>men(<span style={{color: '#f26d80'}}>S</span>)tis</span>
+                    </div>
+                  </div>
+                </div>
+
+
+                
+
                 <Link
                   to={prefixLink('/dedag/')}
                   className={dedagAct ? 'active item' : 'item'}

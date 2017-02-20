@@ -9,6 +9,7 @@ import { config } from 'config'
 import include from 'underscore.string/include'
 import moment from 'moment'
 import startsWith from 'lodash/startsWith'
+import { Image } from 'semantic-ui-react'
 
 
 const style = {
@@ -43,6 +44,11 @@ class BlogIndex extends React.Component {
         { 
           pageLinks.push(
             <li key={page.path} style={style.post}>
+                <div className="parent-blog blog-image ">
+                  <div className="child-blog" >
+                      {page.data.title}
+                  </div>
+                </div>
               <div style={style.date}>
                   {moment(page.data.date).calendar()}
               </div>
@@ -52,7 +58,12 @@ class BlogIndex extends React.Component {
                     let index = path.lastIndexOf("/")
                     return path.substr(0,index+1) + linkFile 
                   })(page.path, page.data.attachment)}>{access(page, 'data.linktext') || page.path}</Link>
+                
+
+
+                <h1></h1>
             </li>
+
           )
         }
       }
