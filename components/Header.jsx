@@ -22,18 +22,15 @@ class Header extends Component {
         <div>
           <div className="ui fluid container ">
            
-            <div className="ui menu centered pointing secondary" > 
-
-                <div className='item'  style={{padding: '0px'} } >
+            <div className="ui massive stackable menu pointing secondary" > 
+              <div className="ui container ">
+                <div className='item'  style={{padding: '0px', "margin-right": "20px"} } >
                   <div className="parent-menu blog-image ">
                     <div className="child-menu" >
                       <span style={{fontWeight: 'bold'} }>men(<span style={{color: '#f26d80'}}>S</span>)tis</span>
                     </div>
                   </div>
                 </div>
-
-
-                
 
                 <Link
                   to={prefixLink('/dedag/')}
@@ -72,10 +69,9 @@ class Header extends Component {
                 >
                   Uitgeverij
                 </Link>
+                 </div>
           </div>
           </div>
-          
-          
         </div>
       )}};
 

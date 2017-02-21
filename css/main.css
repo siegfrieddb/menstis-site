@@ -8,7 +8,10 @@
     background-position: center; 
 }
 
+body{
+    font-size: 1.5em;
 
+}
 .page {
     width: 100%
 }
@@ -72,6 +75,8 @@ h1  {
     color: white;
     padding: 0.1em
 }
+
+
 
 @media only screen and (max-width: 726px) {
     .parent-blog {
