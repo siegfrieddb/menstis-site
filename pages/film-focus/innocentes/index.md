@@ -1,5 +1,5 @@
 <center>
-<img src="Inno.jpg" >
+<img src="Inno.jpg">
 </center>
 
 <a name="KLA"></a>
