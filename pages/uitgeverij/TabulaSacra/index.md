@@ -20,5 +20,6 @@ Het betreft **de esthetisch verzorgde programmapocket** van het Men(S)tis-projec
 Afmetingen: l: 10,5 cm, H: 15 cm, B: 0,3 cm.  
 Het boekje telt 16 bladzijden en 3 locatie-foto's.
 
-U kan het boekje Tabula Sacra [Online bestellen](/shop/) op deze website.
+Het boekje Tabula Sacra [Online bestellen](/shop/) is gratis bij de bestelling van een 
+van de andere publicaties.
 
