@@ -2,7 +2,7 @@
 <img src="Inno.jpg" >
 </center>
 
-<a name="Inno"></a>
+<a name="KLA"></a>
 
 ### <font color="#808000">**Klapbord**</font>
 
