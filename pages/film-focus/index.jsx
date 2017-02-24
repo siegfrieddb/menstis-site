@@ -44,7 +44,7 @@ const FilmFocus = React.createClass({
         var line = movies.splice(0,1);
         line.forEach( (el, idx) => {
           gridMovies.push(( <div className="column"> <div className="image-fit"><Image  src={prefixLink(el.path)  + "front.jpg"} onClick={ (e) => this.onImageClick(e,el.path) } /></div></div>))  
-          //gridMovies.push(( <TestImage  /> ));
+          //gridMovies.push(( <TestImage/> ));
         })
         //var line = movies.splice(0,3);
         
