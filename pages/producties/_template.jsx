@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router'
-import Breakpoint from 'components/Breakpoint'
+import Breakpoint from 'components/breakpoint'
 import find from 'lodash/find'
 import { prefixLink } from 'gatsby-helpers'
 import { config } from 'config'
@@ -64,6 +64,7 @@ module.exports = React.createClass({
       }
     })
     return (
+
       <div className="ui container">
         <Breakpoint
           mobile

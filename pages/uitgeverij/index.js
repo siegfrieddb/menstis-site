@@ -47,13 +47,10 @@ const SomeReactCode = React.createClass({
 
     return (
       <DocumentTitle title={`${SomeReactCode.metadata().title} | ${config.siteTitle}`}>
-        <div>
-          <h1></h1>
         <div className={'ui container'}>
           <div className={'three column stackable ui grid '}>
               {gridMovies}
           </div>
-        </div>
         </div>
       </DocumentTitle>
     )

@@ -7,7 +7,7 @@ import startsWith from 'lodash/startsWith'
 import typography from 'utils/typography'
 import { Link } from 'react-router'
 import { prefixLink } from 'gatsby-helpers'
-
+import {browserHistory} from 'react-router';
 
 
 const { rhythm } = typography
@@ -30,7 +30,7 @@ const SomeReactCode = React.createClass({
 
         <div style={{height: '50px'}}>
         </div>    
-        <div className="parent landing-image ">
+        <div className="parent landing-image" style= {{cursor:"pointer"}} onClick={(e) => browserHistory.push(prefixLink("/missie/"))}>
           <div className="child">  
             <span style={{fontWeight: 'bold'} }>men(<span style={{color: '#f26d80'}}>s</span>)tis</span>
           </div>

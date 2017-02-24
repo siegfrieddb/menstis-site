@@ -11,9 +11,11 @@ import { prefixLink } from 'gatsby-helpers'
 import Header from 'components/Header'
 import { Grid, Image } from 'semantic-ui-react'
 import '../../css/main.css'
+//import {IndexImage} from 'components/IndexImage'
+import {TestImage} from 'components/IndImage'
 const { rhythm } = typography
 
-const SomeReactCode = React.createClass({
+const FilmFocus = React.createClass({
   statics: {
     metadata () {
       return {
@@ -32,7 +34,7 @@ const SomeReactCode = React.createClass({
 
     pages.forEach((page) => {
       if (access(page, 'file.ext') === 'md' && !include(page.path, '/404') && startsWith(page.path,"/film-focus/") ) {
-        movies.push(page.path)
+        movies.push(page)
       }
     })
     var gridMovies = []
@@ -41,7 +43,8 @@ const SomeReactCode = React.createClass({
         
         var line = movies.splice(0,1);
         line.forEach( (el, idx) => {
-          gridMovies.push(( <div className="column"> <div className="image-fit"><Image  src={prefixLink(el)  + "front.jpg"} onClick={ (e) => this.onImageClick(e,el) } /></div></div>))  
+          gridMovies.push(( <div className="column"> <div className="image-fit"><Image  src={prefixLink(el.path)  + "front.jpg"} onClick={ (e) => this.onImageClick(e,el.path) } /></div></div>))  
+          //gridMovies.push(( <TestImage  /> ));
         })
         //var line = movies.splice(0,3);
         
@@ -54,18 +57,15 @@ const SomeReactCode = React.createClass({
         //gridMovies.push((<Grid.Row columns={3}> {elLine}</Grid.Row>) )
     }
     return (
-      <DocumentTitle title={`${SomeReactCode.metadata().title} | ${config.siteTitle}`}>
-        <div>
-          <h1></h1>
+      <DocumentTitle title={`${FilmFocus.metadata().title} | ${config.siteTitle}`}>
         <div className={'ui container'}>
           <div className={'three column stackable ui grid '}>
               {gridMovies}
           </div>
-        </div>
         </div>
       </DocumentTitle>
     )
   },
 })
 
-export default SomeReactCode
+export default FilmFocus

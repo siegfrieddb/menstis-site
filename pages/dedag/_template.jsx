@@ -9,6 +9,7 @@ import typography from 'utils/typography'
 import include from 'underscore.string/include'
 import startsWith from 'lodash/startsWith'
 import Breakpoint from 'components/breakpoint'
+import { Dropdown } from 'semantic-ui-react'
 const { rhythm } = typography
 
 module.exports = React.createClass({
@@ -23,7 +24,9 @@ module.exports = React.createClass({
   handleTopicChange (e) {
     return this.context.router.push(e.target.value)
   },
-
+  handleDropDown (e,data) {
+    return this.context.router.push(data.value)
+  },
   render () {
    
 
@@ -32,6 +35,7 @@ module.exports = React.createClass({
     // Sort pages.
     const pages = this.props.route.pages
     const childPages = []
+    const dropDown = []
     pages.forEach((page) => {
       if (access(page, 'file.ext') === 'md' && !include(page.path, '/404') && startsWith(page.path,"/dedag/") ) {
         const title = access(page, 'data.title') || page.path
@@ -60,6 +64,7 @@ module.exports = React.createClass({
             </Link>
           </li>
         )
+        dropDown.push({ key:page.path, value:page.path, text:title} )
         childPages.push(page)
       }
     })
@@ -76,10 +81,10 @@ module.exports = React.createClass({
       <div>
 
       <div className="ui container" >
-        <h1></h1>
         <Breakpoint
           mobile
         >
+          
           <div
             style={{
               overflowY: 'auto',
@@ -109,15 +114,13 @@ module.exports = React.createClass({
           </div>
           </Breakpoint>
           <Breakpoint>
-            <strong>Topics:</strong>
-            {' '}
-            <select
-              defaultValue={this.props.location.pathname}
-              onChange={this.handleTopicChange}
-            >
-              {docOptions}
-            </select>
-            <br />
+
+          <div style={{ paddingLeft:'15px'}} >
+            <Dropdown  defaultValue={this.props.location.pathname} fluid search selection  
+                      options={dropDown}  onChange={this.handleDropDown}
+
+            />
+           </div>
             <br />
             {this.props.children}
           </Breakpoint>
