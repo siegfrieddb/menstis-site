@@ -1,5 +1,5 @@
 ---
-title: Kennismaking met het boek Gedachtenis
+title: Voorstelling boek Gedachtenis
 date: "2013-04-01T00:00:00Z"
 layout: post
 attachment: "Gedachtenis.pdf"

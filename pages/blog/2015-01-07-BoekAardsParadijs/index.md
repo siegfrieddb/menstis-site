@@ -1,5 +1,5 @@
 ---
-title: Kennismaking met het boek Het aards paradijs 
+title: Voorstelling boek Het aards paradijs
 date: "2013-04-01T00:00:00Z"
 layout: post
 attachment: "StudieAardsParadijs.pdf"
