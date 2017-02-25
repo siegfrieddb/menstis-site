@@ -52,23 +52,15 @@ stonden **de vier- en vijfentwintigste edities van De Dag in het teken van het t
 Hier volgt het overzicht van de vertoonde films per jaargang. Sommige film zijn opgenomen in de rubriek
 FilmFocus van deze website. (Dit overzicht is in opbouw)
 
-Jaargang 26 (2017) **Magnificat in Em**: Ida, Les Innocentes, The Help...
-
-Jaargang 25 (2016) **Levensbeschouwing deel 2**: Marie Heurtin, Son of Saul, Mr. Turner...
-
-Jaargang 24 (2015) **Levensbeschouwing deel 1**: The Mill and the Cross, Vision, The Book Thief...
-
-Jaargang 23 (2014) **Het Beloofde Land**:  Hannah Arendt, Inch'Allah, The Attack...
-
-Jaargang 22 (2013) **Bergrede XIII**: Le gamin au vélo, Detachement, Le Havre...
-
-Jaargang 21 (2012) **Aards@Paradijs**: Hadewijch, The Tree of Life, Les Neiges de Kilimandjaro...
-
-Jaargang 20 (2011) **Gedachtenis**: En waar de sterre bleef stille staan, Agora, Des Hommes et des Dieux...
-
-Jaargang 19 (2010) **Blijvende Bijbelbeelden**: Kain, I'm Not There, Brendan and the Secret of Kells, The Nativity Story...
-
-Jaargang 18 (2009) **God@the USA**: W., There Will Be Blood, Into the Wild...
-
-Jaargang 17 (2008) **Corpus Christi**: Corpus Christi, BenX, Das Leben der Anderen, The Freedom Writers...
+>Jaargang 26 (2017) **Magnificat in Em**: Ida, Les Innocentes, The Help.<br>
+Jaargang 25 (2016) **Levensbeschouwing deel 2**: Marie Heurtin, Son of Saul, Mr. Turner.<br>
+Jaargang 24 (2015) **Levensbeschouwing deel 1**: The Mill and the Cross, Vision, The Book Thief.<br>
+Jaargang 23 (2014) **Het Beloofde Land**:  Hannah Arendt, Inch'Allah, The Attack.<br>
+Jaargang 22 (2013) **Bergrede XIII**: Le gamin au vélo, Detachement, Le Havre.<br>
+Jaargang 21 (2012) **Aards@Paradijs**: Hadewijch, The Tree of Life, Les Neiges de Kilimandjaro.<br>
+Jaargang 20 (2011) **Gedachtenis**: En waar de sterre bleef stille staan, Agora, Des Hommes et des Dieux.<br>
+Jaargang 19 (2010) **Blijvende Bijbelbeelden**: Kain, I'm Not There, Brendan and the Secret of Kells,
+The Nativity Story.<br>
+Jaargang 18 (2009) **God@the USA**: W., There Will Be Blood, Into the Wild.<br>
+Jaargang 17 (2008) **Corpus Christi**: Corpus Christi, BenX, Das Leben der Anderen, The Freedom Writers.<br>
 
