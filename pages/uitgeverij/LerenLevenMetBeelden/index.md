@@ -15,6 +15,6 @@ Leren Leven Met Beelden is **een beeldpedagogische uitgave**, geschreven vanuit 
 **Technische gegevens**
 
 De uitgave heeft een A4-formaat en telt 48 bladzijden.  
-**In 2010** verscheen **de 16de editie**.  
+**In 2012** verscheen **de 17de en laatste editie**.  
 
-U kan Leren Leven Met Beelden [Online bestellen](/shop/) op deze website.
+U kan de laatste exemplaren van Leren Leven Met Beelden [Online bestellen](/shop/) op deze website.
