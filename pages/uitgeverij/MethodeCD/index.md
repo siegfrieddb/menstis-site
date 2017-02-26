@@ -11,7 +11,15 @@ Sylvain De Bleeckere
 
 **Beschrijving**
 
-De CD Methode is een **klankopname** van **het filosofisch poëem Methode** van Sylvain De Bleeckere. Musicus **Wouter Vandenabeele** (Olla Vogala, Ambrozijn) heeft naar aanleiding van dat poëtisch werk **een nieuwe partituur** voor viool, altviool, cello en zang geschreven. De CD heeft een drieledige structuur. Er is een korte **prelude** die zowel muzikaal als tekstueel de sfeer oproept van het geheel. Daarna volgt **instrumentale uitvoering** van de compositie. Dat stuk werkt zelf als een lange prelude op **de volledige uitvoering met de voorgedragen tekst**. De CD is niet in de handel verkrijgbaar. Het werk is enkel als **een geschenk** verkrijgbaar bij de aankoop van het boek Methode, alsook bij een betalende deelname aan één van de producties of initiatieven van Men(S)tis vzw.
+De CD Methode is een **klankopname** van **het filosofisch poëem Methode** van Sylvain De Bleeckere.
+ Musicus **Wouter Vandenabeele** (Olla Vogala, Ambrozijn) heeft naar aanleiding 
+ van dat poëtisch werk **een nieuwe partituur** voor viool, altviool, cello en zang geschreven. De CD heeft een drieledige structuur. 
+Er is een korte **prelude** die zowel muzikaal als tekstueel
+ de sfeer oproept van het geheel. Daarna volgt **instrumentale uitvoering** van de compositie.
+  Dat stuk werkt zelf als een lange prelude op **de volledige uitvoering met de voorgedragen tekst**. 
+  De CD is niet in de handel verkrijgbaar. Het werk is enkel als **een geschenk** verkrijgbaar bij 
+  de aankoop van het boek Methode, alsook bij een betalende deelname aan
+  de productie **Clair-Obscur** van Men(S)tis vzw.
 
 **Technische gegevens**
 

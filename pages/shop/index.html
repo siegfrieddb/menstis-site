@@ -13,12 +13,14 @@
 	
 	function updateTotal() {
 		document.getElementById('kostprijs').value= document.getElementById('aantalLLMB2007').selectedIndex*3 +	
-		document.getElementById('aantalLLMB2010').selectedIndex*3 +	
-		document.getElementById('aantalLLMB2009').selectedIndex*3 +	
-		document.getElementById('aantalMethode').selectedIndex*12 +	
-		document.getElementById('aantalTabula').selectedIndex*2 +	 
-		document.getElementById('aantalGedachtenis').selectedIndex*15 +
-		document.getElementById('aantalParadijs').selectedIndex*15 +	
+		document.getElementById('aantalLLMB2010').selectedIndex*2 +	
+    document.getElementById('aantalLLMB2009').selectedIndex*2 +	
+    document.getElementById('aantalLLMB2000').selectedIndex*2 +	
+		document.getElementById('aantalMethode').selectedIndex*10 +	
+		document.getElementById('aantalLevens').selectedIndex*25 +	 
+   	document.getElementById('aantalParadijs').selectedIndex*10 +	
+    document.getElementById('aantalBeloofd').selectedIndex*15 +	
+     
 		',00';
 	}	
 </script>
@@ -64,20 +66,11 @@
                        <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
                        <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>	   					
                      </select>			
-					 x 15 EURO 	 					 
+					 x 10 EURO 	 					 
                    </td>						    		   
                  </tr>
                  
-                 <tr>
-					 <td>Gedachtenis : </td><td> Aantal                     
-                     <select name="aantalGedachtenis" id="aantalGedachtenis" onChange="updateTotal();">
-                       <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
-                       <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>	   					
-                     </select>			
-					 x 15 EURO 	 					 
-                   </td>		
-				 </tr>                                
-                 
+                             
                  <tr>                            
 				     <td>Leren leven met beelden 2010 : </td><td> Aantal                     
                      <select name="aantalLLMB2010" id="aantalLLMB2010" onChange="updateTotal();">
@@ -87,7 +80,7 @@
 						<option>16</option><option>17</option><option>18</option><option>19</option><option>20</option>
 						<option>21</option><option>22</option><option>23</option><option>24</option>			   					   
                      </select>			
-					 x 3 EURO 	 					 
+					 x 2 EURO 	 					 
                    </td>				   
                  </tr>
                                                    
@@ -100,20 +93,20 @@
 						<option>16</option><option>17</option><option>18</option><option>19</option><option>20</option>
 						<option>21</option><option>22</option><option>23</option><option>24</option>			   					   
                      </select>			
-					 x 3 EURO 	 					 
+					 x 2 EURO 	 					 
                    </td>				   
                  </tr>                
 	               
                  <tr>                  	   
-                   <td>Leren leven met beelden 2007 : </td><td> Aantal                     
-                     <select name="aantalLLMB2007" id="aantalLLMB2007" onChange="updateTotal();">
+                   <td>Leren leven met beelden 2000 : </td><td> Aantal                     
+                     <select name="aantalLLMB2000" id="aantalLLMB2000" onChange="updateTotal();">
                        <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
                        <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
 						<option>11</option><option>12</option><option>13</option><option>14</option><option>15</option>
 						<option>16</option><option>17</option><option>18</option><option>19</option><option>20</option>
 						<option>21</option><option>22</option><option>23</option><option>24</option>			   					   
                      </select>			
-					 x 3 EURO 	 					 
+					 x 2 EURO 	 					 
                    </td>				   
                  </tr>
 				 
@@ -126,22 +119,31 @@
                        <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
                        <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>		   					   
                      </select>			
-					 x 12 EURO 	 					 
+					 x 10 EURO 	 					 
                    </td>				   
                  </tr>
 				 
 				 <tr>
-				     <td>Tabula Sacra : </td>
+				     <td>Levensbeschouwing democratisch belicht : </td>
 				     <td> Aantal                     
-                     <select name="aantalTabula" id="aantalTabula" onChange="updateTotal();">
+                     <select name="aantalLevens" id="aantalLevens" onChange="updateTotal();">
                        <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
                        <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>		   					   
                      </select>			
-					 x 2 EURO 	 					 
+					 x 25 EURO 	 					 
                    </td>				   
                  </tr>				 
 				
-				 
+				  <tr>
+				     <td>Het Beloofde Land: </td>
+				     <td> Aantal                     
+                     <select name="aantalBeloofd" id="aantalBeloofd" onChange="updateTotal();">
+                       <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
+                       <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>		   					   
+                     </select>			
+					 x 15 EURO 	 					 
+                   </td>				   
+                 </tr>				 
                  <tr>
                    <td align="right" valign="top"><font color="#7F7D82">Opmerkingen:</font></td>
                    <td colspan"2"><textarea name="deelnemers" cols="40" rows="5"></textarea></td>
