@@ -37,8 +37,6 @@ const SomeReactCode = React.createClass({
     })
     var gridMovies = []
     while (movies.length > 0){
-
-        
         var line = movies.splice(0,1);
         line.forEach( (el, idx) => {
           gridMovies.push(( <div className="column" > <div className="image-fit-uitgeverij"><Image  src={prefixLink(el)  + "front.jpg"} onClick={ (e) => this.onImageClick(e,el) } /></div></div>))  

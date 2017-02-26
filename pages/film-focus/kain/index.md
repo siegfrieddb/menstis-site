@@ -3,19 +3,19 @@
 </center>
 <a name="KLA"></a>
 
-### <font color="#808000">**Klapbord**</font>
+## <font color="#808000">**Klapbord**</font>
 
 De kortfilm Ka�n (16 min.) is de debuutfilm van de jonge, Oostendse cineast Kristof Hoornaert. Hij is een autodidacticus die zijn eigen scenario met steun van het Vlaams Audiovisueel Fonds (VAF) heeft kunnen verfilmen voor de Vlaamse productiemaatschappij Minds Meet. De film kreeg een selectie voor de Berlinale Shorts Competition van het filmfestival van Berlijn 2009, waar hij werd genomineerd voor de Gouden Beer. Selecties waren er ook voor het Manlleu Short Film Festival, Tofifest International Film Festival - Oostende Film Festival, Bursa International Silk Road Film Festival, Madrid Experimental Cinema Week  en India International Film Festival.
 
 <a name="SYN"></a>
 
-### <font color="#808000">**Synopsis**</font>
+## <font color="#808000">**Synopsis**</font>
 
 Op een open plek in een bos op een niet gepreciseerde plaats kan een jonge man nog net op tijd de stok afweren waarmee iemand van achter hem wil neerslaan. Hij verdedigt zich tijdens het gevecht op de grond met zijn aanvaller. Het is eveneens een jonge man. Net zoals hij goed gebouwd. Het kunnen, zo te zien, broers zijn. De aanvaller laat niet los en spant zich tot het uiterste in om de grote steen die hij ziet liggen, met beide handen te grijpen. Het lukt hem en hij slaat ermee zijn slachtoffer het hoofd in. De moordenaar rust even uit en torst dan het dode lichaam op zijn schouder. Hij draagt het lichaam een eind het bos in tot waar de grond vochtig wordt wegens de nabijheid van een uitgestrekte vijver. Daar dumpt hij het lijk onder een hoge struik. Daarna stapt hij naar de vijver. Wast het bloed van zijn handen en zijn shirt, om dan helemaal naakt onder te duiken in het water. Wanneer hij boven water komt, hoort hij in de verte geluiden en vlucht haastig weg over het veld. Hij stopt met vluchten in het hoge gras ergens op een weide, gelegen op een heuvel. Met gebogen hoofd rust hij uit. Dan richt hij zijn hoofd op en kijkt met tranen in de ogen over het glooiende landschap naar de horizon met de eerste tekenen van menselijke beschaving: het vervallen huisje.
 
 <a name="CIN"></a>
 
-### <font color="#808000">**Cinematografie**</font>
+## <font color="#808000">**Cinematografie**</font>
 
 <span class="menstis">FILMGEDICHT.</span> Ka�n situeert zich zelfbewust in de traditie van de Europese auteursfilm. Dat blijkt uit het feit dat Kristof Hoornaert tekent voor het concept, het script en de regie. Maar er is meer. De jonge regisseur stelt zich bewust op in de traditie van de cineasten Andrei Tarkovski  met films als Andrei Roeblev, Solaris, Zerkalo, Stalker, Nostalghia, Offret en Bruno Dumont met films als La vie de J�sus en L’Humanit�. Met deze laatste deelt hij trouwens dezelfde betrokkenheid op het heuvelland van West-Vlaanderen en Frans-Vlaanderen. Voor Kristof Hoornaert is Ka�n een studie in de cinematografie die vanuit zijn eigen unieke en beeldende kracht het mysterie van het leven zelf aan het woord laat, of beter: zijn eigen beeld laat regisseren. De filmische middelen komen consequent in dienst te staan van de eigen kracht van de levende werkelijkheid. Concreet is dat hier de werkelijkheid van de natuur (het bos, het meer, de weide, het landschap) en de werkelijkheid van de mens. Zo ontstaat het filmgedicht dat Ka�n is. Alleen de beelden en de klanken vormen het corpus van het gedicht. Het enige woord dat erbij hoort, is de titel. De montage van beelden en klanken zijn de verzen van het gedicht dat zijn eigen betekenis voordraagt. De toeschouwer krijgt de tijd om vanuit een meditatieve houding het gedicht te schouwen. Het gedicht opent de ruimte voor wat we eerder al hebben beschreven als ‘het beeldende denken’.
 
@@ -31,7 +31,7 @@ In zijn cinematografie van het rugshot is er geen plaats voor psychologie, wat o
 
 <a name="BET"></a>
 
-### <font color="#808000">**Betekenisruimte**</font>
+## <font color="#808000">**Betekenisruimte**</font>
 
 <span class="menstis">BIJBELBEELD</span>. Het vierde hoofdstuk van het eerste bijbelboek, Genesis, handelt over Gods zonen. De eerste twee heten Ka�n en Abel. De twee broers komen tegenover elkaar te staan door de schuld van de jaloerse Ka�n. Op de titel na refereert de film zelf niet direct aan Genesis 4\. De cineast getuigt daarover zelf:
 
@@ -54,19 +54,19 @@ In het filmgedicht weerklinkt die schreeuw in de kathedraal van het bos en het W
 
 <a name="CON"></a>
 
-### <font color="#808000">**Context**</font>
+## <font color="#808000">**Context**</font>
 
 De kortfilm is een atypische Vlaamse productie en creatie in het Vlaamse filmlandschap dat zich in het eerste decennium van deze eeuw heeft gevormd. De jonge regisseur Hoornaert schrijft zich in de internationale, vooral Europese traditie van de religieus ge�nspireerde film. Sommigen gebruiken liever de term ‘spirituele film’. De Vlaamse filmproductie blijft in die traditie afwezig. Het genre van de misdaadthriller en de komedie domineren het filmdoek in Vlaanderen. Het relatiedrama vindt ook zijn publiek. Hoornaert bewandelt eigenzinnig de weg van de cinematografie die zich zonder omwegen naar de werkelijkheid van het leven zelf richt. Met Ka�n treedt hij in dialoog met de schrijver van het oude Genesisverhaal over de mens die in staat is zijn medemens, zijn broer, te doden, ononderbroken, van generatie op generatie. Wonderlijk genoeg gaat die keuze voor de werkelijkheid van het leven zelf gepaard met een radicale keuze voor het filmbeeld zelf. Hoornaert toont zijn geloof in de eigen unieke denkkracht van de cinematografie. Met Ka�n legt Hoornaert de eerste steen van een oeuvre dat hopelijk de tijd en de ruimte krijgt om zich in Vlaanderen te ontplooien. Het Vlaamse filmlandschap zou erdoor rijker aan beeldkracht worden.
 
 <a name="FIL"></a>
 
-### <font color="#808000">**Filmfiche**</font>
+## <font color="#808000">**Filmfiche**</font>
 
 Belgi� / 2009 / 16' / **regie, scenario**: Kristof Hoornaert / **productie**: Tomas Leyers voor Minds Meet / **fotografie**: Richard Van Oosterhout / **montage**: Stijn Deconinck / **productie designer**: Eva Cools / **vertolking**: Bart Desloovere (slachtoffer), Kevin Plet (moordenaar).
 
 <a name="LIN"></a>
 
-### <font color="#808000">**Links**</font>
+## <font color="#808000">**Links**</font>
 
 K. Hoornaert_, Ka�n. Nota van de regisseur_. 2009 (niet-gepubliceerde nota, ter beschikking gesteld door de regisseur)  
 S. De Bleeckere, _Tragiek, Transcendentie en Triade. Beeldend denken in de nabijheid van het oeuvre van Andrei Tarkovski_. Hasselt, Men(S)tis, 1999.  

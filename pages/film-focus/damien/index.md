@@ -6,19 +6,19 @@ title: Damien
 </center>
 <a name="KLA"></a>
 
-### <font color="#808000">**Klapbord**</font>
+## <font color="#808000">**Klapbord**</font>
 
 _Father Damien_ is hoofdzakelijk **een Vlaamse productie**. In Vlaanderen is de film uitgebracht onder de titel _Damiaan_, terwijl de internationale titel _Molokai: The Story of Father Damien_ is. Die wordt gewoonlijk verkort tot _Father Damien_. Na haar wereldpremi�re op woensdag 10 maart 1999 (Antwerpen) oogstte de film van regisseur Paul Cox bij de filmpers een onbarmhartige kritiek. De toeschouwers reageerden echter positief op de film. Die is en blijft **de belangrijkste film over de historische figuur van pater Damiaan**. De toeschouwer kijkt geboeid naar de film over de merkwaardige geschiedenis die zo onvoorstelbaar is dat geen menselijke verbeelding ze zou kunnen bedenken. De grote episode van **Damiaans leven en sterven op Molokai** komt helder in beeld, mede dank zij het scenario van Briley dat gebaseerd is op het historisch onderzoek dat de Vlaamse historica Hilde Eynikel heeft gepubliceerd onder de titel _Damiaan. De definitieve biografie_ (1999).
 
 <a name="SYN"></a>
 
-### <font color="#808000">**Synopsis**</font>
+## <font color="#808000">**Synopsis**</font>
 
 Na een korte introductie in Honolulu waar **de jonge Vlaamse pater** **Damiaan** zich als vrijwilliger opgeeft om als priester naar **het lepra-eiland** **Molokai** te vertrekken, evoceert de film het verblijf van Damiaan op Molokai. Het verhaal begint met de aankomst van pater Damiaan tot aan zijn dood als melaatse priester. De film schenkt vooral aandacht aan **het spiritueel portret van pater Damiaan**, zijn innerlijke strijd, en aan het menselijk portret dat het engagement van pater Damiaan toont voor de menswaardigheid van de leprazieken die op het eiland zijn gedumpt. Daarbij komen enkele belangrijke, historische nevenpersonages in beeld. Er is vooral **Rudolph Meyer**, de Duitse ingenieur die met zijn gezin aan de bovenkant van de pali woont, en het algemeen toezicht houdt op de leprozerie. Hij wordt een bondgenoot van Damiaan. Daarnaast is er **William Williamson**, verpleger, pati�nt, Brit en protestant. De man is besmet geraakt tijdens zijn werk als verpleger in Honolulu en, ook verbannen naar Molokai, wacht hij nu op de spoedige komst van de dood. De jonge dokter **Nathaniel** **Emerson** komt Damiaan helpen, maar hij houdt de alomtegenwoordige ellende niet uit en vertrekt. Andere tijdelijke bezoekers geven de jonge priester moed, vooral omdat ze zijn werk bewonderen en het ook materieel en/of medisch ondersteunen. Een echte riem onder het hart is het bezoek van **princes Liliuokalani**. Wanneer hij al melaats is geworden, krijgt pater Damiaan assistentie van broeder **Joseph Ira Dutton** en blijvende hulp van de Belgische priester **Louis-Lambert Conrady**. In 1888 krijgt de melaatse Damiaan ook bezoek van **Edward Clifford**, Britse schilder en schrijver die een portret schildert van hem. Op het einde komen enkele zusters onder leiding van **Ann Cope**, zuster Marianne, de stervende zieke priester helpen en bijstaan.
 
 <a name="CIN"></a>
 
-### <font color="#808000">**Cinematografie**</font>
+## <font color="#808000">**Cinematografie**</font>
 
 De toeschouwer ervaart dat de film lijdt onder **het** **esthetische** **conflict** tussen de filmdichter Paul Cox die zijn trouw aan de historische waarheid op een po�tische wijze wil vertolken en de eisen van de productie die de opdracht gaf voor een epische film, bestemd voor een groot publiek. De eisen van de epiek vragen voortgang, strak ritme, spanning. Het is duidelijk dat Cox soms meer **filmische tijd** zou willen voor het beeld zelf. Dat is het geval bijvoorbeeld bij **de openingssc�ne** waarmee hij de personage van Damiaan en de lepra via het meisje Maulani introduceert. Oorspronkelijk opgenomen via een prachtig gecomponeerde pan, is het beeldend elan van die introductie op de montagetafel tot een minimum gereduceerd en is de epische kern – de achtervolging – maximaal op de voorgrond gebracht. In dezelfde geest worden enkele cruciale sc�nes te abrupt afgebroken. De toeschouwer leeft zich in de dramatische situaties in – vooral de sc�ne van de overboord gegooide melaatsen, de biechtsc�ne – maar de montage dwingt hem direct over te schakelen naar een volgend tafereel. Het is duidelijk dat Cox tal van sequenties heeft willen laten uitmonden in **een lyrisch-po�tisch en bezinnend moment**. De eisen van de **epiek** halen het daarbij af en toe van de **lyriek**. Maar die plaatsen waar de strijd duidelijk zichtbaar is en waar het dictaat van de epiek bij de montage het verlangen van de lyriek, het beeld, afremt, zijn uitzonderingen, geen algemene regel. In de versie van  Cox zelf, de ‘director’s cut’ genoemd, is dat conflict tussen epiek en lyriek in het voordeel van de lyriek beslecht.
 
@@ -28,7 +28,7 @@ De cinematografie van _Father Damien_ is gekenmerkt door **het po�tisch gebrui
 
 <a name="BET"></a>
 
-### <font color="#808000">**Betekenisruimte**</font>
+## <font color="#808000">**Betekenisruimte**</font>
 
 Midden in de betekenisruimte van de film staat **het kruis**. Damiaan maakt verschillende keren **het kruisteken**: om te bidden nadat hij als eerste vrijwilliger aangeduid is om als priester van de melaatsen naar Molokai te gaan, om zijn eerste mis te beginnen op Molokai, voorts ook als opening van zijn preek over het gemis en het gevoel een outcast te zijn, of wanneer hij een biecht begint te horen, het gebeurt eveneens in zijn kerk wanneer hij er gaat bidden nadat Emerson hem duidelijk heeft gemaakt dat hij melaats geworden is. Naast het kruisteken, is er **het kruisbeeld**. Damiaan vindt een groot kruisbeeld in het vervallen kerkje van Molokai. Het beeld van **de Gekruisigde Jezus** lijkt voor Damiaan een trouwe gezel te zijn. Het beeld lijkt hem zelfs te verwachten en te verwelkomen. Wanneer hij bewust is dat hij melaats geworden is, gaat hij de Gekruisigde danken voor de verschillende jaren die hij gezond is gebleven en heeft kunnen werken. Maar het beeld van de Gekruisigde spreekt ook van lijden en dood. De lepra is het gezicht van het lijden en de dood op Molokai. Het gewicht van die destructieve werkelijkheid weegt zwaar op Damiaans schouders en ook dat maakt deel uit van zijn diep eenzaamheidsgevoel. Hij die iedereen helpt, is zelf verstoken van iedere geestelijke bijstand. Vandaar Damiaans voortdurende nood om te biechten. De opvallende aanwezigheid van het kruisbeeld in talrijke Molokai-sequenties geeft **een religieuze, christelijke duiding** aan het werk van Damiaan. Het kruisbeeld spiegelt er niet alleen het lijden van de zieken, het spreekt ook nog een andere taal. Damiaan is daar de tolk van. In zijn eerste preek op Molokai thematiseert hij niet alleen **het Kruis van Jezus**, hij verwijst er ook letterlijk naar. Na het maken van het kruisteken, introduceert hij de letterlijke verwijzing naar het kruisbeeld in zijn kerk als volgt: “I do not have the disease that has sent you tot Molokai, but I want you to remind that all men know loneliness, all men know isolation and despair. And all men are afflicted in their hearts or in their bodies by sores and wounds that make them outcasts. Outcasts to all but Him…”  Bij ‘Him’ draait Damiaan zich even om en wijst naar het beeld van de Gekruisigde. Welnu, in de sc�ne die zich afspeelt in de werkkamer van de bisschop, blijkt er ook een kruisbeeld aan de muur te hangen. Cox filmt de sc�ne zo dat de drie vertegenwoordigers van de macht met hun rug naar het kruisbeeld staan gekeerd. Zij keren zich niet om naar het kruisbeeld. Cox vervolgt **de beeldspraak van het kruis** tot in de sterfsc�ne. Ook hier werkt hij beeldend met licht en donker in de vorm van licht en schaduw. In de sc�ne vraagt zuster Marianne aan Damiaan om vergeving omdat zij, de zusters, zo lang hebben gewacht om naar Molokai zelf te komen. Ze vraagt hem zijn zegen. Een laatste keer maakt Damiaan het zegenende gebaar van het kruisteken. Cox filmt het gebeuren zo dat de schaduw van de zegende hand van Damiaan wordt geprojecteerd op de muur van de kamer. Die schaduw valt juist aan de voet van het kruisbeeld dat aan de muur hangt.
 
@@ -36,19 +36,19 @@ Wanneer Damiaan Little Bishop troost door de boze wind van Kalaupapa voor te ste
 
 <a name="CON"></a>
 
-### <font color="#808000">**Context**</font>
+## <font color="#808000">**Context**</font>
 
 De opdrachtfilm van Cox is **een blijvend waardig en authentiek portret** dat aan deze Vlaamse zoon van christelijke goedheid alle recht doet. Door de film kan pater Damiaan **een blijvende** **inspiratiebron** zijn voor de huidige en komende generaties. De film helpt begrijpen waarom pater Damiaan in 2005 tijdens een selectieprogramma van de VRT werd gekozen tot **‘de grootste Belg’**. Door de katholieke Kerk werd hij met name door paus Johannes-Paulus II op 4 juni 1995 **zalig** verklaard. Op 21 februari 2009 kondigde het Vaticaan aan dat pater Damiaan **heilig** wordt verklaard op 11 oktober 2009.
 
 <a name="FIL"></a>
 
-### <font color="#808000">**Filmfiche**</font>
+## <font color="#808000">**Filmfiche**</font>
 
 B-N / 1999 / 112’ / regie: Paul Cox / productie : Tharsi Vanhuysse, Grietje Lammertyn van ERA Films / scenario : John Briley naar het boek _Damiaan. De definitieve biografie_ van Hilde Eynikel / camera: Nino Martinetti / montage: Ludo Troch / art director: Joris Mertens / production designer: Jan Petitjean / costume designer: Bernadette Corstens / make-up: Peter Frampton / muziek: Wim Mertens / vertolking : David Wenham (Damiaan), Peter O'Toole (Williamson), Dr. Emerson (Aden Young), Keanu Kapuni-Szasz (Maulani), Kris Kristofferson (Rudolph Meyer), Derek Jacobi (Leonor Fouesnel), Tom Wilkinson (Dutton), Leo McKern (Mgr. Maigret), Sam Neil (Premier Gibson), Alice Krige (zuster Marianne), Dirk Roofthooft (priester Conrardy), Jan Decleir (Mgr. K�ckemann), Micha�l Pas (Edward Clifford), Kate Ceberano (Liliuokalani).
 
 <a name="LIN"></a>
 
-### <font color="#808000">**Links**</font>
+## <font color="#808000">**Links**</font>
 
 In 1999 schreef Sylvain De Bleeckere het filmdossier _Damiaan. Gevoelig episch en karaktervol filmportret._ In 2009 heeft hij dit herwerkt. Het uitgebreide dossier is te downloaden op **deze website op de rubriek [Blog](/blog/index.html)**.
 

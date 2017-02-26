@@ -2,7 +2,6 @@
 title: Tabula Sacra
 ---
 
-### Tabula Sacra
 
 
 ![](./tabula.jpg)

@@ -58,7 +58,7 @@ var Header = React.createClass({
             <Breakpoint mobile>
             <div className="ui massive menu pointing secondary" > 
               <div className="ui container ">
-                <div className='item'  style={{padding: '0px', "margin-right": "20px"} } >
+                <div className='item'  style={{padding: '0px', "marginRight": "20px"} } >
                   <div className="parent-menu blog-image ">
                     <div className="child-menu" >
                       <span style={{fontWeight: 'bold'} }>men(<span style={{color: '#f26d80'}}>S</span>)tis</span>
@@ -79,7 +79,7 @@ var Header = React.createClass({
                   Blog
                 </Link>
                 <Link
-                  to={prefixLink('/mis/sie/')}
+                  to={prefixLink('/missie/')}
                   className={missieAct ? 'active item' : 'item'}
                 >
                   Missie

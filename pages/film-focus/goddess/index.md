@@ -8,19 +8,19 @@ title: Goddess of 1967
 
 <a name="KLA"></a>
 
-### <font color="#808000">**Klapbord**</font>
+## <font color="#808000">**Klapbord**</font>
 
 De film van **Clara Law** ontving in 2000 tijdens het Festival van Venetië de prijs van de beste vrouwelijke vertolking voor Rose Byrne. Niettegenstaande die erkenning, is de film in Vlaanderen en Nederland slechts door een kleine groep toeschouwers gezien. Onterecht, want met deze prent bewijst deze jonge cineaste uit Macau (China) die nu in Australië woont, dat **het genre van de spirituele film** actuele en onmisbare beelden maakt. Een belangrijke inspiratiebron voor haar is het werk van **Andrei Tarkovski**
 
 <a name="SYN"></a>
 
-### <font color="#808000">**Synopsis**</font>
+## <font color="#808000">**Synopsis**</font>
 
 **JM (Deirdre) en BG**, dat zijn de namen van de twee protagonisten. Beide personages leven elk in een verschillende cultuur: **de Aziaat JM** leeft in de metropool Tokio, terwijl **BG een blanke, Australische** is die als kind is opgegroeid in het desolate, uitgestrekte Australische landschap van Lightning Ridge en White Cliff. De twee vinden elkaar in Australië door toedoen van een bijzondere auto, **de Citroen DS van 1967**. In deze auto bewegen JM en BG door het uitgestrekte Australische landschap. Ze zijn onderweg. De weg is hun thuis. JM wil de auto kopen en BG gidst de jongen naar de eigenaar, althans dit is wat BG de jongen wijsmaakt. Ze loodst zichzelf en haar Japanse chauffeur naar niemand minder dan **haar vader**. Het eindpunt wordt voor beide jonge mensen een nieuw vertrekpunt.
 
 <a name="CIN"></a>
 
-### <font color="#808000">**Cinematografie**</font>
+## <font color="#808000">**Cinematografie**</font>
 
 <span class="menstis">TAOÏSTISCH SCENARIO</span>.Regisseur Clara Law schreef zelf **het scenario** samen met haar levensgezel Eddie L.C. Fong die tevens coproducent is van de film. Het filmverhaal heeft **een origineel plot**. Die originaliteit ent zich op de twee jeugdige hoofdpersonages die via **een rijke taoïstische (yin/yang) uitwerking** - oosters/westers, ziend/blind, man/vrouw, stad/platteland - reliëf krijgen. Clara Law ontleent de stof aan haar eigen ervaringen en haar kijk op de wereld van **de jonge generaties** die leven in een zich globaliserende, postmoderne wereld. **Het narratieve** staat in de film niet op de voorgrond. Law vertelt geen verhaal om de toeschouwer te onderhouden. Het is eerder secundair; de nadruk ligt op de tekening van de twee bijzondere personages en op de cinematografische kwaliteit van de beelden.
 
@@ -32,7 +32,7 @@ De film van **Clara Law** ontving in 2000 tijdens het Festival van Venetië de p
 
 <a name="BET"></a>
 
-### <font color="#808000">**Betekenisruimte**</font>
+## <font color="#808000">**Betekenisruimte**</font>
 
 <span class="menstis">POSTMODERNE CULTUUR.</span> Clara Law ontwikkelt in haar oeuvre en zeker in deze film een heel persoonlijke kijk op **de hedendaagse mens en diens postmoderne cultuur**. Ze gebruikt diverse genres van muziek, ze mengt ernst met humor en een flinke knipoog naar de postmoderne semiotiek van Roland Barthes. Daarbij legt ze consequent de nadruk op **de spirituele grondtoon** van het menselijk bestaan, die zich toont in het streven naar zingeving.
 
@@ -44,19 +44,19 @@ De film van **Clara Law** ontving in 2000 tijdens het Festival van Venetië de p
 
 <a name="CON"></a>
 
-### <font color="#808000">**Context**</font>
+## <font color="#808000">**Context**</font>
 
 Clara Law formuleert vooral via de flashbacksequenties **een scherpe tijds- en cultuurkritiek**. Zij verdicht dat in **het portret van de grootvader van BG**, de man die tevens haar vader is. De beeldspraak van 'God' krijgt ook hier weer inhoud omdat de man in kwestie beweert dat hij als ‘een god’ kan heersen over wat hem toebehoort. Na de dood van zijn vrouw, pleegt hij incest met zijn eigen dochter en nadien met zijn kleindochter, Deirdre. Hij leeft als een onmens. Hij blijkt een gewezen hippie te zijn die de donkere terreur van de toenmalige slogan van 'de vrije liefde' aan het licht brengt. Law laat zien dat de generatie van de optimistische jaren zestig - zie het jaartal 1967 in de titel - vooral een consumptiewereld heeft voortgebracht waarin de mens zelf voor god speelt, met als resultaat: **de verdwijning van iedere zin voor spiritualiteit en religiositeit**.
 
 <a name="FIL"></a>
 
-### <font color="#808000">**Filmfiche**</font>
+## <font color="#808000">**Filmfiche**</font>
 
 Australië / 2000 / 118' / **regie**: Clara Law / **productie**: Eddie L.C.Long, Peter Sainsbury / **scenario**: Clara Law, Eddie L.C.Long / **fotografie**: Dion Beebe / **montage**: Kate Williams / **muziek**: Jen Anderson / **productie designer**: Nicholas McCallum / **vertolking**: Rose Byrne (BG), Rikiya Kurokawa (JM), Nicholas Hope (grootvader), Elise McCredie (Marie, de moeder)
 
 <a name="LIN"></a>
 
-### <font color="#808000">**Links**</font>
+## <font color="#808000">**Links**</font>
 
 De Bleeckere, S., 2002. _The Goddess of 1967_, in: CineMagie nr. 239, pp. 7-12.
 

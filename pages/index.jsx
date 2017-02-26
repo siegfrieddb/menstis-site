@@ -22,9 +22,6 @@ const SomeReactCode = React.createClass({
   },
 
   render () {
-
-    
-    
     return (
       <div >
 

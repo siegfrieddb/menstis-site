@@ -5,19 +5,19 @@
 
 <a name="KLA"></a>
 
-### <font color="#808000">**Klapbord**</font>
+## <font color="#808000">**Klapbord**</font>
 
 De film **Des hommes en des dieux** van Xavier Beauvois kende zijn wereldpremière in de officiële selectie van het prestigieuze Festival van Cannes en werd er bekroond met de **Grote Prijs van Cannes 2010** en **de Prijs van de Oecumenische jury**. En naast de ruime publieke belangstelling voor deze ingetogen film kwam daar in februari 2011 nog **de Prijs van Beste Europese Film 2010** bovenop, uitgereikt door Signis, de internationale katholieke organisatie voor radio, film en televisie. Afgevaardigden van 26 verschillende Europese landen brachten hun stem uit. Ook ontving de film in Frankrijk **de Prix de l’Education 2010**, uitgereikt door het Ministerie van Onderwijs. Maar ook de filmpers- en kritiek, los van de ideologische voorkeuren, konden de film naar waarde schatten.
 
 <a name="SYN"></a>
 
-### <font color="#808000">**Synopsis**</font>
+## <font color="#808000">**Synopsis**</font>
 
 De plaats van het gebeuren is **het klooster van Onze-Lieve-Vrouw van de Atlas in Tibhirine (Algerije)** in de jaren negentig van vorige eeuw. Dit klooster van de Franse trappisten van de orde van de cisterciënzers van de strikte observantie (O.C.S.O.) wordt dan geleid door **prior Christian de Chergé**. Onder zijn leiding is er een hechte band gegroeid met de plaatselijke **moslimbevolking**. Dat komt mede door het werk van de monnik-geneesheer **Luc Dochier**. Hij runt in het klooster het enige medische kabinet dat Tibhirine rijk is. Alles verloopt vredig. Dat verandert tijdens de middernachtmis van **Kerstmis 1993**. Dan worden de monniken voor het eerste geviseerd en bedreigd door moslimterroristen (GIA). Van dan af leven de kloosterlingen in spanning over de prangende **vraag of ze moeten blijven of moeten vertrekken**. Ze doorlopen elk afzonderlijk een proces maar beslissen in groep te blijven tot ze door dezelfde terroristen in **de nacht van 27 maart 1996** worden ontvoerd. Ze worden als gijzelaars meegenomen maar worden de volgende meimaand **vermoord** teruggevonden.
 
 <a name="CIN"></a>
 
-### <font color="#808000">**Cinematografie**</font>
+## <font color="#808000">**Cinematografie**</font>
 
 <span class="menstis">DOCUDRAMA</span>. **Des hommes et des dieux**  is een in memoriam film. Een **gedachtenisfilm**. De regisseur Beauvois neemt de toeschouwers mee naar de dramatische gebeurtenissen waarbij zeven monniken van Tibhirine hun leven verloren. Het scenario is **een reconstructie van de historische gebeurtenissen**, een docudrama. Daarbij kon de regisseur steunen op talrijke bronnen en twee kroongetuigen. De twee monniken, Jean-Pierre Schumacher, de nachtportier en Amédée Noto, een medestichter van het klooster in 1939, die in de nacht van de ontvoering op 27 maart 1996, circa 01u15, niet werden meegenomen, zijn kroongetuigen geworden van het leven en het werk van de monniken in Tibhirine. Tot die groep behoren de zeven trappisten die op 21 mei 1996 omgekomen zijn:  prior Christian de Chergé (59 jaar), de monniken Luc Dochier (82 jaar), Christophe Lebreton (45 jaar), Michel Fleury (52 jaar), Bruno Lemarchand (66 jaar), Célestin Ringeard (62 jaar) en Paul Favre-Miville (57 jaar).
 
@@ -27,7 +27,7 @@ De plaats van het gebeuren is **het klooster van Onze-Lieve-Vrouw van de Atlas i
 
 <a name="BET"></a>
 
-### <font color="#808000">**Betekenisruimte**</font>
+## <font color="#808000">**Betekenisruimte**</font>
 
 <span class="menstis">EEN EIGENTIJFDE INTERPRETATIE VAN HET MONNIK-ZIJN.</span> De gedachtenis waarin de monniken van Tibhirine onder leiding van prior Christian de Chergé zich bewogen, zo blijkt uit **Des hommes et des dieux**, werd gevoed door de manier waarop zij de eigen waarheid van de christelijke religie wilden gedenken. Geworteld in de eeuwenoude contemplatieve monastieke traditie, peilden ze intellectueel en pastoraal naar de betekenis van een christelijk leven. Ze begrepen dat het rigoureus herhalen van strenge regels niet voldeed om ‘monnik’ te zijn. In feite beleefden ze **het monnik-zijn als een weg om de betekenis van het christen-zijn te exploreren en te beoefenen**. Dat vroeg van hen voortdurend **een wakker bewustzijn**. Ze accepteerden de bijzondere omstandigheden in tijd en ruimte waarin ze zich bevonden en waarvoor ze bewust hadden gekozen.
 
@@ -35,19 +35,19 @@ De plaats van het gebeuren is **het klooster van Onze-Lieve-Vrouw van de Atlas i
 
 <span class="menstis">MARTELAARSCHAP</span>. Een belangrijk gegeven in de film is de overweging over het martelaarschap. Prior Christiaan geeft ieder van zijn medebroeders de tijd om vrij na te denken over de vraag om te blijven of te vertrekken. Daarbij wisten ze dat ‘blijven’ **het risico van het martelaarschap** inhield. Zij hebben in groep gekozen om te blijven maar niet omwille van het martelaarschap. De film laat helemaal trouw aan de geest van de vermoorde monniken zien hoe ze in hun overwegingen en hun besluit vertrekken van **de christelijke kerstgedachtenis**. Die staat helemaal in het teken van de radicale keuze van een geweldloze beleving van de christelijke religie en in se van iedere religie. Die  **hedendaagse postmoderne taal en gedachte** liggen in de lijn van hedendaagse Franse filosofen, met name van Levinas wiens werk prior Christiaan grondig had bestudeerd, alsook van Jacques Derrida. **De pacifistische religieuze beleving** impliceert een deconstructie van de eeuwenoude koppeling van religie en agressie. Religieuze beleving, verkondiging, verdediging steunden bijna vanzelfsprekend op een constructie van geweld, intellectueel en verbaal geweld, militair en bloedig geweld. De monniken van Tibhirine hebben die deconstructie ervan intellectueel, spiritueel en religieus voltrokken.  <a name="CON"></a>
 
-### <font color="#808000">**Context**</font>
+## <font color="#808000">**Context**</font>
 
 De film werpt een bijzonder licht op een gebeuren dat misschien in 1996 als anekdotisch en plaatselijk werd gezien, maar dat vanuit een hedendaags wereldperspectief **profetisch** mag worden genoemd. Dat is het gepaste label voor het levenswerk, bezegeld met hun gewelddadige dood, van de Tibhirine-monniken. De gedachtenis die **Des hommes et des dieux** realiseert, vindt haar **profetische** dimensie met een anker in **de hedendaagse geschiedenis**. In 1996 kon nog niemand vermoeden wat er op **11 september 2001** zich in Manhattan zou voordoen. Toen de Twin Towers neerstortten, vond de geschiedenis even geen adem meer. Al Qaida, het brein achter het terroristische **moslimfundamentalisme**, triomfeerde. Een nieuwe periode van religieus fanatisme en martelaarschap was begonnen. Nochtans vormt de geslaagde aanslag op de twee torens van Manhattan retrospectief gezien het dramatische hoogtepunt van een ontwikkeling die de monniken van Tibhirine vanaf de eerste rij hebben meegemaakt. Zij ervoeren als eerste westerlingen **het proces van radicalisering** dat zich binnen de moslimwereld aan het voltrekken was en dat tevens gepaard ging met een hevige antiwesterse haatcampagne. De ontwikkelingen in Algerije waren representatief voor een brede stroming binnen de moslimlanden. De monniken wilden met hun werk en hun leven getuigen dat wat zou komen **niet de enige en ook niet de juiste oplossing zou zijn voor het mondiaal samenleven van culturen en religies**.
 
 <a name="FIL"></a>
 
-### <font color="#808000">**Filmfiche**</font>
+## <font color="#808000">**Filmfiche**</font>
 
 Frankrijk / 2010 / 122' / **regie**: Xavier Beauvois / **productie**: Pascal Caucheteux, Etienne Comar / **scenario** : Xavier Beauvois, Etienne Comar / **fotografie**: Caroline Champetier / **montage**: Marie-Julie Maille /  **productie designer**: Michel Barthélémy / **vertolking**: Lambert Wilson (Christian), Michael Lonsdale (Luc), Olivier Rabourdin (Christophe), Philippe Laudenbach (Célestin), Jacques Herlin (Amédée), Loïc Pichon  (Jean-Pierre) Michel (Xavier Maly), Farid Larbi (Ali Fayattia).
 
 <a name="LIN"></a>
 
-### <font color="#808000">**Links**</font>
+## <font color="#808000">**Links**</font>
 
 Sylvain De Bleeckere schreef **een uitgebreid essay over de historische bronnen** van het docudrama, **de eigen verstilde cinematografie** en **de thematische verdieping van de betekeniswereld** die zowel handelt over **de postmoderne interpretatie van het monnikenwezen** als over **het pacifisme en de religies in gespannen relatie tussen het christendom en de islam**. Het essay verscheen als het derde, uitgebreide deel van **Men(S)tis’ Studies # 1**. [Voor meer](../blog/index.html).
 

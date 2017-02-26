@@ -3,19 +3,19 @@
 </center>
 <a name="KLA"></a>
 
-### <font color="#808000">**Klapbord**</font>
+## <font color="#808000">**Klapbord**</font>
 
 Helemaal in de traditie van de Europese auteursfilm zet **de jonge Vlaamse regisseur Gust Van den Berghe** film in als een volwaardig artistiek medium waarvan hij al de middelen en mogelijkheden verkent om zijn eigen visie op mens en wereld uit te beelden. Dat blijkt uit zijn debuutfilm _En waar de sterre bleef stille staan_ (2010). Het is zijn **afstudeerfilm** aan de Brusselse filmschool, het RITS, waarmee hij meteen **de selectie haalde van het prestigieuze Quainzaine des Réalisateurs** van het filmfestival Cannes 2010\. In 2011 ontving hij **de Vlaamse Cultuurprijs voor Film voor 2010-2011**. Gust Van den Berghe heeft zijn eigenzinnige debuutfilm kunnen realiseren dankzij de creativiteit en de durf van het **Vlaamse productiehuis _Minds Meet_**. De film van Gust Van de Berghe is **een originele, filmische gedachtenis aan het oerchristelijke geboorteverhaal**. Daarbij heeft hij zich direct laten inspireren door de Vlaamse auteur **Felix Timmermans** (1886-1947). Het werk van de Lierenaar maakt deel uit van het Rijke Roomse leven in Vlaanderen dat zijn bloei kende in het interbellum en uitliep tot in de jaren vijftig van de vorige eeuw.
 
 <a name="SYN"></a>
 
-### <font color="#808000">**Synopsis**</font>
+## <font color="#808000">**Synopsis**</font>
 
 **Suskewiet, Pitje Vogel** en **Schrobberbeeck** zijn **drie vrienden in een Kempisch dorp**. Het zijn **marginale** figuren die jaarlijks in de kersttijd **Driekoningen** gaan zingen. Hun **bedeltocht** krijgt een ongewone wending  in het jaar dat ze verdwalen en getuigen worden van **een wonderlijke geboorte in een woonwagen**. Suskewiet gelooft achteraf dat ze de geboorte van het Kindje Jezus hebben aanschouwd, zijn kompanen twijfelen. Maar het gebeuren grijpt hen zo aan dat ze alles wat ze bijeen hebben gebedeld en gezongen aan het arme gezin schenken. Dat is het verhaal van **de eerste Kerstmis**. Er volgt nog een tweede en een derde. In de tweede valt Suskewiet af. Hij is ziek en sterft, begeleid door het Kindje Jezus dat hem verschijnt. In de derde valt Pitje Vogel af nadat hij zijn ziel aan de duivel heeft verkocht en sterft. Schrobberbeek is de enig overlevende die met de ster Driekoningen gaat zingen. Hij kan niet vermoeden welke wonderlijke gebeurtenis zijn pad nog zal kruisen.
 
 <a name="CIN"></a>
 
-### <font color="#808000">**Cinematografie**</font>
+## <font color="#808000">**Cinematografie**</font>
 
 <span class="menstis">FILMISCHE BEWERKING</span>. De Vlaamse filmtitel is dezelfde als **het mirakelspel van Timmermans**: _En waar de sterre bleef stille staan_. Het scenario van de film is gebaseerd op **een eigen bewerking** van het gelijknamige theaterstuk van Felix Timmermans. De authenticiteit van Van den Berghes driekoningenfilm bestaat inderdaad uit de originele manier waarop hij **trouw** blijft aan **de geest van Timmermans’ werk** en uit de wijze waarop hij die trouw weet te verbinden met **de eisen van de auteursfilm.** Van den Berghe transponeert het theaterstuk naar het eigen medium van de cinematografie. Zijn film is namelijk alles behalve verfilmd theater.
 
@@ -27,7 +27,7 @@ Helemaal in de traditie van de Europese auteursfilm zet **de jonge Vlaamse regis
 
 <a name="BET"></a>
 
-### <font color="#808000">**Betekenisruimte**</font>
+## <font color="#808000">**Betekenisruimte**</font>
 
 <span class="menstis">EIGENTIJDS MYSTERIESPEL</span>. Zijn filmische interpretatie, materieel gelimiteerd door beperkte financiële middelen, haalt **de spirituele en religieuze diepgang van Timmermans’ toneelstuk** naar de oppervlakte. Bij Timmermans zit die diepgang verscholen onder de oppervlakte van de volkse theateruitvoering. In de filmische voorstelling blijft die theaterenscenering achterwege. De kostumering is beperkt tot een minimum, het winterlandschap vormt het voornaamste decor. **De drie hoofdpersonages** komen centraal te staan. De cineast brengt hen op het voorplan. Hij vertrekt daarbij van de basisgegevens die Timmermans zelf aanreikt en bouwt daarop voort. Gust Van den Berghe gebruikt creatief al de filmische middelen die hij heeft om de drie personages als **een eenheid in verscheidenheid** uit te werken. Die eenheid betreft het hoofdthema: **de betekenis van het religieuze geloven eigen aan de mens**. Dat religieuze geloven betreft het christelijke getuigenis van Gods Geboorte als mens onder de mensen, het mysterie dat de kern vormt van **de gedachtenis eigen aan het feest van Kerstmis**. Die betekenis is niet neutraal. Ze raakt de persoon van de mens. Zijn gedachten, zijn gevoelens, zijn plannen, zijn voornemens, zijn beslissingen, zijn handel en wandel.
 
@@ -35,19 +35,19 @@ Helemaal in de traditie van de Europese auteursfilm zet **de jonge Vlaamse regis
 
 <a name="CON"></a>
 
-### <font color="#808000">**Context**</font>
+## <font color="#808000">**Context**</font>
 
 Met de filmische bewerking van Gust Van den Berghe **krijgt** **het theaterstuk van Timmermans een nieuw leven**. De jonge cineast vindt in Felix Timmermans zijn zielsverwant. Zijn film En waar de sterre bleef stille staan vormt **een gedachtenis aan het werk van Timmermans en via Timmermans aan die ontelbare dorpsmensen in Vlaanderen die in de zaal en op de scène het kerstspel hebben beleefd**. Samen met de Nederlandse toneel- en romanauteur Eduard Veterman bewerkte de Lierenaar namelijk zijn novelle Driekoningentryptiek tot het theaterstuk En waar de sterre bleef stille staan. Het kerstspel ging in première op 5 februari 1925 in het Nederlandse ’s-Gravenhage (Den Haag). Het stuk kreeg in Nederland een goede pers, maar vond vooral bij het publiek grote bijval. Dat was nog meer het geval in Vlaanderen waar het in de kleinste parochiezaal is vertoond en door ieder **Vlaams volkstheatergezelschap** op het repertoire is gezet. In **de postmoderne traditie van de religieuze en spirituele cinematografie van auteurs als Tarkovski en Pasolini**, is _En waar de sterre bleef stille staan_ **een bij momenten geniale en uiterst originele gedachtenis van het geloven**. De hele film beweegt op het ritme van hemel en aarde. Daarbij speelt **de gedachtenis van het christelijke geloven** een inspirerende rol. Gedachtenis is bij uitstek verbonden met verbeelding die zich ent op een oorspronkelijkheid in de tijd. Welnu, het christendom vertrekt van het oorspronkelijke geloven dat de hemel naar de aarde komt. Dat is **de kern van de kerstmisviering** die _En waar de sterre bleef stille staan_ structureert.
 
 <a name="FIL"></a>
 
-### <font color="#808000">**Filmfiche**</font>
+## <font color="#808000">**Filmfiche**</font>
 
 België / 2010 / 73' / **regie**: Gust Van den Berghe / **productie**: Thomas Leyers voor Minds Meed / **scenario** : Gust Van den Berghe naar toneelstuk van Felix Timmermans / **fotografie**: Hans Bruch Jr./ **montage**: David Verdurme / **vertolking**: Peter Janssens (Schrobberbeeck), Paul Mertens (Pitje Vogel), Jelle Palmaerts ( Suskewiet).
 
 <a name="LIN"></a>
 
-### <font color="#808000">**Links**</font>
+## <font color="#808000">**Links**</font>
 
 Sylvain De Bleeckere schreef **een uitgebreid essay** over de achtergrond van de film in **relatie tot het werk van Timmermans**, **een cinematografische analyse van beeld, klank en structuur** en **een thematische verdieping van de betekeniswereld**. Het essay verscheen als het eerste, uitgebreide deel van **Men(S)tis’ Studies # 1**. Zie voor een presentatie. [Voor meer](../blog/index.html).
 

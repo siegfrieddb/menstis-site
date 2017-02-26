@@ -5,19 +5,19 @@
 
 <a name="KLA"></a>
 
-### <font color="#808000">**Klapbord**</font>
+## <font color="#808000">**Klapbord**</font>
 
 Met zijn film _Dolls_ bereikt de Japanse regisseur **Kitano Takeshi** een esthetisch hoogtepunt in zijn zeer persoonlijk werk. In de loop van de jaren negentig heeft hij _een eigen oeuvre_ geschapen waarmee hij is uitgegroeid tot een nieuwe grootmeester van **de Japanse cinema**. In _Dolls_ verwerkt hij op een originele manier de oude Japanse en tevens unieke traditie van **het bunraku-marionnettentheater**.
 
 <a name="SYN"></a>
 
-### <font color="#808000">**Synopsis**</font>
+## <font color="#808000">**Synopsis**</font>
 
 De film opent met beelden uit een opvoering van het bunraku-stuk _Meido no Hikyaku_ (Boodschapper voor de onderwereld). Van de opvoering door het Tokio National Theater krijgen we zowel **de uitvoerders als de toeschouwers** te zien. De twee marionetten, Chunei en Umegawa, beheersen de sc�ne. Omdat hun liefde voor elkaar maatschappelijk niet wordt aanvaard, beslissen ze samen te vluchten. Uit dit tafereel ontstaat **het filmische hoofdverhaal** dat zich in het heden afspeelt. Om elkaar niet te verliezen zijn **Matsumoto en Sawaka** aan elkaar vastgebonden. Voorbijgangers herkennen hen als **"de gebonden bedelaars"**. De jongen en het meisje houden erg veel van elkaar. Onder druk van zijn ouders verlaat Matsumoto zijn geliefde Sawaka en huwt de dochter van zijn baas. Op zijn **trouwdag** verneemt hij dat de treurende Sawaka bij **een mislukte zelfdoding** haar herinneringsvermogen is verloren. Zonder aarzelen verlaat Matsumoto het trouwfeest en haalt Sawaka weg uit de psychiatrische instelling. Zij herkent hem niet. Aan elkaar vastgeknoopt met een rode, dikke koord **dwalen ze zwijgzaam langs de wegen** om in het decor van een winters en besneeuwd berglandschap, **samen te sterven**, boven de afgrond hangend aan de tak van een boom. Het verhaal van Matsumoto en Sawaka is verweven met **twee nevenverhalen**. Dat van **Hiro**, de oude yakuza, die na dertig jaar zijn jeugdliefde **Ryoko** opzoekt. Al die tijd heeft de jonge vrouw iedere zaterdag op een bank in het park tevergeefs gewacht op haar verloofde die zich niet aan zijn woord van terugkeer heeft gehouden. Het tweede liefdeverhaal is dat van de jonge popster **Haruna** en haar fan **Nukui**. Na een ongeval met de auto trekt de zangeres zich terug uit het openbaar leven. Ze wil niet dat iemand die haar als populaire zangeres heeft gekend, haar geschonden gelaat ziet. Om zijn idool toch te kunnen benaderen, verminkt Nukui zich aan de ogen. De blinde Nukui slaagt erin de gekwetste Haruna ontmoeten.
 
 <a name="CIN"></a>
 
-### <font color="#808000">**Cinematografie**</font>
+## <font color="#808000">**Cinematografie**</font>
 
 <span class="menstis">Bunraku</span>. Het bijzondere perspectief is een van de bijzondere aspecten van de rijke cinematografie die _Dolls_ kenmerkt. Twee stilistische beslissingen dragen **de visuele po�zie van de sublieme esthetische visie** van Kitano. Allebei komen ze voort uit **het bunrakutheater**. Er is vooreerst **de structurele inclusie**. De film opent en eindigt met fragmenten uit de bunraku-voorstelling. Vooral het tafereel met de vluchtende Chunei en Umegawa werkt door de montage als **een spiegel** voor het verhaal van Matsumoto en Sawaka. Naast de structurele inclusie is er **de meesterlijke inversie van het blikveld**. Die inversie voltrekt zich in **de tweeledige proloog**. Eerst is er **de introductie van de theatervoorstelling zelf** met beelden van de sc�ne met de marionettenspelers, het decor, de poppen en met beelden van de toeschouwers in de zaal. Gescheiden van het eerste deel door een zwart beeld, volgt het tweede proloogstuk. Op een volledig zwarte achtergrond verschijnen nu de **twee marionetten Chunei en Umegawa als zelfstandige personages**. Ze kijken zwijgend naar de camera die inzoomt. Kitano maakt in die beweging de overgang naar het eerste beeld van de twee zwervende hoofdpersonages Matsumoto en Sawaka. Dat betekent dat hij het verhaal in sc�ne zet **vanuit het perspectief van de marionetten**. Niet de marionetten treden op voor de toeschouwers, maar de menselijke personages komen voort uit **de schouwende blik van de marionetten**. Met andere woorden, **de omkering van het perspectief**. De film sluit af met het beeld van de twee schouwende marionetten.
 
@@ -27,7 +27,7 @@ De film opent met beelden uit een opvoering van het bunraku-stuk _Meido no Hikya
 
 <span class="menstis">Het zwijgen</span>. Op dramatisch vlak tast Kitano de grenzen af van **de stilte en het zwijgen**. Het ritme van de film is inderdaad **oosters traag en mediterend diep**. Voor de geconditioneerde vluchtige blik van de westerse toeschouwer oogt _Dolls_ bijna ondraaglijk traag. En toch is d�t een eenzijdige indruk, want door **de kleurrijke afwisseling** in kostuums en seizoenen, door **de montage** van de drie verhalen, door de talrijke **flashbacks**, flitsen van herinneringsbeelden, kent de film op spiritueel vlak zo een intense diepgang dat iedere actiesc�ne � la Hollywood erbij verbleekt. Het cinematografische wonder dat Kitano hier realiseert, bestaat erin dat hij op geen enkel ogenblik angst heeft voor **de stille, zwijgende blik van de personages**. Tijdesn hun tocht spreken Matsumoto en Sawaka niet met elkaar en toch zijn ze onlosmakelijk met elkaar verbonden. De afwisseling van **close-ups** van hun blikken die boekdelen spreken en van **panoramische beelden** van hun tocht door het landschap, wekt **een dramatische spankracht** in het gemoed van de onthaaste toeschouwer.<a name="BET"></a>
 
-### <font color="#808000">**Betekenisruimte**</font>
+## <font color="#808000">**Betekenisruimte**</font>
 
 <span class="menstis">Offerbeeld</span>. Een eerste gegeven van de eigen betekenisruimte van _Dolls_ ligt in **de tragiek**. Kitano spreekt in naam van **de Japanse cultuur** wanneer hij in een interview (Positif nr. 506) naar aanleiding van zijn film opmerkt dat de gekende zin 'en ze leefden nog lang en gelukkig' niet in de Japanse woordenschat voorkomt. En hij verduidelijkt: _"Wanneer je over liefde spreekt in een Japanse context, dan is er een onvermijdelijk element van zelfoffering bij."_ Matsumoto kiest consequent voor Sawaka, terwijl Sawaka zich in de zelfdoding offert in naam van **de liefde** die haar en Matsumoto bindt. Ook in de andere, twee verhalen verstrengelen **liefde en offer** zich. Dergelijk beeld overheerst in het traditionele Japanse theater. Via de populaire bunrakustukken is het gegeven van **twee geliefden** die hun unieke liefde bezegelen in **een gemeenschappelijke zelfdoding** een vertrouwde voorstelling geworden. In een meer consumptiegerichte visie is **een dergelijk, spiritueel offerbeeld van de liefde** zonder meer onvoorstelbaar geworden.
 
@@ -35,7 +35,7 @@ De film opent met beelden uit een opvoering van het bunraku-stuk _Meido no Hikya
 
 <a name="CON"></a>
 
-### <font color="#808000">**Context**</font>
+## <font color="#808000">**Context**</font>
 
 Met zijn film _Dolls_ brengt Kitano de toeschouwer in contact met **een belangrijke traditie uit het Japanse theater**. Het stuk dat hij in de film citeert, is van Japans grootste toneelauteur ooit, **Chikamatsu Monzaemon** (1653-1724). Hij is **de Shakespeare van de Japanse toneelliteratuur**. Maar Kitano doet nog meer. Hij huldigt **de hedendaagse vertolkers** van deze moeilijke, maar uiterst verheven kunst van de bunraku. In de openingssequenties die de proloog vormen, brengt hij deze uitvoerders in beeld. Hiermee brengt hij ook een hulde aan **zijn vader en grootmoeder**. Beiden waren ze meesters in de Japanse toneel- en danswereld. Zijn vader was meester in de traditionele Japanse danskunst en zijn grootmoeder bespeelde de traditionele muziekinstrumenten die onder andere in de bunraku worden gebruikt. Met _Dolls_ houdt Kitano bij zijn jongerenpubliek een pleidooi om **de erfenis van deze traditionle kunst** niet verloren te laten gaan, maar ze op te nemen en zelf weer door te geven. In het huidige consumptieparadijs Japan worstelen **de veeleisende traditionele kunsten** immers met een tekort aan jonge mensen die het geduld en de wil tonen om zich te laten inwijden in die eeuwenoude en betekenisrijke theaterkunst. Met zijn film laat Kitano zien dat deze kunst iets heeft te zeggen aan jonge mensen van nu.
 
@@ -43,13 +43,13 @@ Kitano laat met _Dolls_ zien hoe **de jonge traditie van de filmkunst** een **me
 
 <a name="FIL"></a>
 
-### <font color="#808000">**Filmfiche**</font>
+## <font color="#808000">**Filmfiche**</font>
 
 Japan / 2002 / 113' / **regie, scenario, montage**: Kitano Takeshi / **productie**: Masayuki Mori, Takio Yoshida / **camera**: Katsumi Yanagijima / **muziek**: Joe Hisaishi / **vertolking**: Miko Kanno (Sawaka), Hidetoshi Nishijima (Matsumoto), Tatsuya Mihashi (Hiro), Kyoko Fukada (Haruna), Chieko Matsubara (Ryoko), Tsutomu Takeshige (Nukui).
 
 <a name="LIN"></a>
 
-### <font color="#808000">**Links**</font>
+## <font color="#808000">**Links**</font>
 
 De Bleeckere, S., Claessens, S., _Dolls_, in CineMagie nr. 245 (winter 2003), p. 31-38.
 

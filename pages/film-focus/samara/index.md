@@ -5,7 +5,7 @@
 
 <a name="KLA"></a>
 
-### <font color="#808000">**Klapbord**</font>
+## <font color="#808000">**Klapbord**</font>
 
 Slechts enkele kleine en alternatieve bioscopen durfden het in Vlaanderen aan om de film **Samsara** te programmeren. De film kreeg aldus een kleine kans om een publiek te vinden. Een van die bioscopen prees de film aan met het volgende statement: "Een jonge boeddhistische monnik raakt volledig in de ban van een beeldschone vrouw. Hun stomende vrijsc�nes zorgen er uiteindelijk voor dat zijn nirvana eerder overhoop wordt gehaald."
 
@@ -13,13 +13,13 @@ Deze **beschamende nonsense** doet de film onrecht aan. De presentatie haalt nie
 
 <a name="SYN"></a>
 
-### <font color="#808000">**Synopsis**</font>
+## <font color="#808000">**Synopsis**</font>
 
 **Tashi** groeit op als een boeddhistische lama in het schilderachtige berglandschap van het Indische **Ladakh**. Hij gaat helemaal op in zijn opleiding. Via een strenge discipline en volgehouden studie wil hij de spirituele verlichting bereiken. De oudere **Apo** en de jongere **Sonam** omringen en steunen hem. Op zeker ogenblik beslist **Tashi** drie jaar, drie maanden en drie dagen in afzondering te gaan leven. Heel zijn bestaan staat nu in het teken van meditatie en yoga. Hij bereikt het punt van het **nirvana**. Met dat punt begint de film. **Apo en Sonam** brengen **Tashi** uit zijn nirvanabeleving terug naar het klooster. In boeddhistische termen betekent die terugkeer het opnieuw intreden in het **samsara**: de kringloop van dood en wedergeboorte. **Tashi** herstelt fysisch en neemt terug deel aan het kloosterleven. Toch ervaart hij bij zichzelf enige veranderingen. Het beeld van een jonge moeder die haar baby voedt, dringt diep in zijn geest binnen. Hij krijgt seksuele dromen en wordt onrustig. Tijdens een oogstfeest ontmoet hij **Pema**, de huwbare dochter van een plaatselijke graanboer. Na zijn inwijding in het tantrisme door een asceet, beslist **Tashi** het klooster te verlaten. Hij treedt binnen in de wereld van het **samsara**. Hij huwt **Pema**, ze krijgen een jongen **Karma**. **Tashi** maakt zijn schoonvader economisch onafhankelijk van de lokale graanhandelaar, **Dawa**. Voorts komt hij in conflict met **Jamayang**, de jonge man uit het dorp aan wie **Pema** eerder was toegewezen. **Tashi** ondergaat ook de verleidende kracht van de jonge seizoenarbeidster **Sujata**. Maar nog meer ontdekt **Tashi** de eigen wijsheid van **Pema** zelf. Op zekere dag beslist hij uit de wereld van **samsara** te stappen en terug te keren naar het klooster. Op zijn weg komt hij echter **Pema** tegen die hem confronteert met zijn verantwoordelijkheid tegenover haar en hun kind. Die confrontatie werpt **Tashi** letterlijk op de aarde: hij huilt en kijkt naar de hemel boven hem.
 
 <a name="CIN"></a>
 
-### <font color="#808000">**Cinematografie**</font>
+## <font color="#808000">**Cinematografie**</font>
 
 <span class="menstis">**AUTODIDACT**</span>**. Regisseur Nalin Pan** schreef samen met Tim Baker **het scenario** naar een eigen verhaal van Nalin. Met _Samsara_ levert Nalin zijn **eerste langspeelfilm** af. Gezien het resultaat is dat een enorme verdienste. Als cineast is hij een **autodidact** die in 1992 een eerste kortfilm draaide, _Khajuraho_. Zijn spirituele Ayurveda-opvoeding thuis, zijn talrijke trektochten doorheen India en Europa, zijn werkervaring in Bollywood te Bombay, zijn filmclub waar hij retrospectieves organiseerde van het werk van **Tarkovski**, Goddard, Kurosawa, Eisenstein en Bunuel, zijn spirituele leerschool in de Himalayastreek, dat alles mondde in 2001 uit in **twee belangrijke internationale films**: de fictiefilm _Samsara_ en de lange documentaire film _Ayurveda: Art of Being_.
 
@@ -31,13 +31,13 @@ Deze **beschamende nonsense** doet de film onrecht aan. De presentatie haalt nie
 
 <a name="BET"></a>
 
-### <font color="#808000">**Betekenisruimte**</font>
+## <font color="#808000">**Betekenisruimte**</font>
 
 De zenematografie van _Samasara_ schildert via het portret van het hoofdpersonage lama Tashi een **boeiende en inspirerende betekeniswereld**. De film blijft **niet** steken in een documentair exotisme. De personages krijgen een eigenheid die past binnen de ontwikkeling van **een beeldend uitgewerkt, spiritueel drama**. In de kern van dat drama ontwikkelt Nalin Pan **een eigen origineel denken** dat zijn diepe wortels heeft in **de religieuze en spirituele tradities van het Oosten**, zowel van de Indische als de Chinese culturen, alsook in **de religieuze en spirituele traditie van de Europese auteurscinema van auteurs als Tarkovski, Bunuel en Godard**. Wat deze Europese cineasten doen met de Europese, christelijke tradities, realiseert Nalin Pan ten aanzien van de overgeleverde oosterse tradities van vooral het Mahayana boeddhisme en het hindoe�stische tantrisme. Hieruit blijkt dat **in de spirituele midden van het cinematografische beeld** de westerse en oosterse culturen een gemeenschappelijke ontmoetingsruimte vinden. Nalin Pans **beeldende interpretatie van 'samsara'**, bevindt zich zeer dicht bij **Tarkovski's verbeelding van de heilige waarde van 'het leven'**. Nalin Pan evoceert dat er in wezen **geen scheiding** dient te bestaan tussen spirituele waarden en het concrete leven van de mens. In bepaalde boeddhistische interpretaties begint spiritualiteit wanneer iemand **de kringloop van dood en wedergeboorte** verlaat. Nalin Pan brengt het drama in beeld waarbij de boeddhistische monnik Tashi **de omgekeerde weg** aflegt: van het bijna-nirvana punt, eigen aan het streven van de monnik, naar het punt van samsara, eigen aan het leven dat mensen iedere dag ervaren en waaraan ze een zin geven...met vallen en opstaan.
 
 <a name="CON"></a>
 
-### <font color="#808000">**Context**</font>
+## <font color="#808000">**Context**</font>
 
 Nalin Pans film is **de eerste langspeelfilm** die volledig is opgenomen in **Ladakh**. Het gebied bevindt zich in Noord-Indi�. Het wordt omzoomd door **de bergketens van de Grote Himalaya en de Karakoram**. Een deel behoort tot de Indische provincie **Jamnu**, een ander deel tot de Indische provincie **Kasmir**. Het bevindt zich dus in het gebied waar **Indi� en Pakistan** elkaar diplomatiek en militair bestrijden. Het gebied is zowel historisch als geografisch erg ongewoon voor Indi�. Het wordt trouwens ook **'Klein Tibet'** genoemd. Gezien de grote onderdrukking van de Chinese Tibetaanse cultuur wint **het ongeschonden Tibetaanse Ladakh** aan belang. Alleen het gevaarlijke westerse, cultuur- en sporttoerisme kan op termijn een bedreiging vormen. Ook dat aspect haalt Nalin Pan aan in _Samsara_.
 
@@ -45,13 +45,13 @@ De **productie** is gedragen door de **Duitse Pandora Film**, gesticht in 1981 e
 
 <a name="FIL"></a>
 
-### <font color="#808000">**Filmfiche**</font>
+## <font color="#808000">**Filmfiche**</font>
 
 Duitsland / 2001 / 138' / **regie**: Nalin Pan / **productie**: Karl Baumgartner, Christoph Friedel / **scenario**: Nalin Pan, Tim Baker / **fotografie**: Christo Bakalov / **montage**: Isabel Meier / **muziek**: Cyril Morin / **productie designer**: Amardeep Behl / **vertolking**: Shawn Ku (Tashi), Christy Chung (Pema), Neelesha Bavora (Sujata), Sherab Sangey (Apo), Jamayang Jinpa (Sonam), Kelsang Tashi (Jamayang), Lhakpa Tsering (Dawa)
 
 <a name="LIN"></a>
 
-### <font color="#808000">**Links**</font>
+## <font color="#808000">**Links**</font>
 
 Geen
 

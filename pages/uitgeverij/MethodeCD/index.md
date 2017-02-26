@@ -2,7 +2,6 @@
 title: Methode CD
 ---
 
-### Methode CD
 
 ![cdfront](./cdfront.jpg)
 

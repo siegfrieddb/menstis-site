@@ -3,7 +3,7 @@ title: Het aards paradijs als zinnebeeld
 SoldOut : true
 ---
 
-### Het aards paradijs als zinnebeeld - Men(S)tis' Studies # 2
+
 
 ![AP titelpaginal](./AP%20titepaginal.jpg)
 

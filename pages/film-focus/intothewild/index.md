@@ -5,19 +5,19 @@
 
 <a name="KLA"></a>
 
-### <font color="#808000">**Klapbord**</font>
+## <font color="#808000">**Klapbord**</font>
 
 De film is **een onafhankelijke Amerikaanse** River Road **productie**. De regie is van de acteur en regisseur **Sean Penn**. Het is de vierde speelfilm van de eigenzinnige Sean Penn waarin hij telkens reflecteert over vervreemding en verlies:_The Indian Runner, The Crossing Guard, The Pledge_.  Met _Into the Wild_ verdiept hij zich in **het ware verhaal** van de 22-jarige drop-out Chris McCandless. De film is gebaseerd op **het gelijknamige non-fictie boek** (1996) van Jon Krakauer over de lotgevallen van Chris McCandless (1968-1992).
 
 <a name="SYN"></a>
 
-### <font color="#808000">**Synopsis**</font>
+## <font color="#808000">**Synopsis**</font>
 
 **Chris McCandless** wordt in **1968** geboren bij zijn ouders Walt McCandless en Wilhelmina ‘Billie” Johnson. Het gezin zit er warmpjes in. De ouders leiden in Annandale, Virginia een bloeiend consulting bedrijf. Tussen beide partners heersen er echter voortdurende emotionele spanningen die leiden tot openlijke conflicten. Het huwelijk balanceert voortdurend op de slappe koord van de echtscheiding. Chris is **een idealist** die ook intens fysiek traint. Hij beleeft bijvoorbeeld lopen als een spirituele oefening en zoekt leden voor een cross-country team. Lopen op uithouding is voor hem “running against the forces of darkness ... all the evil in the world, all the hatred.” Hij studeert succesvol af aan de W.T.Woodson High School in 1986 en aan de Emory University van Atlanta, Georgia in 1990 met als majors geschiedenis en antropologie. Na die alweer succesrijke studieperiode beslist hij als 20-er zijn gegoede familie, zijn diploma en toekomstige carri�re in Virginia **achter te laten en westwaarts te trekken**. Chris verbrandt zijn spaarcenten, rijdt zijn wagen vast en trekt liftend door het land. Hij ontmoet een hippiepaar, een boer, toeristen, een jong meisje en een weduwnaar maar bewaart afstand. Hij verandert zijn naam in ‘Alexander Supertramp’ en is cultureel en spiritueel goed voorbereid, maar tegenover bepaalde uitdagingen van de natuur blijkt dat hij toch niet goed te zijn uitgerust, wat hij ervaart tijdens een kanotocht of een verblijf tussen daklozen in LA. Zijn ervaringen onderweg sturen hem richting **Alaska**. Ongerepte natuur en zowat het laatste nog resterende gebied voor wie ‘weg’ wil uit de beschaving. Maar Chris is opnieuw onvoorbereid. Slechts giften (laarzen, warme kleren, mes) en een beschavingsrestant (een verlaten ‘magische bus’) leveren bescherming in wat snel **een ongelijke overlevingsstrijd** wordt. In **1992** sterft Chris door totale verzwakking en voedselvergiftiging.
 
 <a name="CIN"></a>
 
-### <font color="#808000">**Cinematografie**</font>
+## <font color="#808000">**Cinematografie**</font>
 
 Bij het openingsbeeld geeft Penn aan dat **woorden** tellen. Ze zijn van belang. Hij opent met een zwart beeld met daarop de verzen van Lord Byron, die ook voor Chris een inspiratiebron waren:
 
@@ -39,7 +39,7 @@ De film is gestructureerd als een **veelzijdige flashback**. Die komt voort uit 
 
 <a name="BET"></a>
 
-### <font color="#808000">**Betekenisruimte**</font>
+## <font color="#808000">**Betekenisruimte**</font>
 
 _Into the Wild_ handelt over **een reis naar spirituele volwassenheid**. Dat blijk uit de titels van de hoofdstukken die Penn aanbrengt in de film: ze heten ‘geboorte, ‘adolescentie’ en ‘het bereiken van wijsheid’. Vanuit die spirituele basis van het portret tekent Penn de jonge volwassen Chris als iemand die zich tijdens zijn tocht tussen de mensen beweegt als **een Jezusfiguur**. Dat gebeurt subtiel maar daarom niet minder diepgaand. Helemaal in de biografische lijn van de echte Chris — toevallig verwijst zijn voornaam naar Christus — laat Penn, in de flashbacks van de tocht, zien hoe Chris bij de mensen die hij ontmoet **goedheid en menslievendheid** oproept. Hij heeft in zich een bewuste ethische zuiverheid ontwikkeld, mede ge�nspireerd door **een christelijke auteur als Leon Tolstoi**.
 
@@ -47,19 +47,19 @@ De film brengt met sympathie en maar ook met een groot mededogen een hedendaagse
 
 <a name="CON"></a>
 
-### <font color="#808000">**Context**</font>
+## <font color="#808000">**Context**</font>
 
 Sean Penn wil meer dan enkel de biografie van een zonderling geval, Chris McCandless, in beeld brengen. In zijn optiek is dit ook **de biografie van een jonge generatie**. Penn wil het portret filmen van een opgroeiende generatie in de jaren negentig van vorige eeuw en in het eerste decennium van de twintigste eeuw. Een generatie die ontevreden is met de vooral morele gang van zaken in de westerse wereld in het algemeen en de Verenigde Staten in het bijzonder. In zijn ‘onafhankelijkheidsverklaring’ spreekt Chris over **‘een spirituele revolutie’**. Sean Penn idealiseert het hoofdpersonage niet; hij oordeelt of veroordeelt niet. Hij laat de jonge man zoveel mogelijk zelf aan het woord, maar laat ook zijn ouders en zijn zus zien die hem missen. Penn laat ook zien dat Chris de natuur zelf overschat. Hij kent er te weinig van en dat gebrek aan kennis wordt zijn dood. Penn toont vooral **respect voor het avontuur van Chris** en het meest van al voor zijn spirituele motieven. Hiermee wil hij aantonen dat **niet alle** westerse jongeren zich laten meesleuren door de materi�le golfstroom van rijkdom en consumptie. Die golfstroom is verbonden met de politiek van het neoliberalisme, vooral het waarmerk van de drie presidentschappen van de Bush-familie. Via een foto van het eerste presidentschap, dat van George H.W. Bush (1989-1993), verwijst Penn daar expliciet naar zonder ook maar op ��n moment een politiek statement te willen maken. 
 
 <a name="FIL"></a>
 
-### <font color="#808000">**Filmfiche**</font>
+## <font color="#808000">**Filmfiche**</font>
 
 USA / 2007 / 148’ / regie: Sean Penn / scenario:  Sean Penn , Jon Krakauer / productieleider: Sean Penn, David Blocker, e.a. / fotografie: Eric Gautier / montage: Jay Cassidy / productiedesign: Derek R. Hill / muziek: Michael Brook, Eddie Vedder / geluid: Christopher Barnett / kostuum: Mary Claire Hannan / personages: Chris McCandless (Emile Hirsch), Billie McCandless (Marcia Gay Harden), Walt McCandless (William Hurt), Rainey (Brian H. Dierker), Jan Burres (Catherine Keener), Wayne Westenberg (Vince Vaughn), e.a.
 
 <a name="LIN"></a>
 
-### <font color="#808000">**Links**</font>
+## <font color="#808000">**Links**</font>
 
 *   In _Leren Leven Met Beelden_ nr. 15 (2009) verscheen er een voorstelling van de film.
 *   De offici�le website: [http://www.intothewild.com](http://www.intothewild.com)

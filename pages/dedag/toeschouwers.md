@@ -10,9 +10,9 @@ title: Toeschouwers
 _Erik Aerts_
 
 Het was indrukwekkend, de drie films van de 24ste editie (_The Mill and the Cross, Vision, The Book Thief_). Ik kan alleen maar verwijzen naar _Levensbeschouwing democratisch belicht_: 'de praxis van het contemplatievermogen'; dat inzien is het buitengewone zien (p. 83-84). Beklijvende indrukken die blijven nawerken en die niet in woorden uit te drukken zijn. De inleiding heeft mij zeker geholpen om er ‘in te komen’ en om het laten ‘in te werken’.
-
-***
-
+ 
+ ***
+ 
 _Felix Rijcken_
 
 Maandag (16.02.2015) was een uitzonderlijke dag in de geschiedenis van De Dag. De inleidingen  waren subliem. Vele toeschouwers hebben stil  ‘genoten’ en dragen inspirerende beelden mee voor hunleven. Een ‘film’ kan een openbaring zijn, wat elke mens en elke tijd zo spontaan naar verlangt en ons uitnodigt naar de Goede, de Schone, de Ware Liefde. Proficiat!

@@ -4,19 +4,19 @@
 
 <a name="KLA"></a>
 
-### <font color="#808000">**Klapbord**</font>
+## <font color="#808000">**Klapbord**</font>
 
 _The Nativity Story_ is de derde film van **Catherine Hardwicke**. Zij is een architecte, maar vooral werkzaam  als Amerikaanse regisseuse en producente. Zij regisseerde tot nu vier films waaruit een bijzondere aandacht blijkt voor de leefwereld van tieners en adolescenten. De films zijn: _Thirteen_ (2003), _Lords of Dogtown_ (2005), _The Nativity Story_ (2006), _Twilight_ (2008) en _Red Riding Hood_ (2011). Er steekt in de films een **genderaspect** want op _Lords of Dogtown_ na, is de hoofdrol altijd een meisje. In _The Nativity Story_ is dat het meisje Maria, vertolkt door Keisha Castle-Hughes. De opnames gebeurden in Italië en Marokko (het Atlasgebergte). De muziek is erg belangrijk in de film en is een realisatie van Mychael Danna.
 
 <a name="SYN"></a>
 
-### <font color="#808000">**Synopsis**</font>
+## <font color="#808000">**Synopsis**</font>
 
 Het is de tijd dat koning **Herodes** met harde hand regeert over het Joodse volk van Judea met goedkeuring van de Romeinse keizer **Augustus**. Herodes heeft al 35 jaar lang alles onder controle maar is waanzinnig angstig dat iemand uit eigen midden hem van zijn troon zou stoten. Vooral de oude profetie over iemand uit de stam van David die in opdracht van God vrede en gerechtigheid voor het volk zou brengen, achtervolgt hem. Wanneer drie wijzen, **Gaspar, Melchior en Balthazar** uit het Oosten hem in Jeruzalem komen vertellen van de nakende geboorte van de Koning van de Joden te Bethlehem, beslist hij alle mannelijke kinderen van twee jaar en jonger te doden. Hij weet echter niet dat de hoogzwangere  **Maria** te Bethlehem bevallen is van Jezus, het kind dat haar via de boodschap van de engel Gabriël is voorzegd. De drie wijzen brengen eer aan het kind. **Jozef** van Judea, de man van Maria wordt in een droom gewaarschuwd. Hij vertrekt op tijd met Maria en hun kind uit Bethlehem. Ze ontkomen en bereiken veilig Egypte.
 
 <a name="CIN"></a>
 
-### <font color="#808000">**Cinematografie**</font>
+## <font color="#808000">**Cinematografie**</font>
 
 <span class="menstis">INCLUSIE</span>. De introductie met beelden van de nachtelijke sterrenhemel boven de wolken en de daaropvolgende neerwaartse beweging — van de hemel door het wolkendek heen naar de aarde —eindigt in Jeruzalem. Dan volgt de eerste reeks van sequenties in het paleis van Herodes. Daar beveelt de wrede koning **de kindermoord te Bethlehem**. Na de beelden van de soldaten die in de avond de huizen binnenvallen en de kleine jongentjes ombrengen, maakt het verhaal een terugkeer in de tijd. **Het lange middenluik** met Maria, Jozef en de drie wijzen tot en met de geboorte van het kind Jezus te Bethlehem mondt uit in de kindermoordsequenties. Die worden nu anders dan in het begin opgebouwd. Dat leert dat Hardwicke het kerstverhaal heeft willen vertellen via de verhaalstructuur van de inclusie die door toedoen van het **Marcusevangelie** een gebruikelijke verteltechniek is van de synoptische evangelies. De inclusie met de infanticide te Bethlehem komt zelf niet voor in de nieuwtestamentische geboorteverhalen. De regisseuse geeft met die inclusie een eigen en contrastrijke dimensie aan de geboorte van Jezus te Bethlehem. Een betekenisvolle, filmische lezing van het gekende Bijbelverhaal.
 
@@ -27,7 +27,7 @@ kleur en licht. **De sequenties met Herodes** en de kindermoord zijn vooral in h
 
 <a name="BET"></a>
 
-### <font color="#808000">**Betekenisruimte**</font>
+## <font color="#808000">**Betekenisruimte**</font>
 
 <span class="menstis">INCARNATIEMOTIEF</span>. _The Nativity Story_ heeft zijn eigen plaats veroverd in het subgenre ‘Jezusfilm’ van het rijke genre ‘Bijbelfilm’. De film blijft **trouw aan de gegevens van de Bijbel**. De **synoptische evangelies** vormen de concrete beeldbron. Het gegeven van de engel Gabriël werd bijvoorbeeld niet uit het scenario weggeschreven. In de openingsbeelden wordt _Jer. 23, 5-6_ geciteerd en in de slotsequenties spreekt Maria in voice-over het _Magnificat (Lc 1, 47-54)_ uit. Dit laatste hoort thuis in het tafereel van het bezoek van Maria aan Elisabeth, terwijl Hardwicke het laat horen in de slotbeelden van de vlucht naar Egypte. Als een soort synthese van de betekenis van alles wat zich heeft afgespeeld. Juist door de inclusievertelling met de kindermoord onderlijnt Hardwicke dat het mysterie van Gods aanwezigheid niet in de dood maar **de geboorte van het kind** te vinden is. Dat is wat de herders en de wijzen ontdekken, en wat Maria en Jozef van zeer nabij beleven. Daarom verwoordt Maria na de geboorte aan de herders **het credo voor een hedendaags publiek**: “Hij is geboren voor de hele mensheid. Ons allemaal is een geschenk gegeven.” De drie wijzen belijden bij een inzoom op de pasgeboren baby: “God is vlees geworden/ God made into flesh” Het christelijk **Incarnatiemotief** vormt het theologisch leiddraad van de film. In de geboortescène is er een zeer nauwe band tussen de blik van Maria en de hemelse lichtbundel van de Ster van Bethlehem. Over haar persoonlijke band met het onderwerp van _The Nativity Story_, getuigt Catherine Hardwicke het volgende:
 
@@ -39,19 +39,19 @@ _Ik groeide op in de Presbyteriaanse Kerk en ik ging elke zonder naar de kerk. M
 
 <a name="CON"></a>
 
-### <font color="#808000">**Context**</font>
+## <font color="#808000">**Context**</font>
 
 De film kan ook worden gezien als **een antwoord op de zeer bloedige en wrede verfilming van het passieverhaal door Mel Gibson** in diens _The Passion of the Christ_ (2004). In die film verschijnt vooral God zelf als een op bloed beluste vaderfiguur en treedt Jezus op als een sadomasochistische superheld. Bij _The Nativity Story_ blijft **het mysterie van Gods bestaan veel dichter bij de concrete, menselijke ervaring**. De wreedheid is hier het werk van koningen die gewone mensen uitbuiten en er niet voor terug schrikken kinderen om te brengen.
 
 <a name="FIL"></a>
 
-### <font color="#808000">**Filmfiche**</font>
+## <font color="#808000">**Filmfiche**</font>
 
 USA / 2006 / 101' / **regie:** Katherine Hardwiche**, scenario**: Mike Rich / **productie**: Marty Bowen, Marty Bowen / **fotografie**: Elliot Davis / **montage**: Robert K. Lambert, Stuart Levy / **productie designer**: Stefano Maria Ortolani / **muziek**: Mychael Donna / **vertolking**: Keisha Castle-Hughes (Maria), Shohreh Aghdashloo (Elisabeth), Oscar Isaac (Joseph), Clarán Hinds (Herodes).
 
 <a name="LIN"></a>
 
-### <font color="#808000">**Links**</font>
+## <font color="#808000">**Links**</font>
 
 De tekst is **een bewerking** door de auteur van zijn eerder verschenen voorstelling van de film in Leren Leven Met Beelden nr. 16 (2010), pp. 19-22\.
 

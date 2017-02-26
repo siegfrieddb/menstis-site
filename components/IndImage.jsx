@@ -13,7 +13,7 @@ class TestImage extends Component {
   render () {
     return (  
         <div>
-{"A"}
+            {"A"}
         </div>
     )}
 };

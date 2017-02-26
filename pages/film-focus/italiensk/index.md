@@ -4,19 +4,19 @@
 
 <a name="KLA"></a>
 
-### <font color="#808000">**Klapbord**</font>
+## <font color="#808000">**Klapbord**</font>
 
 Op 8 december 2000 kende de film **Italiensk for Begyndere - Italiaans voor beginners -** zijn wereldpremi�re in **Denemarken**, het land waar hij werd geproduceerd en gedraaid. Oorspronkelijk alleen maar bedoeld voor de Deense markt, vond de film echter internationale weerklank en waardering toen hij tijdens het Festival van **Berlijn**, begin 2001, met **de Zilveren Beer** werd bekroond. Daarna ontving de film nog enkele prijzen onder andere die voor het beste scenario op het kleinere, 2001 Robert Festival. Zelfs Miramax Films besloot om deze eigenzinnige film ook **vanaf januari 2002** uit te brengen in de **USA**. In **Belgi�** kreeg de film in januari 2002 zijn premi�re. Hij haalde echter de grote zalen niet. Ten onrechte, zo blijkt.
 
 <a name="SYN"></a>
 
-### <font color="#808000">**Synopsis**</font>
+## <font color="#808000">**Synopsis**</font>
 
 In de buitenwijk waar **het Kopenhaagse voetbalstadion** ligt, vind je ook nog **een modern kerkgebouw**,een hotel, een klein kapsalon, een pasteibakkerij, een aula. Er wonen en werken verschillende alleenstaanden van middelbare leeftijd: de nog jonge dominee **Andreas**, de kapster **Karen**, de verkoopster **Olympia**,de hotelbediende **Jorgen Mortensen**, de kokkin **Guilia** en **Hal-Finn**, de vaste kelner van de voetbalkantine. Behalve het feit dat ze zich eenzaam voelen, hebben ze nog iets gemeenschappelijks. Langs diverse wegen vinden ze elkaar op de banken van **de Italiaanse les voor beginners**. De groep beslist op zekere dag om samen hun Italiaans te gaan testen in **Veneti�**. Daar raken ze hun eenzaamheid kwijt.
 
 <a name="CIN"></a>
 
-### <font color="#808000">**Cinematografie**</font>
+## <font color="#808000">**Cinematografie**</font>
 
 <span class="menstis">EIGEN SCENARIO</span>. Regisseur Scherfig schreef zelf **het scenario**. Ze ontwierp zelf **de personages** en bracht ze ook tot leven. Met de hulp van bevriende acteurs en actrices is haar dat wonderwel gelukt.Scenario en vertolking ondersteunen elkaar en dragen samen de film.Scherfig schreef het scenario vanuit haar wil om levensechte personages te schilderen. Haar verdienste daarbij is dat ze kiest voor zes personages - drie mannen en drie vrouwen - en dat die elkaar niet verdringen. Elk personage krijgt voldoende tijd en ruimte om zich te ontwikkelen. Scherfig slaagt in deze moeilijke opdracht omdat ze consequent kiest om **de personges als re�le menselijke personen** te behandelen. Ze toont de personages zowel in **hun werkmilieu** als in **hun thuissituatie**. Hierdoor vermijdt de regisseur dat de nadruk ontstaat alsof de personages alleen maar marionetten in haar handen zouden zijn.Scherfig slaagt erin mensen te tekenen die voor de toeschouwer zeer herkenbaar blijven, **gewone mensen** die men op straat kan tegenkomen. Scherfig laat via alledaagse situaties zien hoe bij de personages het persoonlijke leven en het beroepsleven in elkaar verweven zijn.  
 
@@ -26,7 +26,7 @@ In de buitenwijk waar **het Kopenhaagse voetbalstadion** ligt, vind je ook nog *
 
 <a name="BET"></a>
 
-### <font color="#808000">**Betekenisruimte**</font>
+## <font color="#808000">**Betekenisruimte**</font>
 
 <span class="menstis">GENERATIES</span>. Lone Scherfig opent met haar scenario en regie voor de toeschouwer een zeer boeiende betekenisruimte. Daarin versterken twee krachtige, beeldlijnen elkaar. Een **eerste** is zeker die van **de generaties**.De zes personages vertegenwoordigen **de generatie van de volwassenen, de dertigers en veertigers**. De regisseur spreekt hiermee over haar eigen generatie, ze is geboren in 1959\. Kinderen komen in de film niet voor. Daarentegen tekent de film wel het portret van **twee bejaarden**: een man en een vrouw. Allebei staan ze als gebroken mensen in het leven. Ze zijn verslaafd, de man aan het televisietoestel, de vrouw aan de alcohol. In de loop van het verhaal blijkt dat ze ooit een koppel zijn geweest. Elk hebben ze een dochter die voor hen zorgt: Karen voor haar vader, Olympia voor haar moeder. De twee vrouwen weten echter niet van elkaar dat ze zusters zijn. Dat ontdekken ze in de kerk op het ogenblik dat zowel de vader als de moeder bijna gelijktijdig overlijden en worden begraven. Met dit beeld van de generatie spreekt Scherfig over **de onmacht van de oudere generatie** - de naoorlogse generatie van de ouders - om samen te leven en elkaar lief te hebben. Het is de generatie van de televisie, maar ook van de echtscheiding en de gebroken dromen. De generatie van hun kinderen, aldus het standpunt van de film, weigert dergelijke levenswijze. Ze willen geen bestaan zonder stevig fundament. Maar zoals blijkt bij de personges van Karen en Olympia lijden ze nog onder **de mislukking van hun ouders**. De wijze waarop Scherfig in het eerste deel van de fim in beeld brengt hoe de twee dochters, onafhankelijk van elkaar, met veel geduld en mededogen voor hun ondankbare en zeurende ouder zorgen, is erg indrukwekkend en treffend. De toeschouwer kijkt in een spiegel en ziet een generatie die opgegroeid is met de eerste golf van de consumptiemaatschappij en die daarin is weggezonken. De kinderen ervan willen dergelijke levenswijze niet, maar lijden onder het gebrek aan ouderlijk voorbeeld. Ze hunkeren naar een authentieke, menselijke relatie, maar weten niet hoe ze die kunnen opbouwen. De film beweegt zich in het centrum van die re�le dramatiek.  
 
@@ -36,19 +36,19 @@ In de buitenwijk waar **het Kopenhaagse voetbalstadion** ligt, vind je ook nog *
 
 <a name="CON"></a>
 
-### <font color="#808000">**Context**</font>
+## <font color="#808000">**Context**</font>
 
 De film van Scherfig behoort niet alleen tot **de Skandinavische filmtraditie**. Zijn hele verschijning wijst op een zeer duidelijke context, namelijk die van de Skandinavische vernieuwende filmbeweging, **Dogma 95** genoemd. Scherfigs film is de twaalfde film die het **Dogma**-certificaat draagt. De film opent ook met het beeld van dat certificaat. Bezield door de avant-gardistische wil van de Deense cineast **Lars Von Trier** heeft de Dogma 95-beweging al tal van meesterwerken geproduceerd. Met de film van Scherfig heeft de beweging er een nieuw meesterwerk bij.
 
 <a name="FIL"></a>
 
-### <font color="#808000">**Filmfiche**</font>
+## <font color="#808000">**Filmfiche**</font>
 
 Denemarken / 2000 / 112' / **regie en scenario**: Lone Scherfig / **fotografie**: Jorgen Johansson / **montage**: Gerd Tjur / **vertolking**: Anders W. Berthelsen (Andreas), Ann Eleonora Jorgensen (Karen), Anette Stovelbaek (Olympia),Peter Gantzler (Jorgen Mortensen), Sara Indrio Jensen (Giula), Lars Kaalund (Hal-Finn), Karen-Lise Mynster (Kirsten).
 
 <a name="LIN"></a>
 
-### <font color="#808000">**Links**</font>
+## <font color="#808000">**Links**</font>
 
 De Bleeckere, S., 2001\. _Het tafelschap, in:_ CineMagie nr.234, lente, pp. 34-53.
 

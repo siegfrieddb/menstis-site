@@ -5,19 +5,19 @@
 
 <a name="KLA"></a>
 
-### <font color="#808000">**Klapbord**</font>
+## <font color="#808000">**Klapbord**</font>
 
 **John Bailey** schreef twee autobiografische boeken over zijn leven met **Iris Murdoch**: _Iris. A Memoir_ en _Elegy for Iris_. In het eerste boek getuigt Bailey over zijn **42 huwelijksjaren** met Iris en de eerste jaren van haar ziekte. In het tweede boek beschrijft hij **Iris' laatste levensjaar** en haar overlijden in **1999**. **Richard Eyre en Charles Wood** schreven het scenario van **de film Iris** naar de twee boeken van Bailey. Tijdens de opnames was Bailey een onmisbare raadsman. De Britse acteur **Jim Broadbent** kroop in de huid van het personage van de oudere Bailey. Zijn uitzonderlijke vertolking leverde hem de **Oscar** op voor de beste, mannelijke bijrol. De jonge Iris kreeg het gezicht van **Kate Winslet**, terwijl de vooraanstaande **Judi Dench** de oudere Iris op het witte doek terug tot leven bracht.
 
 <a name="SYN"></a>
 
-### <font color="#808000">**Synopsis**</font>
+## <font color="#808000">**Synopsis**</font>
 
 **Oxford**, de Britse universiteitsstad. Engeland geneest van zijn open oorlogswonde. Het is immers al **1952**. Een nieuwe generatie intellectuelen meldt zich. Onder hen bevinden zich twee bijzondere jongvolwassenen. **John Bayley** is een verlegen, maar bekwame literatuurprofessor; zij heet **Iris Murdoch**, een intelligente, dynamische studente die vanuit een eigen verworven vrijheid **twee passies** koestert: die van de liefde en die van de taal. Wanneer ze haar eerste teksten toespeelt aan John, ontstaat er **een levenslange relatie**, ze huwen, vormen een hecht team tot **de ziekte van Alzheimer** Iris' geest aantast. **Dame Iris Murdoch** is dan al uitgegroeid tot een gewaardeerde **Britse filosofe** en tot **de grootste Engelse schrijfster** van de tweede helft van de 20ste eeuw. Ze leefde van **1919 tot 1999**.
 
 <a name="CIN"></a>
 
-### <font color="#808000">**Cinematografie**</font>
+## <font color="#808000">**Cinematografie**</font>
 
 <span class="menstis">BIOPIC</span>.De waarde van de film van Richard Eyre steekt niet in **het genre van de biopic**. De film schrijft geen biografie. Alleen de tijd waarin Iris en John elkaar leren kennen �n de jaren van de fatale doorbraak van Iris'ziekte, komen in beeld. Maar ook in die **twee** belangrijke segmenten van de gemeenschappelijke biografie van Iris en John, primeert geenszins de wil om te documenteren. Niettegenstaande de grote zorg voor **de authenticiteit** van de in sc�ne gezette taferelen, transcendeert de film de registratie van feiten. Terecht, want **Dame Iris Murdoch** vertolkte in haar leven, haar visie en romans **de wondere wereld van de menselijke geest**. In de eerste grote sc�ne met de oudere Iris - ze geeft een lezing in het Sommerville College te Oxford - spreekt ze over **de waarde van de opvoeding** ("education"). Die opvoeding, zo beklemtoont ze, overtuigt ons van **de enige, belangrijke vrijheid** die er is, die van de geest **("the mind")**. De cinematografische verdienste van de film bestaat erin de biopic terug te voeren naar **de bron zelf** van de biografie: **het spirituele of 'mentale leven'** van, in dit geval, **Dame Iris Murdoch**. Op deze wijze schildert de film geen kroniek van Iris' verschillende werken, maar zoomt hij in op haar eigen, grote geest, die ze zelf beschouwde als **de bron** van al haar werken, die bron die door de ziekte van Alzheimer in **het duister** werd gehuld.
 
@@ -27,7 +27,7 @@
 
 <a name="BET"></a>
 
-### <font color="#808000">**Betekenisruimte**</font>
+## <font color="#808000">**Betekenisruimte**</font>
 
 <span class="menstis">MIND</span>. Na de diagnosesequenties, zegt Iris: **"I feel as if I'm sailing into darkness."** De film evoceert het sterven van Iris niet in een sc�ne met een ziekenhuisbed en een medisch apparaat dat **de intrede van de dood** signaleert. In plaats daarvan staat een sequentie met **de demente Iris** die in een gang op haar eigen manier naar **het steeds helder wordende licht** toe danst. De film evoceert de eigen **aardse** ruimte van het menselijke bestaan, waarvan de muren gebouwd zijn met **zowel duisternis als licht**; die muren bevinden zich in de **geest** van **ieder** mens. De film schildert Iris Murdoch als **een grote dame die zich ophoudt in de kamer van de menselijke geest**, die zich daar installeert in **het licht van de liefde en de taal**; daardoor verandert het menszijn in **een bijzonder en uniek zinnebeeld**. De film volgt in het biografische spoor van Iris **de aardse ruimte van een intense zinbeleving**. Het personage van Iris verschijnt daarbij eerder als **een gids** dan als een object om te beschouwen. De geestelijke ruimte waarin de film zijn eigen waarheid vindt, krijgt zijn juiste benaming in de woorden die Iris spreekt tijdens een lezing, kort voor de intrede van de ziekte: **"We need to believe in something divine without the need for God, something we might call Love or Goodness."** Voortgestuwd door het getuigenis van John Bailey, worden de filmbeelden een plaats waar twee concrete, sterfelijke mensen elkaar omarmen in **de goddelijke ruimte van hun bestaan**, tragisch begrensd door ziekte en ouderdom.
 
@@ -35,7 +35,7 @@
 
 <a name="CON"></a>
 
-### <font color="#808000">**Context**</font>
+## <font color="#808000">**Context**</font>
 
 Zowel in zijn oorsprong als in zijn uitwerking documenteert **Iris** een belangrijk moment uit **het intellectuele milieu van het naoorlogse Engeland.** De film sluit aan bij een specifieke traditie van de naoorlogse Britse cinema die teruggaat op **Sir Richard Attenboroughs**. In diens film _Shadowlands_ brengt hij een belangrijk hoofdstuk uit het leven van **C.S.Lewis** (1898-1963) op het scherm. Deze film vormt een referentiepunt voor de **film Iris.**
 
@@ -45,13 +45,13 @@ Evenals _Shadowlands_, ent _Iris_ het gegeven van **de existenti�le zingeving*
 
 <a name="FIL"></a>
 
-### <font color="#808000">**Filmfiche**</font>
+## <font color="#808000">**Filmfiche**</font>
 
 Engeland-USA / 2001 / 90' / **regie**: Richard Eyre / **productie**: Robert Fox, Scott Rudin voor Miramax Films, BBC Films, Intermedia Films / **scenario**: Richard Eyre, Charles Wood / **fotografie**: Roger Pratt / **montage**: Martin Walsh / **muziek**: James Horner / **productie designer**: Gemma Jackson / **vertolking**: Kate Winslet (jonge Iris Murdoch), Hugh Bonneville (jonge John Bailey), Judi Dench (Iris Murdoch), Jim Broadbent (John Bailey), Penelope Wilton (Janet Stone).
 
 <a name="LIN"></a>
 
-### <font color="#808000">**Links**</font>
+## <font color="#808000">**Links**</font>
 
 [](http://www.djdchronology.com/iris02.htm)[De site van de Iris Murdoch Society.](http://www.irismurdoch.plus.com/)
 
