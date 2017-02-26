@@ -11,7 +11,7 @@ _Erik Aerts_
 
 Het was indrukwekkend, de drie films van de 24ste editie (_The Mill and the Cross, Vision, The Book Thief_). Ik kan alleen maar verwijzen naar _Levensbeschouwing democratisch belicht_: 'de praxis van het contemplatievermogen'; dat inzien is het buitengewone zien (p. 83-84). Beklijvende indrukken die blijven nawerken en die niet in woorden uit te drukken zijn. De inleiding heeft mij zeker geholpen om er ‘in te komen’ en om het laten ‘in te werken’.
 
-***
+----
 
 _Felix Rijcken_
 

@@ -4,7 +4,7 @@ SoldOut : true
 ---
 
 
-![](./tafel.jpg)
+![](./bl.jpg)
 
 **Auteurs**
 
