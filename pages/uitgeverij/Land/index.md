@@ -27,8 +27,9 @@ Het betreft **een studieboek**, academisch onderbouwd en gericht
 naar een publiek dat tijd wil nemen om lezend en schouwend na te denken vanuit een open geest.<br>
 Het boek telt **118 bladzijden en 10 beelden**.<br> 
 De **afmetingen** van het boek zijn: D: 1 cm, B: 14 cm, H: 21 cm.<br>  
-Het boek verscheen in **2014** naar aanleidng van De Dag van de Religieuze Film 
-rond het thema en met de drie films die in het boek worden belicht. 
+Het boek verscheen in **2014** naar aanleiding 
+van _De Dag van de Religieuze Film_ 
+rond het gelijknamige thema en met de drie films die in het boek worden belicht. 
 <br>  
 De uitgever is **Altiora Averbode**, Averbode.<br>
 ISBN: 978 90 317 3792 5<br>

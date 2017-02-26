@@ -14,12 +14,20 @@ Het boek Methode heeft een dubbele ondertitel waarvan de eerste is: _Een denkbee
 
 **Technische gegevens**
 
-Het boekje heeft een **broze** verschijning.  
-De afmetingen zijn: L:22 cm, B: 0,5 cm, H:22 cm.  
-Het telt **24** bladzijden.  
+Het boekje verscheen in **2001** en heeft een **broze** 
+verschijning. 
+De afmetingen zijn: L:22 cm, D: 0,5 cm, H:22 cm.   
+Het telt **24** bladzijden.   
 De tekst is evenals de kaft in **een aarden kleur** gezet.  
-Het beeld op het omslag is **een digitaal bewerkt fotofragment**, door de auteur genomen op de weg langs de oever van het meer van Silvaplana nabij Sil-Maria in het Zwiterse Oberengadin.  
-ISBN 90-805165-2-X  
-2001
+Het beeld op het omslag is **een digitaal bewerkt fotofragment**,
+door de auteur genomen op de weg langs de oever
+ van het meer van Silvaplana nabij Sil-Maria 
+ in het Zwiterse Oberengadin.   
+De uitgever: Men(S)tis vzw, Hasselt.
+ISBN: 90-805165-2-X  
 
-U kan de Methode cd en het boek [Online bestellen](../shop.html) op deze website.
+
+U kan de Methode cd en het boek [Online bestellen](../shop.html) 
+op deze website. **Methode** maakt ook deel uit van het
+productie van Men(S)tis,
+**Clair-Obscur**.
