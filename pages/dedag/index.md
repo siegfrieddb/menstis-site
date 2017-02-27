@@ -14,12 +14,12 @@ Het Men(S)tis' **team** dat het event organiseert: **Sylvain De Bleeckere** (con
   **Samuel De Bleeckere** (databeheer), **Siegfried De Bleeckere** (website),
    **Gerda Bracke, Dorothea De Bleeckere, Thirza Vandenabeele** (balie en onthaal).
 
-Voor meer informatie in verband met de _Dag van de Religieuze Film_ kan u mailen naar dit adres: [**info@menstis.be**](mailto:info@menstis.be).
+Voor meer informatie in verband met de _Dag van de Religieuze Film_ kan je mailen naar dit adres: [**info@menstis.be**](mailto:info@menstis.be).
 
 
-<img src="zaal.jpg" >
+<img src="./zaal.jpg" >
 
-<img src="zaal2.jpg" >
+<img src="./zaal2.jpg" >
 
 
 

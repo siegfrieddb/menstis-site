@@ -28,9 +28,6 @@ const style = {
 class BlogIndex extends React.Component {
   render () {
 
-    let createLinkPath = (linkFile,path) => {
-        
-    }
 
     const pageLinks = []
     // Sort pages.
@@ -53,7 +50,7 @@ class BlogIndex extends React.Component {
                   {moment(page.data.date).calendar()}
               </div>
               <div dangerouslySetInnerHTML={{ __html: page.data.body }} /> 
-              <Link style={style.Link} to={prefixLink(
+              <Link target='_blank' style={style.Link} to={prefixLink(
                   (path,linkFile) => {
                     let index = path.lastIndexOf("/")
                     return path.substr(0,index+1) + linkFile 

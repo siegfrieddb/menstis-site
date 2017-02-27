@@ -19,11 +19,13 @@ module.exports = React.createClass({
 
     let css
     let bundle
-    if (process.env.NODE_ENV === 'production') {
-      css = <style dangerouslySetInnerHTML={{ __html: require('!raw!./public/styles.css') }} /> 
+    if (process.env.NODE_ENV !== 'production') {
+          bundle = <script src={prefixLink(`/bundle.js?t=${BUILD_TIME}`)} />
+       css = <style dangerouslySetInnerHTML={{ __html: require('!raw!./public/styles.css') }} /> 
     }
     else{
       bundle = <script src={prefixLink(`/bundle.js?t=${BUILD_TIME}`)} />
+       css = <style dangerouslySetInnerHTML={{ __html: require('!raw!./public/styles.css') }} /> 
     }
 
     const productionBuild = Boolean(this.props.body);
