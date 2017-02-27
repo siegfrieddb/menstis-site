@@ -4,7 +4,7 @@
 
 <script language="javascript" type="text/javascript">
 	isSubmitted = false;
-	
+	import {setTotalFunc} from './components/shop' 
 	function submitOnce() {
 		if (isSubmitted) return false;
 		isSubmitted = true;
@@ -23,6 +23,7 @@
      
 		',00';
 	}	
+  setTotalFunc(updateTotal)
 </script>
 
 <link href="/style/basic.css" rel="stylesheet" type="text/css" media="all">
@@ -30,8 +31,8 @@
 </head>
 
 <body bgcolor="#FFFFF4" text="#7F7D82" link="#7366EE" vlink="#8388FF" alink="#F78A6A">
-<div align="center">
-<center>
+<div align="ui contianer">
+
 
 
 <table border="0" cellpadding="4" cellspacing="0" width="90%">
@@ -62,7 +63,7 @@
                   <td align="right" rowspan="7" valign="top"><font color="#7F7D82">Bestelling:</font></td>			                            
  <td>Het aards paradijs als zinnebeeld : </td>
  <td> Aantal                     
-                     <select name="aantalParadijs" id="aantalParadijs" onChange="updateTotal();">
+                     <select name="aantalParadijs" id="aantalParadijs" onChange=" updateTotal(); ">
                        <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
                        <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>	   					
                      </select>			
@@ -73,7 +74,7 @@
                              
                  <tr>                            
 				     <td>Leren leven met beelden 2010 : </td><td> Aantal                     
-                     <select name="aantalLLMB2010" id="aantalLLMB2010" onChange="updateTotal();">
+                     <select name="aantalLLMB2010" id="aantalLLMB2010" onChange="window.updateTotal();">
                        <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
                        <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
 						<option>11</option><option>12</option><option>13</option><option>14</option><option>15</option>
@@ -86,7 +87,7 @@
                                                    
                  <tr>
 				     <td>Leren leven met beelden 2009 : </td><td> Aantal                     
-                     <select name="aantalLLMB2009" id="aantalLLMB2009" onChange="updateTotal();">
+                     <select name="aantalLLMB2009" id="aantalLLMB2009" onChange="window.updateTotal();">
                        <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
                        <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
 						<option>11</option><option>12</option><option>13</option><option>14</option><option>15</option>
@@ -99,7 +100,7 @@
 	               
                  <tr>                  	   
                    <td>Leren leven met beelden 2000 : </td><td> Aantal                     
-                     <select name="aantalLLMB2000" id="aantalLLMB2000" onChange="updateTotal();">
+                     <select name="aantalLLMB2000" id="aantalLLMB2000" onChange="window.updateTotal();">
                        <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
                        <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
 						<option>11</option><option>12</option><option>13</option><option>14</option><option>15</option>
@@ -115,7 +116,7 @@
 				 
 				 <tr>
 				     <td>Methode Boek &amp; CD : </td><td> Aantal                     
-                     <select name="aantalMethode" id="aantalMethode" onChange="updateTotal();">
+                     <select name="aantalMethode" id="aantalMethode" onChange="window.updateTotal();">
                        <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
                        <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>		   					   
                      </select>			
@@ -126,7 +127,7 @@
 				 <tr>
 				     <td>Levensbeschouwing democratisch belicht : </td>
 				     <td> Aantal                     
-                     <select name="aantalLevens" id="aantalLevens" onChange="updateTotal();">
+                     <select name="aantalLevens" id="aantalLevens" onChange="winow.updateTotal();">
                        <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
                        <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>		   					   
                      </select>			
@@ -137,7 +138,7 @@
 				  <tr>
 				     <td>Het Beloofde Land: </td>
 				     <td> Aantal                     
-                     <select name="aantalBeloofd" id="aantalBeloofd" onChange="updateTotal();">
+                     <select name="aantalBeloofd" id="aantalBeloofd" onChange="winow.updateTotal();">
                        <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
                        <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>		   					   
                      </select>			
@@ -150,7 +151,7 @@
                  </tr>
                  <tr>
                    <td align="right"><font color="#7F7D82">Totale Kostprijs:</font></td>
-                   <td colspan="2"><input type="text" name="kostprijs" id="kostprijs" size="4" value="0,00" align="right" onBlur="updateTotal();">
+                   <td colspan="2"><input type="text" name="kostprijs" id="kostprijs" size="4" value="0,00" align="right" onBlur="window.updateTotal();">
                      euro (levering niet inbegrepen)</td>
                  </tr>
                  <tr>
@@ -167,7 +168,7 @@
 		</td>
      </tr>
 </table>
-</center>
+
 </div>
 </body>
 <!-- InstanceEnd --></html>

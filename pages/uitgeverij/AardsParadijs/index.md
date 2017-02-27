@@ -15,7 +15,7 @@ Sylvain De Bleeckere
 
 Dit is de tweede publicatie in de reeks Men(S)tis' Studies. Het thema is 'het aards paradijs'. De auteur behandelt het thema via de filmdiptiek _The New World_ en _The Tree of Life_ van Terrence Malick. Voor een kennismaking met het boek, [klik hier](Men(S)tis' Studies 2 web.pdf).
 
-U kunt Het aards paradijs als zinnbeeld [Online bestellen](/uitgeverij/shop.html) op deze website. Aan boekhandels en organisaties worden bestellingen geaccepteerd vanaf 10 exemplaren of meer.
+U kunt Het aards paradijs als zinnbeeld [Online bestellen](/shop/) op deze website. Aan boekhandels en organisaties worden bestellingen geaccepteerd vanaf 10 exemplaren of meer.
 
 **Technische gegevens**
 

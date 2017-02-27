@@ -16,6 +16,20 @@ body{
     width: 100%
 }
 
+a  {
+   color: #f26d80;
+   
+}
+
+a > strong  {
+   color: #808000;
+   
+}
+
+a:hover {
+    color: #f26d80;
+}
+
 h1  {
    color: #f26d80;
    font-size: 2.3em
@@ -25,6 +39,13 @@ h2  {
    font-size: 1.5em
 }
 
+
+hr {
+    border: 0px;
+    height: 1px;
+    background: #808000;
+    
+}
 
 
 .image-fit > img {

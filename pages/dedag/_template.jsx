@@ -48,7 +48,7 @@ module.exports = React.createClass({
             }}
           >
             <Link style={{boxShadow: 'none'}} to={prefixLink(page.path)}>
-                    {isActive ? <strong>{title}</strong> : title}
+                    {isActive ? <strong >{title}</strong> : title}
             </Link>
           </li>
         )
@@ -90,7 +90,7 @@ module.exports = React.createClass({
               overflowY: 'auto',
               paddingRight: `calc(${rhythm(1/2)} - 1px)`,
               position: 'absolute',
-              width: `calc(${rhythm(8)} - 1px)`,
+              width: `calc(${rhythm(10)} - 1px)`,
               borderRight: '1px solid lightgrey',
             }}
           >
@@ -107,7 +107,7 @@ module.exports = React.createClass({
           <div
             style={{
               padding: `0 ${rhythm(1)}`,
-              paddingLeft: `calc(${rhythm(8)} + ${rhythm(1)})`,
+              paddingLeft: `calc(${rhythm(10)} + ${rhythm(1)})`,
             }}
           >
             {this.props.children}

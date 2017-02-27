@@ -1,4 +1,8 @@
 ---
 title: Inschrijving
 ---
-##  Editie 2017: 'I Have A Dream'
+
+Inschrijven voor Editie 2018 is mogelijk vanaf begin januari 2018
+
+
+

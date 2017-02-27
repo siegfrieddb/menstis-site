@@ -5,7 +5,7 @@ title: Toeschouwers
 **Naar aanleiding van de 25ste editie van De Dag van de Religieuze Film (2016) krijgen de toeschouwers hier het woord. Verschillende toeschouwers die hier aan het woord komen, hebben alle of bijna alle edities meegemaakt. Voelt u zich ook als toeschouwer aangesproken, zend dan uw bijdrage naar [info@menstis.be](mailto:info@menstis.be).**
 
 
-
+***
 
 _Erik Aerts_
 
