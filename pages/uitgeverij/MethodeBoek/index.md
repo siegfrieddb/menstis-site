@@ -18,11 +18,7 @@ Het boekje verscheen in **2001** en heeft een **broze**
 verschijning. 
 De afmetingen zijn: L:22 cm, D: 0,5 cm, H:22 cm.   
 Het telt **24** bladzijden.   
-De tekst is evenals de kaft in **een aarden kleur** gezet.  
-Het beeld op het omslag is **een digitaal bewerkt fotofragment**,
-door de auteur genomen op de weg langs de oever
- van het meer van Silvaplana nabij Sil-Maria 
- in het Zwiterse Oberengadin.   
+De tekst is evenals de kaft in **een aarden kleur** gezet.
 De uitgever: Men(S)tis vzw, Hasselt.
 ISBN: 90-805165-2-X  
 
