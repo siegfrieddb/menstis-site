@@ -16,6 +16,7 @@
     "safe-access": "^0.1.0",
     "semantic-ui-css": "^2.2.4",
     "semantic-ui-react": "^0.64.2",
+    "semantic-ui-react-numberpicker": "0.0.1-b",
     "typography": "^0.14.0",
     "typography-plugin-code": "^0.14.0",
     "underscore.string": "^3.2.2"

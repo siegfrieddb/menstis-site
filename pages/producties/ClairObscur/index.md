@@ -1,8 +1,6 @@
 ---
 title: Clair - Obscur
 ---
-## Clair - Obscur
-
 ![Cello](./Cello.JPG)
 
 ## Wat
@@ -43,6 +41,14 @@ De voorstelling komt het best tot zijn recht in oude of nieuwe ruimtes met een a
 
 ## Uitvoeringen
 
-De première van Methode vond plaats in De Markten te Brussel op 3 en 4 februari 2007\. Op 25 februari 2015 vond de eerste uitvoering van Clair-Obscur plaats in het Theater Tinnenpot te Gent naar aanleiding van de presentatie van het boek Levensbeschouwing democratisch belicht. [Hier kunt u de aanzet van het stuk Methode beluisteren](Prelude.mp3).
+De première van Methode vond plaats in De Markten te Brussel op 3 en 4 februari 2007\. Op 25 februari 2015 vond de eerste uitvoering van Clair-Obscur plaats in het Theater Tinnenpot te Gent naar aanleiding van de presentatie van het boek Levensbeschouwing democratisch belicht. 
+
+Beluister hieronder de aanzet van het stuk Methode:
+
+<audio controls>
+ <source src="./Prelude.mp3"
+         type='audio/mp3'>
+</audio>
+
 
 ![](./Partituur.JPG)
