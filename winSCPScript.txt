@@ -1,0 +1,5 @@
+open sftp://menstis:iMPZQs1Kcb2DeyY@lumumba.all2all.org/ -hostkey="ssh-ed25519 256 0e:d1:10:9a:4d:07:0d:c2:3f:cf:73:f3:98:dd:0d:81"
+
+synchronize remote C:\menstis-site\public /var/www/htdocs/menstis/public
+
+exit

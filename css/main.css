@@ -1,6 +1,18 @@
 .landing-image {
     background-image: url('menstis-theme.jpg') ;
     background-size: cover ;
+    
+    
+}
+.main-menu-item {
+    font-weight: bold;
+    
+}
+
+@media only screen and (min-width: 1127px) {
+    .main-menu-item {
+    font-size: 1.5em
+    }
 }
 .blog-image {
     background-image: url('menstis-theme.jpg') ;

@@ -50,7 +50,10 @@ De Dag van de Religieuze Film is ontstaan. Naar aanleiding daarvan,
 stonden **de vier- en vijfentwintigste edities van De Dag in het teken van het thema Levensbeschouwing**.
 
 Hier volgt het overzicht van de vertoonde films per jaargang. Sommige film zijn opgenomen in de rubriek
-FilmFocus van deze website. (Dit overzicht is in opbouw)
+FilmFocus van deze website. De eerste zes jaargangen stonden in het teken
+van het thema **Het Licht van de Schepping**, tevens de titel van het boek
+van Sylvain De Bleeckere, verschenen naar aanleiding van **de 
+eerste editie van De Dag van de Religieuze Film in 1992**.
 
 >Jaargang 26 (2017) **Magnificat in Em**: Ida, Les Innocentes, The Help.<br>
 Jaargang 25 (2016) **Levensbeschouwing deel 2**: Marie Heurtin, Son of Saul, Mr. Turner.<br>
@@ -63,4 +66,20 @@ Jaargang 19 (2010) **Blijvende Bijbelbeelden**: Kain, I'm Not There, Brendan and
 The Nativity Story.<br>
 Jaargang 18 (2009) **God@the USA**: W., There Will Be Blood, Into the Wild.<br>
 Jaargang 17 (2008) **Corpus Christi**: Corpus Christi, BenX, Das Leben der Anderen, The Freedom Writers.<br>
+Jaargang 16 (2007) **Methode**: Into Great Silence, The New World. <br>
+Jaargang 15 (2006) **Geloof in menselijkheid**: Sophie Scholl, Hotel Rwanda, The Interpreter. <br>
+Jaargang 14 (2005) **Contemplatievermogen**: Osama, Russian Ark, In America. <br>
+Jaargang 13 (2004) **Verzoening**: Bloody Sunday, Far From Heaven, All or Nothing. <br>
+Jaargang 12 (2003) **Tao en de weg**: The Road Home, Samsara, The Crouching Tiger, Hidden Dragon.<br>
+Jaargang 11 (2002) **Tabula Rasa**: The Last Days, Wilde Blue –Notes à quelques vois, Chocolat. <br>
+Jaargang 10 (2001) **Tabula Sacra**: L’Humanité,  Secrets and Lies, Babbettes Gaestebud.<br>
+Jaargang 9 (2000)  **1 en 1 = 1**: Offret, The Book of Life, C’est quoi la vie? <br>
+Jaargang 8 (1999)  **Nostalgie**: Mat’i sin, Amistad, Al Massir. <br>
+Jaargang 7 (1998)  **Vriendschap**: Sancta Mortale, Breaking The Waves, Smoke, Il Postino. <br>
+Jaargang 6 (1997)  **Het Licht van de Schepping**: Une histoire de vent, City of Joy, The Englishman Who Went Up A Hill But Came Down A Mountain.<br>
+Jaargang 5 (1996)  **Het Licht van de Schepping**: The Secret Garden, My Life, Manneken Pis. <br>
+Jaargang 4 (1995)  **Het Licht van de Schepping**: Ladybird, Ladybirth, Raining Stones, Shadowlands. <br>
+Jaargang 3 (1994)  **Het Licht van de Schepping**: El Sol del Membrillo, L’Annonce faite à Marie, Marcellino, Pane e Vino, Decaloog 2 en 8. <br>
+Jaargang 2 (1993)  **Het Licht van de Schepping**: La Double Vie de Véronique, Céline, Bagdad Café,  The Solovkis - the Promised Land, the Scorned Land. <br>
+Jaargang 1 (1992)  **Het Licht van de Schepping**: Yeelen, Romero, Ei, De legende van de heilige drinker, Jesus de Montréal, Andrei Roublev, Dekalog 1.<br>
 

@@ -2,7 +2,7 @@
 title: Programma 2017
 ---
 
-Het programma van **de 26ste editie** vond plaats op k**rokusmaandag 20 februari 2017**. 
+Het programma van **de 26ste editie** vond plaats op **krokusmaandag 20 februari 2017**. 
 Het thema was **Magnificat in Em**. Het programma van de volgende editie
 verschijnt hier **eind december** van dit jaar. Een uitgebreide studie van de films **Ida** en 
 **Les Innocentes** kan je vinden in de rubriek Film Focus.

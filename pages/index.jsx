@@ -39,32 +39,32 @@ const SomeReactCode = React.createClass({
                   className="item landing-item"
                   to={prefixLink('/dedag/')}
                 >    
-                  De Dag
+                 <span className="main-menu-item"> De Dag</span>
                 </Link>
 
                 <Link 
                   className="item landing-item"
                   to={prefixLink('/blog/')}
                 >    
-                  Blog
+                  <span className="main-menu-item"> Blog</span>
                 </Link>
                   <Link 
                   className="item landing-item"
                   to={prefixLink('/film-focus/')}
                 >    
-                  Film Focus
+                  <span className="main-menu-item"> Film Focus</span>
                 </Link>
                 <Link 
                   className="item landing-item"
                   to={prefixLink('/producties/')}
                 >    
-                  Producties
+                  <span className="main-menu-item"> Producties</span>
                 </Link>
                 <Link 
                     className="item landing-item"
                     to={prefixLink('/uitgeverij/')}
                   >    
-                  Uitgeverij
+                  <span className="main-menu-item"> Uitgeverij</span>
                 </Link>
               </div>
             </div>
