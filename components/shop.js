@@ -116,7 +116,7 @@ export var Shop = React.createClass({
                     
                 <input type="hidden" name="recipient" defaultValue="sylvain@menstis.be" />
                 <input type="hidden" name="subject" defaultValue="Online bestelling" />
-                <input type="hidden" name="redirect" defaultValue={prefixLink('./bestellingbevestiging/')} />
+                <input type="hidden" name="redirect" defaultValue={'http://www.menstis.be/shop/bestellingsbevestiging/'} />
                 <input type="hidden" name="print_blank_fields" defaultValue={1} />
               </Form>
             </div>
