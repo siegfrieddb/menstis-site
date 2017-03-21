@@ -13,7 +13,7 @@ Het was indrukwekkend, de drie films van de 24ste editie (_The Mill and the Cros
 
 ***
 
-_Felix Rijcken_
+<div class="menstis-title"><h1>  Felix Rijcken </h1></div>
 
 Maandag (16.02.2015) was een uitzonderlijke dag in de geschiedenis van De Dag. De inleidingen  waren subliem. Vele toeschouwers hebben stil  ‘genoten’ en dragen inspirerende beelden mee voor hunleven. Een ‘film’ kan een openbaring zijn, wat elke mens en elke tijd zo spontaan naar verlangt en ons uitnodigt naar de Goede, de Schone, de Ware Liefde. Proficiat!
 

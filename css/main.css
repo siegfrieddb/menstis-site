@@ -100,6 +100,26 @@ hr {
     font-size: 2em;
     color: white;
 }
+
+
+.menstis-title {
+    width: 100%;
+    height: 2.5em;
+    display: table;
+    text-align: left;
+    padding-left: 0.5em;
+    background-image: url('menstis-theme.jpg') ;
+    background-size: cover ;
+    background-position: center; 
+}
+.menstis-title > h1 {
+    font-family: "Lucida Sans Unicode", "Lucida Bright", sans-serif;
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 1.5em;
+    color: white;
+}
+
 .parent-menu {
     width: 100%;
     height: 3em;
@@ -119,7 +139,7 @@ hr {
 
 
 @media only screen and (max-width: 726px) {
-    .parent-blog {
+.parent-blog {
     width: 100%;
     height: 2.5em;
     display: table;
