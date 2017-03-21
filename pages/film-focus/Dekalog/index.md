@@ -1,8 +1,8 @@
 ---
-title: Agora
+title: Dekalog
 ---
 <center>
-<img src="agora.jpg" >
+<img src="deka.jpg" >
 </center>
 <a name="KLA"></a>
 
