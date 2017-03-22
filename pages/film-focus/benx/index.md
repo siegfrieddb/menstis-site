@@ -40,7 +40,7 @@ De film **BenX** is een fictiefilm die op geen enkel moment vervalt in een docum
 
 ## <font color="#808000">**Link**</font>
 
-Sylvain De Bleeckere schreef op vraag van de producent MMG, de distributeur KFD en het Vlaamse Ministerie van Onderwijs en Vorming een uitgebreid educatief dossier over de film. Het kan worden gedownload op [de site van de film](http://www.ben-x.be/ndl/downloads.asp)
+Sylvain De Bleeckere schreef op vraag van de producent MMG, de distributeur KFD en het Vlaamse Ministerie van Onderwijs en Vorming een uitgebreid educatief dossier over de film. Het kan worden gedownload op [de site van de film](http://www.ben-x.be/ndl/downloads.asp).
 
 
 <font size="-2"> © Sylvain De Bleeckere, Men(S)tis, 2011/2017.</font>
