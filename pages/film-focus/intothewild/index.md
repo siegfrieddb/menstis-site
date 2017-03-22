@@ -1,4 +1,6 @@
-
+---
+title: Into the Wild
+---
 <center>
 <img src="intothewild.jpg" >
 </center>

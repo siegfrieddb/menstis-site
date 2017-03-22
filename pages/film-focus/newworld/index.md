@@ -1,3 +1,6 @@
+---
+title: The New World
+---
 
 <center>
 <img src="newworldkl.jpg" >

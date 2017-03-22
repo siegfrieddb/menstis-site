@@ -1,4 +1,6 @@
-
+---
+title: Spirited Away 
+---
 <center>
 <img src="spiritedaway.jpg" >
 </center>

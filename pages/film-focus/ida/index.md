@@ -1,3 +1,6 @@
+---
+title: Ida
+---
 <center>
 <img src="Ida.jpg" >
 </center>

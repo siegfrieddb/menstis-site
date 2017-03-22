@@ -1,3 +1,6 @@
+---
+title: Dolls
+---
 <center>
 <img src="dolls.jpg" >
 </center>

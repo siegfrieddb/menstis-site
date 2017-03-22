@@ -1,3 +1,6 @@
+---
+title: Into Great Silence
+---
 <center>
 <img src="intogreatsilenece.jpg" >
 </center>

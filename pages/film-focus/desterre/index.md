@@ -1,3 +1,7 @@
+---
+title: En waar de sterre bleef stille staan
+---
+
 <center> 
 <img src="kruisboot 300.jpg" >
 </center>

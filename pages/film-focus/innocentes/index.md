@@ -1,3 +1,6 @@
+---
+title: Les Innocentes
+---
 <center>
 <img src="Inno.jpg">
 </center>

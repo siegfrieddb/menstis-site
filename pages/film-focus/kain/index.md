@@ -1,3 +1,7 @@
+---
+title: Kain
+---
+
 <center>
 <img src="KAIN.jpg" >
 </center>
