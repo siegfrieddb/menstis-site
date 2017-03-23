@@ -46,4 +46,4 @@ De filosofische kritiek die vanuit **The New World** uitgaat, naar de hedendaags
 
 Sylvain De Bleeckere schreef een uitgebreide studie in _Men(S)tis’ Studies # 2:Het aards paradijs als zinnebeeld_. Klik [hier](http://www.menstis.be/blog/) voor een kennismaking. 
 
-<font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2011/2017</font>
+<font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2011/2017</font>.
