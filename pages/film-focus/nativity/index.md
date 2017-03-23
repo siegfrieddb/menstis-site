@@ -48,7 +48,7 @@ Het is de tijd dat koning Herodes met harde hand regeert over het Joodse volk va
 
 <a name="LIN"></a>
 
-## <font color="#808000">**Links**</font>
+## <font color="#808000">**Link**</font>
 
 _Leren Leven Met Beelden_, nr. 16 (2010),19-22.
 
