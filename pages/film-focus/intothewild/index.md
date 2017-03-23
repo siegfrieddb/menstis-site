@@ -26,7 +26,7 @@ AUTOBIOGRAFISCHE WOORDEN. Bij het openingsbeeld van **Into the Wild** geeft Penn
 >There is a pleasure in the pathless woods;<br>
 >There is a rapture on the lonely shore;<br>
 >There is society, where none intrudes,<br>
->'By the deep sea, and music in its roar:<br>
+>By the deep sea, and music in its roar:<br>
 >I love not man the less, but Nature more.<br>
 
 De woorden zijn belangrijk in de film, maar niet zoals bij een documentaire waar in voice-over wordt verteld wat er te zien is. Sean Penn maakt van de biografie over Chris ook gedeeltelijk een _autobiografie_. Hij laat Chris zelf aan het woord. Dat gebeurt concreet door woorden die al schrijvend in gele letters verschijnen op het beeld. Dat is bijvoorbeeld het geval met de titel **Into the Wild** Het is het tweede deel van de zin die Chris zelf op het scherm schrijft: '_I now walk into the wild_.' Zijn woorden zijn gebaseerd op het schrift dat bij zijn dode lichaam is gevonden. De jonge man noteerde zijn gedachten. Sean Penn introduceert de toeschouwer met de woorden van Chris op het ogenblik dat hij in 1992 aankomt aan het eindpunt van zijn tocht: de Stampede Road, ergens in Alaska waar geen mens met een auto of ander vervoermiddel nog voorbij kan. De woorden in de vorm van _schriftbeelden_ geven aan de film zijn _meditatieve_ dimensie en doen recht aan de _beschouwelijke_ geest de Chris zelf is geweest. In een houten plank kerft hij zijn ‘onafhankelijkheidsverklaring’.
