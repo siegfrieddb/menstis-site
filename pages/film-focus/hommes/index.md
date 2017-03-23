@@ -47,6 +47,6 @@ De plaats van het gebeuren is _het klooster van Onze-Lieve-Vrouw van de Atlas in
 
 ## <font color="#808000">**Links**</font>
 
-Sylvain De Bleeckere schreef een uitgebreid essay over de historische bronnen van het docudrama, de eigen verstilde cinematografie en de thematische verdieping van de betekeniswereld die zowel handelt over de postmoderne interpretatie van het monnikenwezen als over het pacifisme en de religies in gespannen relatie tussen het christendom en de islam. Het essay verscheen als het derde, uitgebreide deel van _Men(S)tis’ Studies # 1_. Klik [hier](../blog/index.html) voor een presentatie ervan.
+Sylvain De Bleeckere schreef een uitgebreid essay over de historische bronnen van het docudrama, de eigen verstilde cinematografie en de thematische verdieping van de betekeniswereld die zowel handelt over de postmoderne interpretatie van het monnikenwezen als over het pacifisme en de religies in gespannen relatie tussen het christendom en de islam. Het essay verscheen als het derde, uitgebreide deel van _Men(S)tis’ Studies # 1_. Klik [hier](http://www.menstis.be/blog/) voor een presentatie ervan.
 
 <font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2011/2017</font>
