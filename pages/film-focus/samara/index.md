@@ -43,7 +43,7 @@ Pan Nalins **Samsara** is de eerste langspeelfilm die volledig is opgenomen in _
 
 <a name="LIN"></a>
 
-## <font color="#808000">**Link**</font>
+## <font color="#808000">**Links**</font>
 
 Het religieuze levensfenomeen van het licht speelt een hoofdrol in het derde deel van [Levensbeschouwing democratisch belicht](http://www.menstis.be/uitgeverij/Levensbeschouwing/), waar het fenomeen _De Lichtaard_ heet. 
 
