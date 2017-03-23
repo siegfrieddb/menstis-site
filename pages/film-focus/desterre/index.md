@@ -47,6 +47,6 @@ Met de filmische bewerking van Gust Van den Berghe krijgt het theaterstuk van Ti
 
 ## <font color="#808000">**Links**</font>
 
-Sylvain De Bleeckere schreef een uitgebreid essay over de achtergrond van de film in relatie tot het werk van Timmermans, een cinematografische analyse van beeld, klank en structuur en een thematische verdieping van de betekeniswereld. Het essay verscheen als het eerste, uitgebreide deel van _Men(S)tis’ Studies # 1_. Klik [hier](../blog/index.html) voor een presentatie ervan.
+Sylvain De Bleeckere schreef een uitgebreid essay over de achtergrond van de film in relatie tot het werk van Timmermans, een cinematografische analyse van beeld, klank en structuur en een thematische verdieping van de betekeniswereld. Het essay verscheen als het eerste, uitgebreide deel van _Men(S)tis’ Studies # 1_. Klik [hier](http://www.menstis.be/blog/) voor een presentatie ervan.
 
 <font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2011/2017</font>
