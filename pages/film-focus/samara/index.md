@@ -45,7 +45,7 @@ Nalin Pans film is de eerste langspeelfilm die volledig is opgenomen in Ladakh. 
 
 ## <font color="#808000">**Link**</font>
 
-Het religieuze levensfenomeen van het licht speelt een hoofdrol in het derde deel van [Levensbeschouwing democratisch belicht, deel 1](http://www.menstis.be/uitgeverij/Levensbeschouwing/)
+Het religieuze levensfenomeen van het licht speelt een hoofdrol in het derde deel van [Levensbeschouwing democratisch belicht](http://www.menstis.be/uitgeverij/Levensbeschouwing/)
 
 [Palin](https://en.wikipedia.org/wiki/Pan_Nalin).
 
