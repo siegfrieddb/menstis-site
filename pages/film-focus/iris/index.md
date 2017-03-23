@@ -46,6 +46,7 @@ Zowel in zijn oorsprong als in zijn uitwerking documenteert **Iris** een belangr
 
 ## <font color="#808000">**Links**</font>
 
+Voor de betekenis van het fenomeen 'mind' (geest) en het menszijn, zie [Levensbeschouwing democratisch belicht, deel 1](http://www.menstis.be/uitgeverij/Levensbeschouwing/).
 [Iris Murdoch Archive.](http://fass.kingston.ac.uk/research/iris-murdoch/)
 
 <font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2011/2017</font>
