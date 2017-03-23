@@ -74,7 +74,7 @@ Aldus het getuigenis van de blinde kartuizermonnik.
 
 De Bleeckere, S., _Het tijdperk van het monachisme_, in: Vanclooster, D., (red.), _De Duinenabdij van Koksijde. Cisterciënzers in de Lage Landen_. Tielt; Lannoo, pp. 12-23.
 
-De auteur situeert het fenomeen van het monachisme in het westerse fenomeen van het wereldbeeld in [Levensbeschouwing democratisch belicht, deel 1](http://www.menstis.be/uitgeverij/Levensbeschouwing/).
+De auteur situeert het fenomeen van het monachisme in het westerse fenomeen van het wereldbeeld in [Levensbeschouwing democratisch belicht](http://www.menstis.be/uitgeverij/Levensbeschouwing/).
 
 <font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2011/2017</font>.
 
