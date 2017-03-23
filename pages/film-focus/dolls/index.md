@@ -48,4 +48,4 @@ Met zijn film **Dolls** brengt Kitano de toeschouwer in contact met een belangri
 
 De Bleeckere, S., Claessens, S., _Dolls_, in CineMagie nr. 245 (winter 2003), 31-38.
 
-<font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2011/2017</font>
+<font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2011/2017</font>.
