@@ -167,3 +167,10 @@ De Bleeckere brengt films samen waar wij vooraf geen verband zien. Wij hebben do
 <div class="menstis-title"><h1>  Ignace De Wit </h1></div>
 
 Elk jaar schoonheid, en telkens weer op de weg van de verwondering terug gezet…, leven is wonder en geschenk. Dank u.
+
+***
+
+<div class="menstis-title"><h1>  Zuster Marjolein Bruinen</h1></div>
+
+_Magnificat in Em_ (2017) was het eerste evenement dat ik meegemaakt heb (ik stiet toevallig op een mededeling over de "Dag van de religieuze Film", die - weer toevallig - op een vakantiedag voor mij viel, die ik genoot na ons algemeen kapittel). Daar ik als _Dominicanes van Bethanië_ meerdere keren heb deelgenomen aan retraites met filmen, dacht ik: dat is iets voor mij. Ik heb me aangemeld en was heel benieuwd naar de gang van zaken. Nou, ik ben niet teleurgesteld - integendeel! Het was een fantastische, inspirerende, meditatieve, onrustig makende, bijzondere dag! De inleidingen bij de films door Sylvain waren subliem: ze openden je ogen en oren - en hart! - voor wat je te zien kreeg. De keuze van de films vond ik ook heel bijzonder. Als algemeen secretaris van de _UCESM_ ― Unie van religieuze congregatie van hogere oversten in Europa, d.w.z. degene, die alle hogere oversten van religieuze congregaties in Europa bij elkaar moet houden/brengen en tevens algemeen secretaresse van onze congregatie van dominicanessen van Bethanië ― wil ik de film **Ida** tonen aan elke kandidate novice, die denkt, roeping voor het kloosterleven te hebben. Je komt er diep door in contact met jezelf....En de film **The Help** tenslotte, eveneens buitengewoon actueel, maar gelukkig ook met humor - hoe zou je anders weer naar huis hebben gekund? Ik wil allen die aan De Dag hebben meegewerkt  heel hartelijk danken voor dit geweldige geschenk en heb de datum voor de volgende editie al gereserveerd!
+
