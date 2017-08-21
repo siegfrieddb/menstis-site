@@ -34,7 +34,7 @@ var Header = React.createClass({
     drop_list.push({key:'/dedag/', value:'/dedag/', text:'De Dag' })
     drop_list.push({key:'/blog/', value:'/blog/', text:'Blog' })
     drop_list.push({key:'/missie/', value:'/missie/', text:'Missie' })
-    drop_list.push({key:'/film-focus/', value:'/film-focus/', text:'Film Focus' })
+    drop_list.push({key:'/film-focus/', value:'/film-focus/', text:'FilmFocus' })
     drop_list.push({key:'/producties/', value:'/producties/', text:'Producties' })
     drop_list.push({key:'/uitgeverij/', value:'/uitgeverij/', text:'Uitgeverij' })
     var act_item = ''
@@ -89,7 +89,7 @@ var Header = React.createClass({
                   to={prefixLink('/film-focus/')}
                   className={filmfocusAct ? 'active item' : 'item'}
                 >
-                  Film Focus
+                  FilmFocus
                 </Link>
                 <Link
                   to={prefixLink('/producties/')}

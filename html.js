@@ -5,6 +5,7 @@ import { prefixLink } from 'gatsby-helpers'
 import { TypographyStyle, GoogleFont } from 'react-typography'
 import typography from './utils/typography'
 import { colors } from 'utils/colors'
+import site_icon from './favicon.ico'
 
 const BUILD_TIME = new Date().getTime()
 
@@ -39,6 +40,7 @@ module.exports = React.createClass({
             content="width=device-width, initial-scale=1.0"
           />
           <title>{title}</title>
+          <link rel="shortcut icon" href={prefixLink('./favicon.ico')}/>
           <TypographyStyle typography={typography} />
           <GoogleFont typography={typography} />
           {css} 

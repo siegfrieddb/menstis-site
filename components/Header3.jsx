@@ -109,7 +109,7 @@ class Header extends Component {
                     marginTop: rhythm(-1),
                   }}
                 >
-                  Film Focus
+                  FilmFocus
                 </Link>
                 <Link
                   to={prefixLink('/producties/')}

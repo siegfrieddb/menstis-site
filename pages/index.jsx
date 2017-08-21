@@ -52,7 +52,7 @@ const SomeReactCode = React.createClass({
                   className="item landing-item"
                   to={prefixLink('/film-focus/')}
                 >    
-                  <span className="main-menu-item"> Film Focus</span>
+                  <span className="main-menu-item"> FilmFocus</span>
                 </Link>
                 <Link 
                   className="item landing-item"
