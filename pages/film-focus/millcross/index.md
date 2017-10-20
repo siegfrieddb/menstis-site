@@ -85,7 +85,7 @@ Bruegel keert terug naar _het narratief van het evangelische Passieverhaal_. In 
 
 ## <font color="#808000">**Links**</font>
 
-De website van de film [The Mill & the Cross](ttp://www.themillandthecross.com/).
+De website van de film [The Mill & the Cross](http://www.themillandthecross.com/).
 
 
 <font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2017</font>
