@@ -1,7 +1,7 @@
 ---
 title: Agora
 ---
-![Agora](./Agora.JPG)
+![Agora](./Agora.jpg)
 
 **HET KERKGEBOUW - WEEFSEL VAN ZINGEVING**
 
