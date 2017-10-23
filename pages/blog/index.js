@@ -37,6 +37,17 @@ class BlogIndex extends React.Component {
     sortedPages.forEach((page) => {
       if (access(page, 'file.ext') === 'md' && !include(page.path, '/404') && startsWith(page.path,"/blog/") ) {
         const title = access(page, 'data.title') || page.path
+        let link = null
+        if (!access(page, 'data.linktext') ){
+          link = (<span></span>)
+        }
+        else{
+          link - (<Link target='_blank' style={style.Link} to={prefixLink(
+                  (path,linkFile) => {
+                    let index = path.lastIndexOf("/")
+                    return path.substr(0,index+1) + linkFile 
+                  })(page.path, page.data.attachment)}>{access(page, 'data.linktext') || page.path}</Link>)
+        }
         if (access(page, 'data.layout') == "post")
         { 
           pageLinks.push(
@@ -50,13 +61,8 @@ class BlogIndex extends React.Component {
                   {moment(page.data.date).calendar()}
               </div>
               <div dangerouslySetInnerHTML={{ __html: page.data.body }} /> 
-              <Link target='_blank' style={style.Link} to={prefixLink(
-                  (path,linkFile) => {
-                    let index = path.lastIndexOf("/")
-                    return path.substr(0,index+1) + linkFile 
-                  })(page.path, page.data.attachment)}>{access(page, 'data.linktext') || page.path}</Link>
-                
-
+              { link
+              }
 
                 <h1></h1>
             </li>
