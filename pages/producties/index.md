@@ -6,7 +6,7 @@ title: Producties
 ## Agora
 <img src="./Agora/Agora.jpg" >
 
-## Clair Obscur
+## Clair-Obscur
 <img src="./ClairObscur/Muzikanten.JPG" >
 
 ## De Madonna van de Tederheid
