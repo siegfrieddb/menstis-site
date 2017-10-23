@@ -5,7 +5,7 @@ title: Clair - Obscur
 
 ## Wat
 
-Clair-Obscur is een voorstelling die is gebouwd rond de uitvoering van Methode, een kamermuziekspel voor stem, viool en cello. De uitvoering wordt omkaderd door een performance met drie schilderijen. De conceptuele achtergrond van Clair-Obscur is het boek Levensbeschouwing democratisch belicht. Het geheel realiseert een levensbeschouwelijke performance.
+Clair-Obscur is een kunstvoorstelling, opgebouwd rond de uitvoering van **Methode**, een kamermuziekspel voor stem, viool en cello. De uitvoering wordt omkaderd door een **performance met drie schilderijen**. De conceptuele achtergrond van **Clair-Obscur** is het boek [Levensbeschouwing democratisch belicht](http://www.menstis.be/uitgeverij/Levensbeschouwing/). Het geheel realiseert **een levensbeschouwelijke performance**.
 
 ## Programma
 
