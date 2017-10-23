@@ -4,7 +4,7 @@ title: Producties
 
 
 ## Agora
-<img src="./Agora/agora.jpg" >
+<img src="./Agora/Agora.jpg" >
 
 ## Clair Obscur
 <img src="./ClairObscur/Muzikanten.JPG" >
