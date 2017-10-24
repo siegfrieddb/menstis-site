@@ -11,8 +11,8 @@ Heilige Magdalena Kerk, Brugge
 
 Het project is een samenwerking van Men(S)tis vzw en Yot vzw.
 
-Curator: Sylvain De Bleeckere [Men(S)tis]
-Coördinator: Koen Dekorte [Yot]
+Curator: Sylvain De Bleeckere [Men(S)tis] &
+coördinator: Koen Dekorte [Yot]
 
 Tijdens het project Agora rolt de Heilige Magdalenakerk de rode loper uit voor iedereen, klein en groot, buurtbewoner, Bruggeling en toerist. Er ontstaat _een experimentele ontmoetingsplaats_. Het project Agora doet binnen het inspirerende en historische gebouw _een zichtbaar en onzichtbaar weefsel van zingeving_ ontstaan. Dat gebeurt via de _tentoonstelling_ van hedendaagse kunst met werk van [Marleen Mertens](http://www.marleen-mertens.be/) (Humana) en [Jan De Wachter]( http://www.jandewachter.be/Intro) (De Madonna van de Tederheid), de _verhalenkamer Serafijntje_ en de _filmstudio Lichtaard_. Iedereen kan het kerkgebouw met nieuwe ogen ontdekken. 
 
