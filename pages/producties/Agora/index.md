@@ -18,7 +18,7 @@ Tijdens het project Agora rolt de Heilige Magdalenakerk de rode loper uit voor i
 
 Wie zich geroepen voelt, kan zelf met een eigen bijdrage _de agora_ mee helpen uitbouwen in de verhalenkamer of de filmstudio.
 
-Voor alle info met de presentatienota van het project, klik [hier](www.yot.be/nl/agora/410).
+Voor alle info met de presentatienota van het project, klik [hier](https://www.yot.be/nl/agora/410).
 
 
 
