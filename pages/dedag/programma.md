@@ -38,7 +38,7 @@ Het thema is **Verlos ons van het kwade!**.
                  <td valign="top">13.45  &ndash; 16.05</td>
                  <td><strong class="style1">Hacksaw Ridge </strong>(2016) <br>
                    <strong id="tonykaye">Mel Gibson</strong><br>
-                 <span class="Prijs">2 Oscars, Screen Actors Guild Award for cast</span></td>
+                 <span class="Prijs">2 Oscars, 6 Oscarnominaties</span></td>
                </tr>
                <tr>
                  <td valign="top">16.05 &ndash; 16.20</td>
@@ -51,7 +51,7 @@ Het thema is **Verlos ons van het kwade!**.
                  <td valign="top">16.30 &ndash; 18.40</td>
                  <td><strong class="style1" id="hiddenfigures">Hidden Figures </strong>(2016) <br>
                    <span id="alikaurismaki"><strong>Theodore Melfi</strong> <br>
-                   <span class="Prijs">3 Oscarnominaties</span></span></td>
+                   <span class="Prijs">3 Oscarnominaties, Screen Actors Guild Award for Cast </span></span></td>
                </tr>
             </td>
     </table>
