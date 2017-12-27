@@ -23,7 +23,7 @@ Het thema is **Verlos ons van het kwade!**.
                  <td><strong id="In dialoog met Kristof Hoornaert">In dialoog met Kristof Hoornaert</strong><br>                 </td> 
                <tr>
                  <td valign="top">10.35 &ndash; 12.25</td>
-                 <td><strong class="style1" id="legaminauv&eacute;lo">Resuurection</strong> (2017) <br>
+                 <td><strong class="style1" id="legaminauv&eacute;lo">Resurrection</strong> (2017) <br>
                    <strong>Kristof Hoornaert</strong><br>
                    <span class="Prijs">Wereldpremière Gents Filmfestival</span></td>
                </tr>
