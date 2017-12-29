@@ -42,7 +42,7 @@ class BlogIndex extends React.Component {
           link = (<span></span>)
         }
         else{
-          link - (<Link target='_blank' style={style.Link} to={prefixLink(
+          link = (<Link target='_blank' style={style.Link} to={prefixLink(
                   (path,linkFile) => {
                     let index = path.lastIndexOf("/")
                     return path.substr(0,index+1) + linkFile 
