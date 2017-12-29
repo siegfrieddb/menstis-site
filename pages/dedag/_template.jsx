@@ -10,9 +10,6 @@ import include from 'underscore.string/include'
 import startsWith from 'lodash/startsWith'
 import Breakpoint from 'components/breakpoint'
 import { Dropdown } from 'semantic-ui-react'
-import '../../css/main.css'
-//import {IndexImage} from 'components/IndexImage'
-import {TestImage} from 'components/IndImage'
 const { rhythm } = typography
 
 module.exports = React.createClass({
