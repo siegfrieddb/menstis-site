@@ -96,10 +96,10 @@ module.exports = React.createClass({
           <div
             style={{
               overflowY: 'auto',
-              paddingRight: `calc(${rhythm(1/2)} - 1px)`,
-              paddingTop:  `calc(${rhythm(1/2)} - 1px)`,
+              paddingRight: `calc(${rhythm(1/2)} - 2px)`,
+              paddingTop:  `calc(${rhythm(1/2)} - 2px)`,
               position: 'absolute',
-              width: `calc(${rhythm(12)} - 1px)`,
+              width: `calc(${rhythm(12)} - 2px)`,
               borderRight: '1px solid lightgrey',
             }}
           >

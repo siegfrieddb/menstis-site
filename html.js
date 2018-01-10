@@ -41,6 +41,9 @@ module.exports = React.createClass({
           />
           <title>{title}</title>
           <link rel="shortcut icon" href={prefixLink('./favicon.ico')}/>
+          <link rel="icon" type="image/png" sizes="32x32" href={prefixLink('./favicon-32x32.png')}/>
+          <link rel="icon" type="image/png" sizes="96x96" href={prefixLink('./favicon-96x96.png')}/>
+          <link rel="icon" type="image/png" sizes="16x16" href={prefixLink('.favicon-16x16.png')}/>
           <TypographyStyle typography={typography} />
           <GoogleFont typography={typography} />
           {css} 
