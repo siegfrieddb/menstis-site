@@ -18,7 +18,7 @@ Tijdens het project Agora rolt de Heilige Magdalenakerk de rode loper uit voor i
 
 Wie zich geroepen voelt, kan zelf met een eigen bijdrage _de agora_ mee helpen uitbouwen in de Verhalenkamer of de Filmstudio.
 
-Het project Agora is door de [Triënnale Brugge 2018](www.triennalebrugge.be) erkend en heeft het logo '_Inspired by Triennale Brugge 2018_' gekregen.
+Het project Agora is door de [Triënnale Brugge 2018](https://www.triennalebrugge.be) erkend en heeft het logo '_Inspired by Triennale Brugge 2018_' gekregen.
 
 Voor alle info met de presentatienota van het project, klik [hier](https://www.yot.be/nl/agora/410).
 
