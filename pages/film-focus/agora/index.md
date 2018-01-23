@@ -46,13 +46,9 @@ De film _Agora_ van Amenábar kadert in **een postmoderne benadering van het fen
 
 <a name="FIL"></a>
 
-## **Filmfiche**
-
-Spanje / 2009 / 126' / **regie**: Alejandro Amen�bar, **scenario**: Alejandro Amen�bar, Mateo Gil / **productie**: �lvaro Augustin & Fernando Bovaira voor Mod Producciones / **fotografie**: Xavi Gim�nez / **montage**: Nacho Ruiz Capillas / muziek: Dario Marianelli, productie designer: Guy Dyas / **vertolking**: Rachel Weisz (Hypatia), Max Minghella (Davus), Oscar Isaac (Orestes), Ashraf Barhom (Ammonius), Michael Londsdale (Theon), Synesius (Rupert Evans), Cyrillus (Sami Samir), Theophilus (Manuel Cauchi), Olympius (Richard Durden), Aspasius (Homayoun Ershadi), prefect Evagrius (Harry Borg).<a name="LIN"></a>
-
 ## <font color="#808000">**Links**</font>
 
-Sylvain De Bleeckere schreef **een uitgebreid essay over de historische achtergrond** van het docudrama, **de epische cinematografie** en **de thematische verdieping van de betekeniswereld** die zowel handelt over **het fenomeen van de gedachtenis** vooral in het licht van **het ontstaan van het christendom als officiële kerkelijke religie in Europa** en de doorwerking ervan tot op heden. Hij brengt ook de visie van de regisseur ter sprake over **de relatie tussen de religieuze machten en het geweld van de religies tegenover elkaar**. Het essay verscheen als het tweede, uitgebreide deel van **Men(S)tis’ Studies # 1**. [Voor meer](../../blog/).
+Sylvain De Bleeckere schreef **een uitgebreid essay over de historische achtergrond** van het docudrama, **de epische cinematografie** en **de thematische verdieping van de betekeniswereld** die zowel handelt over **het fenomeen van de gedachtenis** vooral in het licht van **het ontstaan van het christendom als officiële kerkelijke religie in Europa** en de doorwerking ervan tot op heden. Hij brengt ook de visie van de regisseur ter sprake over **de relatie tussen de religieuze machten en het geweld van de religies tegenover elkaar**. Het essay verscheen als het tweede, uitgebreide deel van **Men(S)tis’ Studies # 1**. [Voor meer](http://www.menstis.be/blog//).
 
-<font size="-2">� Sylvain De Bleeckere, Men(S)tis, 2011</font>
-    
+<font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2011/2017</font>
+     
