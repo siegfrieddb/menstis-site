@@ -17,4 +17,4 @@ De gekende jeugdroman **The Book Thief** (2005) van Markus Zusak kreeg een goede
 
 De Europese animatiefilm **Brendan and the Secret of Kells** (2008) van Tomm Moore stelt het historische evangelieboek **The Book of Kells**, bewaard in het Trinity College in Dublin, centraal. Sylvain De Bleeckere besteedt zowel aandacht aan het maken van de film als aan de historische achtergrond ervan en de esthetische benadering die steunt op het historische evangelieboek. 
 
-[Dossier The Book of Kells](2015-01-02-Filmdossiers/br.pdf)
+[Dossier Brendan and The Secret of Kells](2015-01-02-Filmdossiers/br.pdf)
