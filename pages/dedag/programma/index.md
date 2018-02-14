@@ -2,8 +2,8 @@
 title: Programma 2019
 ---
 
-Het programma van de volgende, **de 28ste editie**, verschrijnt hier begin januari 2019. Dit is het programma van **de 27ste editie** die plaats vond op **krokusmaandag 12 februari 2018**. 
-Het thema was **Verlos ons van het kwade!**. Het thema kreeg inhoud via de volgende drie films. Het was het eerste luik van een triptiek over _Het Onze Vader_. De volgende editie met het tweede luik van de thematische triptiek vindt plaats op krokusmaandag **4 maart 2019**.
+Het programma van de volgende, **de 28ste editie**, verschijnt hier begin januari 2019. Hieronder vind je het programma van **de 27ste editie** die plaats vond op **krokusmaandag 12 februari 2018**. 
+Het thema was **Verlos ons van het kwade!**. Het thema kreeg inhoud via de hier vermelde films. Het was het eerste luik van een triptiek over _Het Onze Vader_. De volgende editie met het tweede luik van de thematische triptiek vindt plaats op krokusmaandag **4 maart 2019**.
 
 <img src= "re.jpg">
 
