@@ -22,6 +22,10 @@ Het project Agora is door de [Triënnale Brugge 2018](https://www.triennalebrugg
 
 Voor alle info met de presentatienota van het project, klik [hier](https://www.yot.be/nl/agora/410).
 
+Voor de filmpjes van Project Agora, Filmstudio Lichtaard, klik [hier](./AgoraMovies/).
+
+
+
 
 
 
