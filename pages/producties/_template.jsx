@@ -9,7 +9,7 @@ import typography from 'utils/typography'
 import include from 'underscore.string/include'
 import startsWith from 'lodash/startsWith'
 import Header from 'components/Header'
- 
+import { Dropdown } from 'semantic-ui-react'
 const { rhythm } = typography
 
 module.exports = React.createClass({
@@ -24,12 +24,14 @@ module.exports = React.createClass({
   handleTopicChange (e) {
     return this.context.router.push(e.target.value)
   },
-
+  handleDropDown (e,data) {
+    return this.context.router.push(data.value)
+  },
   render () {
    
 
     const pageLinks = []
-    const pageOptions = []
+    const dropDown = []
     // Sort pages.
     const pages = this.props.route.pages
     pages.forEach((page) => {
@@ -48,19 +50,7 @@ module.exports = React.createClass({
             </Link>
           </li>
         )
-        pageOptions.push(
-           <li
-            key={page.path}
-            style={{
-              marginBottom: rhythm(1/4),
-            }}
-          >
-            <Link style={{boxShadow: 'none'}} to={prefixLink(page.path)}>
-                    {isActive ? <strong>{title}</strong> : title}
-            </Link>
-          </li>
-
-        )
+        dropDown.push({ key:page.path, value:page.path, text:title} )
       }
     })
     return (
@@ -101,17 +91,15 @@ module.exports = React.createClass({
           
         </Breakpoint>
         <Breakpoint>
-          <strong>Onderwerpen:</strong>
-          {' '}
-          <select
-            defaultValue={this.props.location.pathname}
-            onChange={this.handleTopicChange}
-          >
-            {pageOptions}
-          </select>
+
+        <div style={{ paddingLeft:'15px'}} >
+          <Dropdown  defaultValue={this.props.location.pathname} fluid search selection  
+                    options={dropDown}  onChange={this.handleDropDown}
+
+          />
+         </div>
           <br />
-          <br />
-          
+          {this.props.children}
         </Breakpoint>
         
       </div>
