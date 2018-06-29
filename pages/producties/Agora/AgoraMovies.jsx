@@ -24,6 +24,7 @@ const FilmFocus = React.createClass({
     },
   },
 
+  
 
   onImageClick(e, el) {
     browserHistory.push(prefixLink(el))
