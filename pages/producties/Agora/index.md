@@ -20,9 +20,11 @@ Wie zich geroepen voelt, kan zelf met een eigen bijdrage _de agora_ mee helpen u
 
 Het project Agora is door de [Triënnale Brugge 2018](https://www.triennalebrugge.be) erkend en heeft het logo '_Inspired by Triennale Brugge 2018_' gekregen.
 
-Voor alle info met de presentatienota van het project, klik [hier](https://www.yot.be/nl/agora/410).
+Voor alle info over het project, klik [hier](https://www.yot.be/nl/agora/410).
 
-Voor de filmpjes van Project Agora, Filmstudio Lichtaard, klik [hier](./AgoraMovies/).
+De kortfilm **PelgrImage** van Sylvain De Bleeckere en Kristof Hoornaert is in juni 2018 gerealiseerd naar aanleiding van het Project Agora. Het is [hier](./AgoraMovies/) te bekijken. Ook andere filmpjes van het Project, gerealiseerd in het kader van Filmstudio Lichtaard, één van de activiteiten van Project Agora, zijn ook [hier](./AgoraMovies/) te bekijken van zodra ze ons worden bezorgd.
+
+
 
 
 
