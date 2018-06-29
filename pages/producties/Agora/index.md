@@ -22,7 +22,7 @@ Het project Agora is door de [Triënnale Brugge 2018](https://www.triennalebrugg
 
 Voor alle info over het project, klik [hier](https://www.yot.be/nl/agora/410).
 
-De kortfilm **PelgrImage** van Sylvain De Bleeckere en Kristof Hoornaert is in juni 2018 gerealiseerd naar aanleiding van het Project Agora. Het is [hier](./AgoraMovies/) te bekijken. Ook andere filmpjes van het Project, gerealiseerd in het kader van Filmstudio Lichtaard, één van de activiteiten van Project Agora, zijn ook [hier](./AgoraMovies/) te bekijken van zodra ze ons worden bezorgd.
+De kortfilm **PelgrImage** van Sylvain De Bleeckere en Kristof Hoornaert is in juni 2018 gerealiseerd naar aanleiding van het Project Agora. Het filmpje is [hier](./AgoraMovies/) te bekijken. Ook andere filmpjes van het Project, gerealiseerd in het kader van Filmstudio Lichtaard, één van de activiteiten van Project Agora, zijn ook [hier](./AgoraMovies/) te bekijken van zodra ze ons worden bezorgd.
 
 
 
