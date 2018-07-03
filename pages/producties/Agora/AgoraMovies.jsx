@@ -34,7 +34,7 @@ const FilmFocus = React.createClass({
     const movieLinks = []
     
     
-    movieLinks.push("https://youtu.be/eH2X9Hq8Uo4")
+    movieLinks.push("https://www.youtube.com/embed/eH2X9Hq8Uo4")
     
     
     
@@ -52,8 +52,8 @@ const FilmFocus = React.createClass({
             line.forEach( (el, idx) => {
             gridMovies.push((               
             <div className="column"> 
-            <iframe width="350" height="200" src= {el+"hl=en_US&amp;fs=0&amp;rel=0&amp;hd=0&amp;loop=1&amp;showinfo=0&amp;cc_load_policy=0&amp;showsearch=0"} frameborder="0" allowfullscreen></iframe>
-            
+            <iframe frameborder="0" allowfullscreen width="350" height="200" src= {el+"?hl=en_US&amp;fs=0&amp;rel=0&amp;hd=0&amp;loop=1&amp;showinfo=0&amp;cc_load_policy=0&amp;showsearch=0"} ></iframe>
+            {/*<iframe width="350" height="200" src= {el} frameborder="0" allowfullscreen></iframe>*/}
             {/*
             <iframe width="350" height="200" src="https://www.youtube.com/embed/eHkUbYKncCE?modestbranding=1&amp;title=test&amp;rel=0&amp;controls=0&amp;" frameborder="0" allowfullscreen></iframe>
             <iframe width="350" height="200" src="https://www.youtube.com/embed/eHkUbYKncCE?modestbranding=1&amp;title=test&amp;rel=0&amp;controls=0&amp;" frameborder="0" allowfullscreen></iframe>
