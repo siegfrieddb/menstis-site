@@ -21,16 +21,16 @@ title: PilgrImage
 
 ## <font color="#808000">**Cinematografie**</font>
 
-<span class="menstis">BUNRAKU</span>. 
+<span class="menstis">B</span>. 
 
-<span class="menstis">KOSTUMERING</span>. 
+<span class="menstis"></span>. 
 
-<span class="menstis">NATUURBEELDEN</span>. 
+<span class="menstis">N</span>. 
 
 
 ## <font color="#808000">**Betekenisruimte**</font>
 
-<span class="menstis">OFFERBEELD</span>. 
+<span class="menstis">O</span>. 
 
 
 <a name="CON"></a>
