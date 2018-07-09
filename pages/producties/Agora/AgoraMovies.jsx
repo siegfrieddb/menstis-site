@@ -32,9 +32,10 @@ const FilmFocus = React.createClass({
   render () {
     var movies = []
     const movieLinks = []
+    const movieTitles = []
     
-    
-    movieLinks.push("https://youtu.be/zG_OGGv9NZ0")
+    movieLinks.push("https://www.youtube.com/embed/zG_OGGv9NZ0")
+    movieTitles.push("PilgrImage")
     
     
     
@@ -46,14 +47,18 @@ const FilmFocus = React.createClass({
         gridMovies = (<div><h1></h1><p>Van zodra het eerste filmpje beschikbaar is, zal het hier verschijnen</p></div>)
     }
     else{
+        var i = 0
         while (movieLinks.length > 0){
             
             var line = movieLinks.splice(0,1);
             line.forEach( (el, idx) => {
             gridMovies.push((               
             <div className="column"> 
+            <iframe style={{"margin-bottom": "-10px" }} frameborder="0" allowfullscreen width="360" height="200" src= {el+"?hl=en_US&amp;fs=0&amp;rel=0&amp;hd=0&amp;loop=1&amp;showinfo=0&amp;cc_load_policy=0&amp;showsearch=0"} ></iframe>
+            <div style={{"font-size": "small"}}>{movieTitles[i]}</div>
+            {/*
             <iframe frameborder="0" allowfullscreen width="350" height="200" src= {el+"?hl=en_US&amp;fs=0&amp;rel=0&amp;hd=0&amp;loop=1&amp;showinfo=0&amp;cc_load_policy=0&amp;showsearch=0"} ></iframe>
-            {/*<iframe width="350" height="200" src= {el} frameborder="0" allowfullscreen></iframe>*/}
+            <iframe width="350" height="200" src= {el} frameborder="0" allowfullscreen></iframe>*/}
             {/*
             <iframe width="350" height="200" src="https://www.youtube.com/embed/eHkUbYKncCE?modestbranding=1&amp;title=test&amp;rel=0&amp;controls=0&amp;" frameborder="0" allowfullscreen></iframe>
             <iframe width="350" height="200" src="https://www.youtube.com/embed/eHkUbYKncCE?modestbranding=1&amp;title=test&amp;rel=0&amp;controls=0&amp;" frameborder="0" allowfullscreen></iframe>
@@ -63,6 +68,7 @@ const FilmFocus = React.createClass({
 */}
             </div>))  
             })  
+            i += 1
         }
     }
     return (
