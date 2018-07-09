@@ -34,7 +34,7 @@ const FilmFocus = React.createClass({
     const movieLinks = []
     
     
-    movieLinks.push("https://www.youtube.com/embed/eH2X9Hq8Uo4")
+    movieLinks.push("https://youtu.be/zG_OGGv9NZ0")
     
     
     
