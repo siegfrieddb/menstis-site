@@ -20,27 +20,31 @@ Een pelgrim (m/v) komt aan in een katholieke kerk. De pelgrim neemt verwonderd h
 
 ## <font color="#808000">**Cinematografie**</font>
 
-<span class="menstis"></span>. 
+<span class="menstis">HET PAD VAN DE LEVENSBESCHOUWING.</span>. 
 
-<span class="menstis"></span>. 
+<span class="menstis">SOUNDDESIGN.</span>. 
 
-<span class="menstis"></span>. 
+<span class="menstis">MENTALE BEE(LD)WEG.</span>. 
 
 
 ## <font color="#808000">**Betekenisruimte**</font>
 
-<span class="menstis"></span>. 
+<span class="menstis">HET KERKGEBOUW ALS ZONE VAN ZIN.</span>. 
 
+<span class="menstis">TUSSEN ALFA EN OMEGA.</span>.
+
+<span class="menstis">BEELDGEBED.</span>.
 
 <a name="CON"></a>
 
 ## <font color="#808000">**Context**</font>
 
+Ook al kan **PilgrImage** op zichzelf worden bekeken en beleefd als meditatie en/of gebed, het maakt ook deel uit van een breder maatschappelijk en cultureel kader. Het betreft namelijk de zoektocht naar de herstemming van de katholieke parochiekerk, in de eerste plaats in Vlaanderen, maar ook elders in de katholieke landen of regio’s in Europa. Het onderzoekswerk van Sylvain De Bleeckere en Roel De Ridder, gepubliceerd in _Het open kerkgebouw. Verleden, heden en toekomst van het kerkgebouw in Vlaanderen_ (Pelckmans, 2014), heeft voor het eerst die thematiek duidelijk geformuleerd. Het _Project Agora_ van Men(S)tis, in samenwerking met Yot, zet via een creatieve benadering een stap verder richting toekomst. In die richting wijst **PelgrImage**.
 
 <a name="LIN"></a>
 
 ## <font color="#808000">**Links**</font>
 
-
+Zie de sites van [Kristof Hoornaert](https://www.kristofhoornaert.com/), [Marleen Mertens](http://www.marleen-mertens.be/metafora.php) en [Jan De Wachter](http://www.jandewachter.be/Intro)
 
 <font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2018</font>.
