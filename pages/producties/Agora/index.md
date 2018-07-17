@@ -17,7 +17,7 @@ Men(S)tis ontwikkelt vanaf 2018 het Project AGORA in VLaamse parochiekerken in n
 
 ><span style="color:blue">Curator</span>: Sylvain De Bleeckere [Men(S)tis]
 
-<span style="color:blue">Coördinator</span>: Koen Dekorte [Yot]
+><span style="color:blue">Coördinator</span>: Koen Dekorte [Yot]
 
 ><span style="color:blue">Uitgebreide info</span> over het Project, met onder andere, de presentatienota, klik [hier](https://www.yot.be/nl/agora/410).
 
