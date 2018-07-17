@@ -30,7 +30,7 @@ Een pelgrim (m/v) komt aan in een katholieke kerk. De pelgrim neemt verwonderd h
 
 ## <font color="#808000">**Cinematografie**</font>
 
-<span class="menstis">VOETSTAPPENMOVIE IN TRIPTIEKVORM.</span>. De _proloog_ van **PilgrImage** opent met een triptiek. Centraal verschijnt het beeld _Humana_, symmetrisch gekadreerd in de neogotische binnenzijde van de deuropening van de kerk. Links en rechts zijn bewegende beelden van het water waarop Humana zicht bevindt. Links weerspiegelt een brandglasraam het zonlicht dat speelt op het rimpelende wateroppervlak. Rechts kleurt het water blauwig door de weerkaatsing van het kleed van Humana op de waterspiegel. Dat blauw ontstaat door de werking van de spots die mede _Humana_ belichten. De pelgrim hoort het ruizen van de wind en het stromen van het water. 
+<span style="color:darkkhaki">VOETSTAPPENMOVIE IN TRIPTIEKVORM</span>. De _proloog_ van **PilgrImage** opent met een triptiek. Centraal verschijnt het beeld _Humana_, symmetrisch gekadreerd in de neogotische binnenzijde van de deuropening van de kerk. Links en rechts zijn bewegende beelden van het water waarop Humana zicht bevindt. Links weerspiegelt een brandglasraam het zonlicht dat speelt op het rimpelende wateroppervlak. Rechts kleurt het water blauwig door de weerkaatsing van het kleed van Humana op de waterspiegel. Dat blauw ontstaat door de werking van de spots die mede _Humana_ belichten. De pelgrim hoort het ruizen van de wind en het stromen van het water. 
 
 >Dan volgt er een _fade out_ naar een zwart totaalbeeld waarop de titel verschijnt. In het midden van het Engelse woord _pilgrimage_ staat de hoofdletter _I_ waardoor er een woordbeeld ontstaat waarvan het tweede deel bestaat uit het woord _Image_ (beeld). 
 
@@ -49,7 +49,7 @@ Een pelgrim (m/v) komt aan in een katholieke kerk. De pelgrim neemt verwonderd h
 >Laatste _fade out_. Dan volgt nog het beeld met eindgeneriek.
 
 
-<span class="menstis">SOUNDDESIGN.</span>. **PilgrImage** heeft een autonome klankband die zelf als een triptiek is opgebouwd. Er komen geen geluiden voor van de stappende pelgrim. Wel begeleidt een eigen soundtrack zijn weg in de kerk. 
+<span class="menstis">SOUNDDESIGN</span>. **PilgrImage** heeft een autonome klankband die zelf als een triptiek is opgebouwd. Er komen geen geluiden voor van de stappende pelgrim. Wel begeleidt een eigen soundtrack zijn weg in de kerk. 
 
 >Die bestaat in hoofdzaak uit het in _het Russisch gebeden Mariagebed_. Dat vormt het middelluik van de klankband. De keuze van het gebed is van kunstenaar Jan De Wachter die het als kind van zijn vader heeft geleerd. De Nederlandse tekst is de volgende:
 
@@ -58,16 +58,16 @@ Een pelgrim (m/v) komt aan in een katholieke kerk. De pelgrim neemt verwonderd h
 >Dat middenluik van de klankband wordt geflankeerd door een klankmontage van het _geluid van de wind die waait in hoge bomen en dat van de golven van de zee_. Die klankmontage begeleidt de proloog, alsook de sequenties die volgen na de beschouwing van _De traan_.
 
 
-<span class="menstis">MENTALE BEE(LD)WEG.</span>. 
+<span class="menstis"></span>. 
 
 
 ## <font color="#808000">**Betekenisruimte**</font>
 
-<span class="menstis">HET KERKGEBOUW ALS ZONE VAN ZIN.</span>. 
+<span class="menstis">HET KERKGEBOUW ALS ZONE VAN ZIN</span>. 
 
-<span class="menstis">TUSSEN ALFA EN OMEGA.</span>.
+<span class="menstis">TUSSEN ALFA EN OMEGA</span>.
 
-<span class="menstis">BEELDGEBED.</span>.
+<span class="menstis">BEELDGEBED</span>.
 
 <a name="CON"></a>
 
