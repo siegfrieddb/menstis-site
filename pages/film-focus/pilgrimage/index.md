@@ -49,11 +49,11 @@ Een pelgrim (m/v) komt aan in een katholieke kerk. De pelgrim neemt verwonderd h
 >Laatste _fade out_. Dan volgt nog het beeld met eindgeneriek.
 
 
-<span style="color:darkkhaki">**SOUNDDESIGN**</span>. **PilgrImage** heeft een autonome klankband die zelf als een triptiek is opgebouwd. Er komen geen geluiden voor van de stappende pelgrim. Wel begeleidt een eigen soundtrack zijn weg in de kerk. 
+<span style="color:darkkhaki">**SOUNDDESIGN**</span>. <span style="color:blue">**PilgrImage**</span> heeft een autonome klankband die zelf als een triptiek is opgebouwd. Er komen geen geluiden voor van de stappende pelgrim. Wel begeleidt een eigen soundtrack zijn weg in de kerk. 
 
 >Die bestaat in hoofdzaak uit het in _het Russisch gebeden Mariagebed_. Dat vormt het middelluik van de klankband. De keuze van het gebed is van kunstenaar Jan De Wachter die het als kind van zijn vader heeft geleerd. De Nederlandse tekst is de volgende:
 
->><span style="color:skyblue">_Heilige Maria, vol van tedere toewijding. Gedenk dat nooit iemand tevergeefs tot u zijn toevlucht nam, uw hulp inriep, om uw bijstand verzocht. Vervuld van dat vertrouwen in u, kom ik tot u, nader ik, sta ik smekend voor uw voeten. O, Moeder van het vleesgeworden Woord, versmaad mijn gebeden niet, aanhoor mijn smeken en wees mij genadig. Amen_</span>
+>><span style="color:aqua">_Heilige Maria, vol van tedere toewijding. Gedenk dat nooit iemand tevergeefs tot u zijn toevlucht nam, uw hulp inriep, om uw bijstand verzocht. Vervuld van dat vertrouwen in u, kom ik tot u, nader ik, sta ik smekend voor uw voeten. O, Moeder van het vleesgeworden Woord, versmaad mijn gebeden niet, aanhoor mijn smeken en wees mij genadig. Amen_</span>
 
 >Dat middenluik van de klankband wordt geflankeerd door een klankmontage van het _geluid van de wind die waait in hoge bomen en dat van de golven van de zee_. Die klankmontage begeleidt de proloog, alsook de sequenties die volgen na de beschouwing van _De traan_.
 
@@ -79,7 +79,7 @@ Een pelgrim (m/v) komt aan in een katholieke kerk. De pelgrim neemt verwonderd h
 
 ## <font color="#808000">**Context**</font>
 
-Ook al kan **PilgrImage** op zichzelf worden bekeken en beleefd als meditatie en/of gebed, het maakt ook deel uit van een breder maatschappelijk en cultureel kader. Het betreft namelijk de zoektocht naar de herstemming van de katholieke parochiekerk, in de eerste plaats in Vlaanderen, maar ook elders in de katholieke landen of regio’s in Europa. Het onderzoekswerk van Sylvain De Bleeckere en Roel De Ridder, gepubliceerd in _Het open kerkgebouw. Verleden, heden en toekomst van het kerkgebouw in Vlaanderen_ (Pelckmans, 2014), heeft voor het eerst die thematiek duidelijk geformuleerd. Het _Project Agora_ van Men(S)tis, in samenwerking met Yot, zet via een creatieve benadering een stap verder richting toekomst. In die richting wijst **PelgrImage**.
+Ook al kan <span style="color:blue">**PilgrImage**</span> op zichzelf worden bekeken en beleefd als meditatie en/of gebed, het maakt ook deel uit van een breder maatschappelijk en cultureel kader. Het betreft namelijk de zoektocht naar de herstemming van de katholieke parochiekerk, in de eerste plaats in Vlaanderen, maar ook elders in de katholieke landen of regio’s in Europa. Het onderzoekswerk van Sylvain De Bleeckere en Roel De Ridder, gepubliceerd in _Het open kerkgebouw. Verleden, heden en toekomst van het kerkgebouw in Vlaanderen_ (Pelckmans, 2014), heeft voor het eerst die thematiek duidelijk geformuleerd. Het _Project Agora_ van Men(S)tis, in samenwerking met Yot, zet via een creatieve benadering een stap verder richting toekomst. In die richting wijst **PelgrImage**.
 
 <a name="LIN"></a>
 
