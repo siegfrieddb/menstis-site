@@ -13,7 +13,7 @@ De kortfilm [PilgrImage](http://www.menstis.be/producties/Agora/AgoraMovies/) is
 
 >Met minimale middelen en veel creativiteit maakten ze de opnames in de _Heilige Magdalenakerk_ (Brugge) op 25 juni 2018, met in de hoofdrol het kerkgebouw en tal van vaste en tijdelijke beelden. Het filmpje ging in première op _de website van Men(S)tis_ op 3 juli 2018. De opnames kaderden in het [Project Agora](http://www.menstis.be/producties/Agora/) (Brugge, mei-september 2018). 
 
->Enkele kunstwerken die in het kader ervan werden gerealiseerd en getoond, maken deel uit van **PilgrImage**. Het betreft: _Humana_ van Marleen Mertens en in volgorde van verschijning de volgende werken van Jan De Wachter: de tekening _Madonna en de slapende geliefde_, het doek _Verlatenheid_, de beelden _Solus_ en _De traan_, het tapijt _Liefdeslabyrint - Allegorie van het leven_, de bewerkte botscan _Ecce Homo_ en het schilderij _De Madonna van de Tederheid_. 
+>Enkele kunstwerken die in het kader ervan werden gerealiseerd en getoond, maken deel uit van <span style="color:blue">**PilgrImage**</span>. Het betreft: _Humana_ van Marleen Mertens en in volgorde van verschijning de volgende werken van Jan De Wachter: de tekening _Madonna en de slapende geliefde_, het doek _Verlatenheid_, de beelden _Solus_ en _De traan_, het tapijt _Liefdeslabyrint - Allegorie van het leven_, de bewerkte botscan _Ecce Homo_ en het schilderij _De Madonna van de Tederheid_. 
 
 >Kristof Hoornaert bediende de camera van een eenvoudig Panasonic fototoestel, en verzorgde, in overleg met Sylvain De Bleeckere, de montage. 
 
@@ -30,7 +30,7 @@ Een pelgrim (m/v) komt aan in een katholieke kerk. De pelgrim neemt verwonderd h
 
 ## <font color="#808000">**Cinematografie**</font>
 
-<span style="color:darkkhaki">**VOETSTAPPENMOVIE IN TRIPTIEKVORM**</span>. De _proloog_ van **PilgrImage** opent met een triptiek. Centraal verschijnt het beeld _Humana_, symmetrisch gekadreerd in de neogotische binnenzijde van de deuropening van de kerk. Links en rechts zijn bewegende beelden van het water waarop Humana zicht bevindt. Links weerspiegelt een brandglasraam het zonlicht dat speelt op het rimpelende wateroppervlak. Rechts kleurt het water blauwig door de weerkaatsing van het kleed van Humana op de waterspiegel. Dat blauw ontstaat door de werking van de spots die mede _Humana_ belichten. De pelgrim hoort het ruizen van de wind en het stromen van het water. 
+<span style="color:darkkhaki">**VOETSTAPPENMOVIE IN TRIPTIEKVORM**</span>. De _proloog_ van <span style="color:blue">**PilgrImage**</span> opent met een triptiek. Centraal verschijnt het beeld _Humana_, symmetrisch gekadreerd in de neogotische binnenzijde van de deuropening van de kerk. Links en rechts zijn bewegende beelden van het water waarop Humana zicht bevindt. Links weerspiegelt een brandglasraam het zonlicht dat speelt op het rimpelende wateroppervlak. Rechts kleurt het water blauwig door de weerkaatsing van het kleed van Humana op de waterspiegel. Dat blauw ontstaat door de werking van de spots die mede _Humana_ belichten. De pelgrim hoort het ruizen van de wind en het stromen van het water. 
 
 >Dan volgt er een _fade out_ naar een zwart totaalbeeld waarop de titel verschijnt. In het midden van het Engelse woord _pilgrimage_ staat de hoofdletter _I_ waardoor er een woordbeeld ontstaat waarvan het tweede deel bestaat uit het woord _Image_ (beeld). 
 
@@ -44,7 +44,7 @@ Een pelgrim (m/v) komt aan in een katholieke kerk. De pelgrim neemt verwonderd h
 
 >Na enige aarzeling merkt de pelgrim een _open gang_ die helemaal donker is. Hij stapt de donkerte in. _Fade out_. Ook het beeld ‘kleurt’ (opnieuw) donker. 
 
->Dan licht uit die duisternis de _epiloog_ van **PilgrImage**. Het is een totaalbeeld op met de _Madonna van de Tederheid_ die zich in de kamer bevindt die de pelgrim heeft betreden via de donkere gang. De triptiek is weg, er is nu enkel het totaalbeeld van de _Madonna van de Tederheid_ met links en rechts een brandende kaars. De camera neemt de positie in van de beschouwende pelgrim die aan het einde van zijn weg is gekomen. 
+>Dan licht uit die duisternis de _epiloog_ van <span style="color:blue">**PilgrImage**</span>. Het is een totaalbeeld op met de _Madonna van de Tederheid_ die zich in de kamer bevindt die de pelgrim heeft betreden via de donkere gang. De triptiek is weg, er is nu enkel het totaalbeeld van de _Madonna van de Tederheid_ met links en rechts een brandende kaars. De camera neemt de positie in van de beschouwende pelgrim die aan het einde van zijn weg is gekomen. 
 
 >Laatste _fade out_. Dan volgt nog het beeld met eindgeneriek.
 
@@ -53,7 +53,7 @@ Een pelgrim (m/v) komt aan in een katholieke kerk. De pelgrim neemt verwonderd h
 
 >Die bestaat in hoofdzaak uit het in _het Russisch gebeden Mariagebed_. Dat vormt het middelluik van de klankband. De keuze van het gebed is van kunstenaar Jan De Wachter die het als kind van zijn vader heeft geleerd. De Nederlandse tekst is de volgende:
 
->>_Heilige Maria, vol van tedere toewijding. Gedenk dat nooit iemand tevergeefs tot u zijn toevlucht nam, uw hulp inriep, om uw bijstand verzocht. Vervuld van dat vertrouwen in u, kom ik tot u, nader ik, sta ik smekend voor uw voeten. O, Moeder van het vleesgeworden Woord, versmaad mijn gebeden niet, aanhoor mijn smeken en wees mij genadig. Amen_
+>><span style="color:skyblue">_Heilige Maria, vol van tedere toewijding. Gedenk dat nooit iemand tevergeefs tot u zijn toevlucht nam, uw hulp inriep, om uw bijstand verzocht. Vervuld van dat vertrouwen in u, kom ik tot u, nader ik, sta ik smekend voor uw voeten. O, Moeder van het vleesgeworden Woord, versmaad mijn gebeden niet, aanhoor mijn smeken en wees mij genadig. Amen_</span>
 
 >Dat middenluik van de klankband wordt geflankeerd door een klankmontage van het _geluid van de wind die waait in hoge bomen en dat van de golven van de zee_. Die klankmontage begeleidt de proloog, alsook de sequenties die volgen na de beschouwing van _De traan_.
 
