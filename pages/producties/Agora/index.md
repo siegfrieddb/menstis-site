@@ -7,7 +7,7 @@ Men(S)tis ontwikkelt vanaf 2018 het Project AGORA in VLaamse parochiekerken in n
 
 <span style="color:fuchsia">**P I L O O T P R O J E C T**</span>
 
-<span style="color:blue">**H. MAGDALENAKERK VAN BRUGGE**</span>
+<span style="color:blue">**HEILIGE MAGDALENAKERK BRUGGE**</span>
 
 ><span style="color:blue">Thema</span>: _HET KERKGEBOUW - WEEFSEL VAN ZINGEVING_
 
