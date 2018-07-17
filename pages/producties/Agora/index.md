@@ -5,7 +5,7 @@ title: Agora
 
 Men(S)tis ontwikkelt vanaf 2018 het Project AGORA in VLaamse parochiekerken in nauwe samenwerking met de plaatselijke verantwoordelijkheden. De eerste editie vindt plaats in Brugge. Heb je interesse om het Project AGORA in je parochiekerk te realiseren als een middel tot reflectie over de toekomst van het kerkgbouw in de lokale gemeenschap, neem vrijblijvend contact met Men(S)tis vzw via info@menstis.be
 
-<span style="color:blue">**P I L O O T P R O J E C T**</span>
+<span style="color:fuchsia">**P I L O O T P R O J E C T**</span>
 
 <span style="color:blue">**H. MAGDALENAKERK VAN BRUGGE**</span>
 
