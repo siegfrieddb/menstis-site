@@ -30,9 +30,9 @@ Een pelgrim (m/v) komt aan in een katholieke kerk. De pelgrim neemt verwonderd h
 
 ## <font color="#808000">**Cinematografie**</font>
 
-<span style="color:darkkhaki">**VOETSTAPPENMOVIE IN TRIPTIEKVORM**</span>. De _proloog_ van <span style="color:blue">**PilgrImage**</span> opent met een triptiek. Centraal verschijnt het beeld _Humana_, symmetrisch gekadreerd in de neogotische binnenzijde van de deuropening van de kerk. Links en rechts zijn bewegende beelden van het water waarop Humana zicht bevindt. Links weerspiegelt een brandglasraam het zonlicht dat speelt op het rimpelende wateroppervlak. Rechts kleurt het water blauwig door de weerkaatsing van het kleed van Humana op de waterspiegel. Dat blauw ontstaat door de werking van de spots die mede _Humana_ belichten. De pelgrim hoort het ruizen van de wind en het stromen van het water. 
+<span style="color:darkkhaki">**VOETSTAPPENMOVIE IN TRIPTIEKVORM**</span>. De _proloog_ van <span style="color:blue">**PilgrImage**</span> opent met een triptiek. Centraal verschijnt het beeld _Humana_, symmetrisch gekadreerd in de neogotische binnenzijde van de deuropening van de kerk. Links en rechts zijn bewegende beelden van het water waarop _Humana_ zicht bevindt. Links weerspiegelt een brandglasraam het zonlicht dat speelt op het rimpelende wateroppervlak. Rechts kleurt het water blauwig door de weerkaatsing van het kleed van _Humana_ op de waterspiegel. Dat blauw ontstaat door de werking van de spots die mede _Humana_ belichten. De pelgrim (m/v) hoort het ruizen van de wind en het stromen van het water. 
 
->Dan volgt er een _fade out_ naar een zwart totaalbeeld waarop de titel verschijnt. In het midden van het Engelse woord _pilgrimage_ staat de hoofdletter _I_ waardoor er een woordbeeld ontstaat waarvan het tweede deel bestaat uit het woord _Image_ (beeld). 
+>Dan volgt er een _fade out_ naar een zwart totaalbeeld waarop de titel verschijnt. In het midden van het Engelse woord _pilgrimage_ staat de hoofdletter _I_ waardoor er een woordbeeld ontstaat waarvan het tweede deel bestaat uit het woord _Image_ (het Engelse woord voor _beeld_). 
 
 >Uit het donker van de _nieuwe fade out_ na de titel verschijnt de triptiek terug. Van dan af begint het pad van de pelgrim. Zijn stem weerklinkt op de geluidsband. Hij bidt het Mariagebed in het Russisch. Bij de eerste aanbidding van ‘Maria’ komen links en rechts details van de tekening _Madonna en de slapende geliefde_ in beeld. Zo wordt het beeld _Humana_, nu gefilmd op de rug tegen de achtergrond van het priesterkoor met de grote glasramen, gekoppeld aan dat van de _Madonna_. De triptiek brengt beide beelden samen. Humana wijst de pelgrim naar de richting van het priesterkoor waar zich in een zijkapel de _Madonna van de Tederheid_ bevindt. 
 
@@ -49,23 +49,23 @@ Een pelgrim (m/v) komt aan in een katholieke kerk. De pelgrim neemt verwonderd h
 >Laatste _fade out_. Dan volgt nog het beeld met eindgeneriek.
 
 
-<span style="color:darkkhaki">**SOUNDDESIGN**</span>. <span style="color:blue">**PilgrImage**</span> heeft een autonome klankband die zelf als een triptiek is opgebouwd. Er komen geen geluiden voor van de stappende pelgrim. Wel begeleidt een eigen soundtrack zijn weg in de kerk. 
+<span style="color:darkkhaki">**SOUNDDESIGN**</span>. <span style="color:blue">**PilgrImage**</span> heeft een autonome klankband die zelf als een triptiek is opgebouwd. Er komen geen geluiden voor van de stappende pelgrim (m/v). Wel begeleidt een eigen soundtrack zijn weg in de kerk. 
 
 >Die bestaat in hoofdzaak uit het in _het Russisch gebeden Mariagebed_. Dat vormt het middelluik van de klankband. De keuze van het gebed is van kunstenaar Jan De Wachter die het als kind van zijn vader heeft geleerd. De Nederlandse tekst is de volgende:
 
 >><span style="color:olive">_Heilige Maria, vol van tedere toewijding. Gedenk dat nooit iemand tevergeefs tot u zijn toevlucht nam, uw hulp inriep, om uw bijstand verzocht. Vervuld van dat vertrouwen in u, kom ik tot u, nader ik, sta ik smekend voor uw voeten. O, Moeder van het vleesgeworden Woord, versmaad mijn gebeden niet, aanhoor mijn smeken en wees mij genadig. Amen_</span>
 
->Dat middenluik van de klankband wordt geflankeerd door een klankmontage van het _geluid van de wind die waait in hoge bomen en dat van de golven van de zee_. Die klankmontage begeleidt de proloog, alsook de sequenties die volgen na de beschouwing van _De traan_.
-
-
-<span class="menstis"></span>. 
-
+>Dat middenluik van de klankband wordt geflankeerd door een klankmontage van het _geluid van de wind die waait in hoge bomen en dat van de golven van de zee_. Die klankmontage begeleidt de proloog, alsook de sequenties die volgen na de beschouwing van _De traan_ en leiden naar de kamer met _De Madonna van de Tederheid_.
 
 ## <font color="#808000">**Betekenisruimte**</font>
 
-<span style="color:darkkhaki">**HET KERKGEBOUW ALS FEMINIENE ZONE VAN ZIN**</span>.
+<span style="color:darkkhaki">**HET KERKGEBOUW ALS FEMINIENE ZONE VAN ZIN**</span>. In <span style="color:blue">**PilgrImage**</span> komen er geen mensen in beeld. Er is enkel de aanwezigheid van de pelgrim (m/v) via de subjectieve camera. Alle beelden vloeien voort uit zijn beschouwende blik. Het kerkgebouw verschijnt als het hoofdpersonage met een eigen identiteit. Met haar ruimtelijk, beeldend wezen toont de kerk zich als _een unieke zone van zin_. Het gebouw is veel meer dan een verzameling stenen, geordend volgend een bepaalde hoogte, lente en breedte. ‘_Is_’ is te weinig gezegd. De kerk is niet, ze _doet_, ze _handelt_, ze _ontplooit_ een eigen werking. Dat ervaart de pelgrim vanaf het eerste moment van zijn aanwezigheid in het gebouw.
 
-[in voorbereiding]
+>De kerk ontvangt de pelgrim die aan het einde van zijn tocht is aangekomen in de kerk. Van die gastvrijheid getuigt de _openheid van het gebouw_, en _de brandende kaarsen_. Die wijzen erop alsof de kerk de komst van de pelgrim heeft verwacht. Ze uitnodigt hem uit om nog een laatste weg af te leggen, fysiek met de voeten en mentaal met zijn geest en hart. Hij neemt het pad waar dat zich opent van het westen naar het oosten, van achteraan naar vooraan.  <span style="color:blue">**PilgrImage**</span> beschrijft die pelgrimsgang in de kerk.
+
+>Het gebaar van openheid en gastvrijheid komt voort uit het feminiene wezen van de kerk. Het hele gebouw stelt een moederlijk geste: ze ontvangt en geeft leven. Ze geeft een thuis aan de lokale, omwonende gemeenschap, maar ook aan de verre vreemdeling die passeert. Ze ontvangt hen allen als de pelgrims die mensen zijn, onderweg in het leven, van hun geboorte tot hun overlijden, generatie na generatie. 
+
+>De feminiene werking van de kerk spreekt ook uit het resultaat ervan. De thuis die ze aan het individu en de gemeenschap biedt, vormt een _zone van zin_. De pelgrims, de mensen, krijgen er een ruimte om zich te bezinnen, om aan de grondstof van hun bestaan, hun ervaringen van vreugde en lijden, een betekenis te geven.  <span style="color:blue">**PilgrImage**</span> toont hoe de pelgrim thuiskomt in die zone van zin, daar waar hij toegang krijgt tot zijn diepste wezen als mens onderweg, zoals een kind thuiskomt bij zijn moeder. 
 
 <span style="color:darkkhaki">**HET FLUÏDE LICHT**</span>.
 
@@ -79,7 +79,11 @@ Een pelgrim (m/v) komt aan in een katholieke kerk. De pelgrim neemt verwonderd h
 
 ## <font color="#808000">**Context**</font>
 
-Ook al kan <span style="color:blue">**PilgrImage**</span> op zichzelf worden bekeken en beleefd als meditatie en/of gebed, het maakt ook deel uit van een breder maatschappelijk en cultureel kader. Het betreft namelijk de zoektocht naar de herstemming van de katholieke parochiekerk, in de eerste plaats in Vlaanderen, maar ook elders in de katholieke landen of regio’s in Europa. Het onderzoekswerk van Sylvain De Bleeckere en Roel De Ridder, gepubliceerd in _Het open kerkgebouw. Verleden, heden en toekomst van het kerkgebouw in Vlaanderen_ (Pelckmans, 2014), heeft voor het eerst die thematiek duidelijk geformuleerd. Het _Project Agora_ van Men(S)tis, in samenwerking met Yot, zet via een creatieve benadering een stap verder richting toekomst. In die richting wijst **PelgrImage**.
+Ook al kan <span style="color:blue">**PilgrImage**</span> op zichzelf worden bekeken als een kunstzinnige kortfilm en kan worden beleefd als een beeldende meditatie en/of gebed, het maakt ook deel uit van een breder maatschappelijk en cultureel kader. 
+
+><span style="color:blue">**PilgrImage**</span> betreft namelijk de zoektocht naar de herstemming van de katholieke parochiekerk, in de eerste plaats in Vlaanderen, maar ook elders in de katholieke landen of regio’s in Europa. Het onderzoekswerk van Sylvain De Bleeckere en Roel De Ridder, gepubliceerd in _Het open kerkgebouw. Verleden, heden en toekomst van het kerkgebouw in Vlaanderen_ (Pelckmans, 2014), heeft voor het eerst die thematiek duidelijk geformuleerd. 
+
+>Het _Project Agora_ van Men(S)tis, voor het eerst in de Brugse Heilige Magdalenakerk gerealiseerd in een nauwe samenwerking met Yot, zet via een creatieve benadering een stap verder richting toekomst. <span style="color:blue">**PilgrImage**</span> evoceert een mogelijke richting van 'herstemming' van de parochiekerk niet enkel als collectief erfgoed, maar vooral als _een hedendaagse zone van zin_, die terug aansluiting vindt bij de _creativiteit_ eigen aan de generaties die in het verre en nabije verleden het kerkgebouw hebben voortgebracht en in stand gehouden.
 
 <a name="LIN"></a>
 
