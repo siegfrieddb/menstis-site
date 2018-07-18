@@ -9,7 +9,7 @@ title: PilgrImage
 
 ## <font color="#808000">**Klapbord**</font>
 
-De kortfilm [PilgrImage](http://www.menstis.be/producties/Agora/AgoraMovies/) is een kleine, onafhankelijke productie van Men(S)tis (Hasselt), in samenwerking met Yot (Brugge). Het concept is van Sylvain De Bleeckere. De regie is een gemeenschappelijk werk van Sylvain De Bleeckere en Kristof Hoornaert. 
+De kortfilm <span style="color:blue">**PilgrImage**</span> - bekijk [hier](http://www.menstis.be/producties/Agora/AgoraMovies/() de film - is een kleine, onafhankelijke productie van Men(S)tis (Hasselt), in samenwerking met Yot (Brugge). Het concept is van Sylvain De Bleeckere. De regie is een gemeenschappelijk werk van Sylvain De Bleeckere en Kristof Hoornaert. 
 
 >Met minimale middelen en veel creativiteit maakten ze de opnames in de _Heilige Magdalenakerk_ (Brugge) op 25 juni 2018, met in de hoofdrol het kerkgebouw en tal van vaste en tijdelijke beelden. Het filmpje ging in première op _de website van Men(S)tis_ op 3 juli 2018. De opnames kaderden in het [Project Agora](http://www.menstis.be/producties/Agora/) (Brugge, mei-september 2018). 
 
