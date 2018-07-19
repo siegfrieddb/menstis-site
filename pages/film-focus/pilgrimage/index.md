@@ -68,7 +68,7 @@ Een pelgrim (m/v) komt aan in een katholieke kerk. De pelgrim neemt verwonderd h
 
 >De _feminiene_ werking van de kerk spreekt ook uit het resultaat ervan. De thuis die ze aan het individu en de gemeenschap biedt, vormt een _zone van zin_. De pelgrims, de mensen, krijgen er een ruimte om zich te bezinnen, om aan de grondstof van hun bestaan, hun ervaringen van vreugde en lijden, een betekenis te geven.  <span style="color:blue">**PilgrImage**</span> toont hoe de pelgrim thuiskomt in die zone van zin, daar waar hij toegang krijgt tot zijn diepste wezen als mens onderweg, zoals een kind thuiskomt bij zijn moeder. 
 
-<span style="color:darkkhaki">**IN DE SCHADUMW VAN HET FLUÏDE LEVENSLICHT**</span>. Het openingsbeeld in triptiek zet de visuele toon. Het statige beeld _Humana_ staat op het bewegende en spiegelende water. Dat reflecteert het inwerkende licht. 
+<span style="color:darkkhaki">**IN DE SCHADUW VAN HET FLUÏDE LEVENSLICHT**</span>. Het openingsbeeld in triptiek zet de visuele toon. Het statige beeld _Humana_ staat op het bewegende en spiegelende water. Dat reflecteert het inwerkende licht. 
 
 >De twee spiegelbeelden onthullen de fluïde kracht van inwerkende licht. Dat fluïde licht verschijnt ook in het witte kleed van _Humana_. De blik van de pelgrim (m/v) richt zich met de intensiteit van de verwondering op haar etherische verschijning. Het van het Grieks komende ‘etherisch’ (ether) duidt letterlijk op de verschijning van ‘_de heldere lucht van de hemel_’. Hier kunnen we dat vrij interpreteren als ‘_zo licht als het licht van de hemel_’. _Humana_ oogt alsof ze grotendeels uit licht bestaat. Dat geldt in zekere zin ook van de kerkruimte zelf. De glasramen vertellen dat aan de pelgrim, evenals de vele brandende kaarsen aan de zuilen.
 
