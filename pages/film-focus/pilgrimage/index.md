@@ -114,7 +114,7 @@ Een pelgrim (m/v) komt aan in een katholieke kerk. De pelgrim neemt verwonderd h
 
 >**<span style="color:teal">Maria Magdalena, Eva en het lege priesterkoor</span>**. Na zijn verkenning van het tapijt met labyrint betreedt de pelgrim het lege priesterkoor. Links en rechts begeleiden hem twee verticale beeldbewegingen. Daarin figureert de nieuwtestamentische heilige _Maria Magdalena_ tweemaal.
 
->>Links vormt het houten heiligenbeeld aan de zuil de aanzet van een opwaartse beweging die boven eindigt bij het beeld van _Eva_. Daar vertakt de hoge zuil zich in de gebogen lijnen van het gewelf. Rechts van het centrale beeld met het lege priesterkoor is er de eveneens opwaartse beweging van het glasraam dat zich boven de ingang van de kamer met _De Madonna van de Tederheid_ bevindt. De pelgrim merkt dat hier de heilige Magdalena anders wordt voorgesteld. 
+>>Rechts vormt het houten heiligenbeeld aan de zuil de aanzet van een opwaartse beweging die boven eindigt bij het beeld van _Eva_. Daar vertakt de hoge zuil zich in de gebogen lijnen van het gewelf. Links van het centrale beeld met het lege priesterkoor is er de eveneens opwaartse beweging van het glasraam dat zich boven de ingang van de kamer met _De Madonna van de Tederheid_ bevindt. De pelgrim merkt dat hier de heilige Magdalena anders wordt voorgesteld. 
 
 >>De eerste, die van het houten beeld, toont haar als de Maria uit Magdala, het stadje op de westelijke oever van het meer van Tiberias, een volgelinge van Jezus. Ze is aanwezig bij de kruisiging van Jezus. Op de dag na Jezus’ dood en begrafenis gaat ze heel vroeg in de morgen naar het graf met welriekende olie. Daar is ze als eerste getuige van het lege graf van Jezus. Ze bericht over dat lege graf aan de apostelen (_Johannes_ 2: 1-3). 
 
