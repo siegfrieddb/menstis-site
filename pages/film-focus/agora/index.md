@@ -127,6 +127,8 @@ De film <span style="color:blue">**Agora**</span> van Amenábar kadert in een _p
 
 ## <font color="#808000">**Links**</font>
 
+Zie [hier](http://www.menstis.be/producties/Agora) voor de link met het **Project Agora** van Men(S)tis.
+
 Zie voor een uitgebreide verheldering over de achtergrond van het fenomeen _wereldbeeld_ en over de invloed van het _neoplatonisme_ op het christelijk-theologische wereldbeeld, én voor een constructieve visie op de bijdrage van de cinematografie in de opbouw van een democratische samenleving: [Sylvain De Bleeckere, Levensbeschouwing democratisch belicht](http://www.menstis.be/uitgeverij/Levensbeschouwing).
 
 In het essay, verschenen als het tweede, uitgebreide deel van [Men(S)tis’ Studies # 1](http://www.menstis.be/uitgeverij/Gedachtenis) publiceerde Sylvain De Bleeckere een uitgebreide studie over <span style="color:blue">**Agora**</span>. 
