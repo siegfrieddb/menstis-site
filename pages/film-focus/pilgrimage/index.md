@@ -112,7 +112,7 @@ Een pelgrim (m/v) komt aan in een katholieke kerk. De pelgrim neemt verwonderd h
 
 >**<span style="color:teal">Maria Magdalena, Eva en het lege priesterkoor</span>**. Na zijn verkenning van het tapijt met labyrint betreedt de pelgrim het lege priesterkoor. Links en rechts begeleiden hem twee verticale beeldbewegingen. Daarin figureert de nieuwtestamentische heilige _Maria Magdalena_ tweemaal.
 
->>Links vormt het houten heiligenbeeld aan de zuil de aanzet van een opwaartse beweging die boven eindigt bij het beeld van Eva. Daar vertakt de hoge zuil zich in de gebogen lijnen van het gewelf. Rechts van het centrale beeld met het lege priesterkoor is er de eveneens opwaartse beweging van het glasraam dat zich boven de ingang van de kamer met _De Madonna van de Tederheid_ bevindt.De pelgrim merkt dat hier de heilige Magdalena anders wordt voorgesteld. 
+>>Links vormt het houten heiligenbeeld aan de zuil de aanzet van een opwaartse beweging die boven eindigt bij het beeld van _Eva_. Daar vertakt de hoge zuil zich in de gebogen lijnen van het gewelf. Rechts van het centrale beeld met het lege priesterkoor is er de eveneens opwaartse beweging van het glasraam dat zich boven de ingang van de kamer met _De Madonna van de Tederheid_ bevindt. De pelgrim merkt dat hier de heilige Magdalena anders wordt voorgesteld. 
 
 >>De eerste, die van het houten beeld, toont haar als de Maria uit Magdala, het stadje op de westelijke oever van het meer van Tiberias, een volgelinge van Jezus. Ze is aanwezig bij de kruisiging van Jezus. Op de dag na Jezus’ dood en begrafenis gaat ze heel vroeg in de morgen naar het graf met welriekende olie. Daar is ze als eerste getuige van het lege graf van Jezus. Ze bericht over dat lege graf aan de apostelen (_Johannes_ 2: 1-3). 
 
@@ -150,7 +150,7 @@ Het filmpje <span style="color:blue">**PilgrImage**</span> staat op zichzelf als
 
 ## <font color="#808000">**Links**</font>
 
-Zie de sites van [Kristof Hoornaert](https://www.kristofhoornaert.com/), [Marleen Mertens](http://www.marleen-mertens.be/metafora.php).
+Zie de sites van [Kristof Hoornaert](https://www.kristofhoornaert.com/) en [Marleen Mertens](http://www.marleen-mertens.be/metafora.php).
 
 Zie ook de site van [Jan De Wachter](http://www.jandewachter.be/Intro). De kunstenaar stelde zelf een verklarende nota op naar aanleiding van de installatie [Alles goed? Jan De Wachter!]( https://cdn.webdoos.io/yot/54cd231592e2692c342fdc3c3bc67872.pdf), een belangrijk onderdeel van het Project Agora.  Enkele van de werken uit die meerdelige installatie komen voor in <span style="color:blue">**PilgrImage**</span>. Daaruit blijkt dat de kunstwerken die hierboven zijn vermeld en toegelicht - _Verlatenheid, Solus, De traan, Ecce Homo_ – het karakter van een zelfportret hebben. Ook voor _De Madonna van de Tederheid_ putte Jan De Wachter, zo vertrouwde de kunstenaar de auteur toe, inspiratie uit zijn eigen leven. De overleden moeder van de kunstenaar was namelijk vroedvrouw. Ze bezat bijzonder korte, krachtige handen waarmee ze veel kinderen hielp geboren worden. De moeder van de schilder had een grote verering voor de Heilige Maria. Via de nagedachtenis van zijn moeder brengt hij met De Madonna van de Tederheid hulde aan alle vrouwen die als echte moeders in het leven staan en met het leven omgaan. Het vertolkt de bewondering van de kunstenaar voor de verbondenheid van moeder en kind, een verbondenheid die hij als een echt geloofsgebeuren ervaart.
 
