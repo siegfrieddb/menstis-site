@@ -19,7 +19,7 @@ De kortfilm <span style="color:blue">**PilgrImage**</span> - bekijk [hier](http:
 
 >De _sounddesign_ is een gemeenschappelijk concept van  Sylvain De Bleeckere en Jan De Wachter, technisch gerealiseerd door Mark Vercnocke, en met de stem van de Russische componist Alexander Knaifel.
 
-Geert Delbeke van Yot assisteerde tijdens de opnames. 
+>Geert Delbeke van Yot assisteerde tijdens de opnames. 
 
 >Het filmpje is opgedragen aan ― de kort voor de opnames ― overleden _Patrick Perquy_, priester-leraar, romanist, bijbelkenner, cinefiel, mentor en medewerker van Yot.
 
@@ -92,7 +92,7 @@ Een pelgrim (m/v) komt aan in een katholieke kerk. De pelgrim neemt verwonderd h
 
 >**<span style="color:teal">Madonna en de slapende geliefde</span>** begeleidt het begin van de tocht van de pelgrim. Vanaf de verschijning van deze tekening begint hij zijn Mariagebed te bidden. Die tekening verbindt de Madonna of Heilige Maria - de meest gekende en vereerde vrouw van de zowel orthodoxe als katholieke christenheid - met iedere vrouw die als geliefde echtgenote door het leven is gegaan, gaat en nog zal gaan. Hiermee roepen het feminiene trio – Humana, de Madonna, de slapende geliefde - bij de pelgrim de herinnering op aan het begin van alle menselijk leven op aarde, de oorsprong ervan: de geboorte van ieder mensenkind, eerst tot leven gekomen in de moederschoot. De heilige Maria, vereerd als Moeder Gods, belichaamt in die zin niet enkel alle moeders, maar ook en tegelijkertijd de heilige gave van het menselijk leven, m.a.w. de heiligheid van het moederschap op zich.
 
->**<span style="color:teal">Verlatenheid, Solus, De traan, Ecce Homo</span>** versterken langs het pad van de pelgrim elkaar binnen hetzelfde betekenisveld. Ze roepen ervaringen op die zich situeren in het existentiële register van eenzaamheid, psychisch en fysiek lijden. 
+>**<span style="color:teal">Verlatenheid, Solus, De traan en Ecce Homo</span>** versterken langs het pad van de pelgrim elkaar binnen hetzelfde betekenisveld. Ze roepen ervaringen op die zich situeren in het existentiële register van eenzaamheid, psychisch en fysiek lijden. 
 
 >>De mannelijke figuur van _Verlatenheid, Solus, De traan_ evoceren het psychisch of mentaal lijden, _Ecce Homo_ confronteert de pelgrim met het lijden van het lichaam door ziekte. Die beelden spiegelen langs het feminiene pad van de pelgrim de kwetsbare kant van de man en in ruime zin van iedere mens, man of vrouw. 
 
