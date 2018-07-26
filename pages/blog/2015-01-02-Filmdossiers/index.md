@@ -19,6 +19,6 @@ De Europese animatiefilm **Brendan and the Secret of Kells** (2008) van Tomm Moo
 
 [Dossier Brendan and The Secret of Kells](2015-01-02-Filmdossiers/br.pdf)
 
-De Vlaamse film **BenX** van Nic Balthazar handelt over  autisme in relatie tot de thuissituatie en het onderwijs. De film ondersteunt het pedagogisch werk van scholen rond het fenomeen 'pesten op school'. Tegelijkertijd is de film zeer geschikt voor beeldopvoeding en lessen of projecten met een levensbeschouwelijke insteek Sylvain De Bleeckere schreef een uitgebreid dossier voor de leerkracht en een dossier voor de leerlingen. Dit laatste is opgevat als werkmateriaal in de klas. Dit kan gratis worden opgevraagd via info@menstis.be
+De Vlaamse film **BenX** van Nic Balthazar handelt over  autisme in relatie tot de thuissituatie en het onderwijs. De film ondersteunt het pedagogisch werk van scholen rond het fenomeen 'pesten op school'. Tegelijkertijd is de film zeer geschikt voor beeldopvoeding en lessen of projecten met een levensbeschouwelijke insteek. Sylvain De Bleeckere schreef een uitgebreid dossier voor de leerkracht en een dossier voor de leerlingen. Dit laatste is opgevat als werkmateriaal in de klas. Dit kan gratis worden opgevraagd via info@menstis.be.
 
 [Dossier BenX voor leerkrachten](2015-01-02-Filmdossiers/bx.pdf)
