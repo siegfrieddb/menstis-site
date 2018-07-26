@@ -59,7 +59,7 @@ Nic Balthazar situeert de grote ontknoping, de begrafenis, in de roman en het th
 
 ## <font color="#808000">**Link**</font>
 
-Sylvain De Bleeckere schreef op vraag van de producent MMG, de distributeur KFD en het Vlaamse Ministerie van Onderwijs en Vorming een uitgebreid educatief dossier over de film. Het kan [hier]() worden gedownload op.
+Sylvain De Bleeckere schreef op vraag van de producent MMG, de distributeur KFD en het Vlaamse Ministerie van Onderwijs en Vorming een uitgebreid educatief dossier over de film. Het kan [hier](http://www.menstis.be/blog/) worden geraadpleegd op.
 
 
 <font size="-2"> © Sylvain De Bleeckere, Men(S)tis, 2011/2017.</font>
