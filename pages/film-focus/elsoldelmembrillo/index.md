@@ -1,5 +1,5 @@
 ---
-title: El Sol del Membrillo
+title: El sol del membrillo
 ---
 <center>
 <img src="sol.jpg" >
