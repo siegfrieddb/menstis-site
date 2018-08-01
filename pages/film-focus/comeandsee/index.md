@@ -152,7 +152,7 @@ De kortfilm <span style="color:blue">**Come and See**</span> is dankzij zijn cin
 
 <a name="LIN"></a>
 
-## <font color="#808000">**Link**</font>
+## <font color="#808000">**Links**</font>
 
 [De website van Selina De Mayer](http://www.selinademaeyer.com).
 

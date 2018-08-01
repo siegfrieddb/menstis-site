@@ -184,7 +184,7 @@ Met zijn film <span style="color:blue">**Andrei Roublev**</span> positioneert Ta
 
 <a name="LIN"></a>
 
-## <font color="#808000">**Link**</font>
+## <font color="#808000">**Links**</font>
 
 Voor een verdieping van de belangrijke noties _Toeschouwerschap, Beeldend denken, Tragiek, Zingeving & Levensbeschouwing, Ideologie,_ zie [Levensbeschouwing democratisch belicht](http://www.menstis.be/uitgeverij).
 
