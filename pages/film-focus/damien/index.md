@@ -47,7 +47,7 @@ Na een korte introductie in Honolulu waar _de jonge Vlaamse pater Damiaan_ zich 
 
 >Het is de grote verdienste van de productie dat de opnames zijn kunnen gebeuren op Molokai zelf. _As Music in the Trees_ is de titel van een nummer van Wim Mertens. De titel verwijst naar een scène van Damiaan met een blinde leprajongen. Wanneer de priester de jongen vraagt waarom hij niet slaapt, bekent de jongen bang te zijn van de wind. Damiaan stelt hem gerust:_'Denk aan de wind als muziek in de bomen'_. De angst om de wind bij de jongen is geen inbeelding. In feite deelt Damiaan dezelfde angst. Alle leprabewoners kennen dat gevoel. Het hoort bij de plek. De wind regeert immers als heer en meester over Kalaupapa, het schiereiland van Molokai.
 
-<span style="color:darkkhaki">**PANORAMISCH BEELD..**</span> De cinematografie van <span style="color:blue">**Father Damien**</span> is gekenmerkt door _het poëtisch gebruik van het panoramische beeld_. Via de pano laat Cox de spirit van de plek, _de genius loci_, het beeld mee componeren.
+<span style="color:darkkhaki">**PANORAMISCH BEELD.**</span> De cinematografie van <span style="color:blue">**Father Damien**</span> is gekenmerkt door _het poëtisch gebruik van het panoramische beeld_. Via de pano laat Cox de spirit van de plek, _de genius loci_, het beeld mee componeren.
 
 >Die genius loci is hier audiovisueel: zichtbaar verschijnt de geest van de plek in het landschap van de oceaan, het schiereiland en het gebergte, de pali, en hoorbaar laat die geest zijn stem weerklinken met _de kracht van de wind_. Daar waar het kan en zinvol is, laat Cox op de klank- en beeldband ofwel via korte inlassen ofwel midden in de scène zelf, de wind mee het portret van Damiaan regisseren.
 
@@ -57,7 +57,7 @@ Na een korte introductie in Honolulu waar _de jonge Vlaamse pater Damiaan_ zich 
 
 ## <font color="#808000">**Betekenisruimte**</font>
 
-<span style="color:darkkhaki">**IN HET TEKEN VAN HET KRUIS**</span> Midden in de betekenisruimte van de film staat _het christelijke kruis_.
+<span style="color:darkkhaki">**IN HET TEKEN VAN HET KRUIS.**</span> Midden in de betekenisruimte van de film staat _het christelijke kruis_.
 
 >Damiaan maakt verschillende keren _het kruisteken_: om te bidden nadat hij als eerste vrijwilliger aangeduid is om als priester van de melaatsen naar Molokai te gaan, om zijn eerste mis te beginnen op Molokai, voorts ook als opening van zijn preek over het gemis en het gevoel een outcast te zijn, of wanneer hij een biecht begint te horen; het gebeurt eveneens in zijn kerk wanneer hij er gaat bidden nadat Emerson hem duidelijk heeft gemaakt dat hij melaats geworden is.
 
