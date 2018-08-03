@@ -35,9 +35,9 @@ Na een korte introductie in Honolulu waar _de jonge Vlaamse pater Damiaan_ zich 
 
 ## <font color="#808000">**Cinematografie**</font>
 
-<span style="color:darkkhaki">**CONFLICT TUSSEN LYRIEK EN EPIEK.**</span> De toeschouwer ervaart dat de film lijdt onder _het esthetische conflict_ tussen de filmdichter Paul Cox die zijn trouw aan de historische waarheid op een poëtische wijze wil vertolken en de eisen van de productie die de opdracht gaf voor een epische film, bestemd voor een groot publiek.
+<span style="color:darkkhaki">**CONFLICT TUSSEN LYRIEK EN EPIEK.**</span> De toeschouwer ervaart dat de film lijdt onder _het esthetische conflict_ tussen de filmdichter Paul Cox die zijn trouw aan de historische waarheid op een _poëtische_ wijze wil vertolken en de eisen van de productie die de opdracht gaf voor een _epische_ film, bestemd voor een groot publiek.
 
->De -eisen van de epiek- vragen voortgang, strak ritme, spanning. Het is duidelijk dat Cox soms meer _filmische tijd_ zou willen voor het beeld zelf. Dat is het geval bijvoorbeeld bij _de openingsscène_ waarmee hij de personage van Damiaan en de lepra via het meisje Maulani introduceert. Oorspronkelijk opgenomen via een prachtig gecomponeerde pan, is het beeldend elan van die introductie op de montagetafel tot een minimum gereduceerd en is de epische kern – de achtervolging – maximaal op de voorgrond gebracht.
+>De eisen van de epiek vragen voortgang, strak ritme, spanning. Het is duidelijk dat Cox soms meer _filmische tijd_ zou willen voor het beeld zelf. Dat is het geval bijvoorbeeld bij _de openingsscène_ waarmee hij de personage van Damiaan en de lepra via het meisje Maulani introduceert. Oorspronkelijk opgenomen via een prachtig gecomponeerde pan, is het beeldend elan van die introductie op de montagetafel tot een minimum gereduceerd en is de epische kern – de achtervolging – maximaal op de voorgrond gebracht.
 
 >In dezelfde geest worden enkele cruciale scènes te abrupt afgebroken. De toeschouwer leeft zich in de dramatische situaties in – vooral de scène van de overboord gegooide melaatsen, de biechtscéne – maar de montage dwingt hem direct over te schakelen naar een volgend tafereel.
 
