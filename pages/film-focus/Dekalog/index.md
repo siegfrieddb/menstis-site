@@ -176,7 +176,7 @@ De tiendelige filmcyclus <span style="color:blue">**Dekalog**</span> van Krzyszt
 
 Over <span style="color:blue">**Dekalog**</span> schreef Sylvain De Bleeckere een uitgebreide en unieke studie. Hij bespreekt ieder deel afzonderlijk en belicht het geheel vooral in de inleiding en het besluit. Iedere analyse van elk van de <span style="color:blue">**Dekalog**</span>-verhalen bestaat uit tien onderdelen. Titel: _Levenswaarden en levensverhalen. Een studie van de Decaloog van Kieslowski_. Leuven, Acco, 1994. Het boek is enkel nog tweedehands verkrijgbaar.
 
-Er zijn twee degelijke internationale websites gewijd aan het oeuvre van Kieslowski: [Cine Kieslowski](http://www.petey.com/kk/) en [A Short Website about Kieslowski](http://www.patoche.org/kieslowski/)
+De internationale website gewijd aan het oeuvre van Kieslowski is [Kino Kieslowski](http://www.petey.com/kk/).
 
 <font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2017</font>
     
