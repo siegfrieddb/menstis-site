@@ -39,7 +39,7 @@ const FilmFocus = React.createClass({
     
     movieLinks.push("https://www.youtube.com/embed/zG_OGGv9NZ0?rel=0;&autoplay=1")
     movieTitles.push("PilgrImage")
-    movieImageFile.push("./PilgrImage.jpg")
+    movieImageFile.push("../PilgrImage.jpg")
     
     
 
