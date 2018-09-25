@@ -1,7 +1,7 @@
 ---
 title: Jute
 ---
-![Jute](./Jute.JPG)
+![Jute](./Jute.jpg)
 
 ## Wat
 
