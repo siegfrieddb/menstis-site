@@ -1,5 +1,6 @@
 ---
 title: Jute
+order: 2
 ---
 ![Jute](./Jute.jpg)
 
@@ -22,6 +23,7 @@ De naam van het hoofdpersonage verwijst naar **de vezelplant corchorus**, gronds
 ## Uitvoeringen
 
 **28 augustus 2018**: De try-out vond plaats op zaterdag 25 augustus 2018 in de Heilig-Magdalenakerk (Brugge) tijdens het [Project Agora](http://www.menstis.be/producties/Agora/). 
+
 
 ## Programmeren 
 

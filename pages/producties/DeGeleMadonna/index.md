@@ -1,5 +1,6 @@
 ---
 title: De Madonna van de Tederheid
+order: 4
 ---
 Kunstenaar Jan De Wachter schonk het werk aan Men(S)tis vzw. Het doek is voor het eerst in het publiek getoond tijdens de begrafenis van **Nicole De Bleeckere-Van de Kerckhove** (17 januari 1996) in de parochiekerk te Kermt (Hasselt). Het was eveneens te zien in de tentoonstelling van actuele religieuze kunst, **De Adem van Adam**, in het Provinciaal Centrum voor Beeldend Kunsten te Hasselt van 3 augustus - 1 september 1996.
 

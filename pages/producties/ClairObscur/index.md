@@ -1,5 +1,6 @@
 ---
 title: Clair - Obscur
+order: 3
 ---
 ![Cello](./Cello.JPG)
 

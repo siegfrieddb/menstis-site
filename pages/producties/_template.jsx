@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'react-router'
 import Breakpoint from 'components/breakpoint'
 import find from 'lodash/find'
+import _ from 'lodash'
 import { prefixLink } from 'gatsby-helpers'
 import { config } from 'config'
 import access from 'safe-access'
@@ -32,19 +33,27 @@ module.exports = React.createClass({
 
     const pageLinks = []
     const dropDown = []
+    const pageOrder = []
     // Sort pages.
     const pages = this.props.route.pages
+    var activeCombo = "";
     pages.forEach((page) => {
       if (access(page, 'file.ext') === 'md' && !include(page.path, '/404') && startsWith(page.path,"/producties/")  && page.path != "/producties/" ) {
         const title = access(page, 'data.title') || page.path
+        const order = access(page, 'data.order')
         const isActive = page.path === this.props.location.pathname
+        if (isActive)
+        {
+          activeCombo =  title;
+        }
+        pageOrder.push(parseInt(order))
         pageLinks.push(
           <li
             key={page.path}
             style={{
               marginBottom: rhythm(1/4),
             }}
-          >
+          > 
             <Link style={{boxShadow: 'none'}} to={prefixLink(page.path)}>
                     {isActive ? <strong>{title}</strong> : title}
             </Link>
@@ -53,7 +62,14 @@ module.exports = React.createClass({
         dropDown.push({ key:page.path, value:page.path, text:title} )
       }
     })
-    return (
+    var zippedPages = _.zip(pageOrder, pageLinks)
+    var sortedPages = _.sortBy(zippedPages,function(o) {return o[0]});
+    var unzippedPages = _.map(sortedPages, o  => o[1]);
+    var zippedCombo = _.zip(pageOrder,dropDown);
+    var sortedCombo = _.sortBy(zippedCombo, o => o[0]);
+    var unzippedCombo  = _.map(sortedCombo,o => o[1]);
+    console.log(unzippedPages.length)
+    return (  
 
       <div className="ui container">
         <Breakpoint
@@ -76,7 +92,7 @@ module.exports = React.createClass({
                 marginTop: rhythm(1/2),
               }}
             >
-              {pageLinks}
+              {unzippedPages}
             </ul>
           </div>
           <div
@@ -93,8 +109,8 @@ module.exports = React.createClass({
         <Breakpoint>
 
         <div style={{ paddingLeft:'15px'}} >
-          <Dropdown  defaultValue={this.props.location.pathname} fluid search selection  
-                    options={dropDown}  onChange={this.handleDropDown}
+          <Dropdown  defaultValue={activeCombo} fluid search selection  
+                    options={unzippedCombo}  onChange={this.handleDropDown}
 
           />
          </div>
