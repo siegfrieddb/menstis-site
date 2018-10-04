@@ -10,7 +10,7 @@ Het **Project AGORA** kan in een aangepaste vorm in ieder parochiekerk worden ge
 
 <span style="color:fuchsia">**P I L O O T P R O J E C T**</span>
 
-<span style="color:blue">**HEILIGE MAGDALENAKERK BRUGGE**</span>
+<span style="color:blue">**HEILIGE-MAGDALENAKERK BRUGGE**</span>
 
 ><span style="color:blue">Thema</span>: _HET KERKGEBOUW - WEEFSEL VAN ZINGEVING_
 
