@@ -1,5 +1,5 @@
 ---
-title: Agora
+title: AGORA
 order: 1
 ---
 ![Agora](./Agora.jpg)
@@ -22,14 +22,12 @@ Het **Project AGORA** kan in een aangepaste vorm in ieder parochiekerk worden ge
 
 ><span style="color:blue">Coördinator</span>: Koen Dekorte [Yot]
 
-><span style="color:blue">Uitgebreide info</span> over het Project, met onder andere, de presentatienota, klik [hier](https://www.yot.be/nl/agora/410).
-
-><span style="color:blue">Omschrijving</span>: Tijdens het Project AGORA rolde de Heilige-Magdalenakerk de rode loper uit voor iedereen, klein en groot, buurtbewoner, Bruggeling en toerist. Er ontstond _een experimentele ontmoetingsplaats_. Het **Project Agora** deed binnen het inspirerende, historische en neogotische gebouw _een zichtbaar en onzichtbaar weefsel van zingeving_ ontstaan. Dat gebeurde via: 
+><span style="color:blue">Omschrijving</span>: Tijdens het **Project AGORA** rolde de Heilige-Magdalenakerk de rode loper uit voor iedereen, klein en groot, buurtbewoner, Bruggeling en toerist. Er ontstond _een experimentele ontmoetingsplaats_. Het **Project AGORA** deed binnen het inspirerende, historische en neogotische gebouw _een zichtbaar en onzichtbaar weefsel van zingeving_ ontstaan. Dat gebeurde via: 
 >1) De _tentoonstelling_ van hedendaagse kunst met werk van [Marleen Mertens](http://www.marleen-mertens.be/humana.html) (_Humana_) en [Jan De Wachter]( http://www.jandewachter.be/Intro) (De meerdelige installatie, uitgewerkt als beeldweg met als titel _Alles goed? Jan De Wachter!_, alsook het schilderij _De Madonna van de Tederheid_ in een aparte ruimte met soundscape)
 >2) De _Verhalenkamer_ waar iedere woensdagnamiddag en zaterdagnamiddag (15u00 - 17u00) iemand een verhaal vertelde, en naar aanleiding waarvan telkens de koffiebar open was.
 >3) De _Filmstudio Lichtaard_. In juni 2018 realiseerden Sylvain De Bleeckere en Kristof Hoornaert de kortfilm **PilgrImage**. Het filmpje is [hier](./AgoraMovies/) te bekijken. Over **PilgrImage** kan je een uitgebreide voorstelling vinden in [FilmFocus](http://www.menstis.be/film-focus/pilgrimage/). 
 
-><span style="color:blue">Erkenning</span>: [Triënnale Brugge 2018](https://www.triennalebrugge.be) erkent het Project AGORA en heeft er het logo '_Inspired by Triennale Brugge 2018_' aan toegekend.
+><span style="color:blue">Erkenning</span>: [Triënnale Brugge 2018](https://www.triennalebrugge.be) kende aan het **Project AGORA** haar logo '_Inspired by Triennale Brugge 2018_' toe.
 
 
 
