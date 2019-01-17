@@ -20,9 +20,9 @@ Op **De Dag zelf** bedraagt de deelname _€ 50_.
 
 **Inbegrepen**
 
-1 Het volledige programma.
+1 Het _volledige_ programma.
 
-2_Koffie of thee_ (tijdens het onthaal tussen 9u00 en 10u00 geserveerd in de vlakbij gelegen Brasserie 5th Avenue). 
+2 _Koffie of thee_ (tijdens het onthaal tussen 9u00 en 10u00 geserveerd in de vlakbij gelegen Brasserie 5th Avenue). 
 
 3 _Het recente boek_ **Meerstemmig kerkgebouw** (winkelwaarde 20 EUR), een nieuwe en rijk geïllustreerde publicatie van Men(S)tis, in samenwerking met Yot, naar aanleiding van het [Project Agora](http://www.menstis.be/producties/Agora/) van Men(S)tis. 
 
