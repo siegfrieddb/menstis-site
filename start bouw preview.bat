@@ -1,2 +1,2 @@
-start http:/localhost:3000/
-serve ./public/
+start http:/localhost:8000/
+gatsby serve-build
