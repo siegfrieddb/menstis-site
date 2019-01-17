@@ -8,7 +8,7 @@ Inschrijven vooraf is mogelijk tot en met 1 maart 2019. De toegangskaarten worde
 
 Wie daarna nog inschrijft, ontvangt de toegangskaart op De Dag zelf aan de balie. 
 
-Wie nog op donderdag of vrijdag voor De Dag overschrijft, dient een kopie van zijn of haar betalingsbewijs mee te brengen aan de balie. Hetzelfde geldt voor wie laat inschrijft via een organisatie of school. Hierdoor vermijden we misverstanden of nalatigheden. 
+Wie nog op donderdag of vrijdag voor De Dag overschrijft, dient _een kopie van zijn of haar betalingsbewijs mee te brengen naar de balie_. Hetzelfde geldt voor wie laat inschrijft via _een organisatie of school_. Hierdoor vermijden we misverstanden of nalatigheden. 
 
 Indien vragen hierover, mail ons via: _info@menstis.be_.
 
