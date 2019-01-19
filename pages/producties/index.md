@@ -13,5 +13,5 @@ title: Producties
 [<img src="./ClairObscur/Muzikanten.JPG" >](./ClairObscur/)
 
 ## De Madonna van de Tederheid
-[<img src="./DeGeleMadonna/gelemadonna.jpg" >](./DeGeleMadonna/)
+[<img src="./DeGeleMadonna/gmk.jpg" >](./DeGeleMadonna/)
 
