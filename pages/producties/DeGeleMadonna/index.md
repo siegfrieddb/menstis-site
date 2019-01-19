@@ -2,6 +2,8 @@
 title: De Madonna van de Tederheid
 order: 4
 ---
+![De Gele Madonna](./degelemadonna.jpg)
+
 Kunstenaar Jan De Wachter schonk het werk aan Men(S)tis vzw. Het doek is voor het eerst in het publiek getoond tijdens de begrafenis van **Nicole De Bleeckere-Van de Kerckhove** (17 januari 1996) in de parochiekerk te Kermt (Hasselt). 
 
 Het was eveneens te zien in de tentoonstelling van actuele religieuze kunst, **De Adem van Adam**, in het Provinciaal Centrum voor Beeldend Kunsten te Hasselt van 3 augustus - 1 september 1996.
@@ -14,4 +16,4 @@ Eveneens in 2018 verscheen het beeld van de _Madonna van de Tederheid_ als front
 
 Het schilderij speelt ook een hoofdrol in het filmpje [PilgrImage](http://www.menstis.be/film-focus/pilgrimage/).
 
-![De Gele Madonna](./degelemadonna.jpg)
+
