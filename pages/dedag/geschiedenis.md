@@ -55,6 +55,8 @@ van het thema **Het Licht van de Schepping**, tevens de titel van het boek
 van Sylvain De Bleeckere, verschenen naar aanleiding van **de 
 eerste editie van De Dag van de Religieuze Film in 1992**.
 
+>Jaargang 28 (2019) **Het Onzevader. Deel II: Uw Rijk Kome**: The Birth of a Nation, Lincoln, Selma.<br>
+>Jaargang 27 (2018) **Het Onzevader. Deel I: Leid ons niet in bekoring**: Resurrection, Hacksaw Ridge, Hidden Figures.<br>
 >Jaargang 26 (2017) **Magnificat in Em**: Ida, Les Innocentes, The Help.<br>
 Jaargang 25 (2016) **Levensbeschouwing deel 2**: Marie Heurtin, Son of Saul, Mr. Turner.<br>
 Jaargang 24 (2015) **Levensbeschouwing deel 1**: The Mill and the Cross, Vision, The Book Thief.<br>
