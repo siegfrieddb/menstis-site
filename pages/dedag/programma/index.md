@@ -2,7 +2,7 @@
 title: Programma 2019
 ---
 
-Het progamma van de **28ste editie** van De Dag staat in het teken van het tweede deel van de thematische triptiek over **Het Onzevader**. Dat tweede deel staat in het teken van **Uw Rijk Kome**.
+Het progamma van de **28ste editie** van De Dag op krokusmaandag **4 maart 2019** staat in het teken van het tweede deel van de thematische triptiek over **Het Onzevader**. Dat tweede deel staat in het teken van **Uw Rijk Kome**.
 
 <img src= "bn.jpg">
 

@@ -2,7 +2,7 @@
 title: Inschrijving
 ---
 
-Je kan inschrijven door storting van **€ 45 per persoon** op rek. nr. **BE59 1430 7126 8126** [GEBA BE BB] van Men(S)tis vzw, Hasselt. Gelieve ook de overschrijving te melden via **info@menstis.be** met opgave van _de volledige naam van de persoon of personen_ die inschrijven, samen met _het postadres_ waarnaar de toeganskaarten kunnen worden verzonden. De naam van de betaler kan immers verschillen van die van de deelnemer/s aan De Dag. 
+Je kan inschrijven voor de 28ste editie van **De Dag** die doorgaat op **krokusmaandag 4 maart 2019** door storting van **€ 45 per persoon** op rek. nr. **BE59 1430 7126 8126** [GEBA BE BB] van Men(S)tis vzw, Hasselt. Gelieve ook de overschrijving te melden via **info@menstis.be** met opgave van _de volledige naam van de persoon of personen_ die inschrijven, samen met _het postadres_ waarnaar de toeganskaarten kunnen worden verzonden. De naam van de betaler kan immers verschillen van die van de deelnemer/s aan De Dag. 
 
 Voor zij die inschrijven via een school of organisatie, is het van belang dat ze hun naam en adres, en de instantie die de deelname overschrijft, naar ons  mailen. Zo kunnen we misverstanden bij het verzenden van de toegangskaart vermijden. 
 
