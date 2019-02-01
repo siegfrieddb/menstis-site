@@ -6,7 +6,7 @@ order: 1
 
 Men(S)tis ontwikkelt vanaf 2018 het **Project AGORA** in Vlaamse parochiekerken in nauwe samenwerking met de plaatselijke verantwoordelijkheden. De eerste editie vond plaats in Brugge. 
 
-Het **Project AGORA** kan in een aangepaste vorm in ieder parochiekerk worden gerealiseerd in zeer nauw overleg met de lokale verantwoordelijken: [Yot](https:/www.yot.be). Het kan een ideaal medium zijn om de reflectie over de toekomst van het kerkgbouw in de lokale gemeenschap op gang te brengen. Neem vrijblijvend contact met Men(S)tis vzw via info@menstis.be
+Het **Project AGORA** kan in een aangepaste vorm in ieder parochiekerk worden gerealiseerd in zeer nauw overleg met de lokale verantwoordelijken: [Yot](https://www.yot.be/nl/home/5). Het kan een ideaal medium zijn om de reflectie over de toekomst van het kerkgbouw in de lokale gemeenschap op gang te brengen. Neem vrijblijvend contact met Men(S)tis vzw via info@menstis.be
 
 <span style="color:fuchsia">**P I L O O T P R O J E C T**</span>
 
@@ -16,7 +16,7 @@ Het **Project AGORA** kan in een aangepaste vorm in ieder parochiekerk worden ge
 
 ><span style="color:blue">Periode</span>: 5 MEI-16 SEPTEMBER 2018, iedere dag van 11u00 - 18u00, gratis toegang.
 
-><span style="color:blue">Samenwerking</span>: Men(S)tis vzw en [Yot vzw](https:/www.yot.be]).
+><span style="color:blue">Samenwerking</span>: Men(S)tis vzw en [Yot vzw](https://www.yot.be/nl/home/5]).
 
 ><span style="color:blue">Curator</span>: Sylvain De Bleeckere [Men(S)tis]
 
