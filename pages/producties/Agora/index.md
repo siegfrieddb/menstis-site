@@ -16,7 +16,7 @@ Het **Project AGORA** kan in een aangepaste vorm in ieder parochiekerk worden ge
 
 ><span style="color:blue">Periode</span>: 5 MEI-16 SEPTEMBER 2018, iedere dag van 11u00 - 18u00, gratis toegang.
 
-><span style="color:blue">Samenwerking</span>: Men(S)tis vzw en Yot vzw.
+><span style="color:blue">Samenwerking</span>: Men(S)tis vzw en [Yot vzw](www.yot.be]).
 
 ><span style="color:blue">Curator</span>: Sylvain De Bleeckere [Men(S)tis]
 
