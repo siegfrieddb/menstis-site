@@ -36,8 +36,7 @@ module.exports = React.createClass({
       if (access(page, 'file.ext') === 'md' && !include(page.path, '/404') && startsWith(page.path,"/uitgeverij/")  && page.path != "/uitgeverij/" ) {
         const title = access(page, 'data.title') || page.path
         const isActive = page.path === this.props.location.pathname
-        const soldOut = access(page, 'data.SoldOut') || false
-        if (soldOut)
+        
         {
           pageLinks.push(
             <li
