@@ -51,7 +51,7 @@ module.exports = React.createClass({
             </li>
           )
         }
-        else
+       
         {
           soldOutPageLinks.push(
             <li
