@@ -29,7 +29,7 @@ module.exports = React.createClass({
 
     const pageLinks = []
     const soldOutPageLinks = []
-    const pageOptions = []
+    
     // Sort pages.
     const pages = this.props.route.pages
     pages.forEach((page) => {
