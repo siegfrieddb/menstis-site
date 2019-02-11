@@ -1,6 +1,6 @@
 ---
 title : Levensbeschouwing democratisch belicht
-SoldOut : true
+
 ---
 
 
