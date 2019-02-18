@@ -28,7 +28,7 @@ module.exports = React.createClass({
    
 
     const pageLinks = []
-    const soldOutPageLinks = []
+    const pageOptions = []
     
     // Sort pages.
     const pages = this.props.route.pages
@@ -52,21 +52,7 @@ module.exports = React.createClass({
           )
         }
        
-        {
-          soldOutPageLinks.push(
-            <li
-              key={page.path}
-              style={{
-                marginBottom: rhythm(1/4),
-              }}
-            >
-              <Link style={{boxShadow: 'none'}} to={prefixLink(page.path)}>
-                      {isActive ? <strong>{title}</strong> : title}
-              </Link>
-            </li>
-          )
-
-        }
+        
         pageOptions.push(
            <li
             key={page.path}
@@ -110,8 +96,7 @@ module.exports = React.createClass({
               }}
             >
               {pageLinks}
-              <div>Uitverkocht:</div>
-              {soldOutPageLinks}
+              
             </ul>
           </div>
           <div
