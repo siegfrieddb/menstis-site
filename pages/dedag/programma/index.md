@@ -42,7 +42,7 @@ Het verloop van **De Dag** ziet er als volgt uit.
                <tr>
                  <td valign="top">10.30 &ndash; 12.30</td>
                  <td><strong class="style1" id="legaminauv&eacute;lo">The Birth of a Nation</strong> (2016) <br>
-                   <strong>Nat Turner</strong><br>
+                   <strong>Nate Parker</strong><br>
                    <span class="Prijs">US Grand Jury Prize Sundance</span></td>
                </tr>
                <tr>
