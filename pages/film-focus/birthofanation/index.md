@@ -123,7 +123,7 @@ See,oh Lord oh._
 
 >>_Reinig uw handen, zondaars, en zuiver uw hart, wankelmoedigen. Erken uw ellende, en treur, en ween. Laat uw lachten in rouw verkeren en uw vreugde in droefheid._
 
-Daarna neemt de blanke dominee het over en nodigt de blanke kerkgemeente uit om in het licht van _Jak. 1_ vast te houden aan ‘_de goedheid van de Heer_’. Na de dood van zijn meester Benjamin Turner, moet de jongen op het katoenveld gaan werken. Via de klankband met _Sweet Low, Sweet Chariot_ volgt de overgang naar de volwassenheid van Nat. Hij werkt nog steeds op het katoenveld, maar de song op de klankband eindigt met de sequentie van Nat die predikt in zijn eigen kerk die hij heeft ingericht in de schuur van het slavenkwartier. Daar resumeert hij de hoofdgedachte van het einde van _Psalm 27_:
+>Daarna neemt de blanke dominee het over en nodigt de blanke kerkgemeente uit om in het licht van _Jak. 1_ vast te houden aan ‘_de goedheid van de Heer_’. Na de dood van zijn meester Benjamin Turner, moet de jongen op het katoenveld gaan werken. Via de klankband met _Sweet Low, Sweet Chariot_ volgt de overgang naar de volwassenheid van Nat. Hij werkt nog steeds op het katoenveld, maar de song op de klankband eindigt met de sequentie van Nat die predikt in zijn eigen kerk die hij heeft ingericht in de schuur van het slavenkwartier. Daar resumeert hij de hoofdgedachte van het einde van _Psalm 27_:
 
 >>_Ik zou vergaan zijn zo ik niet had geloofd dat ik het goede van de Heer zou zien in het land van de levenden. Wacht op de Heer, wees sterk en Hij zal uw hart versterken. Wacht, zeg ik, op de Heer._
 
@@ -159,7 +159,7 @@ Na het seksuele misbruik van Esther door plantagehouder Randall, vraagt Hark aan
 
 >>_Pas goed op uzelf en op de kudde waarover de Heilige Geest u het toezicht heeft gegeven. Leef als herders voor de gemeente van God, die Hij door het bloed van zijn eigen Zoon heeft verkregen._
 
-De blanke dominee Walthall riposteert met:
+>De blanke dominee Walthall riposteert met:
 
 >>_Zeg tegen de slaven dat zij hun meesters moeten gehoorzamen, al hun eisen inwilligen, niet tegenspreken..._ (Ef.6:5 en het al eerder geciteerde 1 Petr. 2:18).
 
@@ -198,7 +198,7 @@ Tijdens de geheime bijeenkomst waar Nat aan enkele vertrouwelingen in aanwezighe
 
 >In de gevangenis creëert Parker een beeld met het hemelse, invallende witte licht tegen de achtergrond van de donkere tralies van de cel. Dan in clair-obscure compositie vormt Parker een beeld met het personage van Nat dat direct verwijzing naar _de kruisiging van Jezus_. Daarna volgen de sequenties van de tocht naar de galg, waarbij de visuele nadruk valt op de bespotting onderweg. De omstaanders beschimpen en slaan Nat. De weg naar de plaats van zijn terechtstelling spiegelt zich in _de kruisweg van Jezus in Jeruzalem_. In de kleine Amerikaanse stad die ook Jeruzalem heet, voltrekt zich de opstand van Nat en zijn volgelingen worden er neergeslagen, helemaal in overstemming met de historische feiten. Ook Nat zelf wordt er terechtgesteld. De weg van Jezus en zijn leerlingen eindigde eveneens in de historische stad die Jeruzalem heet. Ook de negro-spiritual song, _I Couldn't Hear Nobody Pray_, die de eindgeneriek en aldus de hele film retrospectief belicht, legt direct de link tussen het verhaal over Nat Turner en _het passieverhaal van Jezus_.
 
-Tot slot, is de Bijbel nog direct aanwezig via _de Bijbelse namen_ van zowel blanke als zwarte personages: Nat is de Amerikaanse afkorting van _Nathaniël_, volgens het Johannes’ Evangelie een van de twaalf apostelen van Jezus. De Hebreeuwse naam betekent ‘gave van God’. Voorts zijn er de Bijbelse namen Samuel, Elizabeth, Isaiah, Esther, Joseph, Benjamin en Simon. De kleine stad Jeruzalem in Southampton County, Virginia, is genoemd naar de grote, historische en Bijbelse stad Jeruzalem.
+>Tot slot, is de Bijbel nog direct aanwezig via _de Bijbelse namen_ van zowel blanke als zwarte personages: Nat is de Amerikaanse afkorting van _Nathaniël_, volgens het Johannes’ Evangelie een van de twaalf apostelen van Jezus. De Hebreeuwse naam betekent ‘gave van God’. Voorts zijn er de Bijbelse namen Samuel, Elizabeth, Isaiah, Esther, Joseph, Benjamin en Simon. De kleine stad Jeruzalem in Southampton County, Virginia, is genoemd naar de grote, historische en Bijbelse stad Jeruzalem.
  
 <span style="color:darkkhaki">**BEELDSPRAAK VAN VUUR**</span>. In de beeldsignatuur van de film speelt ook de aanwezigheid van vuur een hoofdrol. Dat gebeurt via het brandend haardvuur in de woningen, in het bijzonder in de woning van Bridget, Nancy en Nat. Er komen tal van binnensequenties voor waarin het schijnsel van het haardvuur zelf niet in beeld is, maar wel zichtbaar is op de personages. 
 
@@ -212,25 +212,93 @@ Tot slot, is de Bijbel nog direct aanwezig via _de Bijbelse namen_ van zowel bla
 
 ## <font color="#808000">**Betekenisruimte**</font>
 
-<span style="color:darkkhaki">**MODERNE DEMOCRATIE ALS HET ONTWAKEN VAN GODS RECHTVAARDIGHEID**</span>. In <span style="color:blue">**PilgrImage**</span>
+<span style="color:darkkhaki">**MODERNE DEMOCRATIE ALS HET ONTWAKEN VAN GODS RECHTVAARDIGHEID**</span>. Vooraleer de film <span style="color:blue">**The Birth of a Nation**</span> begint met de proloog, verschijnt er eerst een citaat van Thomas Jefferson, auteur van de Amerikaanse Declaration of Independence waarmee de Amerikaanse Revolutie op 4 juli 1776 begon. Uit het citaat blijkt dat Thomas Jefferson die zelf in zijn Monticello een slavenkwartier had, inzag dat het systeem van de slavernij op termijn niet te verzoenen was met de ideeën van de eerste, moderne democratie in de geschiedenis van de mensheid: 
 
-<span style="color:darkkhaki">**BEELDENDE OPSTAND**</span>.
+>>_Indeed I tremble for my country when I reflect that God is just: that his justice cannot sleep forever._
 
-<span style="color:darkkhaki">**HET LEERPROCES VAN NAT TURNER**</span>.
+>Het citaat bevestigt dat het religieus-christelijke Godsgeloof aan de grondslag lag van de eerste stappen van de moderne democratie. Jefferson besefte dat er echter nog een lange weg te gaan was om die moderne democratie in de gestalte van de Verenigde Staten van Amerika daadwerkelijk de uitdrukking zou worden van Gods Rechtvaardigheid. Het ‘_Uw Rijk Kome_’ uit het _Onzevader_ weerklonk luidt, zeker bij de miljoenen Afro-Amerikaanse slaven.
 
-<span style="color:darkkhaki">**INTERPRETATIESTRIJD OM DE BIJBEL**</span>.
+>Hun gebeden zouden samenkomen in de speech van de twintigste eeuw, de ‘_I Have A Dream_’, het ‘_Uw Rijk Kome_’ van de vorige eeuw, die dr. Martin Luther King sprak op 28 augustus 1963 op de trappen van het Lincoln Memorial te Washington D.C. Het monumentale beeld van president Lincoln die de Civil War ter afschaffing van de slavernij, luisterde aandachtig. The Birth of a Nation van Parker eindigt met het begin van de Civil War. Die wordt nu gezien als het grote vuur, waarvan de lont is aangestoken door Nat Turner. 
+
+<span style="color:darkkhaki">**BEELDENDE OPSTAND**</span>. <span style="color:blue">**The Birth of a Nation**</span> van Nate Parker is een historische film met een biografische insteek. Verfilmde geschiedenis is altijd een vorm van re-enactment. Historische gebeurtenissen worden nagespeeld. Ze worden als het ware live gekopieerd. In een re-enactment reiken verleden en heden elkaar over de brug van de tijd de hand. Letterlijk de feiten herhalen is natuurlijk onmogelijk. De uitdaging van een historische en filmische re-enactment bestaat erin zo getrouw mogelijk personen en gebeurtenissen uit de collectieve herinnering halen en opnieuw aan de oppervlakte van het heden te brengen. Dat gegeven betekent vandaag dat dergelijke onderneming niet kan zonder wetenschappelijk onderzoek. Daarna moet de scenarist en regisseur ― in het geval van <span style="color:blue">**The Birth of a Nation**</span> is dat een en dezelfde persoon ― een keuze maken. Niemand, ook Nate Parker niet, kan immers het leven van iemand als Nat Turner (2 oktober 1800 – 11 november 1831) in een gefilmd document van twee uren samenbrengen. Scenarist en regisseur Parker moet zo trouw mogelijk blijven aan de geregistreerde gebeurtenissen in zijn eigen beredeneerde interpretatie, rekening houdend met de eigenheid van het filmmedium en met de verstaanbaarheid en de relevantie van de film voor een hedendaags publiek.
+
+>Een goed voorbeeld hiervan is de focus die Parker verantwoord en geslaagd richt op de familie Turner. In de film verblijft Nat Turner op één plantage, die van de Turners. In het begin van het verhaal zien we de meester van de plantage, Benjamin Turner. Na diens dood in 1810 neemt Samuel Turner, de volwassen en ongehuwde zoon, de leiding van de plantage op zich. Nat en Samuel zijn in de film leeftijdsgenoten die als kinderen samen spelen. Het is historisch juist dat Nat Turner zijn familienaam heeft gekregen van zijn eerste meester, Benjamin Turner. Na diens dood werd de historische Nat de eigendom van de broer van Benjamin, Samuel Turner. Dat personage speelt in de film een belangrijke rol. Daarin verschijnt hij als de zoon van Benjamin. De historische Samuel stierf een natuurlijke dood, waarna Nat werd verkocht aan de familie van Thomas Moore. 
+Nat Turner is zijn rebellie dus niet zoals in de film begonnen met het ombrengen van Samuel Turner, maar van zijn toenmalige plantagehouder, Joseph Travis. Turner was namelijk op het ogenblik van de opstand de eigendom van een kind, de elfjarige Putnam Moore. Toen Thomas Moore stierf, erfde namelijk zijn nog jonge zoon diens slavenplantage. Zijn moeder hertrouwde met de karrenmaker Joseph Travis. Juridisch echter bleef Parker nog steeds de eigendom van Moore’s jonge zoon, terwijl in de praktijk Travis de plantage runde. Deze laatste vormde dan ook het eerste doelwit van Nats historische opstand tegen de plantagehouders.
+
+>De film <span style="color:blue">**The Birth of a Nation**</span> van Parker resumeert eigenlijk de verschillende eigenaars van Nat Turner in de familie Turner onder wier dak Nat als slaaf werd geboren. De familie Turner, Benjamin en Samuel, vertegenwoordigen in de film het instituut van de slavernij in het Zuiden, in het bijzonder in de staat Virginia. Via de activiteiten van de volwassen Nat als zwarte prediker die onder begeleiding van Samuel Turner diverse naburige plantages bezoekt en met de behandeling van de slaven in contact komt, verduidelijkt de film het historisch gegeven dat Nat Turner een goed beeld had van de slavernij als instelling via zijn verblijf als slaaf op diverse plantages in Virginia. Dit historisch gegeven is van cruciaal belang, waar de film correct recht aan doet. De film herinnert er terecht aan dat de historische rebellie van Nat Turner is voortgekomen uit zijn groeiend inzicht in het sociaal-economische systeem van de slavernij, waarvan niet alleen hijzelf maar al zijn Afro-Amerikaanse broeders en zusters slachtoffer van waren.
+
+>De keuze van Parker voor de historische figuur van Nat Turner is echter niet evident.
+
+>>_Ik wilde een verhaal waarin de held verzet duidelijk ziet als een optie om aan de systematische onderdrukking het hoofd te bieden._
+
+>Dat lijkt niet zo vanzelfsprekend. De historische opstand van Nat Turner versterkt immers op het eerste zicht de visie van Griffith/Dixon: de zwarte slaven zijn minderwaardige wezens, wilde dieren die met harde hand en met de zweep moeten worden getemd zodat ze zich altijd onderdanig zouden gedragen.
+
+>Dat zien we ook in de film van Parker. Er komt immers een dramatische scène in voor met Nat die op zo’n brutale manier zweepslagen krijgt tot hij aan de open wonden bijna bezwijkt. Dat dramatisch gegeven vat goed de logica samen van de blanke suprematie waarop de instelling van de slavernij in het Zuiden was gebaseerd. De slaaf die niet met de gewone middelen kan worden getemd, moet nog harder worden aangepakt met de zweep of andere harde middelen om die alsnog tot onderwerping te dwingen. De reden waarom de ‘temming’ niet mocht leiden tot de dood, was economisch. De slaaf was het fysieke bezit van de plantagehouder die ervoor een aanzienlijk bedrag had betaald. Door hem te doden, zou de eigenaar zichzelf immers economische schade toebrengen.
+
+<span style="color:darkkhaki">**HET LEERPROCES VAN NAT TURNER**</span>. 
+
+>>Samuel Turner: _Je les geleerd, jongen ('boy')?_
+
+>>Nat Turner: _O ja, meneer, ik heb eruit geleerd._
+
+In het tafereel dat volgt na de zweepslagen, vraagt Samuel aan Nat wiens rug open ligt, of hij zijn les heeft geleerd. De gebroken Nat antwoordt met ja. Maar de betekenis van dat ja ligt anders bij Nat dan bij Samuel. Voor de eerste betekent het ja dat hij nu weet dat zijn eigenaar Samuel die tot dan toe vrij goed was voor hem, uiteindelijk een slavenbezitter is als alle anderen. Hij beseft nu dat Samuel uiteindelijk ook deel uitmaakt van de instelling van de slavernij. Samuel zelf interpreteert het ja van de murw geslagen Nat helemaal anders. Hij denkt dat het ja van Nat gehoorzaamheid en onderdanigheid, passend bij een slaaf, inhoudt. 
+
+>Voor Nat Turner vormt de geseling met de zweep de eindconclusie van het leerproces dat hem voert naar het inzicht in het noodzakelijk verzet tegen de instelling van de slavernij. Dat leerproces beslaat het grootste deel van de film en verloopt crescendo naar het dramatische orgelpunt van de bloedige rebellie. Die verschijnt als de cumulatie van vele, kleine maar toch duidelijke verzetsmomenten tegen de gesel van de slavernij.
+
+>In de proloog is er al de verboden samenkomst met het Afrikaanse zegeningsritueel. Het kind Nat onderricht zichzelf door in een boek te leren lezen, iets wat absoluut verbonden is voor slaven. In het grote deel met de volwassen Nat, opent de geleidelijke kennismaking met verschillende plantages en het bijhorende slavenbeleid de open van Nat. Hij spiegelt die realiteit aan zijn groeiende kennis van de Bijbel.
+
+>Een belangrijk rol in zijn leerproces richting opstand vormen de vrouwenfiguren. Het seksueel misbruik bij Esther en bij Cherry-Ann, waarvan Nat de gevolgen ziet, wakkeren zijn verantwoordelijkheidsgevoel als ‘de herder die voor zijn kudde’ wil zorgen. De ervaring met de bijna fatale zweepslagen versterkt zijn solidaire betrokkenheid met zijn vele zusters en broeders. Na de dood van zijn grootmoeder Bridget die de wonden van Nat verzorgt, terwijl ze vertelt over haar leven in Afrika samen met haar man die, zo stelt ze, gelukkig gestorven is voor de slavenhandelaren langs zijn gekomen, mediteert Nat bij zijn opgebaarde grootmoeder.
+
+>Die meditatie is een prachtig uitgewerkt als moment van beeldend denken. Nat zegt niets. Hij combineert in zijn geest herinneringsbeelden ― de twee meisjes die hij heeft zien spelen toen hij moest gaan prediken op de plantage van Randall, het blanke meisje trekt het zwarte meisje mee met een koord die rond de hals van het zwarte meisje is vastgemaakt; het gezicht van de misbruikte Cherry-Ann; de gedwongen voeding bij de slaaf op de plantage van Fowler. Bij die herinneringsbeelden hoort de close-up de Bijbeltekst _1 Sam. 15:3_. Na die meditatie spreekt Nat bij het graf van zijn grootmoeder af met Hark. Hij vraagt hem enkele mannen bijeen te roepen op een geheime plaats. Daar kondigt Nat de rebellie aan.
+
+>Het hele leerproces staat in het teken van Nats eigen autodidactisch leerproces met de bipolaire polen van de eigen ervaringen en de eigen lezing van de Bijbel. Het leerproces van Nat staat helemaal in het teken van de macht van het beeldend denken. Aan zijn broeders die hem in de rebellie volgen, licht hij dat zelf als volgt toe:
+
+>>_Ik volg de Heer al een hele tijd. Ik predik, citeer uit de Bijbel, verkondig het evangelie met de paar bladzijden en stukken die me zijn toegestaan. Maar ik heb het Woord doorgenomen, helemaal. Met nieuwe ogen zie ik nu dat tegenover elk vers waarmee ze onze slavernij handhaven een ander vers onze vrijheid eist. Tegenover elk vers waarmee ze onze kwelling rechtvaardigen veroordeelt een ander vers hen voor die daden tot de hel. De Heer heeft tot mij gesproken. Visioenen van wat komen gaat._
 
 
+<span style="color:darkkhaki">**INTERPRETATIESTRIJD OM DE BIJBEL**</span>. Helemaal in overstemming met alle overgeleverde getuigen en documenten over de opstand van Nat Turner, onderlijnt Parker het belangrijke feit dat Nat Turner doordrongen was van zijn lectuur van de Bijbel. Zijn zelfbeeld werd er helemaal door gevormd. Hij ervoer dat de Heilige Geest hem bezielde en leidde. Dat leidde geleidelijk tot de kracht om eigen beslissingen te nemen.
 
-<a name="CON"></a>
+>Dat blijkt uit de verandering in de toon en de inhoud van zijn predicatie op de plantage van Fowler, uit de kracht van zijn tafelgebed, uit zijn wil om een blanke zondaar te dopen met daarna de strijd om de interpretatie van de Bijbel tussen hem, de zwarte prediker, en Walthall, de blanke dominee, en tot slot, uit zijn besluit om de rebellie te beginnen na het definitieve hemelse teken van de zonsverduistering te hebben aanschouwd.
+
+>Parker stelt in zijn Helemaal in overstemming met alle overgeleverde getuigen en documenten over de opstand van Nat Turner, onderlijnt Parker het belangrijke feit dat Nat Turner doordrongen was van zijn lectuur van de Bijbel. Zijn zelfbeeld werd er helemaal door gevormd. Hij ervoer dat de Heilige Geest hem bezielde en leidde. Dat leidde geleidelijk tot de kracht om eigen beslissingen te nemen. Dat blijkt uit de verandering in de toon en de inhoud van zijn predicatie op de plantage van Fowler, uit de kracht van zijn tafelgebed, uit zijn wil om een blanke zondaar te dopen met daarna de strijd om de interpretatie van de Bijbel tussen hem, de zwarte prediker, en Walthall, de blanke dominee, en tot slot, uit zijn besluit om de rebellie te beginnen na het definitieve hemelse teken van de zonsverduistering te hebben aanschouwd.
+
+>Parker stelt in zijn The Birth of a Nation duidelijk de belangrijke rol van de Bijbel en de interpretatie ervan in het leerproces van de jonge democratische Staten van Amerika. Die zijn immers ontstaan uit de opstand uit de opstand van vooral radicaal protestantse groepen die wegens vervolging waren gevolgd uit christelijke Europese landen. In de katholieke of anglicaanse landen waren ze te Bijbels en in tal van protestantse landen waren ze te radicaal. Ze wilden leefden en denken volgens het algemeen protestantse principe van ‘de letter van de tekst’. Het Woord van God is de Bijbel en niets meer is er nodig. De letter van de Tekst en alleen de letter van de Tekst.
+
+>Die weigering van iedere interpretatie bracht uiteindelijk de religieuze interpretatiestrijd om de Bijbel voort. Dat leidde uiteindelijk tot de confrontatie van de blanken uit het Zuiden met die van het Noorden, met de _Civil War_ als resultaat, en in het Zuiden botsten de eensgezinde Bijbelvaste blanken met de eveneens Bijbel-geïnspireerde zwarte christenen, met de rebellie van Nat Turner en de _Civil War_ als resultaat. 
+
+ <a name="CON"></a>
 
 ## <font color="#808000">**Context**</font>
+
+De regisseur Nate Parker wil met zijn film <span style="color:blue">**The Birth of a Nation**</span> de figuur van Nat Turner opnemen in de geschiedenis van de Verenigde Staten en bij uitbreiding in die van de democratische strijd voor de burgerrechten in de wereld. In dat perspectief heeft de regisseur het boek _The Birth of a Nation. Nat Turner and the Making of a Movement_ samengesteld en op de website van de film heeft hij een rubriek uitgewerkt met als titel _Nat Turner Lives_. Die webpagina omvat diverse deelpagina’s die gewijd zijn aan diverse voorvechters van de democratische mensenrechten.
+
+>Tegelijkertijd heeft de regisseur samen met de productie op de Facebookpagina  van de film filmfoto’s geplaatst met citaten van historische personages. Die citaten plaatsen de film in het licht van de blijvende moderne strijd voor de democratische rechten, ook nog in de Verenigde Staten van Amerika.
+
+>De film sluit naadloos aan op de Oskarfilm Lincoln (2012) van Steven Spielberg. De slotsequentie van Parkers The Birth of a Nation verwijzen direct naar de openingssequenties van Lincoln. Ook de Afro-Amerikaanse acteur, Colman Domingo die in The Birth Nat Turners rechterhand, Hark, vertolkt, heeft een rol in Lincoln. 
 
 Het filmpje <span style="color:blue">**PilgrImage**</span> staat op zichzelf 
 
 <a name="LIN"></a>
 
 ## <font color="#808000">**Links**</font>
+
+Breen, Patrick, The Land Shall Be Deluged with Blood: A New History of the Nat Turner Revolt. New York, Oxford University Press, 2015.
+
+Griffith, David W., The Birth of a Nation (1915). Film. Beschikbaar via https://www.youtube.com/watch?v=vZ871wZd7UY.
+Onion, Rebecca, How The Birth of a Nation Uses Fact and Fiction, 14 oktober 2016, via http://www.slate.com/blogs/browbeat/2016/10/14/the_birth_of_a_nation_historical_accuracy_what_s_fact_and_what_s_fiction.html, geraadpleegd op 6 december 2017.
+
+Parker, Nate (ed.), The Birth of a Nation. Nat Turner and the Making of a Movement. The Official Movie Tie-in. New York, Atria Books, 2016.
+
+Facebook, The Birth of a Nation, zonder datum, via https://www.facebook.com/TheBirthofaNation
+Fox Searchlight, The Birth of a Nation, zonder datum, via http://www.foxsearchlight.com/thebirthofanation, geraadpleegd op 29 september 2016. De rubrieken op de officiële (Engelse) site van de film zijn: About the movie, Cast, Videos, Nat Turner Lives, Theaters.
+
+History, Nat Turner, zonder datum, via http://www.history.com/topics/black-history/nat-turner.
+https://www.youtube.com/watch?v=7IwXxBrA3wA
+
+De opname in de studio in aanwezigheid van regisseur Parker van I couldn't hear nobody pray : https://www.youtube.com/watch?v=7IwXxBrA3wA
+
+De soundtrack van de film: https://open.spotify.com/album/2TYEOvQnoeNMmhKMl04XIs
+
 
 Zie de sites van [Kristof Hoornaert](https://www.kristofhoornaert.com/) en [Marleen Mertens](http://www.marleen-mertens.be/metafora.php).
 
