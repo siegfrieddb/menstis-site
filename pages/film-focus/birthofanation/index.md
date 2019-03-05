@@ -260,7 +260,6 @@ Nat Turner is zijn rebellie dus niet zoals in de film begonnen met het ombrengen
 >Dat zien we ook in de film van Parker. Er komt immers een dramatische scène in voor met Nat die op zo’n brutale manier zweepslagen krijgt tot hij aan de open wonden bijna bezwijkt. Dat dramatisch gegeven vat goed de logica samen van de blanke suprematie waarop de instelling van de slavernij in het Zuiden was gebaseerd. De slaaf die niet met de gewone middelen kan worden getemd, moet nog harder worden aangepakt met de zweep of andere harde middelen om die alsnog tot onderwerping te dwingen. De reden waarom de ‘temming’ niet mocht leiden tot de dood, was economisch. De slaaf was het fysieke bezit van de plantagehouder die ervoor een aanzienlijk bedrag had betaald. Door hem te doden, zou de eigenaar zichzelf immers economische schade toebrengen.
 
 <span style="color:darkkhaki">**HET LEERPROCES VAN NAT TURNER**</span>. 
-
 >>Samuel Turner: _Je les geleerd, jongen ('boy')?_
 
 >>Nat Turner: _O ja, meneer, ik heb eruit geleerd._
@@ -295,7 +294,9 @@ In het tafereel dat volgt na de zweepslagen, vraagt Samuel aan Nat wiens rug ope
 ## <font color="#808000">**Context**</font>
 
 De regisseur Nate Parker wil met zijn film <span style="color:blue">**The Birth of a Nation**</span> de figuur van Nat Turner opnemen in de geschiedenis van de Verenigde Staten en bij uitbreiding in die van de democratische strijd voor de burgerrechten in de wereld. In dat perspectief heeft de regisseur het boek _The Birth of a Nation. Nat Turner and the Making of a Movement_ samengesteld en op de website van de film heeft hij een rubriek uitgewerkt met als titel _Nat Turner Lives_. Die webpagina omvat diverse deelpagina’s die gewijd zijn aan diverse voorvechters van de democratische mensenrechten.
->De film sluit naadloos aan op de Oskarfilm _Lincoln_ (2012) van Steven Spielberg. De slotsequentie van Parkers <span style="color:blue">**The Birth of a Nation**</span> verwijzen direct naar de openingssequenties van Lincoln. Ook de Afro-Amerikaanse acteur, Colman Domingo die in <span style="color:blue">**The Birth of a Nation**</span> Nat Turners rechterhand, Hark, vertolkt, heeft een bijrol van Afro-Amerikaanse soldaat in _Lincoln_. Voorts vertolkt Colman de rol van Ralph Abernathy, de rechterhand van dr. Martin Luther King in de film _Selma_. Via de acteur Colman ontstaat er beeldend een sterke link tussen de historische rebellie van preacher Turner, de Civil War onder leiding van president Lincoln en de Civil Rights Movement onder leiding van dr. Martin Luther King, de voorzitter van de Southern Christian Leadership Conference. 
+>De film sluit naadloos aan op de Oscarfilm _Lincoln_ (2012) van Steven Spielberg. De slotsequentie van Parkers <span style="color:blue">**The Birth of a Nation**</span> verwijzen direct naar de openingssequenties van Lincoln. Ook de Afro-Amerikaanse acteur, Colman Domingo die in <span style="color:blue">**The Birth of a Nation**</span> Nat Turners rechterhand, Hark, vertolkt, heeft een bijrol van Afro-Amerikaanse soldaat in _Lincoln_. Voorts vertolkt Colman de rol van Ralph Abernathy, de rechterhand van dr. Martin Luther King in de film _Selma_ (2014) van Ava DuVernay.
+
+>Via de acteur Colman ontstaat er aldus beeldend een sterke link tussen de historische rebellie van preacher Turner, de Civil War onder leiding van president Lincoln en de Civil Rights Movement onder leiding van dr. Martin Luther King, de voorzitter van de Southern Christian Leadership Conference. 
 
 <a name="LIN"></a>
 
