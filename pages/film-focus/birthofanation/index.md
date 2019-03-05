@@ -295,10 +295,7 @@ In het tafereel dat volgt na de zweepslagen, vraagt Samuel aan Nat wiens rug ope
 ## <font color="#808000">**Context**</font>
 
 De regisseur Nate Parker wil met zijn film <span style="color:blue">**The Birth of a Nation**</span> de figuur van Nat Turner opnemen in de geschiedenis van de Verenigde Staten en bij uitbreiding in die van de democratische strijd voor de burgerrechten in de wereld. In dat perspectief heeft de regisseur het boek _The Birth of a Nation. Nat Turner and the Making of a Movement_ samengesteld en op de website van de film heeft hij een rubriek uitgewerkt met als titel _Nat Turner Lives_. Die webpagina omvat diverse deelpagina’s die gewijd zijn aan diverse voorvechters van de democratische mensenrechten.
-
->Tegelijkertijd heeft de regisseur samen met de productie op de Facebookpagina  van de film filmfoto’s geplaatst met citaten van historische personages. Die citaten plaatsen de film in het licht van de blijvende moderne strijd voor de democratische rechten, ook nog in de Verenigde Staten van Amerika.
-
->De film sluit naadloos aan op de Oskarfilm Lincoln (2012) van Steven Spielberg. De slotsequentie van Parkers The Birth of a Nation verwijzen direct naar de openingssequenties van Lincoln. Ook de Afro-Amerikaanse acteur, Colman Domingo die in The Birth Nat Turners rechterhand, Hark, vertolkt, heeft een rol in Lincoln. 
+>De film sluit naadloos aan op de Oskarfilm _Lincoln_ (2012) van Steven Spielberg. De slotsequentie van Parkers <span style="color:blue">**The Birth of a Nation**</span> verwijzen direct naar de openingssequenties van Lincoln. Ook de Afro-Amerikaanse acteur, Colman Domingo die in <span style="color:blue">**The Birth of a Nation**</span> Nat Turners rechterhand, Hark, vertolkt, heeft een bijrol van Afro-Amerikaanse soldaat in _Lincoln_. Voorts vertolkt Colman de rol van Ralph Abernathy, de rechterhand van dr. Martin Luther King in de film _Selma_. Via de acteur Colman ontstaat er beeldend een sterke link tussen de historische rebellie van preacher Turner, de Civil War onder leiding van president Lincoln en de Civil Rights Movement onder leiding van dr. Martin Luther King, de voorzitter van de Southern Christian Leadership Conference. 
 
 <a name="LIN"></a>
 
