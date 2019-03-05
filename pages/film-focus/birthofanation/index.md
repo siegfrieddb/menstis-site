@@ -300,8 +300,6 @@ De regisseur Nate Parker wil met zijn film <span style="color:blue">**The Birth 
 
 >De film sluit naadloos aan op de Oskarfilm Lincoln (2012) van Steven Spielberg. De slotsequentie van Parkers The Birth of a Nation verwijzen direct naar de openingssequenties van Lincoln. Ook de Afro-Amerikaanse acteur, Colman Domingo die in The Birth Nat Turners rechterhand, Hark, vertolkt, heeft een rol in Lincoln. 
 
-Het filmpje <span style="color:blue">**PilgrImage**</span> staat op zichzelf 
-
 <a name="LIN"></a>
 
 ## <font color="#808000">**Links**</font>
