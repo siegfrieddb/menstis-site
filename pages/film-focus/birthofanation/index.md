@@ -19,9 +19,11 @@ De film is namelijk een productie die onder het presidentschap van Obama mogelij
 
 Nat Turner wordt geboren in 1800 op de katoenplantage in Southampton County, Virginia, van de familie Turner. Hij krijgt de Bijbelse voornaam Nathaniël, maar zijn familienaam, zijn identiteit, is Turner, de blanke houder van een eigen slavenkolonie. Nat groeit op als een slaaf. Na de vlucht van zijn vader voor de slavenjagers (‘slave catchers’), wordt Nat opgevoed door twee vrouwen, zijn moeder Nancy en zijn grootmoeder Bridget. Als kind gaat Nat steeds meer beseffen dat hij speciale talenten heeft. Hij leert zichzelf het alfabet en hij kan de letters herkennen in een tekst.
 
+<img src="book.jpg">
+
 >De weduwe Elizabeth Turner ontdekt dat en neemt de jongen onder haar hoede, niettegenstaande het voor de slaven in het Zuiden streng verboden is om te leren lezen en schrijven. Op advies van de lokale  predikant Walthall, beslist de zoon van de weduwe, Samuel Turner, de eigenaar van de katoenplantage, zijn geletterde slaaf Nat te verhuren. Hij wil hiermee een welgekomen extra bron van inkomsten aanboren. Samuel rijdt regelmatig zijn zwarte predikant Nat naar de naburige plantagebezitters. De welbespraakte zwarte preacher krijgt de taak om in zijn predicaties zijn lotgenoten tot meer onderdanigheid, gehoorzaamheid en werkijver aan te zetten. De plantagehouders hopen op die manier hun vrees voor het ontstaan van slavenopstanden te bedwingen.
  
->Door zijn predicatiewerk leert Nat echter de onmenselijke situatie van de slaven door en door kennen. Hij absorbeert wat hij ziet. Ondertussen trouwt hij met de slavin Cherry-Ann ― later vernemen we dat haar moeder haar de naam Madison Hayne heeft gegeven. Op zeker dag is Nate getuige van de seksuele vernedering van de slavin Ester, de echtgenote van de slaaf Hark, vriend en rechterhand van Nate. Esher werkt in het huishouden van de Turners en na het jaarlijkse feest ten huize van de Turners wordt ze seksueel opgeëist door de naburige plantageman Joseph Randall. Nadat Nat ervaart dat de blanke slave catchers ook zijn eigen vrouw Cherry-Ann seksueel hebben misbruikt, en nadat hij zelf naar aanleiding van een doopsel dat hij heeft toegediend aan een blanke bekeerling, door Samuel Turner met zweepslagen wordt gestraft, beslist Nat ― geïnspireerd door zijn Bijbellezing, visioenen en een zonsverduistering ― zijn broeders op te roepen om met geweld in opstand te komen. 
+>Door zijn predicatiewerk leert Nat echter de onmenselijke situatie van de slaven door en door kennen. Hij absorbeert wat hij ziet. Ondertussen trouwt hij met de slavin Cherry-Ann ― later blijkt dat ze van haar moeder de naam Madison Hayne heeft gekregen. Op zeker dag is Nat getuige van de seksuele vernedering van de slavin Esther, de echtgenote van de slaaf Hark, vriend en rechterhand van Nate. Esher werkt in het huishouden van de Turners en na het jaarlijkse feest ten huize van de Turners wordt ze seksueel opgeëist door de naburige plantageman Joseph Randall. Nadat Nat ervaart dat de blanke slave catchers ook zijn eigen vrouw Cherry-Ann seksueel hebben misbruikt, en nadat hij zelf naar aanleiding van een doopsel dat hij heeft toegediend aan een blanke bekeerling, door Samuel Turner met zweepslagen wordt gestraft, beslist Nat ― geïnspireerd door zijn Bijbellezing, visioenen en een zonsverduistering ― zijn broeders op te roepen om met geweld in opstand te komen. 
 
 >Nat en zijn volgelingen doden enkele plantagehouders. Nat zelf doodt Samuel Turner. Lang duurt hun opstand niet. Nat weet te ontsnappen aan de gewapende blanke eigenaars die zich hebben verenigd om de rebellie de kop in te drukken. Na enige tijd geeft Nat zichzelf aan. Na een kort verblijf in de gevangenis, wordt hij opgehangen. De herinnering aan hem en zijn verzet inspireert echter de volgende generatie slaven ― hier belichaamd door de jongen Jasper. Zijn aanwezigheid valt ook op tijdens de terechtstelling van Nat. Hij kijkt op naar hem. De camera zoomt in op zijn gelaat. Hij weent. Dat beeld gaat over naar de zwarte soldaten van het Lincoln-leger. Zij beantwoorden de oproep van president Lincoln om mee te strijden met de noordelijke staten voor de afschaffing van het systeem van de slavernij.  
 
@@ -37,7 +39,7 @@ Nat Turner wordt geboren in 1800 op de katoenplantage in Southampton County, Vir
 
 >De epiloog staat opnieuw in het teken van de generaties, maar nu kijkend richting toekomst. Dat gebeurt via het beeldmetaforisch personage van zwarte jongen Jasper. Hij is een slaaf van de plantage van Randall waar Nat gaat prediken. Daar stelt Randall zelf Jasper voor aan Samuel en Nat Turner. Het hele tafereel van het bezoek aan de Randall-plantage is opgebouwd als een inclusie tussen de twee shots van Jasper. Zowel in het begin als op het einde zegt hij niets, maar kijkt aandachtig. Hij lijkt vooral gefascineerd door de figuur van Nat. Jasper zelf komt dan ook terug in beeld tijdens de eerste bijeenkomst van de opstandelingen. De jongen wil deelnamen aan de bijeenkomst. De volwassen mannen willen hem echter wegsturen, maar Nat beslist dat hij mag blijven. 
 
->Zo wordt Jasper de kroongetuige van de opstand. Via een overvloeier verschijnt hij opnieuw. Dat gebeurt in het slotbeeld. Nu is hij jonge man. Hij doet dienst als soldaat in het leger van de Amerikaanse leger tijdens de Civil War, uitgeroepen door president Abraham Lincoln, ter afschaffing van de slavernij in het Zuiden. 
+>Zo wordt Jasper de kroongetuige van de opstand. Via een overvloeier van de close-up van het gelaat met de traan verschijnt hij opnieuw. Dat gebeurt in het slotbeeld. Nu is hij jonge man. Hij doet dienst als soldaat in het leger van de Amerikaanse leger tijdens de Civil War, uitgeroepen door president Abraham Lincoln, ter afschaffing van de slavernij in het Zuiden. 
 
 >Met die slotbeelden van de epiloog verbindt Parker de opstand van Nat Turner met de Civil War. Hij portretteert de opstand van Nat Turner als de prelude van de grootse, militaire onderneming in de Verenigde Staten om de instelling van de slavernij voor altijd uit te roeien. In dat slotbeeld herdefinieert Parker meesterlijk de titel ‘the birth of a nation’, met de nadruk op ‘nation’. Een natie kan enkel een ware natie worden genoemd, als alle delen van de bevolking er volwaardig deel van kunnen uitmaken.
  
@@ -52,12 +54,22 @@ Nat Turner wordt geboren in 1800 op de katoenplantage in Southampton County, Vir
 
 >Tot voor de realisatie van Parkers gelijknamige film was er nog geen beeldende rechtzetting gekomen op die invloedrijke film van Griffith. Die film heeft nog steeds een groot gezag wegens de naam van Griffith zelf, één van de grote pioniers uit de Amerikaanse, ja zelfs de hele filmgeschiedenis. Nog steeds worden Griffiths films bestudeerd omwille van zijn grote vernieuwingen in het krachtige narratieve vermogen van film. Bovendien is de KKK nog steeds een actieve organisatie die de Griffiths film als hun beeldbijbel beschouwt. De eveneens historische Oscarfilm _BlacKKKlansman_ (2018) van Spike Lee brengt dat sterk aan het licht. Hij kreeg ervoor de Grand Prix op het Filmfestival van Cannes en een Oscar voor het beste scenario. 
 
->En dan is er nog de recente politieke realiteit. De eerste minister van Justitie, Jeff Sessions, onder de regering van de nieuwe president Trump, heeft in het verleden racistische uitspraken gedaan tegen de zwarte burgerrechten en voor de KKK. In zijn historisch statement van 27 februari 2019 voor de _United States House Commitee on Oversight and Reform_, onder het voorzitterschap van het Afro-Amerikaanse Congreslid Elijah Eugene Cummings stelde de gewezen persoonlijke juridische adviseur van president Trump onder ede zonder aarzelen dat Trump een racist is die zwarte mensen minderwaardig en dom vindt, gewezen president Obama incluis. Dat wijst erop dat het blanke suprematistische mensbeeld, zoals verheerlijkt in Griffiths The Birth of a Nation, in de Verenigde Staten niet alleen onder de oppervlakte, maar ook aan de publieke oppervlakte nog steeds actief doorwerkt.
+>En dan is er nog de recente politieke realiteit. De eerste minister van Justitie, Jeff Sessions, onder de regering van de nieuwe president Trump, heeft in het verleden racistische uitspraken gedaan tegen de zwarte burgerrechten en voor de KKK. In zijn historisch statement van 27 februari 2019 voor de _United States House Commitee on Oversight and Reform_, onder het voorzitterschap van het Afro-Amerikaanse Congreslid Elijah Eugene Cummings stelde de gewezen persoonlijke juridische adviseur van president Trump onder ede zonder aarzelen dat Trump een racist is die zwarte mensen minderwaardig en dom vindt, gewezen president Obama incluis. Dat wijst erop dat het blanke suprematistische mensbeeld, zoals verheerlijkt in Griffiths _The Birth of a Nation_, in de Verenigde Staten niet alleen onder de oppervlakte, maar ook aan de publieke oppervlakte nog steeds actief doorwerkt.
 
->In die optiek ontmaskert Parker _The Birth of a Nation_ van Griffith als een echte propagandafilm die de ideologie van het blanke suprematisme onderschrijft en verspreidt. Dat het blanke ras superieur en hoogwaardiger is dan het zwarte ras blijkt inderdaad uit iedere scène van Griffiths film. Parker verwijst ernaar in de eerste scènes van zijn Birth of a Nation. Het betreft de scène waarin Nats vader Isaac in het avonddonker op zoek gaat naar eten voor zijn gezin, en onderweg door lokale slave catchers wordt tegengehouden. De leider van de slavenjagers, Raymond Copp, vraagt aan een van zijn trawanten, Jesse: ‘Hoe noem wij een neger die zichzelf slimmer vindt dat een blanke?’ Het antwoord van Jesse luidt: ‘Een dode neger.’ De vader van Nat kan zich verdedigen en ontsnappen, wat hem echter verplicht zijn gezin te verlaten en blijvend te vluchten. Die vroege scène is reeds een voorafspiegeling van het verzet dat Nat Turner later zal organiseren tegen het ontmenselijkende systeem van de slavernij. 
+>In die optiek ontmaskert Parker _The Birth of a Nation_ van Griffith als een echte propagandafilm die de ideologie van het blanke suprematisme onderschrijft en verspreidt. Dat het blanke ras superieur en hoogwaardiger is dan het zwarte ras blijkt inderdaad uit iedere scène van Griffiths film. Parker verwijst ernaar in de eerste scènes van zijn Birth of a Nation. Het betreft de scène waarin Nats vader Isaac in het avonddonker op zoek gaat naar eten voor zijn gezin, en onderweg door lokale slave catchers wordt tegengehouden. De leider van de slavenjagers, Raymond Copp, vraagt aan een van zijn trawanten, Jesse: 
+
+>>_Hoe noem wij een neger die zichzelf slimmer vindt dat een blanke?_
+
+>>Jesse: _Een dode neger_.
+
+ >De vader van Nat kan zich verdedigen en ontsnappen, wat hem echter verplicht zijn gezin te verlaten en blijvend te vluchten. Die vroege scène is reeds een voorafspiegeling van het verzet dat Nat Turner later zal organiseren tegen het ontmenselijkende systeem van de slavernij. 
 
 
-<span style="color:darkkhaki">**HEMELSE KLANKEN EN MENSELIJKE WEEKLACHT**</span>. De muziek vormt een volwaardig deel van de film <span style="color:blue">**The Birth of a Nation**</span>. De eerste muziek is die van de natuur, het geluid van de stilte. De plantage bevindt zich midden in de natuur: de uitgestrekte bossen met veel moerassige delen, de katoenplantage. Die natuurmuziek brengt de stilte voort die prominent aanwezig is en die de toeschouwer helpt om zich in de sfeer te kunnen inleven. De natuurlijke stilte sluit aan bij het opgelegde zwijgen van de slaven. Ze hebben niet het recht om vrijuit te spreken en alles wat ze zien en horen, moeten ze voor zich houden. Nat zelf ondervindt wat er gebeurt, als hij dat opgelegde zwijgen verbreekt.
+<span style="color:darkkhaki">**HEMELSE KLANKEN EN MENSELIJKE WEEKLACHT**</span>. De muziek vormt een volwaardig deel van de film <span style="color:blue">**The Birth of a Nation**</span>. De eerste muziek is die van de natuur, het geluid van de stilte. De plantage bevindt zich midden in de natuur: de uitgestrekte bossen met veel moerassige delen, de katoenplantage. Die natuurmuziek brengt de stilte voort die prominent aanwezig is en die de toeschouwer helpt om zich in de sfeer te kunnen inleven. 
+
+<img src="kcrobs.jpg">
+
+De natuurlijke stilte sluit aan bij het opgelegde zwijgen van de slaven. Ze hebben niet het recht om vrijuit te spreken en alles wat ze zien en horen, moeten ze voor zich houden. Nat zelf ondervindt wat er gebeurt, als hij dat opgelegde zwijgen verbreekt.
 
 >Vervolgens is er de originele muziekscore die componist Henry Jackson schreef in opdracht van de regisseur. Zelf beklemtoont Jackson vooral de spirituele dimensie van zijn compositie. Ze kleurt het dramatisch verhaal in met een religieus-spiritueel palet. Concreet gebeurt dat via een eerder ingetogen symfonische filmmuziek met violen en een kinder- en vrouwenkoor. Hierdoor ontstaat er een muziek die uit de hemel lijkt te weerklinken. Dat is zeker het geval in de sequenties waarin de met zweepslagen neergeslagen Nat terug opstaat, gesterkt door het zien van de vele kaarslichtjes die zijn medeslaven zwijgend voor hem hebben doen branden. De componist verwijst zelf expliciet naar diezelfde ‘hemelse’ spirituele muziek bij de gewelddadige confrontatie tussen de rebellerende opstandelingen en de goed bewapende blanken, bijeengebracht door de gealarmeerde plantagehouders. De muziek ‘ontwapent’ de gewelddadige actiescènes. De gebruikelijk heroïsche muziek dikt het visueel geweld niet aan. Het tegenovergesteld gebeurt. Voorts duidt de ‘hemelse’ muziek Nats twee engel-visioenen: op het einde van de geseling en op het einde van de terechtstelling aan de galg. Ieder keer verschijnt de witte engel vanuit een zeer helder wit, hemels licht. De engelfiguur brengt bij de geseling troost en verlichting, en bij de dood verwelkomt ze Nat in de 'hemelse' wereld na de dood. 
 
@@ -71,7 +83,11 @@ Nat Turner wordt geboren in 1800 op de katoenplantage in Southampton County, Vir
 
 >_Sweet Low, Sweet Chariot_ verwijst bij het begin van het verhaal van de volwassen Nat al naar het einde ervan. De spiritual vertolkt de troost van de slaaf in de dood die wordt ervaren als een reis naar de thuis van de hemel. Het beeld van de kar is aan de Bijbel ontleent (2 Kon. 2:11) waar de profeet Elia met een ‘_wagen (chariot) van vuur_’ naar de hemel wordt gevoerd. Voor de Afro-Amerikaanse slaven is die wagen een houten kar waarmee de overleden slaaf naar het graf wordt gevoerd, een laatste reis die wordt ervaren als de laatste reis naar de hemelse thuis zonder pijn, lijden en verdriet. Sommige interpretaties zien in de song eerder een verdoken verwijzing naar de Underground Railroad, de ondergrondse vrijheidsbeweging die slaven hielp ongemerkt te vluchten naar de Noordelijke Staten en naar Canada. De ‘kar’ is dan de ‘trein’. Het feit is dat de song zeer populair werd in de jaren zestig van vorige eeuw door toedoen van de Civil Rights Movement. Ook de blanke folkrevival pikte de zwarte song op. Joan Baez bracht het lied zelfs op het historische Woodstock Festival voor een overwegend blank jongerenpubliek. Al die associaties spelen mee in het citaat ervan in Parkers film bij de introductie van de jonge en volwassen Nat in de katoenplantage.
 
->De minder populaire _Run, Mary, Run_ weerklinkt bij het trouwfeest van Hark en Esther. Geplaatst in deze context werkt het als een verzetslied. Dat blijkt uit de herhaling van het refrein: _Run, Mary, Run, you got the right to the tree of life_. Het beeld van de levensboom is ontleend aan het _Genesisverhaal 2_ over Adam en Eva in het aards paradijs waar de levensboom zich bevindt. In de filmcontext geven de slaven aan het gehuwde koppel het recht om te leven. In de praktijk van het systeem was dat helemaal niet de realiteit. Slavenhouders hielden ervan om gehuwde Afro-Amerikaanse koppels en gezinnen te breken door een van beiden en/of de kinderen door te verkopen. In de film wordt die praktijk gesuggereerd in het gegeven dat Nat en Cherry-Ann wel kunnen huwen maar niet samen kunnen leven, omdat ze ieder tot een aparte plantage behoren. Bovendien weerklinkt in de film de echo van de song na in de beklijvende scène waarin blijkt dat de pas gehuwde Esther seksueel is misbruikt door slaveneigenaar Joseph Randall na het feest ten huize van de Turners. _Run, Mary, Run_ klinkt retrospectief als een waarschuwing voor het ondraaglijke leed dat Esther nog zal overkomen. Dit alles krijgt nog meer dramatisch gewicht, wanneer de toeschouwer weet dat de actrice Gabrielle Union die Esther vertolkt, zelf heeft getuigd hoe ze slachtoffer is geweest van seksueel geweld. 
+>De minder populaire _Run, Mary, Run_ weerklinkt bij het trouwfeest van Hark en Esther. Geplaatst in deze context werkt het als een verzetslied. Dat blijkt uit de herhaling van het refrein: _Run, Mary, Run, you got the right to the tree of life_. Het beeld van de levensboom is ontleend aan het _Genesisverhaal 2_ over Adam en Eva in het aards paradijs waar de levensboom zich bevindt. In de filmcontext geven de slaven aan het gehuwde koppel het recht om te leven. In de praktijk van het systeem was dat helemaal niet de realiteit.
+
+<img src="ch.jpg">
+
+Slavenhouders hielden ervan om gehuwde Afro-Amerikaanse koppels en gezinnen te breken door een van beiden en/of de kinderen door te verkopen. In de film wordt die praktijk gesuggereerd in het gegeven dat Nat en Cherry-Ann wel kunnen huwen maar niet samen kunnen leven, omdat ze ieder tot een aparte plantage behoren. Bovendien weerklinkt in de film de echo van de song na in de beklijvende scène waarin blijkt dat de pas gehuwde Esther seksueel is misbruikt door slaveneigenaar Joseph Randall na het feest ten huize van de Turners. _Run, Mary, Run_ klinkt retrospectief als een waarschuwing voor het ondraaglijke leed dat Esther nog zal overkomen. Dit alles krijgt nog meer dramatisch gewicht, wanneer de toeschouwer weet dat de actrice Gabrielle Union die Esther vertolkt, zelf heeft getuigd hoe ze slachtoffer is geweest van seksueel geweld. 
 
 >De hele film sluit af met de generiek op een zwarte achtergrond terwijl de negro-spiritual _I Couldn't Hear Nobody Pray_, Lord de toeschouwer en toehoorder uitgeleide doet. De aangrijpende vertolking synthetiseert de hele film retrospectief. De woorden van de spiritual spreken een ondubbelzinge taal. Het refrein is een gebeden weeklacht waarin de stem van Nat over zijn dood heen in de film en in de realiteit alsnog weerklinkt. Zijn stem wordt geleidelijk ook de stem van het hele slavenvolk. Ook hier is er de Bijbelse referentie: de scène uit het passieverhaal van Jezus in de Hof van Olijven. Jezus die zich door iedereen verlaten voelt. Zijn leerlingen slapen, niemand om samen met hem te bidden in het donkerste uur van zijn bestaan. Ziehier de tekst van de song: 
 
@@ -103,11 +119,13 @@ See,oh Lord oh._
 
 >Behalve de genoemde drie negro-spirituals weerklinkt ook de jazzsong _Strange Fruit_. Dat gebeurt bij de slotsequenties waarin de opstandige slaven worden gevangen, berecht en worden opgehangen. Via _Strange Fruit_ interpreteert Parker dat historisch tafereel voorwaarts. Hij verwijst ermee naar de beruchte lynchpartijen door KKK op het einde van de negentiende en eerste decennia van de  twintigste eeuw. De Joods-Amerikaase dichter Abel Meeropol, pseudoniem Lewis Allen, schreef de song in de jaren dertig van vorige eeuw nadat hij geschokt was door een foto in de krant die berichtte over een lynchpartij in het Zuiden van de Verenigde Staten van Amerika. Hij publiceerde het gedicht eerst in 1937 in het magazine _Teachers Union_ en schreef daarna zelf de muziek bij zijn gedicht. Het groeide uit tot een protestsong avant la lettre. De Afro-Amerikaanse jazzzangeres Billie Holliday maakt de song onsterfelijk toen ze die voor het eerst song in 1939. Ook Afro-Amerikaanse pianiste en zanger Nina Simone bracht een indringende vertolking van de song. Het is haar versie die Parker gebruikt in de film.
 
-<span style="color:darkkhaki">**BIJBELBOEK ALS DRAGENDE BEELDMETAFOOR**</span>. Het belangrijkste beeldmotief van de film is het boek van de Bijbel, in het bijzonder het exemplaar van Nat Turner. Zijn persoonlijke ‘Bijbel’ bestaat nog steeds en wordt heden bewaard in het _African American Museum_ in Washington, DC. Daar is te zien dat de historische Nat persoonlijk het Bijbelboek Apocalyps 6: 2 met potlood heeft gemarkeerd: 
+<span style="color:darkkhaki">**BIJBELBOEK ALS DRAGENDE BEELDMETAFOOR**</span>. Het belangrijkste beeldmotief van de film is het boek van de Bijbel, in het bijzonder het exemplaar van Nat Turner. Zijn persoonlijke ‘Bijbel’ bestaat nog steeds en wordt heden bewaard in het _African American Museum_ in Washington, DC. Daar is te zien dat de historische Nat persoonlijk het Bijbelboek Apocalyps 6:2 met potlood heeft gemarkeerd: 
 
 >>_En ik zag dit:  een wit paard met een ruiter, die een boog droeg. Hij kreeg een zegekrans en trok op als een overwinnaar, de overwinning tegemoet._ (Nieuwe Bijbelvertaling)
 
 >Dit citaat komt niet in de film zelf voor, maar de geest ervan klinkt door in de vele Bijbelverwijzingen die de film typeren.
+
+<img src="nch.jpg">
 
 >Het inleidende deel van de kindertijd van Nat staat helemaal in het teken van het Bijbelboek. De avond dat zijn vader Isaac voor zijn leven moet vluchten en gedwongen afscheid moet nemen van zijn gezin zegent hij op zijn beurt Nat, zijn enig kind. Hij zegt letterlijk: 
 
@@ -151,9 +169,11 @@ Dan is er nog het grote feest op de Turner-plantage. Nat mag van Samuel het tafe
 
 >>_Onze Vader, Wij danken U voor Uw woord en Uw wil. Wij bidden voor en danken U voor Uw bescherming en Uw belofte. En in onze gehoorzaamheid zult Gij een vijand van onze vijanden zijn. Gij zult bestrijden wie ons bestrijdt. Blijf ons leiden, o Heer, en wij blijven U volgen. In onze beproeving zullen wij volharden en enkel U erkennen als onze bron en kracht. In Uw heilige naam bidden wij. Amen._
 
-Na het seksuele misbruik van Esther door plantagehouder Randall, vraagt Hark aan Nat: ‘_Waar is Hij? Waar is God nu?_’ Daarin weerklinkt het gebed van Jezus aan het kruis: _Mat. 27:46 en Mar. 15:34_, wat zelf een citaat is uit _Psalm 22,2-3_. 
+>Na het seksuele misbruik van Esther door plantagehouder Randall, vraagt Hark aan Nat: ‘_Waar is Hij? Waar is God nu?_’ Daarin weerklinkt het gebed van Jezus aan het kruis: _Mat. 27:46 en Mar. 15:34_, wat zelf een citaat is uit _Psalm 22,2-3_. 
 
 >Ook het doopsel dat Nat uitvoert bij een blanke zondaar verwijst visueel naar de scène van het doopsel van Jezus in de Jordaan door Johannes De Doper (_Mat 3,13-17_). 
+
+<img src="sw.jpg">
 
 >Daarna volgt de grote confrontatie Nat versus Samuel Turner en dominee Walthall. Die eisen dat Nat zich verantwoordt over het volgens hen onverantwoorde doopsel. Dan ontspint er zich een Bijbelgevecht. Nat verdedigt zich met _Hand. 20:28_: 
 
@@ -167,7 +187,7 @@ Na het seksuele misbruik van Esther door plantagehouder Randall, vraagt Hark aan
 
 >>_Gij zijt gekocht en betaald, word geen slaven van mensen._, wat hij koppelt aan _Mat 12:32_: _Wie de Heilige Geest belastert, zal nooit vergeving krijgen, maar is bezwaard..._ 
 
-De dominee kan daar niet mee lachten en roept _Mat. 7:15_ in: 
+>De dominee kan daar niet mee lachten en roept _Mat. 7:15_ in: 
 
 >>_Wacht u voor de valse profeten in schapenvacht, vanbinnen zijn zij wolven!_
 
@@ -282,28 +302,22 @@ Het filmpje <span style="color:blue">**PilgrImage**</span> staat op zichzelf
 
 ## <font color="#808000">**Links**</font>
 
-Breen, Patrick, The Land Shall Be Deluged with Blood: A New History of the Nat Turner Revolt. New York, Oxford University Press, 2015.
+**GESCHREVEN BRONNEN**
 
-Griffith, David W., The Birth of a Nation (1915). Film. Beschikbaar via https://www.youtube.com/watch?v=vZ871wZd7UY.
-Onion, Rebecca, How The Birth of a Nation Uses Fact and Fiction, 14 oktober 2016, via http://www.slate.com/blogs/browbeat/2016/10/14/the_birth_of_a_nation_historical_accuracy_what_s_fact_and_what_s_fiction.html, geraadpleegd op 6 december 2017.
+Breen, Patrick, _The Land Shall Be Deluged with Blood: A New History of the Nat Turner Revolt._ New York, Oxford University Press, 2015.
 
-Parker, Nate (ed.), The Birth of a Nation. Nat Turner and the Making of a Movement. The Official Movie Tie-in. New York, Atria Books, 2016.
+Parker, Nate (ed.), _The Birth of a Nation. Nat Turner and the Making of a Movement. The Official Movie Tie-in_. New York, Atria Books, 2016.
 
-Facebook, The Birth of a Nation, zonder datum, via https://www.facebook.com/TheBirthofaNation
-Fox Searchlight, The Birth of a Nation, zonder datum, via http://www.foxsearchlight.com/thebirthofanation, geraadpleegd op 29 september 2016. De rubrieken op de officiële (Engelse) site van de film zijn: About the movie, Cast, Videos, Nat Turner Lives, Theaters.
+**ONLINE BRONNEN**
 
-History, Nat Turner, zonder datum, via http://www.history.com/topics/black-history/nat-turner.
-https://www.youtube.com/watch?v=7IwXxBrA3wA
+Griffith, David W., [The Birth of a Nation (1915)](https://www.youtube.com/watch?v=I3kmVgQHIEY). De historische film over de KKK.
 
-De opname in de studio in aanwezigheid van regisseur Parker van I couldn't hear nobody pray : https://www.youtube.com/watch?v=7IwXxBrA3wA
+Fox Searchlight, [The Birth of a Nation](http://www.foxsearchlight.com/thebirthofanation). De officiële (Engelse) site van de film. 
 
-De soundtrack van de film: https://open.spotify.com/album/2TYEOvQnoeNMmhKMl04XIs
+[I Couldn't Hear Nobody Pray](https://www.youtube.com/watch?v=7IwXxBrA3wA). De opname in de studio in aanwezigheid van regisseur Parker.
 
-
-Zie de sites van [Kristof Hoornaert](https://www.kristofhoornaert.com/) en [Marleen Mertens](http://www.marleen-mertens.be/metafora.php).
-
-
- 
+[De soundtrack van de film](https://open.spotify.com/album/2TYEOvQnoeNMmhKMl04XIs).
 
 <font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2019</font>.
+
 
