@@ -32,4 +32,4 @@ van de auteur.<br>
 De uitgever is **Pelckmans**, Kalmthout.<br>
 ISBN: 978 90 289 7914 7<br>
 
-Het boek is verkrijgbaar in de boekhandel en via Men(S)tis [Online bestellen](/shop/) op deze website.
+Het boek is nog verkrijgbaar via Men(S)tis: [Online bestellen](/shop/).

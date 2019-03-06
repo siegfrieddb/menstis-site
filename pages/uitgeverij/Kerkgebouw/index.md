@@ -17,7 +17,8 @@ Het boek telt vier inhoudelijke hoofdstukken plus een hoofdstuk met bronnen. De 
 van de vele parochiekerken in Vlaanderen. Met de titel '_Meerstemmig kerkgebouw_' nemen de auteurs afstand van het heersende discours over '_herbestemming van kerken_' en tonen ze vanuit de praktijk aan hoe het anders kan. 
 Het boek is rijk geïllustreerd met het werk van fotograaf Jef Van Eynde.
 
-Bestel _Meerstemmig kerkgebouw_ via een e-mail naar info@menstis.be. De winkelprijs bedraagt 20,00 EUR, verzending niet inbegrepen.
+Bestel _Meerstemmig kerkgebouw_ de winkelprijs bedraagt 20,00 EUR, verzending niet inbegrepen. 
+[Online bestellen](/shop/).
 
 **Technische gegevens**
 

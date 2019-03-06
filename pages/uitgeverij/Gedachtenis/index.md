@@ -22,4 +22,4 @@ De kaft is in kleur en is een originele schildering van een ginkgoblad.
 De tekst is verlucht met talrijke zwart-wit filmfoto's.  
 De afmetingen zijn: 20 cm op 20 cm.  
 ISBN 978 8051 650 2  
-2011(2de druk)
+2011 (2de druk)
