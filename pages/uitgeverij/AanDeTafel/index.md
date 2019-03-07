@@ -24,4 +24,3 @@ Het boek verscheen in **1997** in een oplage van 200 exemplaren. De **eerste 30 
 Voor **de vormgeving, de maquette, het bindwerk en het ontwerp van de omslag met zeefdruk** zorgden Jan en Ann De Wachter.  
 Het papier is rivoli wit, 160 gram. Het boek is gezet uit Esprit Book 13 punt.  
 **Het drukwerk** gebeurde bij Salto n.v. (Rekem-Lanaken).
-[Online bestellen](/shop/). 
