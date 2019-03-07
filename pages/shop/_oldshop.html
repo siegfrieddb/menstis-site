@@ -12,11 +12,9 @@
 	}
 	
 	function updateTotal() {
-		document.getElementById('kostprijs').value= document.getElementById('aantalLLMB2007').selectedIndex*3 +	
-		document.getElementById('aantalLLMB2010').selectedIndex*2 +	
-    document.getElementById('aantalLLMB2009').selectedIndex*2 +	
-    document.getElementById('aantalLLMB2000').selectedIndex*2 +	
-		document.getElementById('aantalMethode').selectedIndex*10 +	
+		document.getElementById('kostprijs').value= document.getElementById('aantalLLMB').selectedIndex*3 +	
+		document.getElementById('aantalLLMB').selectedIndex*2 +	
+    document.getElementById('aantalMethode').selectedIndex*10 +	
 		document.getElementById('aantalLevens').selectedIndex*25 +	 
    	document.getElementById('aantalParadijs').selectedIndex*10 +	
     document.getElementById('aantalTafel').selectedIndex*250 +
@@ -64,7 +62,7 @@
                   <td align="right" rowspan="7" valign="top"><font color="#7F7D82">Bestelling:</font></td>	
                   		                            
             <td>Het aards paradijs als zinnebeeld : </td> <td> Aantal                     
-                     <select name="aantalParadijs" id="aantalParadijs" onChange=" updateTotal(); ">
+                     <select name="aantalParadijs" id="aantalParadijs" onChange="window.updateTotal(); ">
                        <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
                        <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>	   					
                      </select>			
@@ -74,7 +72,7 @@
                    
                  <tr>                            
 				     <td>Leren leven met beelden: 2001 -2002 -2003 -2005 - 2007 - 2008 - 2009 - 2010 : </td><td> Aantal                     
-                     <select name="aantalLLMB2010" id="aantalLLMB2010" onChange="widow.updateTotal();">
+                     <select name="aantalLLMB" id="aantalLLMB" onChange="window.updateTotal();">
                        <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
                        <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
 						<option>11</option><option>12</option><option>13</option><option>14</option><option>15</option>
@@ -87,7 +85,7 @@
          
 				         <tr>
 				     <td>Methode Boek &amp; CD : </td><td> Aantal                     
-                     <select name="aantalMethode" id="aantalMethode" onChange="winow.updateTotal();">
+                     <select name="aantalMethode" id="aantalMethode" onChange="window.updateTotal();">
                        <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
                        <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>		   					   
                      </select>			
@@ -97,7 +95,7 @@
 
                   <tr>
                 <td>Aan de tafel van het verborgen atelier : </td><td> Aantal                     
-                        <select name="aantalTafel" id="aantalTafel" onChange="winow.updateTotal();">
+                        <select name="aantalTafel" id="aantalTafel" onChange="window.updateTotal();">
                           <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
                           <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>		   					   
                         </select>			
@@ -108,7 +106,7 @@
             <tr>
 				     <td>Levensbeschouwing democratisch belicht : </td>
 				     <td> Aantal                     
-                     <select name="aantalLevens" id="aantalLevens" onChange="winow.updateTotal();">
+                     <select name="aantalLevens" id="aantalLevens" onChange="window.updateTotal();">
                        <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
                        <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>		   					   
                      </select>			
@@ -118,7 +116,7 @@
                  <tr>
                   <td>Meerstemmig kerkgebouw : </td>
                   <td> Aantal                     
-                          <select name="aantalMeerst" id="aantalMeerst" onChange="winow.updateTotal();">
+                          <select name="aantalMeerst" id="aantalMeerst" onChange="window.updateTotal();">
                             <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
                             <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>		   					   
                           </select>			
@@ -129,7 +127,7 @@
 				  <tr>
 				     <td>Het Beloofde Land: </td>
 				     <td> Aantal                     
-                     <select name="aantalBeloofd" id="aantalBeloofd" onChange="winow.updateTotal();">
+                     <select name="aantalBeloofd" id="aantalBeloofd" onChange="window.updateTotal();">
                        <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
                        <option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>		   					   
                      </select>			
