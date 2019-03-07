@@ -5,7 +5,7 @@ title: Meerstemmig kerkgebouw
 
 ![msk](./msk.jpg)
 
-**Auteur**
+**Auteurs**
 
 Sylvain De Bleeckere, Koen Dekorte, Geert Delbeke, Jef Van Eynde
 
