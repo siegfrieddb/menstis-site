@@ -11,9 +11,8 @@ Sylvain De Bleeckere en Jan De Wachter
 
 **Beschrijving**
 
-Het boek bestaat uit een dialoog tussen **het essay van Sylvain De Bleeckere**: _Aan de tafel van het verborgen atelier. Een bericht aan Jan De Wachter_, en **de tekeningen van Jan De Wachter** met als motief **de oude en lange tafel** die van zijn atelier een huiskamer maakt. Het werk heeft als opdracht: _Aan al die vrienden die nu, in de Herinnering, ooit aan deze tafel aanzaten._  
-Het boek toont eerst een tekening, daarna opent het essay met het deel dat als titel heeft: HET. Het middenluik van het boek bestaat uit een reeks tekeningen in kleur. Vervolgens gaat het essay verder met het deel: ZIJ. Het boek eindigt met een tekening in zwart-wit en het colofon.
-[Online bestellen](/shop/). 
+Het kunstboek bestaat uit een dialoog tussen **het essay van Sylvain De Bleeckere**: _Aan de tafel van het verborgen atelier. Een bericht aan Jan De Wachter_, en **de tekeningen van Jan De Wachter** met als motief **de oude en lange tafel** die van zijn atelier een huiskamer maakt. Het werk heeft als opdracht: _Aan al die vrienden die nu, in de Herinnering, ooit aan deze tafel aanzaten._  
+Het boek toont eerst een tekening, daarna opent het essay met het deel dat als titel heeft: HET. Het middenluik van het boek bestaat uit een reeks tekeningen in kleur. Vervolgens gaat het essay verder met het deel: ZIJ. Het boek eindigt met een tekening in zwart-wit en het colofon. 
 
 
 **Technische gegevens**
