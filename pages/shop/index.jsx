@@ -31,12 +31,13 @@ const ShopPage = React.createClass({
       return (<Shop
             items={{
                 paradijs: { name:"paradijs", text:'Het aards paradijs als zinnebeeld', price: 10, amount: 0},
-                beeld2010: { name:"beeld2010", text:'Leren leven met beelden: 2010', price: 2, amount: 0},
-                beeld2009: { name:"beeld2009", text:'Leren leven met beelden: 2009', price: 2, amount: 0},
-                beeld2000: { name:"beeld2000", text:'Leren leven met beelden: 2000', price: 2, amount: 0},
+                beeld2010: { name:"beeld2010", text:'Leren leven met beelden: 2001 -2002 -2003 -2005 - 2007 - 2008 - 2009 - 2010', price: 2, amount: 0},
                 methode: { name:"methode", text:'Methode Boek & CD', price: 10, amount: 0},
-                levensbeschouwing: { name:"levensbeschouwing", text:'levensbeschouwing democratish belicht', price: 25, amount: 0},
-                beloofdeland: { name:"beloofdeland", text:'Het Beloofde Land', price: 15, amount: 0}
+                levensbeschouwing: { name:"levensbeschouwing", text:'Levensbeschouwing democratish belicht', price: 25, amount: 0},
+                meerstemmigkerkgebouw: { name:"meerstemmigkerkgebouw", text:'Meerstemmig Kerkgebouw', price: 20, amount: 0},
+                aandetafel: {  name:"aandetafel",  text: "Aan de tafel van het verborgen atelier", price: 250, amount: 0},
+                beloofdeland: {  name:"beloofdeland",   text:"Het Beloofde Land", price: 15, amount: 0},
+                gedachtenis: {  name:"gedachtenis",  text: "Gedachtenis", price: 10, amount: 0}
             }}
         />)
   }
