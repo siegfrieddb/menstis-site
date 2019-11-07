@@ -2,7 +2,7 @@
 title: Programma 2019
 ---
 
-Het progamma van de **28ste editie** van De Dag op krokusmaandag **4 maart 2019** staat in het teken van het tweede deel van de thematische triptiek over **Het Onzevader**. Dat tweede deel staat in het teken van **Uw Rijk Kome**.
+Het nieuwe progamma van de **29ste editie** van De Dag op krokusmaandag **24 februari 2020** staat in het teken van het derde deel van de thematische triptiek over **Het Onzevader**. Het programma verschijnt hier begin jannuari 2020. Hieronder zie je nog de films en het programma van 2019.
 
 <img src= "bn.jpg">
 
