@@ -4,7 +4,7 @@ title: Locatie & Contact
 
 ## Locatie: Kinepolis Hasselt
 
-De 28ste editie van **De Dag van de Religieuze Film** op 4 maart 2019 gaat door te [Kinepolis Hasselt, Via Media 1, 3500 Hasselt](https://business.kinepolis.be/evenementenlocatie/hasselt). De bioscoop is gelegen op 200m van de grote ring van Hasselt (langs de Universiteitslaan, richting universitaire campus en Genk). 
+De 29ste editie van **De Dag van de Religieuze Film** op 24 februari 2020 gaat door te [Kinepolis Hasselt, Via Media 1, 3500 Hasselt](https://business.kinepolis.be/evenementenlocatie/hasselt). De bioscoop is gelegen op 200m van de grote ring van Hasselt (langs de Universiteitslaan, richting universitaire campus en Genk). 
 
 Wie met de auto komt, kan gratis gebruik maken van de ruime parking. 
 
