@@ -1,5 +1,5 @@
 ---
-title: Programma 2019
+title: Programma 2020
 ---
 
 Het nieuwe progamma van de **29ste editie** van De Dag op krokusmaandag **24 februari 2020** staat in het teken van het derde deel van de thematische triptiek over **Het Onzevader**. Het programma verschijnt hier begin jannuari 2020. Hieronder zie je nog de films en het programma van 2019.
