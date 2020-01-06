@@ -2,7 +2,7 @@
 title: Programma 2020
 ---
 
-Het nieuwe progamma van de **29ste editie** van De Dag op krokusmaandag **24 februari 2020** staat in het teken van het derde en laatste deel van de thematische triptiek over **Het Onzevader**. Het thema is **Beproeving**.
+Het nieuwe progamma van de **29ste editie** van **De Dag** op krokusmaandag **24 februari 2020** staat in het teken van het derde en laatste deel van de thematische triptiek over **Het Onzevader**. Het thema is **Beproeving**.
 
 <img src= "dh.jpg">
 
