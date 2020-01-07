@@ -17,6 +17,7 @@ Het nieuwe progamma van de **29ste editie** van **De Dag** op krokusmaandag **24
 Cold War sluit naadloos aan bij Darkest Hour. Churchill introduceerde na de Tweede Wereldoorlog het begrip ‘_Iron Curtain_’  (IJzeren Gordijn), zichtbaar teken van de Koude Oorlog. Het verdeelde Europa bestond uit twee verschillende ideologische werelden: de communistische in het Oosten en de liberale-democratische in het Westen. De film Zimna wojna (‘Cold War’) van de Pools-Amerikaanse regisseur Pawel Pawlikowski is, zoals zijn vorige film [_Ida_](http://www.menstis.be/film-focus/ida/), een echte Europese auteursfilm in zwart-wit. Via de twee personages Wiktor Warski en Zuzanne Zula Lichon schildert de regisseur _de twee tegengestelde ideologische werelden_ op het niveau van het dagelijkse leven. Daarbij verkent Pawlikowski de verschillende ‘_beproevingen_’ die elk van de regimes typeert. Met die ‘_beproevingen_’ moeten individuen omgaan, wat niet altijd lukt. De film oogt esthetisch als een cinematografisch juweel dat vooral, in goede Europese filmtraditie, is opgebouwd naar een heel bijzondere slotsequentie die zich situeert in een kleine, vervallen dorpskerk. 
 
 
+
 **La prière** (2018)
 
 <img src="lp.jpg">
