@@ -22,7 +22,8 @@ Cold War sluit naadloos aan bij Darkest Hour. Churchill introduceerde na de Twee
 <img src="lp.jpg">
  De Franse film van regisseur Cédric Kahn die ook samen met Fanny Burdino en Samuel Doux het scenario schreef, brengt ons naar een hedendaagse vorm van ‘_beproeving_’, die van _de verslaving_, in casu de verslaving aan harddrugs. De film volgt de tweeëntwintigjarige Thomas die een weg zoekt om van zijn zware heroïneverslaving af te raken. Die zoektocht brengt hem naar een gebedsgemeenschap in de Zwitserse bergen. Daar proberen verslaafden en ex-verslaafden via een gemeenschapsleven, gebaseerd op een uitgesproken gebedsleven, hun menselijke waardigheid en identiteit terug te vinden. De film brengt een fictief verhaal dat echter is geïnspireerd op bestaande experimenten om drugsverslaafden te helpen via _de contemplatieve methode van het bidden_. De film opent een _levensbeschouwelijke horizon_ die alle vormen van verslaving, inherent aan onze brutale consumptiesamenleving, belicht vanuit een ongewoon, religieus bewogen zorgperspectief. 
 
-Het verloop van **De Dag** ziet er als volgt uit.
+
+**Het verloop van De Dag ziet er als volgt uit**.
 
 <table cellpadding="3" cellspacing="2">
                <tr>
