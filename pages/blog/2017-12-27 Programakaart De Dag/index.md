@@ -2,7 +2,7 @@
 title: Programmakaart De Dag 2019
 date: "2017-12-27T00:00:00Z"
 layout: post
-attachment: "kaart19.pdf"
+attachment: "kaart29.pdf"
 linktext: "Lees kaart"
 ---
-Hier kunt u de programmakaart van De Dag van de Religieuze Film editie 28 (2019) downloaden. 
+Hier kunt u de programmakaart van De Dag van de Religieuze Film editie 29 (2020) downloaden. 
