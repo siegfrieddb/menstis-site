@@ -80,7 +80,7 @@ De film **Darkest Hour** wint nog meer aan belang in het licht van enkele, belan
 
 In zijn historische rede van 14 mei 1947 in de Royal Albert Hall in Londen, rechtstreeks te volgen op de BBC-radio, had als titel ‘On an United Europe’. Daar zei hij het volgende:
 
-_The influence and the power of Europe and of Christendom have for centuries shaped and dominated the course of history. We hope to reach again a Europa purged of the slavery of ancient days in which men will be as proud to say ‘I’m a European’ as once they were to say ‘ Civis Romanus sum’._ [Bron](https://archive.org/stream/W.S.ChurchillOnAUnitedEurope1947/W.S.%20Churchill%20-%20%27%27On%20a%20United%20Europe%27%27%20%5B1947%5D_djvu.txt) 
+>_The influence and the power of Europe and of Christendom have for centuries shaped and dominated the course of history. We hope to reach again a Europa purged of the slavery of ancient days in which men will be as proud to say ‘I’m a European’ as once they were to say ‘ Civis Romanus sum’._ [Bron](https://archive.org/stream/W.S.ChurchillOnAUnitedEurope1947/W.S.%20Churchill%20-%20%27%27On%20a%20United%20Europe%27%27%20%5B1947%5D_djvu.txt) 
 
 Churchill werd de naoorlogse gangmaker voor de Europese beweging. Dit leidde tot de oprichting van de allereerste Europese organisatie De Raad van Europa. Churchills Europees engagement werd ook de inspiratiebron voor het belangrijke Marshallplan van de Amerikaanse General Marshall. Die verwees expliciet naar Churchill als zijn inspiratie. Zonder dat plan had de naoorlogse wederopbouw voor de bevolking van de bevrijde Europese landen in het Noorden en het Westen, een erg moeizaam verloop gekend.
 
