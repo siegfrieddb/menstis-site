@@ -89,7 +89,7 @@ Churchill werd de naoorlogse gangmaker voor de Europese beweging. Dit leidde tot
 
 ## <font color="#808000">**Links**</font>
 
-[Chruchill Archief](http://www.churchillarchive.com)
+[Churchill Archive](http://www.churchillarchive.com)
 
 [Chartwell House](https://www.nationaltrust.org.uk/chartwell)
 
