@@ -62,9 +62,9 @@ const SomeReactCode = React.createClass({
                 </Link>
                 <Link 
                     className="item landing-item"
-                    to={prefixLink('/uitgeverij/')}
+                    to={prefixLink('/webshop/')}
                   >    
-                  <span className="main-menu-item"> Uitgeverij</span>
+                  <span className="main-menu-item"> Webshop</span>
                 </Link>
               </div>
             </div>
