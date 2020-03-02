@@ -31,7 +31,7 @@ const SomeReactCode = React.createClass({
     const pages = this.props.route.pages
 
     pages.forEach((page) => {
-      if (access(page, 'file.ext') === 'md' && !include(page.path, '/404') && startsWith(page.path,"/uitgeverij/") ) {
+      if (access(page, 'file.ext') === 'md' && !include(page.path, '/404') && startsWith(page.path,"/webshop/") ) {
         movies.push(page.path)
       }
     })
@@ -39,7 +39,7 @@ const SomeReactCode = React.createClass({
     while (movies.length > 0){
         var line = movies.splice(0,1);
         line.forEach( (el, idx) => {
-          gridMovies.push(( <div className="column" > <div className="image-fit-uitgeverij"><Image  src={prefixLink(el)  + "front.jpg"} onClick={ (e) => this.onImageClick(e,el) } /></div></div>))  
+          gridMovies.push(( <div className="column" > <div className="image-fit-webshop"><Image  src={prefixLink(el)  + "front.jpg"} onClick={ (e) => this.onImageClick(e,el) } /></div></div>))  
         })
     }
 
