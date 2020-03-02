@@ -17,7 +17,7 @@ const SomeReactCode = React.createClass({
   statics: {
     metadata () {
       return {
-        title: 'Men(s)tis - Uitgeverij',
+        title: 'Men(s)tis - Webshop',
       }
     },
   },
