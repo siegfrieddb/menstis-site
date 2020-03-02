@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+﻿import React, { Component } from 'react'
 import includes from 'underscore.string/include'
 import { colors, activeColors } from 'utils/colors'
 import typography from 'utils/typography'
@@ -24,7 +24,7 @@ var Header = React.createClass({
     return this.context.router.push(data.value)
   },
   render () {
-    const uitgeverijAct = includes(this.props.location.pathname, '/uitgeverij/')
+    const uitgeverijAct = includes(this.props.location.pathname, '/webshop/')
     const productiesAct = includes(this.props.location.pathname, '/producties/')
     const blogAct = includes(this.props.location.pathname, '/blog/')
     const missieAct = includes(this.props.location.pathname, '/missie/')
@@ -36,7 +36,7 @@ var Header = React.createClass({
     drop_list.push({key:'/missie/', value:'/missie/', text:'Missie' })
     drop_list.push({key:'/film-focus/', value:'/film-focus/', text:'FilmFocus' })
     drop_list.push({key:'/producties/', value:'/producties/', text:'Producties' })
-    drop_list.push({key:'/uitgeverij/', value:'/uitgeverij/', text:'Uitgeverij' })
+    drop_list.push({key:'/uitgeverij/', value:'/uitgeverij/', text:'Webshop' })
     var act_item = ''
     if (dedagAct)
       act_item = '/dedag/'
@@ -49,7 +49,7 @@ var Header = React.createClass({
     if (productiesAct)
       act_item = '/producties/'
     if (uitgeverijAct)
-      act_item = '/uitgeverij/'
+      act_item = '/webshop/'
 
 
       return (  
@@ -98,10 +98,10 @@ var Header = React.createClass({
                   Producties
                 </Link>
                 <Link
-                  to={prefixLink('/uitgeverij/')}
+                  to={prefixLink('/webshop/')}
                   className={uitgeverijAct ? 'active item' : 'item'}
                 >
-                  Uitgeverij
+                  Webshop
                 </Link>
               </div>
             </div>

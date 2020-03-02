@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+﻿import React, { Component } from 'react'
 import includes from 'underscore.string/include'
 import { colors, activeColors } from 'utils/colors'
 import { Container, Grid, Span } from 'react-responsive-grid'
@@ -11,7 +11,7 @@ const { rhythm, adjustFontSizeTo } = typography
 
 class Header extends Component {
   render () {
-    const uitgeverijAct = includes(this.props.location.pathname, '/uitgeverij/')
+    const uitgeverijAct = includes(this.props.location.pathname, '/webshop/')
     const productiesAct = includes(this.props.location.pathname, '/producties/')
     const blogAct = includes(this.props.location.pathname, '/blog/')
     const missieAct = includes(this.props.location.pathname, '/missie/')
