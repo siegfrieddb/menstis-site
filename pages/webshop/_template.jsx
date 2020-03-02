@@ -1,4 +1,4 @@
-import React from 'react'
+﻿import React from 'react'
 import { Link } from 'react-router'
 import Breakpoint from 'components/Breakpoint'
 import find from 'lodash/find'
@@ -33,7 +33,7 @@ module.exports = React.createClass({
     // Sort pages.
     const pages = this.props.route.pages
     pages.forEach((page) => {
-      if (access(page, 'file.ext') === 'md' && !include(page.path, '/404') && startsWith(page.path,"/uitgeverij/")  && page.path != "/uitgeverij/" ) {
+      if (access(page, 'file.ext') === 'md' && !include(page.path, '/404') && startsWith(page.path,"/webshop/")  && page.path != "/webshop/" ) {
         const title = access(page, 'data.title') || page.path
         const isActive = page.path === this.props.location.pathname
         
