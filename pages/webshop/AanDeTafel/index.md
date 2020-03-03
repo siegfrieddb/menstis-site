@@ -16,9 +16,11 @@ Het boek toont eerst een tekening, daarna opent het essay met het deel dat als t
 
 **Doelgroepen**
 
-- Al wie begaan is met actuele kunst.
-- Al wie wil verder kijken dan kunst om de kunst.
-- Al wie bibliofiele edities verzamelt.
+>Al wie begaan is met actuele kunst.
+
+>Al wie wil verder kijken dan kunst om de kunst.
+
+>Al wie bibliofiele edities verzamelt.
 
 
 **Technische gegevens**

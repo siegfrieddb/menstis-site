@@ -18,13 +18,19 @@ Met het meest kenmerkende, christelijke gebed, _het Onzevader_, als opstap, diep
 
 **Doelgroepen**
 
-- Al wie levensbeschouwelijk actief is.
-- Al wie een kunstminnend oog en geest heeft.
-- Al wie moedig durft nadenken over het lot van de christelijke kerken (orthodox, katholiek, protestant).
-- Al wie beseft dat de humane rijkdom van het christendom verder reikt dan het domein van de traditionele kerken die zich in een morele crisis bevinden.
-- Al wie leeft en werkt vanuit een democratische gezindheid die niet kan worden gerecupereerd of gemanipuleerd door welke politieke partij dan ook.
-- Creatieve scholen en hun hun alerte onderwijsmensen.
-- Actieve, religieuze leesgroepen en/of gebedsgroepen.
+>Al wie levensbeschouwelijk actief is.
+
+>Al wie een kunstminnend oog en geest heeft.
+
+>Al wie moedig durft nadenken over het lot van de christelijke kerken (orthodox, katholiek, protestant).
+
+>Al wie beseft dat de humane rijkdom van het christendom verder reikt dan het domein van de traditionele kerken die zich in een morele crisis bevinden.
+
+>Al wie leeft en werkt vanuit een democratische gezindheid die niet kan worden gerecupereerd of gemanipuleerd door welke politieke partij dan ook.
+
+>Creatieve scholen en hun hun alerte onderwijsmensen.
+
+>Actieve, religieuze leesgroepen en/of gebedsgroepen.
 
 **Technische gegevens**
 
