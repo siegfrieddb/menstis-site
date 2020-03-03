@@ -1,5 +1,5 @@
 ---
-title: AGORA: KERKGEBOUW - WEEFSEL VAN ZINGEVING.
+title: "AGORA: KERKGEBOUW - WEEFSEL VAN ZINGEVING"
 order: 1
 ---
 ![Agora](./Agora.jpg)
