@@ -22,7 +22,7 @@ Het boekje ligt in de hand door zijn vierkant formaat van 14cm. De stoffen kaft 
 
 Het boekje telt **120 bladzijden** en **17 beelden**. Kunstenaars Marleen Mertens, Jan De Wachter, Vincent Spaas, Jef Van Eynde en Kristof Hoornaert leverden op vraag van de auteur nieuwe beelden aan die zich integreren in het boekje. Het boekje werkt ook met een uitsnede van een beeld van Leonardo da Vinci. Het bijzondere boekdesign is een ontwerp van de auteur in samenwerking met Jan De Meester van de drukkerij Cultura, Wetteren.<br> 
 
-Door zijn mooi uitzicht, zijn handig formaat, zijn visuele boekdesign, zijn bijzondere inhoud, is het een **ideaal geschenk** om aan bijzonder iemand te geven.
+Door zijn mooi uitzicht, zijn handig formaat, zijn visuele boekdesign, zijn bijzondere inhoud, is het een **ideaal geschenk** om aan een bijzonder iemand te geven.
  
 De uitgever is **Men(S)tis**, Hasselt, 2020.<br>
 ISBN: 978 90 805 1655 7.<br>
