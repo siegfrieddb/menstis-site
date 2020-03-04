@@ -128,7 +128,7 @@ class Header extends Component {
                   Producties
                 </Link>
                 <Link
-                  to={prefixLink('/uitgeverij/')}
+                  to={prefixLink('/webshop/')}
                   style={{
                     background: uitgeverijAct ? activeColors.bg : colors.bg,
                     color: uitgeverijAct ? activeColors.fg : colors.fg,
@@ -141,7 +141,7 @@ class Header extends Component {
                     marginTop: rhythm(-1),
                   }}
                 >
-                  Uitgeverij
+                  Webshop
                 </Link>
               </Span>
             </Grid>

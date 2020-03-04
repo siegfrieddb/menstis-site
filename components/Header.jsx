@@ -36,7 +36,7 @@ var Header = React.createClass({
     drop_list.push({key:'/missie/', value:'/missie/', text:'Missie' })
     drop_list.push({key:'/film-focus/', value:'/film-focus/', text:'FilmFocus' })
     drop_list.push({key:'/producties/', value:'/producties/', text:'Producties' })
-    drop_list.push({key:'/uitgeverij/', value:'/uitgeverij/', text:'Webshop' })
+    drop_list.push({key:'/webshop/', value:'/webshop/', text:'Webshop' })
     var act_item = ''
     if (dedagAct)
       act_item = '/dedag/'
