@@ -6,7 +6,7 @@ order: 1
 
 <span style="color:fuchsia">**P I L O O T P R O J E C T**</span>
 
-Men(S)tis ontwikkelde vanaf 2018 het **Project AGORA** in Vlaamse parochiekerken in nauwe samenwerking met de plaatselijke verantwoordelijkheden. De eerste editie vond plaats in de Heilige-Magdalenekerk te Brugge (mei-oktober 2018). Daarvoor werktte Men(S)tis samen met de lokale vzw YOT. 
+Men(S)tis ontwikkelde vanaf 2018 het **Project AGORA** in Vlaamse parochiekerken in nauwe samenwerking met de plaatselijke verantwoordelijkheden. De eerste editie vond plaats in de Heilige-Magdalenekerk te Brugge (mei-oktober 2018). Daarvoor werktte Men(S)tis samen met de lokale vzw [YOT](https://www.yot.be/nl/home/5). 
 
 Kerkraden die interesse hebben, kunnen contact opnemen met Men(S)tis via: info@mentis.be.
 
