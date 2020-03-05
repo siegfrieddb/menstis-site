@@ -17,8 +17,17 @@ Het boek telt vier inhoudelijke hoofdstukken plus een hoofdstuk met bronnen. De 
 van de vele parochiekerken in Vlaanderen. Met de titel '_Meerstemmig kerkgebouw_' nemen de auteurs afstand van het heersende discours over '_herbestemming van kerken_' en tonen ze vanuit de praktijk aan hoe het anders kan. 
 Het boek is rijk geïllustreerd met het werk van fotograaf Jef Van Eynde.
 
-Bestel _Meerstemmig kerkgebouw_ de winkelprijs bedraagt 20,00 EUR, verzending niet inbegrepen. 
-[Online bestellen](/shop/).
+**Doelgroepen**
+
+> Al wie zich privé en/of professioneel betrokken voelt bij de heersende problematiek van de toekomst van de parochiekerken.
+
+> Al wie met het kerkelijke erfgoed van Vlaanderen is begaan.
+
+> Al wie oogt heeft voor de eigen beeldende en feminiene waarden van de neogitische kerkgebouw.
+
+> Al wie belangstelling heeft voor de integratie van actuele kunst in de publieke ruimte.
+
+> Al wie de kunst van Jan De Wachter, Marleen Mertens en Jef Van Eynde volgt.
 
 **Technische gegevens**
 
@@ -27,3 +36,6 @@ Het heeft een harde kaft.
 De afmetingen zijn: 160 mm op 235 mm.  
 ISBN 978-90-8051-654-0  
 2019
+
+Bestel _Meerstemmig kerkgebouw_ de winkelprijs bedraagt 20,00 EUR, verzending niet inbegrepen, 
+via: info@menstis.be.

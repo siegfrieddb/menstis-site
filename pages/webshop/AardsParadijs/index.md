@@ -34,6 +34,6 @@ De afmetingen zijn: 20 cm op 20 cm.
 ISBN 978 90 8051 653 3  
 2012
 
-U kunt Het aards paradijs als zinnbeeld op deze website. Aan boekhandels en organisaties worden bestellingen geaccepteerd vanaf 10 exemplaren of meer.
+U kunt het boek bestellen via: info@menstis.be.
 
 © Men(S)tis, 2020.
