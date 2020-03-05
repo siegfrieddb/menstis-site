@@ -19,6 +19,13 @@ in Beeld (Sylvan De Bleeckere), behandelt **het Beloofde Land en de staat Israë
 via drie langspeelfilms _Hannah Arendt_ (Margarethe von Trotta), _Inch'Allah_
  (Anais Berbeau-Lavalette) en _The Attack_ (Zias Doueiri). 
 
+**Doelgroepen**
+
+> Al wie wil reflecteren over het Bijbelse gegeven van 'het beloofde land', rekening houdend met de studie van de Bijbelse teksten en het hedendaagse joodse denken daarover.
+
+>Al wie de actualiteit van Israël en het Midden Oosten niet onberoerd laat.
+
+> Al wie oogt heeft voor de doorwerking van de actuele toestand in het Bijbelse 'beloofde land' in enkele, relevante hedendaagse films. 
 
 **Technische gegevens**
 
@@ -33,4 +40,4 @@ rond het gelijknamige thema en met de drie films die in het boek worden belicht.
 De uitgever is **Altiora Averbode**, Averbode.<br>
 ISBN: 978 90 317 3792 5<br>
 
-Het boek is verkrijgbaar in de boekhandel en via Men(S)tis [Online bestellen](/shop/) op deze website.
+Het boek is verkrijgbaar aan 10,00 EUR - portkosten niet meegerekend - via: info@menstis.be.
