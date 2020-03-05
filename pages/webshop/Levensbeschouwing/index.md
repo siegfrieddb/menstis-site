@@ -33,3 +33,5 @@ De uitgever is **Pelckmans**, Kalmthout.<br>
 ISBN: 978 90 289 7914 7<br>
 
 Het boek is nog verkrijgbaar via Men(S)tis: [Online bestellen](/shop/).
+
+© Men(S)tis, 2020.

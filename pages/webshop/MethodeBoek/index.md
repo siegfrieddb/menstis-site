@@ -27,3 +27,5 @@ U kan de Methode cd en het boek [Online bestellen](../shop.html)
 op deze website. **Methode** maakt ook deel uit van het
 productie van Men(S)tis,
 **Clair-Obscur**.
+
+© Men(S)tis, 2020.

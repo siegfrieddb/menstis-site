@@ -42,3 +42,5 @@ _Duur_
 3 Methode 2 28’53”
 
 U kan de Methode cd en het boek [Online bestellen](/shop/) op deze website.
+
+© Men(S)tis, 2020.

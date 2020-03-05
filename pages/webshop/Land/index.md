@@ -41,3 +41,5 @@ De uitgever is **Altiora Averbode**, Averbode.<br>
 ISBN: 978 90 317 3792 5<br>
 
 Het boek is verkrijgbaar aan 10,00 EUR - portkosten niet meegerekend - via: info@menstis.be.
+
+© Men(S)tis, 2020.

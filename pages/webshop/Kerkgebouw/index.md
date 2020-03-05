@@ -39,3 +39,5 @@ ISBN 978-90-8051-654-0
 
 Bestel **Meerstemmig kerkgebouw** - de winkelprijs bedraagt 20,00 EUR -, verzending niet inbegrepen, 
 via: info@menstis.be.
+
+© Men(S)tis, 2020.
