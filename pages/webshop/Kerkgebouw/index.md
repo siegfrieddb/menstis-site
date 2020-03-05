@@ -37,5 +37,5 @@ De afmetingen zijn: 160 mm op 235 mm.
 ISBN 978-90-8051-654-0  
 2019
 
-Bestel _Meerstemmig kerkgebouw_ de winkelprijs bedraagt 20,00 EUR, verzending niet inbegrepen, 
+Bestel **Meerstemmig kerkgebouw** - de winkelprijs bedraagt 20,00 EUR -, verzending niet inbegrepen, 
 via: info@menstis.be.
