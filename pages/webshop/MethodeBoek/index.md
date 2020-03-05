@@ -34,6 +34,6 @@ ISBN: 90-805165-2-X
 
 
 U kunt **Methode** bestellen via: info@menstis.be. Zie ook nog op deze site, bij Producties:
-**Clair-Obscur**.
+[Clair-Obscur](http://www.menstis.be/producties/ClairObscur/).
 
 © Men(S)tis, 2020.

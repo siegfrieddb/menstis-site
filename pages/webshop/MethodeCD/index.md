@@ -52,6 +52,6 @@ _Duur_
 De CD is verkrijgbaar via: info@menstis.be. 
 Kostprijs: 5,00 EUR, portkosten niet inbegerpen.
 
-De CD wordt als een geschenk gegeven aan al wie  betalend de productie **Clair-Obscur** bijwoont.
+De CD wordt als een geschenk gegeven aan al wie  betalend de productie [Clair-Obscur](http://www.menstis.be/producties/ClairObscur/) bijwoont.
 
 © Men(S)tis, 2020.
