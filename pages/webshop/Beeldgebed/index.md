@@ -22,6 +22,8 @@ Met het meest kenmerkende, christelijke gebed, _het Onzevader_, als opstap, diep
 
 >Al wie een kunstminnend oog en geest heeft.
 
+>Al wie zich wil verwonderen over het unieke universeel-menselijk oerfenomeen dat 'bidden' heet.
+
 >Al wie moedig durft nadenken over het lot van de christelijke kerken (orthodox, katholiek, protestant).
 
 >Al wie beseft dat de humane rijkdom van het christendom verder reikt dan het domein van de traditionele kerken die zich in een morele crisis bevinden.
@@ -36,7 +38,7 @@ Met het meest kenmerkende, christelijke gebed, _het Onzevader_, als opstap, diep
 
 Het boekje ligt in de hand door zijn vierkant formaat van 14cm. De stoffen kaft met zilveren boord en letters straalt ingetogenheid en een bijna liturgische waardigheid uit.<br>
 
-Het boekje telt **120 bladzijden** en **17 beelden**. Kunstenaars Marleen Mertens, Jan De Wachter, Vincent Spaas, Jef Van Eynde en Kristof Hoornaert leverden op vraag van de auteur nieuwe beelden aan die zich integreren in het boekje. Het boekje werkt ook met een uitsnede van een beeld van Leonardo da Vinci. Het bijzondere boekdesign is een ontwerp van de auteur in samenwerking met Jan De Meester van de drukkerij Cultura, Wetteren.<br> 
+Het boekje telt **120 bladzijden** en **17 beelden**. Kunstenaars [Marleen Mertens](http://www.marleen-mertens.be/), [Jan De Wachter](http://www.jandewachter.be/Intro), [Vincent Spaas](https://www.vincentspaas.com/), [Jef Van Eynde](http://www.jefvaneynde.be/) en [Kristof Hoornaert](https://www.kristofhoornaert.com/) leverden op vraag van de auteur nieuwe beelden aan die zich integreren in het boekje. Het boekje werkt ook met een uitsnede van een beeld van Leonardo da Vinci. Het bijzondere boekdesign is een ontwerp van de auteur in samenwerking met Jan De Meester van de drukkerij Cultura, Wetteren.<br> 
 
 Door zijn mooi uitzicht, zijn handig formaat, zijn visueel boekdesign, zijn bijzondere inhoud, is het een **ideaal geschenk** om aan een bijzonder iemand te geven.
  
