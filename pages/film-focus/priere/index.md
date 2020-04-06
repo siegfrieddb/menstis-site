@@ -2,7 +2,7 @@
 title: La prière
 ---
 <center>
-<img src="priere.jpg" >
+<img src="priere.jpg">
 </center>
 <a name="KLA"></a>
 
