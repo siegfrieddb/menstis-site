@@ -1,0 +1,1151 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title></title>
+  
+<link rel="shortcut icon" href="./favicon.ico" />
+<link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="./favicon-96x96.png" />
+<link rel="icon" type="image/png" sizes="16x16" href=".favicon-16x16.png" />
+
+<style>
+    html {
+      font-family: sans-serif;
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%
+    }
+
+    body {
+      margin: 0
+    }
+
+    article,
+    aside,
+    details,
+    figcaption,
+    figure,
+    footer,
+    header,
+    main,
+    menu,
+    nav,
+    section,
+    summary {
+      display: block
+    }
+
+    audio,
+    canvas,
+    progress,
+    video {
+      display: inline-block
+    }
+
+    audio:not([controls]) {
+      display: none;
+      height: 0
+    }
+
+    progress {
+      vertical-align: baseline
+    }
+
+    [hidden],
+    template {
+      display: none
+    }
+
+    a {
+      background-color: transparent;
+      -webkit-text-decoration-skip: objects
+    }
+
+    a:active,
+    a:hover {
+      outline-width: 0
+    }
+
+    abbr[title] {
+      border-bottom: none;
+      text-decoration: underline;
+      text-decoration: underline dotted
+    }
+
+    b,
+    strong {
+      font-weight: inherit;
+      font-weight: bolder
+    }
+
+    dfn {
+      font-style: italic
+    }
+
+    h1 {
+      font-size: 2em;
+      margin: .67em 0
+    }
+
+    mark {
+      background-color: #ff0;
+      color: #000
+    }
+
+    small {
+      font-size: 80%
+    }
+
+    sub,
+    sup {
+      font-size: 75%;
+      line-height: 0;
+      position: relative;
+      vertical-align: baseline
+    }
+
+    sub {
+      bottom: -.25em
+    }
+
+    sup {
+      top: -.5em
+    }
+
+    img {
+      border-style: none
+    }
+
+    svg:not(:root) {
+      overflow: hidden
+    }
+
+    code,
+    kbd,
+    pre,
+    samp {
+      font-family: monospace, monospace;
+      font-size: 1em
+    }
+
+    figure {
+      margin: 1em 40px
+    }
+
+    hr {
+      box-sizing: content-box;
+      height: 0;
+      overflow: visible
+    }
+
+    button,
+    input,
+    optgroup,
+    select,
+    textarea {
+      font: inherit;
+      margin: 0
+    }
+
+    optgroup {
+      font-weight: 700
+    }
+
+    button,
+    input {
+      overflow: visible
+    }
+
+    button,
+    select {
+      text-transform: none
+    }
+
+    [type=reset],
+    [type=submit],
+    button,
+    html [type=button] {
+      -webkit-appearance: button
+    }
+
+    [type=button]::-moz-focus-inner,
+    [type=reset]::-moz-focus-inner,
+    [type=submit]::-moz-focus-inner,
+    button::-moz-focus-inner {
+      border-style: none;
+      padding: 0
+    }
+
+    [type=button]:-moz-focusring,
+    [type=reset]:-moz-focusring,
+    [type=submit]:-moz-focusring,
+    button:-moz-focusring {
+      outline: 1px dotted ButtonText
+    }
+
+    fieldset {
+      border: 1px solid silver;
+      margin: 0 2px;
+      padding: .35em .625em .75em
+    }
+
+    legend {
+      box-sizing: border-box;
+      color: inherit;
+      display: table;
+      max-width: 100%;
+      padding: 0;
+      white-space: normal
+    }
+
+    textarea {
+      overflow: auto
+    }
+
+    [type=checkbox],
+    [type=radio] {
+      box-sizing: border-box;
+      padding: 0
+    }
+
+    [type=number]::-webkit-inner-spin-button,
+    [type=number]::-webkit-outer-spin-button {
+      height: auto
+    }
+
+    [type=search] {
+      -webkit-appearance: textfield;
+      outline-offset: -2px
+    }
+
+    [type=search]::-webkit-search-cancel-button,
+    [type=search]::-webkit-search-decoration {
+      -webkit-appearance: none
+    }
+
+    ::-webkit-input-placeholder {
+      color: inherit;
+      opacity: .54
+    }
+
+    ::-webkit-file-upload-button {
+      -webkit-appearance: button;
+      font: inherit
+    }
+
+    html {
+      font-size: 100%;
+      line-height: 1.5;
+      box-sizing: border-box;
+      overflow-y: scroll;
+    }
+
+    * {
+      box-sizing: inherit;
+    }
+
+    *:before {
+      box-sizing: inherit;
+    }
+
+    *:after {
+      box-sizing: inherit;
+    }
+
+    body {
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: Lucida Sans Unicode, Lucida Bright, Lucida Grande, sans-serif, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue;
+      font-weight: normal;
+      word-wrap: break-word;
+    }
+
+    img {
+      max-width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    h1 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 2rem;
+      line-height: 2.25rem;
+    }
+
+    h2 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1.51572rem;
+      line-height: 2.25rem;
+    }
+
+    h3 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1.31951rem;
+      line-height: 2.25rem;
+    }
+
+    h4 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1rem;
+      line-height: 1.5rem;
+    }
+
+    h5 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 0.87055rem;
+      line-height: 1.5rem;
+    }
+
+    h6 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 0.81225rem;
+      line-height: 1.5rem;
+    }
+
+    hgroup {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    ul {
+      margin-left: 1.5rem;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      list-style-position: outside;
+      list-style-image: none;
+    }
+
+    ol {
+      margin-left: 1.5rem;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      list-style-position: outside;
+      list-style-image: none;
+    }
+
+    dl {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    dd {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    p {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    figure {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    pre {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      font-size: 0.85rem;
+      line-height: 1.42;
+      background: hsla(0, 0%, 0%, 0.04);
+      border-radius: 3px;
+      overflow: auto;
+      padding: 1.5rem;
+    }
+
+    table {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      font-size: 1rem;
+      line-height: 1.5rem;
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    fieldset {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    blockquote {
+      margin-left: 1.5rem;
+      margin-right: 1.5rem;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    form {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    noscript {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    iframe {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    hr {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: calc(1.5rem - 1px);
+      background: hsla(0, 0%, 0%, 0.2);
+      border: none;
+      height: 1px;
+    }
+
+    address {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    b {
+      font-weight: bold;
+    }
+
+    strong {
+      font-weight: bold;
+    }
+
+    dt {
+      font-weight: bold;
+    }
+
+    th {
+      font-weight: bold;
+    }
+
+    li {
+      margin-bottom: calc(1.5rem / 2);
+    }
+
+    ol li {
+      padding-left: 0;
+    }
+
+    ul li {
+      padding-left: 0;
+    }
+
+    li>ol {
+      margin-left: 1.5rem;
+      margin-bottom: calc(1.5rem / 2);
+      margin-top: calc(1.5rem / 2);
+    }
+
+    li>ul {
+      margin-left: 1.5rem;
+      margin-bottom: calc(1.5rem / 2);
+      margin-top: calc(1.5rem / 2);
+    }
+
+    code {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    kbd {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    samp {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    abbr {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+    }
+
+    acronym {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+    }
+
+    abbr[title] {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+      text-decoration: none;
+    }
+
+    thead {
+      text-align: left;
+    }
+
+    td,
+    th {
+      text-align: left;
+      border-bottom: 1px solid hsla(0, 0%, 0%, 0.12);
+      font-feature-settings: tnum;
+      padding-left: 1rem;
+      padding-right: 1rem;
+      padding-top: 0.75rem;
+      padding-bottom: calc(0.75rem - 1px);
+    }
+
+    th:first-child,
+    td:first-child {
+      padding-left: 0;
+    }
+
+    th:last-child,
+    td:last-child {
+      padding-right: 0;
+    }
+
+    tt,
+    code {
+      background-color: hsla(0, 0%, 0%, 0.04);
+      border-radius: 3px;
+      font-family: Consolas, "Roboto Mono", "Liberation Mono", Menlo, Courier, monospace;
+      padding: 0;
+      padding-top: 0.2em;
+      padding-bottom: 0.2em;
+    }
+
+    pre code {
+      background: none;
+      line-height: 1.42;
+    }
+
+    code:before,
+    code:after,
+    tt:before,
+    tt:after {
+      letter-spacing: -0.2em;
+      content: " ";
+    }
+
+    pre code:before,
+    pre code:after,
+    pre tt:before,
+    pre tt:after {
+      content: "";
+    }
+  </style>
+  <style>
+    @media only screen and (min-width:700px) {
+      .breakpoint-min-width-700 {
+        display: block
+      }
+
+      .breakpoint-max-width-700 {
+        display: none
+      }
+    }
+
+    @media only screen and (max-width:700px) {
+      .breakpoint-min-width-700 {
+        display: none
+      }
+
+      .breakpoint-max-width-700 {
+        display: block
+      }
+    }
+
+    .landing-image {
+      background-image: url(/menstis-theme.jpg);
+      background-size: cover
+    }
+
+    .main-menu-item {
+      font-weight: 700
+    }
+
+    @media only screen and (min-width:1127px) {
+      .main-menu-item {
+        font-size: 1.5em
+      }
+    }
+
+    .blog-image {
+      background-image: url(/menstis-back.jpg);
+      background-size: cover;
+      background-position: 50%
+    }
+
+    body {
+      font-size: 1.5em
+    }
+
+    .page {
+      width: 100%
+    }
+
+    a {
+      color: #f26d80
+    }
+
+    a>strong {
+      color: olive
+    }
+
+    a:hover,
+    h1 {
+      color: #f26d80
+    }
+
+    h1 {
+      font-size: 2.3em
+    }
+
+    h2 {
+      color: olive;
+      font-size: 1.5em
+    }
+
+    hr {
+      border: 0;
+      height: 1px;
+      background: olive
+    }
+
+    .image-fit>img {
+      -o-object-fit: cover;
+      object-fit: cover;
+      height: 225px;
+      width: 360px;
+      position: relative;
+      display: block
+    }
+
+    .image-overlay {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      opacity: 0;
+      overflow: hidden;
+      width: 100%;
+      height: 100%;
+      transition: .5s ease
+    }
+
+    .image-fit:hover .image-overlay {
+      opacity: 1
+    }
+
+    .image-text {
+      white-space: nowrap;
+      color: #fff;
+      font-size: 1.3em;
+      font-weight: 700;
+      position: absolute;
+      overflow: hidden;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      text-shadow: #000 0 0 10px
+    }
+
+    .image-fit-uitgeverij>img {
+      -o-object-fit: cover;
+      object-fit: cover;
+      height: 200px;
+      width: 360px
+    }
+
+    .landing-item {
+      font-weight: 700;
+      font-size: 2em
+    }
+
+    .Header {
+      height: 4em;
+      text-align: center
+    }
+
+    .Header,
+    .parent-blog {
+      width: 100%;
+      display: table
+    }
+
+    .parent-blog {
+      height: 3em;
+      text-align: left;
+      padding-left: 1em
+    }
+
+    .parent-blog>.child-blog {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 2em;
+      color: #fff
+    }
+
+    .menstis-title {
+      width: 100%;
+      height: 2.5em;
+      display: table;
+      text-align: left;
+      padding-left: .5em;
+      background-image: url(/menstis-back.jpg);
+      background-size: cover;
+      background-position: 50%
+    }
+
+    .menstis-title>h1 {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 1.5em;
+      color: #fff
+    }
+
+    .parent-menu {
+      width: 100%;
+      height: 3em;
+      display: table;
+      text-align: center
+    }
+
+    .parent-menu>.child-menu {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 2em;
+      color: #fff;
+      padding: .1em
+    }
+
+    @media only screen and (max-width:726px) {
+      .parent-blog {
+        width: 100%;
+        height: 2.5em;
+        display: table;
+        text-align: left;
+        padding-left: .5em
+      }
+
+      .parent-blog>.child-blog {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 1.5em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (min-width:1127px) {
+      .parent {
+        width: 100%;
+        height: 300px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 12em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (min-width:933px) and (max-width:1127px) {
+      .parent {
+        width: 100%;
+        height: 180px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 7em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (max-width:933px) {
+      .parent {
+        width: 100%;
+        height: 110px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 4em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (max-width:726px) {
+      .parent {
+        width: 100%;
+        height: 90px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 3em;
+        color: #fff
+      }
+    }
+  </style>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.css" />
+</head>
+<body>
+  <div id="react-mount">
+    <div data-reactroot="" data-reactid="1" data-react-checksum="-2022520968">
+      <div data-reactid="2">
+  <div class="ui fluid container " data-reactid="3">
+    <div class="breakpoint-min-width-700" data-reactid="4">
+      <div class="ui massive menu pointing secondary" data-reactid="5">
+        <div class="ui container " data-reactid="6">
+          <div class="item" style="padding:0px;margin-right:20px;" data-reactid="7">
+            <div class="parent-menu blog-image " data-reactid="8">
+              <div class="child-menu" data-reactid="9"><span style="font-weight:bold;" data-reactid="10">
+                  <!-- react-text: 11 -->men(
+                  <!-- /react-text --><span style="color:#f26d80;" data-reactid="12">S</span>
+                  <!-- react-text: 13 -->)tis
+                  <!-- /react-text --></span></div>
+            </div>
+          </div><a class="item" href="/dedag/" data-reactid="14">De Dag</a><a class="item" href="/blog/"
+            data-reactid="15">Blog</a><a class="active item" href="/missie/" data-reactid="16">Missie</a><a
+            class="item" href="/film-focus/" data-reactid="17">FilmFocus</a><a class="item" href="/producties/"
+            data-reactid="18">Producties</a><a class="item" href="/webshop/" data-reactid="19">Webshop</a>
+        </div>
+      </div>
+    </div>
+    <div class="breakpoint-max-width-700" data-reactid="20">
+      <div class="parent-blog blog-image " style="text-align:center;" data-reactid="21">
+        <div class="child-blog" data-reactid="22"><span style="font-weight:bold;" data-reactid="23">
+            <!-- react-text: 24 -->men(
+            <!-- /react-text --><span style="color:#f26d80;" data-reactid="25">S</span><!-- react-text: 26 -->)tis
+            <!-- /react-text --></span></div>
+      </div>
+      <div style="height:10px;" data-reactid="27"></div>
+      <div role="combobox" aria-expanded="false" class="ui fluid search selection dropdown" data-reactid="28">
+        <select type="hidden" aria-hidden="true" data-reactid="29">
+          <option value="" data-reactid="30"></option>
+          <option value="/dedag/" data-reactid="31">De Dag</option>
+          <option value="/blog/" data-reactid="32">Blog</option>
+          <option selected="" value="/missie/" data-reactid="33">Missie</option>
+          <option value="/film-focus/" data-reactid="34">FilmFocus</option>
+          <option value="/producties/" data-reactid="35">Producties</option>
+          <option value="/webshop/" data-reactid="36">Webshop</option>
+        </select><input type="text" value="" aria-autocomplete="list" class="search" name="-search"
+          autocomplete="off" tabindex="0" data-reactid="37" />
+        <div class="text" data-reactid="38">Missie</div><i aria-hidden="true" class="dropdown icon"
+          data-reactid="39"></i>
+        <div role="listbox" class="menu transition" data-reactid="40">
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="41">
+            De Dag
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="43">
+            Blog
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="true" aria-selected="true"
+            class="active selected item" data-reactid="45">
+            Missie
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="47">
+            FilmFocus
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="49">
+            Producties
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item">
+            Webshop
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="height:10px;"></div>
+</div>
+      <div>
+        <div class="ui container" data-reactid="55">
+          <div class="markdown" data-reactid="56">
+           <h1>Agora</h1><hr>
+<p><center>
+<img src="agora.jpg" >
+</center>
+<a name="KLA"></a></p>
+<h2 id="-klapbord-"><strong>Klapbord</strong></h2>
+<p><span style="color:blue"><strong>Agora</strong></span>
+is de titel van <em>het historische filmepos</em> van de Spaans-Chileense regisseur Alejandro Amenábar. Hij filmde zich eerder in de kijker met het euthanasiedrama <em>Mar Adentro</em>, maar eveneens met <em>The Others</em> en <em>Abre los ojos</em>. <span style="color:blue"><strong>Agora</strong></span> is zijn eerste kostuumfilm. Hij reconstrueert de weinig gekende geschiedenis van <em>de vrouwelijke Alexandrijnse filosoof Hypatia</em> (ca. 370-415). De historische film is met zijn 50 miljoen euro tot op heden de duurste Spaanse film ooit. Hij evoceert de teloorgang van <em>de hellenistische cultuurstad Alexandrië</em> en weerkaatst de betekenis ervan naar het begin van de 21ste eeuw, onze tijd. De film ontving de 7 Goya’s (de Oscars van de Spaanse film) en 6 Goya-nominaties. Het personage <em>Hypatia</em> wordt vertolkt door Rachel Weisz. De locatie was Malta.</p>
+<p><a name="SYN"></a></p>
+<h2 id="-synopsis-"><strong>Synopsis</strong></h2>
+<p>In het Romeins-Egyptische Alexandrië leeft en werkt rond 400 <em>Hypatia</em>. Zij is de enige vrouwelijke filosoof die onderwijst en onderzoek verricht in de <em>grote bibliotheek</em>, de schatkamer aan kennis van de mediterrane mensheid, een internationale school en een ontmoetingsplaats van geleerden van diverse culturele origine. <em>Hypatia</em> brengt haar verwondering over de orde in het heelal over op haar leerlingen die ze als ‘broeders’ ziet en bij wie ze een geest van verdraagzaamheid en een kritische instelling overbrengt. Haar vader, <em>Theon</em>, leidt de bibliotheek. De stad komt onder toenemende spanning te staan door het succes van <em>de christenen</em> die nu niet meer worden vervolgd en op <em>de agora</em> in discussie gaan met de bestaande ‘heidense’ verering van diverse goden. </p>
+<blockquote>
+<p>In de stad is de belangrijkste tempel die van <em>Serapis</em>, een versmelting van de Egyptische en Griekse religies. Het hoofdgebouw van de bibliotheek bevindt zich in de tempel van Serapis. <em>Patriarch Theophilus</em> moedigt de christenen aan om met de heidense godenbeelden de spot te drijven. De missionair ingestelde monnik <em>Ammonius</em>, leider van de gewapende Christussoldaten, <em>de Parabolanen</em>, neemt daarbij het voortouw. De christenen krijgen zeer veel aanhang bij het gewone volk en de slaven, onder wie <em>Davus</em>, de slaaf en assistent van <em>Hypatia</em>. </p>
+<p>De spanningen lopen uit de hand en ontaarden in bloedige conflicten. De Romeinse prefect heeft een te zwakke politieke en militaire macht om de situatie onder controle te houden. De christenen bestormen uit weerwraak de tempel van Serapis na een bloedige aanval op hen door de aanhangers van de tempel. De bibliotheek wordt verwoest. De christenen nemen het gebouw over en gebruiken een deel ervan als kerk.</p>
+<p>Wanneer de jonge en ambitieuze <em>Cyrillus</em> de overleden Theophilus opvolgt, streeft hij naar een volledige controle over de politieke en religieuze macht. Hij schakelt de joden uit en valt nadien nog de laatste aanhangers van de ‘heidense’ goden aan. Wanneer daarbij de nieuwe prefect, <em>Orestes</em>, een oud-leerling van <em>Hypatia</em>, hem in de weg staat, speelt hij een politiek schaakspel met als inzet niemand minder dan <em>Hypatia</em>. Zij wordt als <em>heks</em> gestenigd vὀὀr het altaar van Christus. Dat gebeurt nadat ze door haar kosmologische studies en experimenten een vermoeden kreeg van de hypothese van het <em>heliocentrisme</em>.</p>
+</blockquote>
+<p><a name="CIN"></a></p>
+<h2 id="-cinematografie-"><strong>Cinematografie</strong></h2>
+<p> <span style="color:darkkhaki"><strong>HISTORISCHE EVOCATIE</strong></span>. Het filmproject steunt op grondig onderzoek over het historische Alexandrië rond het jaar 400 toen de waardevolle bibliotheek ten onder is gegaan. <em>De stad met zijn unieke bibliotheek</em> vormt het hoofdpersonage in het eerste deel van de film. De decors werden zo authentiek mogelijk gebouwd. Voor het eerst krijgt de vermaarde bibliotheek een concreet, architecturaal gezicht. De verwoesting van het gebouw vormt het dramatische hoogtepunt van het eerste deel van de film. </p>
+<blockquote>
+<p>De regisseur verwerkt in het scenario de overgeleverde feiten over de stad Alexandrië bij de overgang van de Romeinse naar de christelijk periode onder de leiding van patriarch <em>Cyrillus van Alexandrië</em> die in oktober 412 de overleden Theophilus opvolgde. </p>
+<p>Eén van schaarse historische bronnen over <em>Hypatia</em> is het werk van <em>Synesius van Cyrene</em>, de Griekse bisschop van Ptolemais (Lybische Pentapolis). Hij was een leerling van <em>Hypatia</em> in Alexandrië en er is een brief van hem aan <em>Hypatia</em> bewaard. Aan die historische context ontleent de regisseur het personage <em>Synesius</em> dat in het tweede deel van de film een voorname bijrol speelt. </p>
+<p>Over <em>Hypatia</em> zelf zijn slechts enkele feiten bekend. Die zijn in de film verwerkt. De regisseur heeft zelf de vele leemtes moeten inkleuren. Daarbij heeft hij rekening gehouden met de geest van de tijd. De personages van <em>Hypatia</em>’s assistenten, <em>Davus</em> en <em>Aspasius</em>, zijn fictief. Vooral de eerste speelt een grote rol in de film en helpt de regisseur om het verhaal te vertellen over het succes van de christelijke leer onder de Romeinse slaven. Davus is immers de slaaf van <em>Hypatia</em> en hij is in het geheim christen. </p>
+<p>Via het personage van <em>Hypatia</em> brengt de regisseur de succesrijke Helleense filosofie van <em>het neoplatonisme</em> in beeld. Dat concretiseert zich in haar intellectuele passie voor de studie van de kosmos. Zij onderwijst het toen algemeen aanvaarde <em>geocentrische wereldbeeld van Ptolemaius</em>, een sleutelvisie van het neoplatonisme. In het eerste deel van de film komen enkele scènes voor waarin <em>Hypatia</em> de sinds Plato als goddelijk beschouwde figuur van <em>de cirkel</em> bestudeerd in relatie tot de komische bewegingen van de zon en de planeten. </p>
+<p>In het tweede deel verdicht Amenábar de latere overgang van het <em>geocentrisme</em> naar het <em>heliocentrisme</em> in <em>Hypatia</em>’s intellectuele honger om de kosmos te doorgronden. Daar is historisch geen enkel bewijs voor aangezien het geschreven werk van de &#39;heks&#39; <em>Hypatia</em> volledig verloren is gegaan. De (moderne) ontdekking van de elliptische omwentelingsbaan van de planeten door Kepler in 1609, zou ook door <em>Hypatia</em> als hypothese zijn kunnen onderwezen. Zo verwijst de film naar Aristarchus die circa 700 jaar voor Hypatia al het heliocentrisme kende. De intellectuelen uit de Griekse oudheid kenden de theorie, ook al nam niemand ze ernstig, zeker niet toen de jonge christelijke theologie het wereldbeeld van Ptolemaius adopteerde. Het neoplatonisme vond weerklank bij alle intellectuelen van die tijd, ook bij de christenen zoals Synesius. </p>
+<p>Alleen radicale figuren als Cyrillus I verzetten zich krachtig tegen de mogelijke invloed van de <em>neoplatoonse</em> filosofie op de christenen. Dat was zijn motief om in het bijzonder <em>Hypatia</em> te viseren. Er zijn geen historische bronnen over een directe confrontatie tussen Cyrillus en <em>Hypatia</em>. Amenábar laat wel zien hoe Cyrillus zowel zijn eigen aanhang als de beleidslieden van Alexandrië onder wie de prefect Orestes, oud-leerling en vriend van <em>Hypatia</em>, manipuleert om <em>Hypatia</em>’s (neoplatoonse) invloed in de stad te neutraliseren en uit te schakelen. De gruwelijke moord op <em>Hypatia</em> door de radicale christenen, de Parabolanen, is in de film verzacht. Uit overgeleverde bronnen blijkt dat zij de eerste vrouw is die in naam van Christus als ‘heks’ op een wrede wijze is terechtgesteld.</p>
+</blockquote>
+<p><span Style="color:darkkhaki"><strong>WERELDBEELDPERSPECTIEF</strong></span>. Een van de opvallendste visuele eigenschapen van <span style="color:blue"><strong>Agora</strong></span> is het wereldbeeldperspectief. De camera bevindt zich als het ware in het heelal, is zelf een planeet die de aarde observeert en vervolgens inzoomt op de Egyptische stad Alexandrië. </p>
+<blockquote>
+<p>Het openingsbeeld toont de sterrenhemel met de introductie van de planeet aarde; als een gigantisch lichtschip beweegt deze in een cirkelbaan door het heelal. Bij die beelden weerklinkt dan in voice-over de stem van <em>Hypatia</em> over de betekenis van de cirkel voor de planeten in de kosmos. Dan verplaatst zich de camera van de hemel naar de aarde in de collegezaal waar <em>Hypatia</em> aanschouwelijk via de astronomie  het klassieke of Oud-Griekse wereldbeeld doceert. </p>
+<blockquote>
+<p><em>Maar de aarde? Wat gebeurt er hier op aarde? Hier vallen de voorwerpen wel naar beneden terwijl de sterren en de hemellichamen niet naar beneden vallen, maar in cirkels bewegen.</em></p>
+</blockquote>
+<p>Het tweede deel opent eveneens met het wereldbeeldperspectief om uiteindelijk in het slotbeweging terug te keren naar de plaats van de camera in het heelal. </p>
+<p>Nog in het eerste deel met name in het tafereel dat zich in het <em>theater</em> afspeelt, komt ook een betekenisvol hemelperspectief voor. In de pauze van het theaterstuk spreekt Orestes van op de scène zijn liefde uit voor <em>Hypatia</em> en speelt hij voor haar op de Griekse dubbelfluit. Tijdens het muziekopvoering last Amenábar een beeld in genomen vanuit het heelal met zicht op de aarde. Hiermee verwijst Amenábar naar de componenten van het klassieke of Oud-Griekse wereldbeeld: de astronomie en de  kosmologie, de muziek(leer) en de metafysica. <em>Hypatia</em> had immers Orestes’ verliefdheid afgewimpeld met het advies zich op de muziek toe te leggen. Sinds de leer van Pythagoras over <em>de muziek van de sferen</em> waarmee hij bedoelde de muziek die in de kosmos ontstaat door de bewegingen van de planeten, beschouwden de neoplatonisten de studie van de muziek als een onderdeel van de studie van het <em>wereldbeeld</em>, gevoed door de toenmalige verwondering en bewondering over de perfecte schoonheid van de kosmos met zijn harmonieuze verhoudingen en bewegingen. </p>
+<p>Met dat wereldbeeldperspectief onderlijnt Amenábar het blikveld van <em>Hypatia</em>. Zij kijkt consequent naar de kosmos boven de planeet aarde als een onophoudelijke bron van verwondering en kennis over de hogere werkelijkheid die in harmonie leeft met zichzelf. De beelden van de sterrenhemel vinden hun oorsprong in de schouwende blik van <em>Hypatia</em>. </p>
+<p>Dat typische wereldbeeldperspectief kan ook het <em>goddelijk perspectief</em> worden genoemd. In het licht van de neoplatoonse metafysica bevindt de werkelijkheid van God zich boven de aarde (het <em>meta-fysische</em> of het <em>boven-natuurlijke</em>) en is de schoonheid van de kosmos het meest zichtbare beeld van God dat mensen met de ogen kunnen aanschouwen. </p>
+<p>In de populaire voorstelling van dat <em>metafysische wereldbeeld</em> woont God in de hemel en kijkt hij naar de aarde. In de optiek van het <em>neoplatonisme</em> was de studie van de kosmos met onder andere de astronomie in feite een deel van <em>de natuurlijke theologie</em>. In de traditie van Plato en Aristoteles onderzoekt <em>Hypatia</em> met de kracht van het menselijk denken dat hellenistische wereldbeeld met centraal de studie van de <em>kosmos</em> is. De scènes met <em>Hypatia</em> en haar studie van de kosmos vormen telkens een rustpunt midden de actiescènes.</p>
+</blockquote>
+<p><span style="color:darkkhaki"><strong>STIJL VAN JOURNALISTIEKE VERSLAGGEVING</strong></span>. Voor de taferelen die zich in de stad afspelen en die tevens in het teken staan van de toenemende spanningen tussen de drie groepen, de ‘heidenen’ of de polytheïsten, de christenen en de joden, kiest Amenábar voor een <em>zeer levendige, journalistieke</em> stijl. Hij wil met de montage van verschillende camerabewegingen van hetzelfde gebeuren de toeschouwer meenemen in een tijdscabine en als een CNN-kijker de actie zelf als een bevoorrechte getuige laten meemaken. Die werkwijze ondersteunt de inleving bij de toeschouwer.</p>
+<blockquote>
+<p>In diezelfde geest filmt hij belangrijke momenten vanuit de <em>blik van een getuige</em>. Een mooi voorbeeld hiervan is de aanhouding van <em>Hypatia</em> door de troepen van Cyrillus, de Parabolanen. Dat gebeuren zelf komt niet in beeld, maar de gevolgen ervan wel; de toeschouwer kan die direct meemaken vanuit het standpunt van Davus. Dat betekent dat Amenábar in tegenstelling met andere historische epische drama’s niet werkt met een alziend standpunt: de camera ziet niet alles en is niet overal bij.</p>
+</blockquote>
+<p><span style="color:darkkhaki"><strong>FLASHBACKS</strong></span>. De film <span style="color:blue"><strong>Agora</strong></span> is lineair opgebouwd. Alleen tijdens de dramatische ontknoping last Amenábar flashbackbeelden in. Dat gebeurt concreet tijdens de sterfscène. Davus verstikt de naakte <em>Hypatia</em> die op het punt staat te worden gestenigd door de fanatieke Parabolanen. Hij wil voorkomen dat ze nog meer wordt vernederd en gefolterd.</p>
+<blockquote>
+<p><em>De flashbacks</em> zijn de herinneringen van Davus, de slaaf en tevens beste leerling-assistent van <em>Hypatia</em>. Hij hield oprecht van haar, maar besefte dat die liefde onmogelijk was. Het is uit zijn liefde voor haar dat hij haar helpt sterven. Door de dood van <em>Hypatia</em> zo in beeld te brengen, brengt Amenábar poëzie in een moment dat alleen maar van gruwel spreekt. De uitbeelding van de historisch overgeleverde moord op <em>Hypatia</em> is immers onmogelijk en ondraaglijk om te zien: het levend villen met scherven van schelpen.</p>
+</blockquote>
+<p><a name="BET"></a></p>
+<h2 id="-betekenisruimte-"><strong>Betekenisruimte</strong></h2>
+<p><span style="color:darkkhaki"><strong>DE AGORISCHE SAMENLEVING</strong></span>. Omdat Amenábar de naam <em>Hypatia</em> geen mooie naam en evenmin een goede titel vond, hebben hij en de producent uiteindelijk gekozen voor de titel <em>Agora</em>. Het woord komt ook in het script voor. Het is een uniek Grieks woord voor de <em>open publieke ruimte</em>, begrepen als de plaats waar mensen zich in vrijheid kunnen verzamelen om met elkaar over alles te spreken, handel te drijven, ambachten en kunsten te beoefenen, enzovoort.</p>
+<blockquote>
+<p><em>De agora</em> is de slagader van de <em>democratische</em> samenleving zoals die in het oude Athene voor het eerst heeft gefunctioneerd. Ook het laatantieke Alexandrië had een agora en weerspiegelde het open karakter van de samenleving waar diverse groepen met elk hun religie op een positieve manier samenleefden.</p>
+<p>Op de agora van Alexandrië staat immers een beeld van de Griekse godin <em>Athena</em> aan wie de stad Athene haar naam ontleent. De bibliotheek van Alexandrië voedde die <em>open democratische</em> geest. <em>Hypatia</em> onderwees immers de fundamentele <em>broederschap</em> onder de mensen. </p>
+<p>De film beschrijft de ondergang van <em>de agora</em> via een crescendo van destructie: in het eerste deel de vernieling van de bibliotheek als gebouw met zijn boekrollen en onderwijsruimtes, en in het tweede deel de geest van de bibliotheek in de gestalte van de moord op de laatste meester van de bibliotheek, <em>Hypatia</em>. </p>
+<p>Voor Amenábar is <em>de agora</em> uiteindelijk de metafoor voor de plaats van het <em>samen</em>-leven. Hij laat zien dat de destructie daarvan meteeen de destructie van het menszijn zelf inhoudt.</p>
+</blockquote>
+<p><span style="color:darkkhaki"><strong>HISTORISCHE SPIEGELING</strong></span>. De regisseur heeft met <span style="color:blue"><strong>Agora</strong></span> geen vrijblijvende film gemaakt. In verschillende interviews en in zijn dvd-commentaar bij de film, onderstreept Amenábar dat hij “<em>alles wat hij denkt over de menselijke natuur</em>” in dat ene verhaal heeft verwerkt. Het <em>vrijwel ongekende</em> historische verhaal is voor de cineast nog steeds relevant. Hij stelt in één van zijn interviews: </p>
+<blockquote>
+<blockquote>
+<p><em>De vernietiging van de Alexandrijnse bibliotheek luidde het begin van de donkere middeleeuwen in. Nu zitten we, vrees ik, opnieuw op zo’n scharniermoment. Het religieuze fanatisme neemt opnieuw toe; er dreigen weer bloedige godsdienstoorlogen.</em></p>
+</blockquote>
+<p>In zowel het eerste als het tweede deel wijst de cineast erop dat in alle religies het <em>fanatisme</em> de kop opsteekt. Er zijn in alle groepen goeden en slechten. Zo laat Amenábar in het eerste deel zien dat de priesters van de Serapistempel met het zwaard de christenen die de spot drijven met de hellenistische godenbeelden aanvallen. Die moordpartij lokt dan weer de furieuze aanval van de christenen uit die leidt tot de verwoesting van de bibliotheek. In het tweede deel nemen de joden wraak op de Parabolanen, waarna het bloedige antwoord volgt van de christenen.</p>
+<p>Amenábar verwijst in die beelden direct naar de <em>Holocaust</em> van de 20ste eeuw en hij laat zien hoe het fanatieke <em>antisemitisme</em> waaruit de Holocaust is voortgekomen, diepe historische wortels heeft in het fanatieke laatantieke christlijke <em>wereldbeeld</em>. In de hevige toespraak van de jonge patriarch Cyrillus over de joden en over de noodzaak om de stad te zuiveren, verwerkt Amenábar woorden van kerkvader <em>Augustinus van Hippo</em>, een tijdgenoot van <em>Hypatia</em> en Cyrillus. Amenábar verwijst expliciet naar de verbranding van de joden en naar de uitdrijving van de joden uit onder andere Poolse steden zoals Spielberg die in beeld brengt in <em>Schindler’s List</em>. </p>
+<p>De spiraal van geweld die het <em>godsdienstfanatisme</em> voortbrengt, vloeit voort uit, zo toont Amenábar, de afwezigheid van respect voor de verschillende uitdrukkingen van godsgeloof. De negatieve spiraal begint eigenlijk bij het bespotten van de hellenistische godsbeelden op de agora. Daaruit spreekt het oudtestamentische  <em>iconoclasme</em> (o.a. <em>Exodus</em> 20, 3-4) dat zich nog versterkt in de slogan van de christenen die tijdens de aanval op de bibliotheek roepen: “<em>God is één</em>.” </p>
+<p>De spiraal versterkt zich via wraakgevoelens waarna die zich kristalliseert in een <em>niets ontziende politieke machtstrijd</em>. In het tweede deel, vooral in de episode van de wegvoering van <em>Hypatia</em> door de Parabolanen, roept de regisseur hedendaagse beelden op van de <em>Taliban</em> en <em>IS</em> en hun uitgesproken minachting voor vrouwen. In het jaar 2010, het jaar waarin de film in de westerse landen in de bioscoop is te zien geweest, laaide in Manhattan, New York, een hevige politieke discussie op over de geplande bouw van een moskee en islamitisch centrum op twee blokken verwijderd van de toenmalige <em>Ground Zero</em>. Dat leidde tot beelden van fanatieke christenen en moslims die zo uit het laatantieke Alexandrië hadden kunnen komen. </p>
+<p>Amenábar neemt letterlijk afstand van dergelijke conflicten die een belangrijke deel van de wereldpolitiek op aarde nog steeds blijven beheersen. Dat blijkt uit de filmische afstand van het geweld. Hij filmt met opzet de eerste gewapende aanval van op grote afstand. En hij vergroot die afstand nog via de metafoor van de <em>mieren</em>. De hele episode van de verwoesting van de bibliotheek opent met een close-up van mieren en eindigt met een panoramisch hoogteshot van de verwoeste bibliotheek en de mensen die als mieren door en achter elkaar al vechtend en plunderend lopen.</p>
+<p>Hier werkt het <em>wereldbeeldperspectief</em> door en het verwijst naar de filosofische distantie die eigen is aan <em>Hypatia</em> en de studie van de astronomische studie van de kosmos. Het blikveld van <em>harmonie en symmetrie</em> versus het gewriemel van elkaar vermoordende mensen die vanuit de hemel slechts op mieren lijken. </p>
+<p>Een laatste aspect van de historische spiegeling, betreft het <em>genderaspect</em>. Amenábar laat duidelijk zien hoe de positie van de vrouw in zowel het hellenistische als christelijke <em>wereldbeeld</em> die van een <em>tweederangsburger</em> of zelfs van een <em>slaaf</em> was. Dat werkt hij uit in het verhaal over het <em>ongehuwd</em> blijven van <em>Hypatia</em>. Hij toont dat hoe dan ook de historische figuur van <em>Hypatia</em> een grote uitzondering is gebleven en dat die uitzondering uiteindelijk ook teniet gedaan is. Daarbij heeft de christelijk-theologische <em>wereldbeeld</em> een gigantische, historische rol gespeeld.</p>
+<p>Het is geen toeval dat hij in het tweede deel de fanatieke Cyrillus in de kerk de Bijbeltekst laat lezen, met name het <em>tweede hoofdstuk van de eerste brief van Paulus aan Timoteüs</em> over het verplichte statuut en de vaste tweederangsplaats van de vrouw in de christelijke kerkgemeenschap. Cyrillus gebruikt die tekst op zo’n manier dat hij ermee de politieke leider van de stad, Orestes, zelf een christen en leerling van <em>Hypatia</em>, met zijn rug tegen de muur zet. Hij verplicht Orestes afstand te nemen van <em>Hypatia</em>.</p>
+<p>Door toedoen van Cyrillus draaien de rollen om. In het begin onderwijst <em>Hypatia</em> de (mannelijke) leerlingen Orestes en Synesius, terwijl in de laatste sequentie met de drie personages <em>Hypatia</em> op de plaats van de leerlingen zit, terwijl Orestes en Synesius als de (politieke en religieuze) meesters haar duidelijk maken dat ze zich dient te onderwerpen. Ze weigert. Die weigering maakte haar tot de eerste <em>heks</em> uit de pijnlijke geschiedenis van de Kerk in relatie tot de waarde en de waardigheid van de vrouw.</p>
+</blockquote>
+<p><span style="color:darkkhaki"><strong>EEN JEZUS-CHRISTENDOM</strong></span>. Amenábar heeft met <span style="color:blue"><strong>Agora</strong></span> geen <em>antichristelijke</em> film gemaakt. Ook al is hij naar eigen zeggen zelf van een christen geëvolueerd naar een atheïst. Uit zijn grote interesse voor de astronomie en de werkelijkheid van het heelal richt hij zich wel op een <em>mensoverstijgende</em> werkelijkheid waarin ook de religies hun oorsprong vinden. In de film laat hij <em>Hypatia</em> zeggen: “<em>Ik geloof in filosofie</em>.” </p>
+<blockquote>
+<p>In de <em>hellenistische oudheid</em> was het beoefenen van de filosofie een religieuze activiteit want zoals Aristoteles stelde is de metafysica de eerste filosofie die haar hoogtepunt bereikt in het hoofdstuk van de <em>natuurlijke theologie</em>.</p>
+<p>Daarnaast toont Amenábar veel sympathie voor de <em>evangelische Jezus</em> en diens humaniserende levensvisie met de elementen van <em>het broederschap van de mensen</em> en <em>de zorg voor de minsten</em> in de samenleving. Hij stelt de kennismaking van Davus met de leer van de christenen helemaal in het teken van de <em>Bergrede</em> die hij letterlijk citeert en met beelden van het uitdelen en breken van broden met de armen verduidelijkt.</p>
+<p>Amenábar portretteert <em>Hypatia</em> met trekken die de evangelies aan Jezus toeschrijven. Zij leert haar studenten wat <em>broederschap</em> betekent door applaus te vragen voor haar assistent, de slaaf Davus. Zij weigert iedere vorm van geweld. Ze legt het zwaard neer dat Davus haar geeft om hem als straf te doden en ze weigert militaire protectie net zoals Jezus deed in de Hof van Olijven bij zijn gevangenneming. Later schenkt Hypatia Davus zijn vrijheid. In de film laat Amenábar Davus het begin van het <em>Onze Vader</em> bidden. Hij filmt de gevangenneming en de terechtstelling van <em>Hypatia</em> als een passieverhaal: de onschuldige leraar wordt door de fanatieke godsdienstleiders gevangen genomen, wordt voor de politieke en kerkelijke macht (Orestes en Synesius) gebracht, door de soldaten bespot en vernederd, op de berg meegevoerd, van zijn kleding beroofd en terechtgesteld. Amenábar filmt de aangrijpende sterfscène als een kruisafneming die tevens oogt als een staande <em>piëta</em>.</p>
+</blockquote>
+<p><a name="CON"></a></p>
+<h2 id="-context-"><strong>Context</strong></h2>
+<p>De film <span style="color:blue"><strong>Agora</strong></span> van Amenábar kadert in een <em>postmoderne</em> benadering van het fenomeen religie, kerk en geschiedenis. Het is een kritische benadering die vooral afstand neemt van het <em>monotheïstische</em> denken dat vandaag de voedingsbodem blijft van de wereldreligies christendom, jodendom en islam. Het zijn die religies die in hun politieke verschijning tegenover elkaar komen te staan, na al die eeuwen. </p>
+<blockquote>
+<p>De film draagt bij tot de onmisbare reflectie over de <em>cultuurwaarde van de religies</em> vandaag. Daarbij kan een kritische studie van de voorbije geschiedenis niet ontbreken. Amenábar brengt via het medium film een belangrijk, <em>vergeten</em> hoofdstuk van die geschiedenis aan het licht.</p>
+<p>Hij roept tegelijkertijd in het beeld van de <em>Oud-Griekse agora</em> de metafoor op van de wereldwijde democratische ruimte waarin mensen vanuit een planetair bewustzijn tot de ontdekking komen dat ze meer met elkaar gemeen hebben dan de verschillen die ze ervaren. Het oorspronkelijke, <em>Alexandrijnse polytheïsme</em> dat ruimte liet voor diverse religieuze expressies krijgt in een hedendaagse wereldcontext de betekenis van een wereldforum waar de verschillende monotheïstische religies elkaar niet meer als vijanden benaderen maar als kleurschakeringen van eenzelfde, transcendente werkelijkheid.</p>
+<p>Een interessant detail van de film krijgt hier een bijzondere betekenis. Naar het einde toe monteert Amenábar een shot in kikvorsperspectief van Cyrillus die een <em>bijbelboek</em> als object liturgisch boven zijn hoofd houdt. Hij eist van iedereen, ook van de politieke leiders, onderwerping en gehoorzaamheid aan het <em>Boek</em>. Cyrillus staat hier duidelijk voor de verschuiving van de beelden die elkaar op de agora relativeren en in balans houden, eigen aan het hellenistische polytheïsme, naar het ene beeld van <em>hét Boek</em>. </p>
+<p>In onze <em>postmoderne</em> beschaving die er één is van de opstand van de beelden, geïnspireerd en gevoed door het medium van de <em>cinematografie</em>, verliest het <em>Boek</em> zijn bevoorrecht statuut en komt het terecht in de maalstroom van de planetaire <em>beeldenagora</em>. Beschouwd vanuit de overgeleverde religies ontstaat daar de boeiende vraag naar hun waarde en betekenis voor de verdere ontwikkeling van de mensheid op de planeet aarde. Die fundamentele vraag verdicht Amenábar ten aanzien van het christendom in het fictieve personage van Davus. In zijn verhaal en dat van Hypatia verdicht zich een belangrijk hoofdstuk van de kerkgeschiedenis.</p>
+</blockquote>
+<p><a name="FIL"></a></p>
+<h2 id="-font-color-808000-links-font-"><font color="#808000"><strong>Links</strong></font></h2>
+<p>Zie <a href="http://www.menstis.be/producties/Agora">hier</a> voor de link met het <strong>Project Agora</strong> van Men(S)tis.</p>
+<p>Zie voor een uitgebreide verheldering over de achtergrond van het fenomeen <em>wereldbeeld</em> en over de invloed van het <em>neoplatonisme</em> op het christelijk-theologische wereldbeeld, én voor een constructieve visie op de bijdrage van de cinematografie in de opbouw van een democratische samenleving: <a href="http://www.menstis.be/uitgeverij/Levensbeschouwing">Sylvain De Bleeckere, Levensbeschouwing democratisch belicht</a>.</p>
+<p>In het essay, verschenen als het tweede, uitgebreide deel van <a href="http://www.menstis.be/uitgeverij/Gedachtenis">Men(S)tis’ Studies # 1</a> publiceerde Sylvain De Bleeckere een uitgebreide studie over <span style="color:blue"><strong>Agora</strong></span>. </p>
+<font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2011/2017</font>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

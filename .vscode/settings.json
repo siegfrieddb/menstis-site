@@ -1,0 +1,10 @@
+// .vscode/settings.json
+{
+  "[typescript]": {
+    "editor.defaultFormatter": "axetroy.vscode-deno",
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "axetroy.vscode-deno",
+  },
+  "deno.enable": true
+}

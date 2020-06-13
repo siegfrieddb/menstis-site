@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {{static.meta.html}}
+  <title>{{title}}</title>
+  {{static.style.html}}
+</head>
+<body>
+  <div class="ui fluid container ">
+    {{static.menu.html}}
+    <div class="ui container">
+      <div class="three column stackable ui grid ">
+        {{content}}
+      </div>
+    </div>
+  </div>
+</body>
+</html>

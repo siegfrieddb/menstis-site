@@ -1,0 +1,1100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title></title>
+  
+<link rel="shortcut icon" href="./favicon.ico" />
+<link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="./favicon-96x96.png" />
+<link rel="icon" type="image/png" sizes="16x16" href=".favicon-16x16.png" />
+
+<style>
+    html {
+      font-family: sans-serif;
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%
+    }
+
+    body {
+      margin: 0
+    }
+
+    article,
+    aside,
+    details,
+    figcaption,
+    figure,
+    footer,
+    header,
+    main,
+    menu,
+    nav,
+    section,
+    summary {
+      display: block
+    }
+
+    audio,
+    canvas,
+    progress,
+    video {
+      display: inline-block
+    }
+
+    audio:not([controls]) {
+      display: none;
+      height: 0
+    }
+
+    progress {
+      vertical-align: baseline
+    }
+
+    [hidden],
+    template {
+      display: none
+    }
+
+    a {
+      background-color: transparent;
+      -webkit-text-decoration-skip: objects
+    }
+
+    a:active,
+    a:hover {
+      outline-width: 0
+    }
+
+    abbr[title] {
+      border-bottom: none;
+      text-decoration: underline;
+      text-decoration: underline dotted
+    }
+
+    b,
+    strong {
+      font-weight: inherit;
+      font-weight: bolder
+    }
+
+    dfn {
+      font-style: italic
+    }
+
+    h1 {
+      font-size: 2em;
+      margin: .67em 0
+    }
+
+    mark {
+      background-color: #ff0;
+      color: #000
+    }
+
+    small {
+      font-size: 80%
+    }
+
+    sub,
+    sup {
+      font-size: 75%;
+      line-height: 0;
+      position: relative;
+      vertical-align: baseline
+    }
+
+    sub {
+      bottom: -.25em
+    }
+
+    sup {
+      top: -.5em
+    }
+
+    img {
+      border-style: none
+    }
+
+    svg:not(:root) {
+      overflow: hidden
+    }
+
+    code,
+    kbd,
+    pre,
+    samp {
+      font-family: monospace, monospace;
+      font-size: 1em
+    }
+
+    figure {
+      margin: 1em 40px
+    }
+
+    hr {
+      box-sizing: content-box;
+      height: 0;
+      overflow: visible
+    }
+
+    button,
+    input,
+    optgroup,
+    select,
+    textarea {
+      font: inherit;
+      margin: 0
+    }
+
+    optgroup {
+      font-weight: 700
+    }
+
+    button,
+    input {
+      overflow: visible
+    }
+
+    button,
+    select {
+      text-transform: none
+    }
+
+    [type=reset],
+    [type=submit],
+    button,
+    html [type=button] {
+      -webkit-appearance: button
+    }
+
+    [type=button]::-moz-focus-inner,
+    [type=reset]::-moz-focus-inner,
+    [type=submit]::-moz-focus-inner,
+    button::-moz-focus-inner {
+      border-style: none;
+      padding: 0
+    }
+
+    [type=button]:-moz-focusring,
+    [type=reset]:-moz-focusring,
+    [type=submit]:-moz-focusring,
+    button:-moz-focusring {
+      outline: 1px dotted ButtonText
+    }
+
+    fieldset {
+      border: 1px solid silver;
+      margin: 0 2px;
+      padding: .35em .625em .75em
+    }
+
+    legend {
+      box-sizing: border-box;
+      color: inherit;
+      display: table;
+      max-width: 100%;
+      padding: 0;
+      white-space: normal
+    }
+
+    textarea {
+      overflow: auto
+    }
+
+    [type=checkbox],
+    [type=radio] {
+      box-sizing: border-box;
+      padding: 0
+    }
+
+    [type=number]::-webkit-inner-spin-button,
+    [type=number]::-webkit-outer-spin-button {
+      height: auto
+    }
+
+    [type=search] {
+      -webkit-appearance: textfield;
+      outline-offset: -2px
+    }
+
+    [type=search]::-webkit-search-cancel-button,
+    [type=search]::-webkit-search-decoration {
+      -webkit-appearance: none
+    }
+
+    ::-webkit-input-placeholder {
+      color: inherit;
+      opacity: .54
+    }
+
+    ::-webkit-file-upload-button {
+      -webkit-appearance: button;
+      font: inherit
+    }
+
+    html {
+      font-size: 100%;
+      line-height: 1.5;
+      box-sizing: border-box;
+      overflow-y: scroll;
+    }
+
+    * {
+      box-sizing: inherit;
+    }
+
+    *:before {
+      box-sizing: inherit;
+    }
+
+    *:after {
+      box-sizing: inherit;
+    }
+
+    body {
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: Lucida Sans Unicode, Lucida Bright, Lucida Grande, sans-serif, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue;
+      font-weight: normal;
+      word-wrap: break-word;
+    }
+
+    img {
+      max-width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    h1 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 2rem;
+      line-height: 2.25rem;
+    }
+
+    h2 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1.51572rem;
+      line-height: 2.25rem;
+    }
+
+    h3 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1.31951rem;
+      line-height: 2.25rem;
+    }
+
+    h4 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1rem;
+      line-height: 1.5rem;
+    }
+
+    h5 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 0.87055rem;
+      line-height: 1.5rem;
+    }
+
+    h6 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 0.81225rem;
+      line-height: 1.5rem;
+    }
+
+    hgroup {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    ul {
+      margin-left: 1.5rem;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      list-style-position: outside;
+      list-style-image: none;
+    }
+
+    ol {
+      margin-left: 1.5rem;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      list-style-position: outside;
+      list-style-image: none;
+    }
+
+    dl {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    dd {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    p {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    figure {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    pre {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      font-size: 0.85rem;
+      line-height: 1.42;
+      background: hsla(0, 0%, 0%, 0.04);
+      border-radius: 3px;
+      overflow: auto;
+      padding: 1.5rem;
+    }
+
+    table {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      font-size: 1rem;
+      line-height: 1.5rem;
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    fieldset {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    blockquote {
+      margin-left: 1.5rem;
+      margin-right: 1.5rem;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    form {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    noscript {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    iframe {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    hr {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: calc(1.5rem - 1px);
+      background: hsla(0, 0%, 0%, 0.2);
+      border: none;
+      height: 1px;
+    }
+
+    address {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    b {
+      font-weight: bold;
+    }
+
+    strong {
+      font-weight: bold;
+    }
+
+    dt {
+      font-weight: bold;
+    }
+
+    th {
+      font-weight: bold;
+    }
+
+    li {
+      margin-bottom: calc(1.5rem / 2);
+    }
+
+    ol li {
+      padding-left: 0;
+    }
+
+    ul li {
+      padding-left: 0;
+    }
+
+    li>ol {
+      margin-left: 1.5rem;
+      margin-bottom: calc(1.5rem / 2);
+      margin-top: calc(1.5rem / 2);
+    }
+
+    li>ul {
+      margin-left: 1.5rem;
+      margin-bottom: calc(1.5rem / 2);
+      margin-top: calc(1.5rem / 2);
+    }
+
+    code {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    kbd {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    samp {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    abbr {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+    }
+
+    acronym {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+    }
+
+    abbr[title] {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+      text-decoration: none;
+    }
+
+    thead {
+      text-align: left;
+    }
+
+    td,
+    th {
+      text-align: left;
+      border-bottom: 1px solid hsla(0, 0%, 0%, 0.12);
+      font-feature-settings: tnum;
+      padding-left: 1rem;
+      padding-right: 1rem;
+      padding-top: 0.75rem;
+      padding-bottom: calc(0.75rem - 1px);
+    }
+
+    th:first-child,
+    td:first-child {
+      padding-left: 0;
+    }
+
+    th:last-child,
+    td:last-child {
+      padding-right: 0;
+    }
+
+    tt,
+    code {
+      background-color: hsla(0, 0%, 0%, 0.04);
+      border-radius: 3px;
+      font-family: Consolas, "Roboto Mono", "Liberation Mono", Menlo, Courier, monospace;
+      padding: 0;
+      padding-top: 0.2em;
+      padding-bottom: 0.2em;
+    }
+
+    pre code {
+      background: none;
+      line-height: 1.42;
+    }
+
+    code:before,
+    code:after,
+    tt:before,
+    tt:after {
+      letter-spacing: -0.2em;
+      content: " ";
+    }
+
+    pre code:before,
+    pre code:after,
+    pre tt:before,
+    pre tt:after {
+      content: "";
+    }
+  </style>
+  <style>
+    @media only screen and (min-width:700px) {
+      .breakpoint-min-width-700 {
+        display: block
+      }
+
+      .breakpoint-max-width-700 {
+        display: none
+      }
+    }
+
+    @media only screen and (max-width:700px) {
+      .breakpoint-min-width-700 {
+        display: none
+      }
+
+      .breakpoint-max-width-700 {
+        display: block
+      }
+    }
+
+    .landing-image {
+      background-image: url(/menstis-theme.jpg);
+      background-size: cover
+    }
+
+    .main-menu-item {
+      font-weight: 700
+    }
+
+    @media only screen and (min-width:1127px) {
+      .main-menu-item {
+        font-size: 1.5em
+      }
+    }
+
+    .blog-image {
+      background-image: url(/menstis-back.jpg);
+      background-size: cover;
+      background-position: 50%
+    }
+
+    body {
+      font-size: 1.5em
+    }
+
+    .page {
+      width: 100%
+    }
+
+    a {
+      color: #f26d80
+    }
+
+    a>strong {
+      color: olive
+    }
+
+    a:hover,
+    h1 {
+      color: #f26d80
+    }
+
+    h1 {
+      font-size: 2.3em
+    }
+
+    h2 {
+      color: olive;
+      font-size: 1.5em
+    }
+
+    hr {
+      border: 0;
+      height: 1px;
+      background: olive
+    }
+
+    .image-fit>img {
+      -o-object-fit: cover;
+      object-fit: cover;
+      height: 225px;
+      width: 360px;
+      position: relative;
+      display: block
+    }
+
+    .image-overlay {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      opacity: 0;
+      overflow: hidden;
+      width: 100%;
+      height: 100%;
+      transition: .5s ease
+    }
+
+    .image-fit:hover .image-overlay {
+      opacity: 1
+    }
+
+    .image-text {
+      white-space: nowrap;
+      color: #fff;
+      font-size: 1.3em;
+      font-weight: 700;
+      position: absolute;
+      overflow: hidden;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      text-shadow: #000 0 0 10px
+    }
+
+    .image-fit-uitgeverij>img {
+      -o-object-fit: cover;
+      object-fit: cover;
+      height: 200px;
+      width: 360px
+    }
+
+    .landing-item {
+      font-weight: 700;
+      font-size: 2em
+    }
+
+    .Header {
+      height: 4em;
+      text-align: center
+    }
+
+    .Header,
+    .parent-blog {
+      width: 100%;
+      display: table
+    }
+
+    .parent-blog {
+      height: 3em;
+      text-align: left;
+      padding-left: 1em
+    }
+
+    .parent-blog>.child-blog {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 2em;
+      color: #fff
+    }
+
+    .menstis-title {
+      width: 100%;
+      height: 2.5em;
+      display: table;
+      text-align: left;
+      padding-left: .5em;
+      background-image: url(/menstis-back.jpg);
+      background-size: cover;
+      background-position: 50%
+    }
+
+    .menstis-title>h1 {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 1.5em;
+      color: #fff
+    }
+
+    .parent-menu {
+      width: 100%;
+      height: 3em;
+      display: table;
+      text-align: center
+    }
+
+    .parent-menu>.child-menu {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 2em;
+      color: #fff;
+      padding: .1em
+    }
+
+    @media only screen and (max-width:726px) {
+      .parent-blog {
+        width: 100%;
+        height: 2.5em;
+        display: table;
+        text-align: left;
+        padding-left: .5em
+      }
+
+      .parent-blog>.child-blog {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 1.5em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (min-width:1127px) {
+      .parent {
+        width: 100%;
+        height: 300px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 12em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (min-width:933px) and (max-width:1127px) {
+      .parent {
+        width: 100%;
+        height: 180px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 7em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (max-width:933px) {
+      .parent {
+        width: 100%;
+        height: 110px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 4em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (max-width:726px) {
+      .parent {
+        width: 100%;
+        height: 90px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 3em;
+        color: #fff
+      }
+    }
+  </style>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.css" />
+</head>
+<body>
+  <div id="react-mount">
+    <div data-reactroot="" data-reactid="1" data-react-checksum="-2022520968">
+      <div data-reactid="2">
+  <div class="ui fluid container " data-reactid="3">
+    <div class="breakpoint-min-width-700" data-reactid="4">
+      <div class="ui massive menu pointing secondary" data-reactid="5">
+        <div class="ui container " data-reactid="6">
+          <div class="item" style="padding:0px;margin-right:20px;" data-reactid="7">
+            <div class="parent-menu blog-image " data-reactid="8">
+              <div class="child-menu" data-reactid="9"><span style="font-weight:bold;" data-reactid="10">
+                  <!-- react-text: 11 -->men(
+                  <!-- /react-text --><span style="color:#f26d80;" data-reactid="12">S</span>
+                  <!-- react-text: 13 -->)tis
+                  <!-- /react-text --></span></div>
+            </div>
+          </div><a class="item" href="/dedag/" data-reactid="14">De Dag</a><a class="item" href="/blog/"
+            data-reactid="15">Blog</a><a class="active item" href="/missie/" data-reactid="16">Missie</a><a
+            class="item" href="/film-focus/" data-reactid="17">FilmFocus</a><a class="item" href="/producties/"
+            data-reactid="18">Producties</a><a class="item" href="/webshop/" data-reactid="19">Webshop</a>
+        </div>
+      </div>
+    </div>
+    <div class="breakpoint-max-width-700" data-reactid="20">
+      <div class="parent-blog blog-image " style="text-align:center;" data-reactid="21">
+        <div class="child-blog" data-reactid="22"><span style="font-weight:bold;" data-reactid="23">
+            <!-- react-text: 24 -->men(
+            <!-- /react-text --><span style="color:#f26d80;" data-reactid="25">S</span><!-- react-text: 26 -->)tis
+            <!-- /react-text --></span></div>
+      </div>
+      <div style="height:10px;" data-reactid="27"></div>
+      <div role="combobox" aria-expanded="false" class="ui fluid search selection dropdown" data-reactid="28">
+        <select type="hidden" aria-hidden="true" data-reactid="29">
+          <option value="" data-reactid="30"></option>
+          <option value="/dedag/" data-reactid="31">De Dag</option>
+          <option value="/blog/" data-reactid="32">Blog</option>
+          <option selected="" value="/missie/" data-reactid="33">Missie</option>
+          <option value="/film-focus/" data-reactid="34">FilmFocus</option>
+          <option value="/producties/" data-reactid="35">Producties</option>
+          <option value="/webshop/" data-reactid="36">Webshop</option>
+        </select><input type="text" value="" aria-autocomplete="list" class="search" name="-search"
+          autocomplete="off" tabindex="0" data-reactid="37" />
+        <div class="text" data-reactid="38">Missie</div><i aria-hidden="true" class="dropdown icon"
+          data-reactid="39"></i>
+        <div role="listbox" class="menu transition" data-reactid="40">
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="41">
+            De Dag
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="43">
+            Blog
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="true" aria-selected="true"
+            class="active selected item" data-reactid="45">
+            Missie
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="47">
+            FilmFocus
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="49">
+            Producties
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item">
+            Webshop
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="height:10px;"></div>
+</div>
+      <div>
+        <div class="ui container" data-reactid="55">
+          <div class="markdown" data-reactid="56">
+           <h1>Iris</h1><hr>
+<center>
+<img src="iris.jpg" >
+</center>
+
+<p><a name="KLA"></a></p>
+<h2 id="-font-color-808000-klapbord-font-"><font color="#808000"><strong>Klapbord</strong></font></h2>
+<p>John Bailey schreef twee autobiografische boeken over zijn leven met Iris Murdoch: <em>Iris. A Memoir</em> en <em>Elegy for Iris</em>. In het eerste boek getuigt Bailey over zijn 42 huwelijksjaren met Iris en de eerste jaren van haar ziekte. In het tweede boek beschrijft hij Iris&#39; laatste levensjaar en haar overlijden in 1999. Richard Eyre en Charles Wood schreven het scenario van de film <strong>Iris</strong> naar de twee boeken van Bailey. Tijdens de opnames was Bailey een onmisbare raadsman. De Britse acteur Jim Broadbent kroop in de huid van het personage van de oudere Bailey. Zijn uitzonderlijke vertolking leverde hem de Oscar op voor de beste, mannelijke bijrol. De jonge Iris kreeg het gezicht van Kate Winslet, terwijl de vooraanstaande Judi Dench de oudere Iris op het witte doek terug tot leven bracht.</p>
+<p><a name="SYN"></a></p>
+<h2 id="-font-color-808000-synopsis-font-"><font color="#808000"><strong>Synopsis</strong></font></h2>
+<p>Oxford, de Britse universiteitsstad. Engeland geneest van zijn open oorlogswonde. Het is immers al 1952. Een nieuwe generatie intellectuelen meldt zich. Onder hen bevinden zich twee bijzondere jongvolwassenen. John Bayley is een verlegen, maar bekwame literatuurprofessor; zij heet Iris Murdoch, een intelligente, dynamische studente die vanuit een eigen verworven vrijheid twee passies koestert: die van de liefde en die van de taal. Wanneer ze haar eerste teksten toespeelt aan John, ontstaat er een levenslange relatie, ze huwen, vormen een hecht team tot de ziekte van Alzheimer Iris&#39; geest aantast. Dame Iris Murdoch is dan al uitgegroeid tot een gewaardeerde Britse filosofe en tot de grootste Engelse schrijfster van de tweede helft van de 20ste eeuw. Ze leefde van 1919 tot 1999.</p>
+<p><a name="CIN"></a></p>
+<h2 id="-font-color-808000-cinematografie-font-"><font color="#808000"><strong>Cinematografie</strong></font></h2>
+<p><span class="menstis">BIOPIC</span>.De waarde van <strong>Iris</strong> steekt niet in het genre van de biopic. De film schrijft geen biografie. Alleen de tijd waarin Iris en John elkaar leren kennen én de jaren van de fatale doorbraak van Iris&#39; ziekte, komen in beeld. Maar ook in die twee belangrijke segmenten van de gemeenschappelijke biografie van Iris en John, primeert geenszins de wil om te documenteren. Niettegenstaande de grote zorg voor de authenticiteit van de in scène gezette taferelen, transcendeert de film de registratie van feiten. Terecht, want Dame Iris Murdoch vertolkte in haar leven, haar visie en romans <em>de wondere wereld van de menselijke geest</em>. In de eerste grote scène met de oudere Iris - ze geeft een lezing in het Sommerville College te Oxford - spreekt ze over de waarde van de opvoeding (&#39;<em>education</em>&#39;). Letterlijk zegt ze:</p>
+<blockquote>
+<p><em>Education doensn&#39;t make you happy. Nor does freedom. We don&#39;t become happy just because we&#39;re free - if we are - or because we&#39;ve been educated - if we have - or but because education may be the means by which we realise we are happy; it opens our eyes, our ears, tells us where delights are lurking, convinces us that there is only one freedom of any importance whatsoever, that of the mind, and give us the assurance...the confidence to walk the path our mind, our educated mind offers.</em> </p>
+</blockquote>
+<p> De cinematografische verdienste van de film bestaat erin de biopic terug te voeren naar de bron zelf van de biografie: het spirituele of &#39;mentale leven&#39; van, in dit geval, Dame Iris Murdoch. Op deze wijze schildert <strong>Iris</strong> geen kroniek van Iris&#39; verschillende werken, maar zoomt hij in op haar eigen, grote geest, die ze zelf beschouwde als de bron van al haar werken, die bron die door de ziekte van Alzheimer in het duister werd gehuld.</p>
+<p><span class="menstis">SPIEGELMONTAGE</span>. De structurele kracht van <strong>Iris</strong> ligt in de voortdurende spiegeling van de jeugd en de ouderdom van de huwelijksliefde van Iris en John. De geboorte van hun hechte liefde en de destructie ervan door ziekte en dood spiegelen zich in elkaar als alfa en omega. Reeds in de eerste minuten van de schildering van de ontluikende levenslust bij het verliefde koppel, is via de spiegelmontage de schaduw van het verlies al aanwezig. Dat gebeurt niet in een levenspessimistisch gebaar. Door spiegeling van &#39;<em>leven en dood in liefde</em>&#39; licht er op het filmdoek een portret op dat een eerbetoon is aan <em>het wonder van de huwelijksliefde</em>. Het huwelijk van Iris en John was kinderloos, maar juist daardoor evoceert <strong>Iris</strong> hoe de vruchtbaarheid van zo&#39;n liefde niet zozeer ligt in de biologische productiviteit, maar allereerst in <em>de spirituele rijkdom</em> van het innig en intens samenleven, ook dan wanneer de dood in de ogen verschijnt.</p>
+<p><span class="menstis">HUISMETAFOOR</span>. Een dramatisch aspect van de cinematografie verschijnt in het beeld van <em>het huis</em>. De ingrijpende dramatiek van de ziekte van Alzheimer komt niet zozeer in woorden aan het licht; dat gebeurt veeleer in de sprakeloze neergang van de huiselijkheid in de woning van Iris en John. Iris bestuurde het huis, zij leidde John en hij volgde haar. Hij wist zich van het begin af geborgen in de wijze waarop zij orde schiep in hun leven, in hun huis. Wanneer de ziekte van Alzheimer het licht van haar geest doofde, trad geruisloos de chaos het huis binnen. De tragiek, hier zuiver beeldend van aard, is schrijnend en laat de toeschouwer aanvoelen voor welke wanhoop en onmacht John komt te staan wanneer hij ervaart hoe de ziekte Iris zich ongewild en onhoudbaar van hem verwijdert.</p>
+<p><a name="BET"></a></p>
+<h2 id="-font-color-808000-betekenisruimte-font-"><font color="#808000"><strong>Betekenisruimte</strong></font></h2>
+<p><span class="menstis">MIND</span>. Na de diagnosesequenties, zegt Iris: &#39;<em>I feel as if I&#39;m sailing into darkness</em>.&#39; De film evoceert het sterven van Iris niet in een scéne met een ziekenhuisbed en een medisch apparaat dat de intrede van de dood signaleert. In plaats daarvan staat een sequentie met de demente Iris die in een gang op haar eigen manier naar het steeds helder wordende licht toe danst. De film evoceert de eigen aardse ruimte van het menselijke bestaan, waarvan de muren gebouwd zijn met zowel duisternis als licht; die muren bevinden zich in <em>de geest van ieder mens</em>. In het begin van de film komt er een sequentie voor waarin Iris als filosofieprofessor een lezing geeft. Die scène bevat in een notedop het filosofische credo van de denker Iris Murdoch. Ze zegt letterlijk:</p>
+<blockquote>
+<p><em>Education doensn&#39;t make you happy. Nor does freedom. We don&#39;t become happy just because we&#39;re free - if we are - or because we&#39;ve been educated - if we have - or but because education may be the means by which we realise we are happy; it opens our eyes, our ears, tells us where delights are lurking, convinces us that there is only one freedom of any importance whatsoever, that of the mind, and give us the assurance...the confidence to walk the path our mind, our educated mind offers.</em> </p>
+</blockquote>
+<p>De film schildert Iris Murdoch als een grote dame die zich ophoudt in de kamer van de menselijke geest, die zich daar installeert in het licht van de liefde en de taal; daardoor verandert het menszijn in <em>een bijzonder en uniek zinnebeeld</em>. De film volgt in het biografische spoor van Iris <em>de aardse ruimte van een intense zinbeleving</em>. Het personage van Iris verschijnt daarbij eerder als de betrouwbare gids dan als een object om te beschouwen. De geestelijke ruimte waarin de film zijn eigen waarheid vindt, krijgt zijn juiste benaming in de woorden die Iris spreekt tijdens een lezing, kort voor de intrede van de ziekte: &#39;<em>We need to believe in something divine without the need for God, something we might call Love or Goodness.</em>&#39; Daarna citeert vers 8 van Psalm 139:</p>
+<blockquote>
+<p><em>Al verhief ik mij op de vleugels van de dageraad, al ging ik wonen voorbij de verste zee, ook daar zou Uw hand mij leiden, zou Uw rechterhand mij vasthouden.</em></p>
+</blockquote>
+<p> Voor Iris Murdoch zelf en de film <strong>Iris</strong> onthult het goddelijke zich tastbaar in de <em>zorg voor het leven</em>. In die optiek mag <em>zorg</em> wel met een hoofdletter worden geschreven. Die <em>Zorg</em> komt in beeld in <strong>Iris</strong>. Voortgestuwd door het getuigenis van de echte John Bailey, worden de filmbeelden een plaats waar twee concrete, sterfelijke mensen elkaar omarmen in <em>de goddelijke ruimte van hun bestaan</em>, tragisch begrensd door de ziekte die uitgerekend de geest (&#39;<em>mind</em>&#39;) aantast. </p>
+<p><span class="menstis">WATER</span>. Een krachtig, poëtisch element van de eigen cinematografie is dat van het water. In dat element verdichten zich de twee zinscheppende krachten van de liefde en de taal. Het levensbeeld ervan bestrijkt zowel de rivier waarin beide geliefden zwemmen, als de grote zee die hun thuisland als een eiland definiëert. Het element van de zee vormt in het oeuvre van Dame Iris Murdoch een voorname, zinbeeldige wereld. Een van haar romans heet trouwens: <em>The Sea, The Sea</em>. In Eyre&#39;s <strong>Iris</strong>, in zekere zin ook de film van Dame Iris Murdoch zelf, vindt dit literair gegeven zijn eigen cinmatografische waarheid. De zee, het stromend water, was voor de auteur Iris Murdoch immers een concrete metafoor van het goddelijke wonder van het leven zelf. De film opent én eindigt met beelden onder water.</p>
+<p><a name="CON"></a></p>
+<h2 id="-font-color-808000-context-font-"><font color="#808000"><strong>Context</strong></font></h2>
+<p>Zowel in zijn oorsprong als in zijn uitwerking documenteert <strong>Iris</strong> een belangrijk moment uit het intellectuele milieu van het naoorlogse Engeland. De film sluit aan bij een specifieke traditie van de naoorlogse Britse cinema die teruggaat op Sir Richard Attenboroughs. In diens film <strong>Shadowlands</strong> brengt hij een belangrijk hoofdstuk uit het leven van <em>C.S.Lewis</em> (1898-1963) op het scherm. Deze film vormt een referentiepunt voor de film <strong>Iris</strong>. Beide werken huldigen twee grote persoonlijkheden van de Engelse, naoorlogse intellectuele traditie met aandacht voor literatuur en filosofisch onderbouwde spiritualiteit. Beide films herinneren beide invloedrijke figuren als concrete mensen. De grote humaniteit waarvan hun werken getuigen, staat niet los van hun biografie. Beide films leggen dan ook op die nauwe relatie tussen leven en werk de volle nadruk. Beschouwd vanuit de historische situatie zelf, evoceert <strong>Shadowlands</strong> het perspectief van de man en van de generatie die in haar jeugd de Eerste Wereldoorlog en in haar volwassenheid de Tweede Wereldoorlog heeft meegemaakt. De periode die <strong>Shadowlands</strong> behandelt, situeert zich in de jaren vijftig. In dat decennium brak de emancipatie van de vrouw door in de gesloten mannelijke, academische wereld in Engeland. <strong>Iris</strong> schetst via het portret van de jonge Iris Murdoch hoe zich in de jaren vijftig de jonge generatie van vrouwelijke studenten manifesteert. De persoonlijkheid van Iris Murdoch kleurt het beeld van die ontwikkeling op een zeer levendige en waardevolle wijze in. Evenals <strong>Shadowlands</strong> ent <strong>Iris</strong> het gegeven van de existentiële zingeving op het genre van de biografie. Beide films vermijden een louter narratieve en chronologische vertelling. Ze laten zien wat het betekent voor de denkende mens - de intellectueel - vanaf de tweede helft van de twintigste eeuw zonder dogma&#39;s en illusies de waarde van het bestaan te ervaren en te doorleven, ook dan wanneer zich in dat bestaan tekorkomingen en fatale sterfelijkheid melden. In beide films vormen de biografie, het bewustzijn van de tragiek en de zingeving een hecht en intens samenspelend trio.</p>
+<p><a name="LIN"></a></p>
+<h2 id="-font-color-808000-links-font-"><font color="#808000"><strong>Links</strong></font></h2>
+<p>Voor de betekenis van het fenomeen &#39;mind&#39; (geest) en het menszijn, zie <a href="http://www.menstis.be/uitgeverij/Levensbeschouwing/">Levensbeschouwing democratisch belicht, deel 1</a>.      Dat deel zoomt in op wat Iris Murdoch in haar werk en in de film &#39;<em>the power of our imagination</em>&#39; noemt.</p>
+<p>Voor meer over <a href="http://fass.kingston.ac.uk/research/iris-murdoch/">Iris Murdoch zelf</a>.</p>
+<p>De film brengt de worsteling in beeld met de impact van de ziekte van Alzheimer. Dit sluit erg goed aan bij de Oscarfilm <strong>Still Alice</strong>. Zie <a href="http://sonyclassics.com/stillalice">hier</a> de officiële website van de film. Ook <strong>Still Alice</strong> brengt een vrouwelijke professor in beeld en ook hier is zij, als linguïste,  werkzaam in het domein van de taal. In de spiegel van beide films dringt de toeschouwer door tot <em>het menselijke wonder en het goddelijke mysterie van de geest (&#39;mind&#39;)</em>. </p>
+<font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2011/2017</font>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

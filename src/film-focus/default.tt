@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {{static.meta.html}}
+  <title>{{title}}</title>
+  {{static.style.html}}
+</head>
+<body>
+  <div id="react-mount">
+    <div data-reactroot="" data-reactid="1" data-react-checksum="-2022520968">
+      {{static.menu.html}}
+      <div>
+        <div class="ui container" data-reactid="55">
+          <div class="markdown" data-reactid="56">
+           {{content}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
