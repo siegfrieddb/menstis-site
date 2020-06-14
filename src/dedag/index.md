@@ -10,9 +10,9 @@ Iedere editie van _De Dag_ heeft **een andere thematische invalshoek**. Sylvain 
 De Dag vindt plaats in **het bioscoopcomplex Kinepolis te Hasselt**, telkens op krokusmaandag.
 
 Het Men(S)tis' **team** dat het event organiseert: **Sylvain De Bleeckere** (concept en inhoud),
- **Felix Rijcken** (ondersteuning en verwelkoming),
-  **Samuel De Bleeckere** (databeheer), **Siegfried De Bleeckere** (website),
-   **Gerda Bracke, Dorothea De Bleeckere, Thirza Vandenabeele** (balie en onthaal).
+**Felix Rijcken** (ondersteuning en verwelkoming),
+ **Siegfried De Bleeckere** (website),
+**Gerda Bracke, Dorothea De Bleeckere, Thirza Vandenabeele** (balie en onthaal).
 
 Voor meer informatie in verband met de _Dag van de Religieuze Film_ kan je mailen naar dit adres: [**info@menstis.be**](mailto:info@menstis.be).
 
