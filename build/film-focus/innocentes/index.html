@@ -1,0 +1,1109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title></title>
+  
+<link rel="shortcut icon" href="./favicon.ico" />
+<link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="./favicon-96x96.png" />
+<link rel="icon" type="image/png" sizes="16x16" href=".favicon-16x16.png" />
+
+<style>
+    html {
+      font-family: sans-serif;
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%
+    }
+
+    body {
+      margin: 0
+    }
+
+    article,
+    aside,
+    details,
+    figcaption,
+    figure,
+    footer,
+    header,
+    main,
+    menu,
+    nav,
+    section,
+    summary {
+      display: block
+    }
+
+    audio,
+    canvas,
+    progress,
+    video {
+      display: inline-block
+    }
+
+    audio:not([controls]) {
+      display: none;
+      height: 0
+    }
+
+    progress {
+      vertical-align: baseline
+    }
+
+    [hidden],
+    template {
+      display: none
+    }
+
+    a {
+      background-color: transparent;
+      -webkit-text-decoration-skip: objects
+    }
+
+    a:active,
+    a:hover {
+      outline-width: 0
+    }
+
+    abbr[title] {
+      border-bottom: none;
+      text-decoration: underline;
+      text-decoration: underline dotted
+    }
+
+    b,
+    strong {
+      font-weight: inherit;
+      font-weight: bolder
+    }
+
+    dfn {
+      font-style: italic
+    }
+
+    h1 {
+      font-size: 2em;
+      margin: .67em 0
+    }
+
+    mark {
+      background-color: #ff0;
+      color: #000
+    }
+
+    small {
+      font-size: 80%
+    }
+
+    sub,
+    sup {
+      font-size: 75%;
+      line-height: 0;
+      position: relative;
+      vertical-align: baseline
+    }
+
+    sub {
+      bottom: -.25em
+    }
+
+    sup {
+      top: -.5em
+    }
+
+    img {
+      border-style: none
+    }
+
+    svg:not(:root) {
+      overflow: hidden
+    }
+
+    code,
+    kbd,
+    pre,
+    samp {
+      font-family: monospace, monospace;
+      font-size: 1em
+    }
+
+    figure {
+      margin: 1em 40px
+    }
+
+    hr {
+      box-sizing: content-box;
+      height: 0;
+      overflow: visible
+    }
+
+    button,
+    input,
+    optgroup,
+    select,
+    textarea {
+      font: inherit;
+      margin: 0
+    }
+
+    optgroup {
+      font-weight: 700
+    }
+
+    button,
+    input {
+      overflow: visible
+    }
+
+    button,
+    select {
+      text-transform: none
+    }
+
+    [type=reset],
+    [type=submit],
+    button,
+    html [type=button] {
+      -webkit-appearance: button
+    }
+
+    [type=button]::-moz-focus-inner,
+    [type=reset]::-moz-focus-inner,
+    [type=submit]::-moz-focus-inner,
+    button::-moz-focus-inner {
+      border-style: none;
+      padding: 0
+    }
+
+    [type=button]:-moz-focusring,
+    [type=reset]:-moz-focusring,
+    [type=submit]:-moz-focusring,
+    button:-moz-focusring {
+      outline: 1px dotted ButtonText
+    }
+
+    fieldset {
+      border: 1px solid silver;
+      margin: 0 2px;
+      padding: .35em .625em .75em
+    }
+
+    legend {
+      box-sizing: border-box;
+      color: inherit;
+      display: table;
+      max-width: 100%;
+      padding: 0;
+      white-space: normal
+    }
+
+    textarea {
+      overflow: auto
+    }
+
+    [type=checkbox],
+    [type=radio] {
+      box-sizing: border-box;
+      padding: 0
+    }
+
+    [type=number]::-webkit-inner-spin-button,
+    [type=number]::-webkit-outer-spin-button {
+      height: auto
+    }
+
+    [type=search] {
+      -webkit-appearance: textfield;
+      outline-offset: -2px
+    }
+
+    [type=search]::-webkit-search-cancel-button,
+    [type=search]::-webkit-search-decoration {
+      -webkit-appearance: none
+    }
+
+    ::-webkit-input-placeholder {
+      color: inherit;
+      opacity: .54
+    }
+
+    ::-webkit-file-upload-button {
+      -webkit-appearance: button;
+      font: inherit
+    }
+
+    html {
+      font-size: 100%;
+      line-height: 1.5;
+      box-sizing: border-box;
+      overflow-y: scroll;
+    }
+
+    * {
+      box-sizing: inherit;
+    }
+
+    *:before {
+      box-sizing: inherit;
+    }
+
+    *:after {
+      box-sizing: inherit;
+    }
+
+    body {
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: Lucida Sans Unicode, Lucida Bright, Lucida Grande, sans-serif, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue;
+      font-weight: normal;
+      word-wrap: break-word;
+    }
+
+    img {
+      max-width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    h1 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 2rem;
+      line-height: 2.25rem;
+    }
+
+    h2 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1.51572rem;
+      line-height: 2.25rem;
+    }
+
+    h3 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1.31951rem;
+      line-height: 2.25rem;
+    }
+
+    h4 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1rem;
+      line-height: 1.5rem;
+    }
+
+    h5 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 0.87055rem;
+      line-height: 1.5rem;
+    }
+
+    h6 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 0.81225rem;
+      line-height: 1.5rem;
+    }
+
+    hgroup {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    ul {
+      margin-left: 1.5rem;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      list-style-position: outside;
+      list-style-image: none;
+    }
+
+    ol {
+      margin-left: 1.5rem;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      list-style-position: outside;
+      list-style-image: none;
+    }
+
+    dl {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    dd {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    p {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    figure {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    pre {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      font-size: 0.85rem;
+      line-height: 1.42;
+      background: hsla(0, 0%, 0%, 0.04);
+      border-radius: 3px;
+      overflow: auto;
+      padding: 1.5rem;
+    }
+
+    table {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      font-size: 1rem;
+      line-height: 1.5rem;
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    fieldset {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    blockquote {
+      margin-left: 1.5rem;
+      margin-right: 1.5rem;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    form {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    noscript {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    iframe {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    hr {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: calc(1.5rem - 1px);
+      background: hsla(0, 0%, 0%, 0.2);
+      border: none;
+      height: 1px;
+    }
+
+    address {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    b {
+      font-weight: bold;
+    }
+
+    strong {
+      font-weight: bold;
+    }
+
+    dt {
+      font-weight: bold;
+    }
+
+    th {
+      font-weight: bold;
+    }
+
+    li {
+      margin-bottom: calc(1.5rem / 2);
+    }
+
+    ol li {
+      padding-left: 0;
+    }
+
+    ul li {
+      padding-left: 0;
+    }
+
+    li>ol {
+      margin-left: 1.5rem;
+      margin-bottom: calc(1.5rem / 2);
+      margin-top: calc(1.5rem / 2);
+    }
+
+    li>ul {
+      margin-left: 1.5rem;
+      margin-bottom: calc(1.5rem / 2);
+      margin-top: calc(1.5rem / 2);
+    }
+
+    code {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    kbd {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    samp {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    abbr {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+    }
+
+    acronym {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+    }
+
+    abbr[title] {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+      text-decoration: none;
+    }
+
+    thead {
+      text-align: left;
+    }
+
+    td,
+    th {
+      text-align: left;
+      border-bottom: 1px solid hsla(0, 0%, 0%, 0.12);
+      font-feature-settings: tnum;
+      padding-left: 1rem;
+      padding-right: 1rem;
+      padding-top: 0.75rem;
+      padding-bottom: calc(0.75rem - 1px);
+    }
+
+    th:first-child,
+    td:first-child {
+      padding-left: 0;
+    }
+
+    th:last-child,
+    td:last-child {
+      padding-right: 0;
+    }
+
+    tt,
+    code {
+      background-color: hsla(0, 0%, 0%, 0.04);
+      border-radius: 3px;
+      font-family: Consolas, "Roboto Mono", "Liberation Mono", Menlo, Courier, monospace;
+      padding: 0;
+      padding-top: 0.2em;
+      padding-bottom: 0.2em;
+    }
+
+    pre code {
+      background: none;
+      line-height: 1.42;
+    }
+
+    code:before,
+    code:after,
+    tt:before,
+    tt:after {
+      letter-spacing: -0.2em;
+      content: " ";
+    }
+
+    pre code:before,
+    pre code:after,
+    pre tt:before,
+    pre tt:after {
+      content: "";
+    }
+  </style>
+  <style>
+    @media only screen and (min-width:700px) {
+      .breakpoint-min-width-700 {
+        display: block
+      }
+
+      .breakpoint-max-width-700 {
+        display: none
+      }
+    }
+
+    @media only screen and (max-width:700px) {
+      .breakpoint-min-width-700 {
+        display: none
+      }
+
+      .breakpoint-max-width-700 {
+        display: block
+      }
+    }
+
+    .landing-image {
+      background-image: url(/menstis-theme.jpg);
+      background-size: cover
+    }
+
+    .main-menu-item {
+      font-weight: 700
+    }
+
+    @media only screen and (min-width:1127px) {
+      .main-menu-item {
+        font-size: 1.5em
+      }
+    }
+
+    .blog-image {
+      background-image: url(/menstis-back.jpg);
+      background-size: cover;
+      background-position: 50%
+    }
+
+    body {
+      font-size: 1.5em
+    }
+
+    .page {
+      width: 100%
+    }
+
+    a {
+      color: #f26d80
+    }
+
+    a>strong {
+      color: olive
+    }
+
+    a:hover,
+    h1 {
+      color: #f26d80
+    }
+
+    h1 {
+      font-size: 2.3em
+    }
+
+    h2 {
+      color: olive;
+      font-size: 1.5em
+    }
+
+    hr {
+      border: 0;
+      height: 1px;
+      background: olive
+    }
+
+    .image-fit>img {
+      -o-object-fit: cover;
+      object-fit: cover;
+      height: 225px;
+      width: 360px;
+      position: relative;
+      display: block
+    }
+
+    .image-overlay {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      opacity: 0;
+      overflow: hidden;
+      width: 100%;
+      height: 100%;
+      transition: .5s ease
+    }
+
+    .image-fit:hover .image-overlay {
+      opacity: 1
+    }
+
+    .image-text {
+      white-space: nowrap;
+      color: #fff;
+      font-size: 1.3em;
+      font-weight: 700;
+      position: absolute;
+      overflow: hidden;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      text-shadow: #000 0 0 10px
+    }
+
+    .image-fit-uitgeverij>img {
+      -o-object-fit: cover;
+      object-fit: cover;
+      height: 200px;
+      width: 360px
+    }
+
+    .landing-item {
+      font-weight: 700;
+      font-size: 2em
+    }
+
+    .Header {
+      height: 4em;
+      text-align: center
+    }
+
+    .Header,
+    .parent-blog {
+      width: 100%;
+      display: table
+    }
+
+    .parent-blog {
+      height: 3em;
+      text-align: left;
+      padding-left: 1em
+    }
+
+    .parent-blog>.child-blog {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 2em;
+      color: #fff
+    }
+
+    .menstis-title {
+      width: 100%;
+      height: 2.5em;
+      display: table;
+      text-align: left;
+      padding-left: .5em;
+      background-image: url(/menstis-back.jpg);
+      background-size: cover;
+      background-position: 50%
+    }
+
+    .menstis-title>h1 {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 1.5em;
+      color: #fff
+    }
+
+    .parent-menu {
+      width: 100%;
+      height: 3em;
+      display: table;
+      text-align: center
+    }
+
+    .parent-menu>.child-menu {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 2em;
+      color: #fff;
+      padding: .1em
+    }
+
+    @media only screen and (max-width:726px) {
+      .parent-blog {
+        width: 100%;
+        height: 2.5em;
+        display: table;
+        text-align: left;
+        padding-left: .5em
+      }
+
+      .parent-blog>.child-blog {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 1.5em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (min-width:1127px) {
+      .parent {
+        width: 100%;
+        height: 300px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 12em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (min-width:933px) and (max-width:1127px) {
+      .parent {
+        width: 100%;
+        height: 180px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 7em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (max-width:933px) {
+      .parent {
+        width: 100%;
+        height: 110px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 4em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (max-width:726px) {
+      .parent {
+        width: 100%;
+        height: 90px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 3em;
+        color: #fff
+      }
+    }
+  </style>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.css" />
+</head>
+<body>
+  <div id="react-mount">
+    <div data-reactroot="" data-reactid="1" data-react-checksum="-2022520968">
+      <div data-reactid="2">
+  <div class="ui fluid container " data-reactid="3">
+    <div class="breakpoint-min-width-700" data-reactid="4">
+      <div class="ui massive menu pointing secondary" data-reactid="5">
+        <div class="ui container " data-reactid="6">
+          <div class="item" style="padding:0px;margin-right:20px;" data-reactid="7">
+            <div class="parent-menu blog-image " data-reactid="8">
+              <div class="child-menu" data-reactid="9"><span style="font-weight:bold;" data-reactid="10">
+                  <!-- react-text: 11 -->men(
+                  <!-- /react-text --><span style="color:#f26d80;" data-reactid="12">S</span>
+                  <!-- react-text: 13 -->)tis
+                  <!-- /react-text --></span></div>
+            </div>
+          </div><a class="item" href="/dedag/" data-reactid="14">De Dag</a><a class="item" href="/blog/"
+            data-reactid="15">Blog</a><a class="active item" href="/missie/" data-reactid="16">Missie</a><a
+            class="item" href="/film-focus/" data-reactid="17">FilmFocus</a><a class="item" href="/producties/"
+            data-reactid="18">Producties</a><a class="item" href="/webshop/" data-reactid="19">Webshop</a>
+        </div>
+      </div>
+    </div>
+    <div class="breakpoint-max-width-700" data-reactid="20">
+      <div class="parent-blog blog-image " style="text-align:center;" data-reactid="21">
+        <div class="child-blog" data-reactid="22"><span style="font-weight:bold;" data-reactid="23">
+            <!-- react-text: 24 -->men(
+            <!-- /react-text --><span style="color:#f26d80;" data-reactid="25">S</span><!-- react-text: 26 -->)tis
+            <!-- /react-text --></span></div>
+      </div>
+      <div style="height:10px;" data-reactid="27"></div>
+      <div role="combobox" aria-expanded="false" class="ui fluid search selection dropdown" data-reactid="28">
+        <select type="hidden" aria-hidden="true" data-reactid="29">
+          <option value="" data-reactid="30"></option>
+          <option value="/dedag/" data-reactid="31">De Dag</option>
+          <option value="/blog/" data-reactid="32">Blog</option>
+          <option selected="" value="/missie/" data-reactid="33">Missie</option>
+          <option value="/film-focus/" data-reactid="34">FilmFocus</option>
+          <option value="/producties/" data-reactid="35">Producties</option>
+          <option value="/webshop/" data-reactid="36">Webshop</option>
+        </select><input type="text" value="" aria-autocomplete="list" class="search" name="-search"
+          autocomplete="off" tabindex="0" data-reactid="37" />
+        <div class="text" data-reactid="38">Missie</div><i aria-hidden="true" class="dropdown icon"
+          data-reactid="39"></i>
+        <div role="listbox" class="menu transition" data-reactid="40">
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="41">
+            De Dag
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="43">
+            Blog
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="true" aria-selected="true"
+            class="active selected item" data-reactid="45">
+            Missie
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="47">
+            FilmFocus
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="49">
+            Producties
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item">
+            Webshop
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="height:10px;"></div>
+</div>
+      <div>
+        <div class="ui container" data-reactid="55">
+          <div class="markdown" data-reactid="56">
+           <h1>Les Innocentes</h1><hr>
+<center>
+<img src="Inno.jpg">
+</center>
+
+<p><a name="KLA"></a></p>
+<h2 id="-font-color-808000-klapbord-font-"><font color="#808000"><strong>Klapbord</strong></font></h2>
+<p>De Frans-Luxemburgse actrice <strong>Anne Fontaine</strong> debuteerde als cineaste in 1993 met Les histoires d’amour finissent mal…en général. Geleidelijk heeft ze zich geprofileerd als een van de vrouwelijke, Europese cineasten die bewust <strong>cinematografische vrouwenportretten</strong> op het witte doek brengen. Dat was het geval met haar internationaal gewaardeerde <em>Coco avant Chanel</em> (2009). Met <strong>Les Innocentes</strong> bevestigt ze dit engagement. Daarbij kiest ze bewust voor onbekende vrouwen, kloosterzusters die slachtoffer werden in een historisch drama. De film zou oorspronkelijk <strong>Agnus Dei</strong> heten. Uiteindelijk werd voor <strong>Les Innocentes</strong> gekozen. De film brengt een vergeten gebeurtenis uit de naoorlogse Poolse geschiedenis aan het licht. De opnames vonden plaats in de Poolse, noordelijke regio Warmia in de winter van januari-februari 2015. Voor de opnames werd een gedesaffecteerd klooster terug tot leven gewekt. In begin 2016 ging de film in première tijdens het Amerikaanse <em>Sundance Film Festival</em>. Poolse actrices vertolken de rol van de kloosterzusters. Eén van hen is de bekende Agata Kulesza in de rol van moeder overste. In de Poolse film <strong>Ida</strong> nam ze de rol van de tante Wanda voor haar rekening. De film Les Innocentes is een Frans-Poolse coproductie. </p>
+<p><a name="SYN"></a></p>
+<h2 id="-font-color-808000-synopsis-font-"><font color="#808000"><strong>Synopsis</strong></font></h2>
+<p>Twee jonge vrouwen leven in totaal verschillende werelden, maar een historisch drama doet hun wegen kruisen. Dat gebeurt in <strong>Polen in de winter van 1945-1946</strong>. Polen is dan bevrijd door het Sovjetleger. De Tweede Wereldoorlog is in Europa al op 8 mei 1945 beëindigd. Het Sovjetleger bezet Polen. De ene jonge vrouw heet <strong>Mathilde Beaulieu</strong>. Ze is een Franse dokter met van huis uit communistische sympathieën. De andere is de Benedictijnse <strong>zuster Maria</strong>, verantwoordelijk voor de novicen. De twee jonge vrouwen komen in contact met elkaar door toedoen van de novice Teresa. Die overtreedt de kloosterregels door op zoek te gaan naar hulp bij <strong>de medische post van het Franse Rode Kruis</strong> nabij Warschau. Ze zoekt een dokter die noch Russisch noch Pools is. Teresa vindt Mathilde aan wie ze in gebrekkig Frans medische bijstand vraagt voor een van haar medezusters die stervende is. Eerst verwijst Mathilde de non door naar het Poolse Rode Kruis. Wanneer ze echter Teresa ziet volharden terwijl ze biddend op haar blijft wachten, volgt Mathilde de jonge non naar <strong>de abij</strong>. Daar ontmoeten Mathilde en Maria elkaar voor het eerst. Mathilde ontdekt dat een van de zusters, <strong>de novice Zofia</strong>, in levensgevaar verkeert wegens een moeilijke, nakende geboorte van haar baby. Mathilde, geholpen door zuster Maria, voert met succes een keizersnede uit. Uiteindelijk ontdekt Mathilde <strong>de dramatische waarheid van de abdij</strong>. De voorbij trekkende Sovjettroepen hebben gedurende enkele dagen in de abdij de zusters tot driemaal toe verkracht. Collectief en individueel moeten de zusters met dat onvoorstelbare trauma hun kloosterleven verder zetten. Maria vertelt Mathilde dat zeven zusters zwanger zijn geraakt. Nadien blijkt dat er ook zusters hun zwangerschap hebben weten te verbergen voor zichzelf en de anderen. Door toedoen van zuster Maria, raakt Mathilde geleidelijk vertrouwd met de gang van zaken in de abdij, een wereld die haar als communiste volkomen vreemd is. Ze ziet hoe zuster Maria moet optornen tegen haar overste, <strong>de abdis Jadwiga Oledzka</strong>. Die doet er alles aan om haar zusters tegen de schande en de schaamte ten aanzien van de buitenwereld te beschermen. Zelf heeft moeder overste syfilis opgelopen tijdens de verkrachtingen. Ze weigert zich te laten behandelen door Mathilde. In een eerste fase aanvaarden de zusters met tegenzin de hulp van Mathilde, maar in een tweede fase leren ze haar waarderen en nemen ze haar in hun gemeenschap op alsof ze een medezuster is. <strong>Zuster Maria en dokter Mathilde</strong> wisselen ook gedachten uit over wat er gebeurt en over hoe de zusters het drama trachten te verwerken. Wanneer dokter Mathilde op zekere avond onderweg is van de abdij naar de Franse medische missie, haar werkplek, houden Sovjetsoldaten haar tegen. Ze willen haar verkrachten, wat slechts op het nippertje door hun militaire overste wordt verhinderd. Ze rijdt dan terug naar de abdij, waar ze veilig overnacht. In de medische missie waar ze werkt als assistente van haar Joodse collega en mentor, <strong>dokter Samuel Lehmann</strong>, botst dokter Mathilde steeds meer op kritiek over haar vreemd gedrag. Ze kan echter niet vrijuit spreken. Toch ontstaat er tussen haar en Samuel een goede band en zelfs een beginnende liefdesrelatie, de antipode van de agressieve omgang met seksualiteit door de Sovjets. Op zeker moment vraagt Mathilde Samuel om mee te komen helpen bij de gelijke bevalling van twee zusters. Als Jood heeft Samuel geen hoge pet op van Polen wegens de betrokkenheid, passief of actief, van vele Polen bij de Holocaust. En hij weet dat de katholieke Kerk, ook de Poolse, een antisemitisch verleden heeft. Toch helpt hij mee bij de bevalling van de zusters. Ondertussen spannen zuster Maria en dokter Mathilde samen om zonder weten van de abdis één van de pasgeboren baby&#39;s bij zuster Zofia onder te brengen. Ze kan de baby voeden. Ze beschouwt de zuigeling als haar eigen kind dat ze door toedoen van de abdis  heeft moeten afstaan voor adoptie. Ze noemt de baby <strong>Helena</strong>. Toch ontdekt de abdus het bestaan van Helena en neemt ze het kind weg van zuster Zofia. Die ziet hoe de abdis de baby in een mand wegdraagt. Zofia volgt haar moeder overste in paniek in het omliggende bos, maar verliest haar spoor. Overvallen door verdriet en radeloosheid, pleegt zuster Zofia <strong>zelfmoord</strong>. De dokters Mathilde en Samuel zijn er getuige van. Kort daarna, ontdekt zuster Maria dat haar overste in plaats van de kinderen naar Poolse adoptieouders te brengen, hen heeft laten sterven. Na de ontdekking daarvan verlaten <strong>zuster Maria en zuster Anna</strong> met de twee nieuwe baby’s naar het Rode Kruis om bescherming te vragen. Mathilde weet de zusters te overtuigen om terug te keren naar de abdij om er <strong>een weeshuis</strong> in onder te brengen voor de verschillende weeskinderen die een voorlopig onderkomen hebben gevonden in het tijdelijke, medische kamp van het Franse Rode Kruis. Op die manier kunnen ze ook de kinderen van de zusters zonder schaamte als weeskinderen in de abdij blijven verzorgen. De zieke abdis trekt zich, overrompeld door een intens schuldgevoel, terug in haar cel. Zuster Anna verlaat de abdij. Bij de komst van de eerste lentedagen, poseren de zusters fier met hun weeskinderen op de feestelijke dag waarop de novicen hun kloostergeloften afleggen. Zuster Maria zendt <strong>de groepsfoto</strong> naar Mathilde om haar in naam van iedereen in de abdij te bedanken voor haar zorgend werk waardoor zij allen en hun abdij een nieuwe toekomst hebben.</p>
+<p><a name="CIN"></a></p>
+<h2 id="-font-color-808000-cinematografie-font-"><font color="#808000"><strong>Cinematografie</strong></font></h2>
+<p><span class="menstis"><strong>REGIE VAN HET LICHT</strong></span>. Cinematografisch gezien, is <strong>Les Innocentes</strong> van grote klasse. Dat komt door het werk van de cinematografe van dienst, <strong>Caroline Champetier</strong>. Zij geniet een groot prestige in de Franse cinema. Ze werkt immers al twee generaties lang nauw samen met een aantal eerste klasse regisseurs: Jean-Luc Godard (<em>Hélas pour moi</em>), Alain Cuny <em>(L’annonce faite à Marie</em>), Jacques Rivette (<em>La bande des quatres</em>), Xavier Beauvois (<em>Des Hommes et des Dieux</em>), Leos Carax (<em>Holy Motors</em>), Margarethe von Trotta (<em>Hannah Arendt</em>). Door de jaren en de films heen heeft Caroline Champetier zich ontpopt tot een grootmeester van het cinematografische lichtbeeld. In een interview met Claude Lefort en Didier Péron voor Libération (4 februari 2014) met haar, verduidelijkt Caroline Champetier haar werk in het domein van de cinematografie. Ze vertelt hoe ze zich vooral <strong>‘een vertolkster van het beeld’</strong> voelt (‘Je me sens très interprète de l’image’), zoals een muzikant die een parituur interpreteert en zichzelf ieder dag telkens opnieuw uitvindt op het ritme van de voortdurend veranderende realiteit tijdens de opnames. de wisselende weersomstandigheden, de acteurs die in goede of slechte stemming verkeren, allerlei kleine technische conflicten die een oplossing vragen, enzovoort. Ze noemt de filmset een strijdplaats waar de vrede moet worden behouden via technisch, artistieke en menselijk overleg. Zij ziet haar taak als cinematograaf in het voortdurend bevorderen van de vrede via een nauwe samenwerking tussen de regisseur en de cinematograaf. Die samenwerking op de filmset noemt ze ‘<strong>een utopische democratie</strong>’ (‘C’est pour ça que le cinéma est une utopie démocratique’). In haar meer recent werk, zoals voor <strong>Des Hommes et des Dieux</strong> en <strong>Les Innocentes</strong>, combineert ze wat ze noemt <strong>de twee grote stijlen om met het licht om te gaan in de filmkunst</strong>. Er is <em>de Duitse school</em> die vooral aandacht schenkt aan de ruimte, de omgeving, het decor en het spel van de lichtcontrasten, terwijl <em>de Amerikaanse school</em> zich meer focust op de acteurs. In de samenwerking met de regisseur gaat het voor de cinematograaf steeds om de juiste verhouding te vinden tussen de ruimtewerking en het fotogenieke. In <strong>Les Innocentes</strong> blijkt die verhouding uit een sterk doordacht afwisselend ritme tussen de landschapsbeelden en de fotogenieke close-ups met de vertolkers. Bij de eerste betreft dit vooral <strong>de sublieme beelden van de buitenomgeving van de abdij met het naburige bos</strong>. Het openingsbeeld met zuster Teresa die op zoek gaat naar medische hulp voor haar medezuster Zofia, zet hierbij de visuele toon van de film. Andere sterke ruimtebeelden komen voor in de tocht van moeder overste met baby Helena naar het kruisbeeld aan de rand van het bos, waarbij Zofia haar volgt maar zich verloren voelt in het bos daar waar twee wegen elkaar kruisen. Een derde belangrijke ruimtebeeld situeert zich in de naburige hoeve waar de tante van Zofia woont. Zuster Maria gaat haar opzoeken om haar het overlijden van Zofia te melden. Daar ontdekt zuster Maria dat moeder overste baby Helena nooit daar heeft naar toe gebracht. Die verschillende ruimtebeelden baden in <strong>een zacht maar helder winterlicht dat door de sneeuw wordt geabsorbeerd</strong>. Daarbij ontstaat er een ingetogen picturaal beeld met contrasten tussen wit en zwart dat ook de kleur van de habijten van de zusters kenmerkt. <strong>De lichtende interpretatie</strong> die Caroline Champetier eraan geeft, drukt <strong>de grondstemming van het verhaal</strong> passend uit. Daarbij beklemtoont ze niet zozeer het contrast tussen zwart en wit, maar <strong>de simultane aanwezigheid</strong> van de twee. Daarin wordt het drama dat zich afspeelt, heel zichtbaar. Het dramatische van het fysieke en mentale lijden van de zusters, die donkere zijde van het drama dat ze meemaken, geeft nu aan hun kleding een bijzondere betekenis. Het zwarte gaat nu samen met hun onschuld, uitgedrukt in het witte deel van hun habijt, vooral bij de jonge novicen die een volledig witte kap dragen. <strong>Het winterlandschap</strong> lijkt verlengde van het kloosterleven te zijn geworden met dezelfde samenhang tussen de diepste donkerte en een hemelse helderheid. In de talrijke opnames in het abdijgebouw ligt de nadruk op de personages, de zusters en dokter Mathilde. Hierbij werkt Caroline Champetier met <strong>het picturale licht</strong> in de lijn van de Nederlandse schilders Vermeer en Rembrandt. Daaruit spreekt <strong>een grote feminiene lichtpoëzie</strong> die erin slaagt zonder woorden de innerlijke gemoedsgesteldheid passend uit te drukken. De woorden voeren niet de regie over de scènes. Het zijn veeleer <strong>de stilte en de schouwende blik</strong> die de gevoelens evoceren van de zusters, in het bijzonder van zuster Maria die het dichtste bij het drama staat en dokter Mathilde die direct met de gevolgen van het drama oog in oog komt te staan. Via de komst van zuster Teresa in de medische zorgzaal van het Franse Rode Kruis ontstaat er ook cinematografisch een band tussen de abdij en de medische post. De medische post staaat aan deze zijde van het bos net terwijl de abdij zich aan de andere kant ervan bevindt. En via de medische witte kleding ontstaat er een gelijkaardig wit licht als in de kleding van de zusters. Dat <strong>lichte licht</strong> wenkt Mathilde wanneer ze vanuit een rraam in de medische post tijdens een korte pauze zuster Teresa ziet bidden op haar knieën in de sneeuw tussen de bomen. Dan beslist Mathilde dat <strong>lichtspoor</strong> te volgen en zo ontstaat er een verbindingslijn tussen de ene en de andere kant van het winterse bos, tussen de medische post en de abdij. Daarnaast komen er een aantal taferelen voor die in <strong>een andere lichttoonaard</strong> zijn opgenomen. Dat geldt voor <strong>de intieme sequenties met Mathilde en Samuel</strong> en het eenmalige tafereel met Mathilde en de Russische soldaten langs de weg in het bos. Bij dit laatste overheerst een donker en vuil groen-militair licht, <strong>de kleur van de hel</strong>. In de intieme scènes met Mathilde en Samuel herinnert een gedempt groen-militair en bakstenen-rood licht aan de hel van de Oorlog die nu wel voorbij is, maar waarvan de gevolgen nog overal zichtbaar zijn. Alleen de gezichten van de twee collega’s en geliefden, twee mensen van goede wil, lichten op in het grauwe donker. Die intieme scènes situeren zich in de ontspanningszaal van het medische team en in de logeerkamer van Mathilde in Poolse woning. Het gedempte groen-roodachtige licht in de ontspanningszaal evoceert <strong>een mix van romantiek en melancholie</strong>, terwijl het gedempte licht in de slaapkamer van Mathilde via het binnenvallend schemerlicht en de witheid van de lakens en nachtkleding, weer aansluit bij de lichtsfeer van de abdij. In dat positieve licht schijnt de kleine zon van de sympathie en liefde tussen Mathilde en Samuel. Ze waarderen en steunen elkaars medisch werk. Allebei zetten ze zich in voor een andere wereld, één waar tijd en ruimte is voor liefde en genegenheid. Dat drukken ze uit in het bewustzijn dat ze elkaar respecteren en van elkaar houden, maar ze wellicht na het beëindiging van hun medische missie elkaar nooit meer zullen zien. Bovendien dragen ze in hun gemoed ook hun eigen persoonlijk oorlogsverdriet mee. Mathilde moet haar geheim over de vrouwenabdij bewaren, Samuel is de enig overlevende van zijn Joodse familie. De <strong>unieke eigen lichtsfeer</strong> die <strong>Les Innocentes</strong> typeert, bestaat uit het afwisselend ritme van buitenbeelden en binnenbeelden met vooral de abdij als focuspunt. Dat gebeurt via het werk van Caroline Champetier in de regie van wat we in het derde deel van <em>Levensbeschouwing democratisch belicht</em> <strong>de Lichtaard</strong> noemen.</p>
+<p><span class="menstis"><strong>DOCUDRAMA</strong></span>. ‘<em>Geïnspireerd door ware gebeurtenissen</em>’. Zo introduceert de film zichzelf bij het publiek. Het scenario van de film is geschreven door vier auteurs onder wie de cineaste zelf, Anne Fontaine. Het uitgangspunt van hun scenario waren de nota’s van de <strong>Franse dokter, Madeleine Pauliac</strong> (1912-1946). Over die nota’s en zijn tante, heeft haar neef, Philippe Maynial, onderzoek verricht. Hij heeft op basis hiervan het idee voor de film aangebracht. Voor de historische gegevens over zijn tante die hierna volgen, is hij de aangewezen bron. Arthur Herlin publiceerde op 20 februari 2016 een interview met hem op de site Aleteia, het wereldwijde katholieke netwerk (<em>www.aleteia.org</em>). Zo leren we dat zijn tante Madeleine, een gespecialiseerde hospitaaldokter in Parijs, tijdens de bezetting van Frankrijk door de troepen van Hitler actief het verzet steunde. Ze liet zelfs bij haar ook Joodse slachtoffers onderduiken. Op vraag van generaal De Gaulle zelf, leidde ze reeds vanaf april 1945 als <strong>medische luitenant van het Franse leger</strong> de heropbouw van het hospitaal van Warschau en het Franse Rode Kruis in Polen, waarbij ze ook een tijd in bevrijd Rusland heeft gewerkt. Haar taak bestond in de organisatie van de medische hulp bij <strong>de repatriëring van de talrijke Franse overlevenden in de circa 200 Poolse concentratie- en vernietigingskampen</strong> die ze zelf ook heeft bezocht. Tijdens een van de autoritten naar de kampen, liep ze een zwaar hoofdletsel op, wat haar niet belette haar medische werk in Warschau voort te zetten. Daar stierf ze tijdens een auto-ongeval op weg naar het hospitaal. Philippe Maynial heeft de rechten van het historisch verhaal over zijn tante verkocht aan de makers van de film <strong>Les Innocentes</strong>. Zij hebben de historische gegevens uiteraard vrij aangepast met behoud van de geest zelf en de basislijn van het geschreven getuigenis van de Franse dokter. Van haar neef Maynial weten we dat Madeleine Pauliac op haar tocht door bevrijd Oost-Europa in Polen zelf vergezeld en geholpen werd door <strong>de Franse priester Belliard</strong>. Hij was zelf een bevrijde krijgsgevangene in Polen. Na zijn bevrijding, heeft hij het werk van Madeleine Pauliac onbaatzuchtig en vol toewijding ondersteund, zoals blijkt uit de nota’s van Madeleine Pauliac zelf. Het scenario heeft de historische priester vervangen door <strong>het fictieve personage van de jonge Joodse dokter Samuel Lehman</strong>, wiens familie is omgekomen in het nazikamp Bergen-Belsen. In de film wordt Madeleine zelf vervangen door <strong>het fictieve personage van Mathilde Beaulieu</strong>. Zij is een medische studente die haar stage doet in de Franse medische missie van het Rode Kruis in het pas bevrijde Polen. Zij werkt er onder leiding van de Joodse dokter Samuel. In de film blijkt dat Mathilde <strong>communiste en dus ook atheïste</strong> is. De historische Madeleine was katholiek. Het filmische motief om het personage van de dokter aan te passen betreft het scenario. Daarin ligt de focus niet op een reconstructie van de gebeurtenissen in de eerste weken en maanden na de bevrijding van de Russische bezette gebieden in Polen. In die zin heeft de film geen historische pretenties; de film biedt geen biopic over de historische Madeleine Pauliac. De focus ervan richt zich helemaal op <strong>het contrast tussen de medische nazorg van de Oorlog en de getraumatiseerde abdijgemeenschap</strong>, alsook op <strong>de vrouwelijke solidariteit</strong> die uit dat contrast voortkomt. De film werkt met de verwondering van de ongelovige jonge vrouwelijke dokter die uit eigen vrije wil en vanuit een medisch plichtsgevoel de zustergemeenschap bijstaat. Bovendien laat de rol van de Joodse dokter Samuel ook toe om,in het korte bestek van het verhaal dat zich in Polen situeert, verantwoord naar <strong>de Holocaust</strong> te verwijzen zonder dit op zich uit te werken. Enkele overlevende kinderen van de kampen komen voor als figuranten. Wat de filmische tijd betreft, concentreert Mathilde zich niet zozeer op de slachtoffers van de nazikampen, maar op <strong>de Poolse slachtoffers van de Russische bevrijders</strong>. In dat filmisch gegeven steekt ook een historische verwijzing naar de historische Madeleine. Als dokter heeft ze zelf de gevolgen gezien van de grote schanddaden, begaan door de Sovjettroepen op hun weg naar Hitler in Berlijn. Ondertussen heeft historisch onderzoek de omvang van dit taboe uit de bevrijdingsgeschiedenis van de Tweede Wereldoorlog in kaart gebracht. Selm Wenselaers vat in zijn bijdrage <strong>De Sovjetschande</strong> de cijfers van het opzienbarende onderzoek <em>Befreier und Befreite</em> (1992) als volgt samen:</p>
+<blockquote>
+<p>‘<em>De oprukkende Sovjettroepen in 1944 waren genadeloos voor de Duitse bevolking. De ‘Ivans’ werden gevreesd omdat ze zich plunderend en verkrachtend een weg naar Berlijn baanden. Vooral de vrouwen betaalden het gelag. Het maakte niet uit of ze jong of oud waren, nazi of Joods, of ze pas bevrijd waren uit een concentratiekamp of uit hun schuilplaats kwamen na jaren ondergedoken te hebben geleefd. Tussen de herfst van 1944 en de zomer van 1946 werden alleen al in Duitsland zo’n 2 miljoen vrouwen door Sovjetsoldaten verkracht. Naar schatting 240 000 vrouwen lieten hierbij het leven, omdat ze vermoord werden of omdat ze zichzelf om het leven beroofde, beschaamd voor wat hen was aangedaan.</em>’ (De Oorlogskranten 1940-1945, nr. 48).</p>
+</blockquote>
+<p> De film <strong>Les Innocentes</strong> herinnert niet alleen aan die dramatische oorlogsgeschiedenis. De film versterkt nog de draagwijdte ervan door te herinneren aan de Poolse vrouwen, met name dan nog de Poolse kloosterzusters die ook slachtoffer zijn geworden van <strong>de Sovjetsoldaten</strong>. Dat blijkt uit de nota’s van de historische <strong>Madeleine Pauliac</strong> zelf. Trouwens in de film komt een tafereel voor waarin haar filmpersonage Mathilde zelf ook slachtoffer dreigt te worden van die soldaten. Dat tafereel samen met het tafereel waarin Mathilde in de abdij de zusters behoedt voor de terugkerende Sovjetmannen, verdicht ook een historische gebeurtenis. Onderweg met de Franse Rode Kruis in het bevrijde deel van de Sovjet-Unie, werd Madeleine Pauliac en haar hele team gevangen genomen door het Sovjetleger. Ze werden opgesloten en bedreigd te worden terechtgesteld. <strong>Een moedige tussenkomst van dokter Madeleine</strong> bij de hogere miitaire overste heeft haar en haar team het leven gered. Ze vertelde de Sovjetofficier dat een familielid van haar deel uitmaakte van het vermaarde escadrille Normandie-Niemen dat tegen de Duitsers vocht in opdracht van generaal De Gaulle aan het Oostfront. Deze leugen om bestwil wist de officier te overtuigen om het team van het Franse Rode Kruis vrij te laten. Ook in de film <strong>Les Innocentes</strong> weet dokter Mathilde de Sovjetsoldaten om de tuin te leiden met een leugen om bestwil. Ten slotte, de hulp die Mathilde in de film verleent aan de Poolse zusters, weerspiegelt ook het werk van de historische dokter Madeleine. Ze maakte in haar werk <strong>geen onderscheid tussen de slachtoffers op basis van nationaliteit</strong>, wat werd bevestigd door de priester Belliard die in haar voetsporen stapte om geestelijke hulp aan de slachtoffers te bieden.   </p>
+<p><span class="menstis"><strong>KLANKWERELD</strong></span>. De film opent met een zwart beeld waarop de productiedata verschijnen. Bij het zwart beeld staat op de klankband het geluid van de abdijklok die de zusters oproept tot het koorgebed, gevolgd door de klank van de voetstappen van de zusters in de kloostergang. Dan zien we hen in rugzijde door de kloostergang uit het beeld verdwijnen, waarna de titel <strong>Les Innocentes</strong> tegen de wand van de kloostergang verschijnt. Deze<strong>audiovisuele intro</strong> zet meteen de toon voor de klankwereld van de film. Die bestaat in de eerste plaats uit <strong>de natuurlijke geluiden, verbonden met de wereld van de abdij</strong>: de klok, de voetstappen die sterk weergalmen in <strong>de contemplatieve ruimte van de stilte</strong>. Diezelfde stilte typeert ook het bos met de sneeuw waar zuster Teresa haar weg vervolgt. We horen haar kordate voetstappen in de sneeuw. Die contemplatieve stilte die de natuurlijke klanken in zich opneemt, maakt dat de menselijke stem geen hoofdrol krijgt. <strong>De dialogen</strong> zijn uiterst beperkt wat de zusters onderling betreft, en gedeeltelijk ook wat de die tussen dokter Mathilde en zuster Maria betreft, op enkele uitzondringen na. Alleen buiten de abdijmuren, namelijk in de medische missiepost, komen er enkele gesprekken voor tussen dokter Mathilde en dokter Samuel over hun respectieve familiegeschiedenis. Hun gesprekken hebben een intiem en daardoor ook een contemplatief karakter. Binnen de abdijmuren krijgt de menselijke stem via de stilte toch een bijzonder klankkleur. Daar zijn <strong>de religieuze, Gregoriaanse gezangen</strong>. Vooral in het openingstafereel zingen de zuster de Gregoriaanse getijdengebed <strong>Conditor Alme Siderum</strong>. Die wordt volledig in beeld gezongen. Het betreft een hymne uit de 7de eeuw die veelal in de Adventstijd tijdens de vespers wordt gezongen. Het is een smeekgebed tot <em>‘de Schepper van de sterren van de nacht, van het altijd durend licht van Zijn volk’</em> en tot &#39;<em>Jezus, de Verlosser</em>’. Ze smeken om verlossing en om gehoord te worden. In de smeekbede die daarop volgt, vragen de gelovigen, in casu de zusters, om <em>een remedie</em> (‘remedium’) die verlossing kan brengen aan hen die moeten leven inleiding <em>een wereld in ruïne</em>. In een volgende strofe introduceert de religieuze hymne de beeldspraak van <em>de Bruidegom en de Bruid uit het Hooglied</em>. Die beeldspraak is van groot belang voor de zusters. In hun spirituele beleving zijn zij de maagdelijke bruiden en is de hemelse Jezus de Verlosser hun Bruidegom. Op het einde vragen ze bescherming zolang ze hier <em>‘beneden’</em> in de tijd verblijven, waarna ze afsluiten met lof aan de Heilige Drie-eenheid. De openingshymne doet filmisch drie dingen. Ze bevestigt <strong>het dagelijkse ritueel van het getijdengebed</strong> met psalmen en hymnen, wat het monastieke leven, zeker van de Benedictinessen, typeert. Tegelijkertijd drukt het in een religieuze taal <strong>de dramatische situatie</strong> uit waarin de zusters zich bevinden. Het smeekgebed verwijst metaforisch naar hun ‘wereld in ruïne’ en naar hun verlangen naar een verlossing, wat in deze context wel erg bijzonder klinkt. In de tekst komt ook het medisch klinkend woord van een remedie voor. Ten derde is er het dramatische effect waarmee het verhaal opstart. De <em>novice Teresa</em> heeft de hymne aandachtig meegezongen en geabsorbeerd, vooral wanneer ze door het gezang van de zusters heen de wanklank hoort van de pijnschreeuw van haar medezuster, novice Zofia. Die schreeuw zet haar na het gebed in beweging richting de Franse medische missie. Met die beslissing, tevens een overtreding van de geldende kloosterregels, opent de dramatische wending in het filmverhaal. Die schreeuw van in weeën verkerende Zofia vormt <strong>de hoofdklank van de film</strong>. In het tafereel met <strong>Conditor Alme Siderum</strong> integreert de klankmontage de schreeuw van de jonge moeder-zuster in het religieuze gezang, een wonderlijk en betekenisrijke compositie. Later volgt nog <strong>de hartverscheurende schreeuw in het bos</strong> van de wanhopige Zofia die op zoek is naar ‘haar’ baby Helena. En in de verkrachtingsscène met Mathilde weerklinkt ook haar schreeuw waarin die van de verkrachte zusters nazindert in de verbeelding van de aandachtige toeschouwer. In het tafereel van de dubbele geboorte waarbij dokter Mathilde hulp krijgt van dokter Samuel, komt er nog een sterke verwevenheid van het religieuze gebed van de zusters en de kreet van de twee moeders in weeën. Ze onderbreken hun diepe ademhaling bij de weeën driemaal op het ritme van het Angelus dat ze ’s middags gewoon zijn te bidden. Een tweede Gregoriaans gezang dat een zowel religieuze als dramatische betekenis krijgt, is <strong>Regem Venturum Dominum</strong>. Die wordt gezongen bij de dageraad, de <em>Lauden</em>. Het is een Kerstlied want het spreekt over de komst van de <em>‘Koning der koningen’ op aarde, als kind ‘onder ons’ geboren (‘nascetur nobis parvulus’)</em>. In hun morgengebed smeken de zusters de komst af van <em>‘de Koning der Koningen’, ‘onze Beschermer’</em>. Ze aanbidden Hem en vragen om weldra te komen in <em>‘een groot licht’ (‘lux magna’)</em>. Op de tonen van dit betekenisvol gezang laat zuster Maria dokter Mathilde binnen in de abdij, zonder medeweten van de abdis, om Zofia en haar baby medisch te kunnen opvolgen. Dokter Mathilde stelt dan vast dat de baby is verdwenen. Na het fragment met de consultatie van de zwangere zusters, waarin blijkt dat ze collectief weigeren zich te laten onderzoeken door dokter Mathilde, doet zuster Maria dokter Mathilde uitgeleide. Bij de scène waarin dokter Mathilde de abdij verlaat, weerklinkt in voice-over het <strong>Vox Clamantis in Deserto</strong>. Het korte gezang is ontleend aan de Bijbeltekst van <em>Marcus 1, 1-3</em> en <em>Johannes 1, 22-23</em>. Het spreekt over Johannes de Doper, de profeet die zich voelt als een roepende in de woestijn. Dergelijk gevoel overvalt zowel zuster Maria als dokter Mathilde. Hun woestijn is de abdij met zijn zwangere, getraumatiseerde zusters. Een ander belangrijk Gregoriaans gezang is het meer gekende <strong>Rorate Caeli</strong>. Dat komt voor op het ogenblik dat dokter Mathilde ontwaakt in de abdij nadat ze op het nippertje ontsnapt is aan een verkrachting. In de abdij wordt ze gewekt door het gezang van de zusters. Ze wandelt naar de kapel en luistert naar het <strong>Rorate Caeli</strong>. Dat kerkgelijke gezang is een Gregoriaanse introïtus, een inleiding op de misviering van de laatste, de vierde zondag van de Advent, dus de laatste zondagsmis voor het eigenlijke feest van Kerstmis. De tekst zelf is gebaseerd op de Bijbeltekst van <em>Jesaja 45,8</em>. In het refrein weerklinkt de bede aan <em>de Schepper om als regen uit de hemel gerechtigheid te laten neerdalen over de aarde</em>. In een apart beeld zien we Mathilde die aandachtig luistert en het gebed ook in zich opneemt. Dat is begrijpelijk want voor één nacht is ze ook kloosterzuster geweest nadat ze door de Sovjetsoldaten onderweg was overvallen en een groot verdriet haar overviel nadat zuster Maria haar een veilig onderkomen had gegeven in de abdij. De compositie van beeld- en klankband bij dit belangrijke gezang ligt in de lijn van de vorige, maar bereikt hier een hoogtepunt. De religieuze a capella muziek mengt zich met de dreigende geluiden buiten beeld van de binnendringende Sovjetsoldaten, geluiden die de zusters maar al te goed herkennen. Opmerkelijk is dat ze blijven doorzingen. Eerst zingen ze in aanwezigheid van Mathilde het refrein en de tweede strofe. Daarin zingen ze: </p>
+<blockquote>
+<p>‘<em>We hebben gezondigd en zijn onrein geworden waardoor we lijken op vallende bladeren want door onze zonden worden we met de wind meegenomen. Ge hebt U voor ons verborgen en ons neergeworpen wegens de zwaarte van onze zonden.</em>’ </p>
+</blockquote>
+<p>Dan zingen de zusters de laatste strofe. Maar dat gebeurt cinematografisch opmerkelijk. De camera richt zich naar zuster Maria en zuqter Anna die samen de laatste strofe zingen. Het betreft de strofe waar God zelf antwoordt op de bede van de gelovigen. Het is het goddelijke antwoord van de troost:</p>
+<blockquote>
+<p><em>‘Consolamini, consolamini, popule meus’: ‘Troost u, troost u, mijn volk. Weldra komt uw heil. Waarom verliest u zich in uw verdriet daar het uw smart nog verzwaart. Vrees niet, ik zal u redden, want ik ben de Heer, uw God, de Heilige van Israël, uw Verlosser.</em>’</p>
+</blockquote>
+<p>Uitgerekend bij deze strofe zoomt de camera steeds meer in op het gelaat van de zingende Maria terwijl het dreigende geluid van de invallende Sovjetsoldaten luider begint te klinken om uiteindelijk het religieuze gezang te overstemmen. De troost en redding waarover de zusters zingen, komst op dat ogenblik van Mathilde die de soldaten met een medische leugen om best wil uit de buurt van de zusters kan houden. Na dat dreigend tafereel die bij alle zusters dramatische herinneringen wakker roept, volgt <em>het belangrijke gesprek tussen zuster Maria en dokter Mathilde</em>. De zuster weent en bekent dat ze bidt en bidt, maar geen troost vindt, die troost waarover ze even daarvoor zo intens had gezongen. Ze bekent dat ze iedere dag de verschrikking van de verkrachtingen terug beleeft. ‘Ze hadden ons moeten vermoorden. Het is een wonder dat ze dat niet hebben gedaan.’ In het daarop volgende beeldkader met de close-up met zuster Maria en dokter Mathilde vertelt Maria dat zij nog enigszins geluk heeft gehad omdat ze voor ze in de abdij is gekomen, had ze omgang gehad met een man, maar de meeste zusters waren nog maagd. Mathilde vraagt dan of niemand van hen het geloof heeft verloren. Dan vertelt zuster Maria over het geloof. </p>
+<blockquote>
+<p><em>‘Eerst is het als een kind dat zich veilig voelt aan de hand van zijn vader. Dan komt er altijd een moment dat je vader je hand loslaat. Je voelt je verloren, alleen in het donker. Je roept om hulp maar niemand antwoordt. Hoe goed je jezelf ook voorbereidt, je wordt toch verrast. Het raakt je recht in je hart.</em>’ </p>
+</blockquote>
+<p>Op dat ogenblik gaat ze naar het raam toe met <strong>het invallende, zachte licht</strong>. Terwijl in beeld dat licht op haar gelaat valt, spreekt ze verder over het geloof: ‘Dat is het kruis dat we dragen. Achter de vreugde is er het kruis.’ Dokter Mathilde luistert aandachtig en neemt de woorden in zich op. Het is het einde van haar verblijf in de abdij, bezegeld door de warme begroeting van alle zusters die haar blij uitwuiven. Een ander Gregoriaanse hymne heet <strong>Nunc, Sancte, nobis Spiritus</strong>. De intro ervan begint met de klank van de abdijklok. Dat is de tweede keer in de film. Deze keer hoort de klank van de klok samen met een panoramisch shot van de abdij met de klokkentoren. De zusters komen weer samen voor het getijdengebed. Ze zingen <strong>Nunc, Sancte, nobis Spiritus</strong>. De hymne verwijst naar het verhaal van de nederdaling van de Geest over de bange apostelen in het nieuwtestamentische <em>Handelingen van de Apostelen 2, 1-4</em>. De zusters bidden tot de Heilige Geest om kracht en sterkte om hun religieus leven te kunnen voortzetten. We zien de zwangere zusters in close-up. Dan vloeit de Gregoriaanse muziek over in rustige, meditatieve filmmuziek <strong>Les tâches quotidiennes</strong>. Strijkinstrumenten met een contrapuntische piano begeleiden het dagelijkse leven van de zusters, het <em>ora et labora</em>. De gebruikelijke rust schijnt te zijn teruggekeerd tot de muziek stopt en een van de zwangere zusters haar water breekt. Een ander belangrijk muzikaal fragment is gelinkt aan het personage van zuster en novice Zofia, de eerste zuster die is bevallen. Na de onverwachte bevalling van de al wat oudere zuster Ludwika die haar baby niet aanvaardt, beslissen zuster Maria en dokter Mathilde zonder medeweten van de abdis de baby aan Zofia te geven. Die zorgt ervoor alsof het haar eigen baby is. Ze noemt de baby <strong>Helena</strong>. Op het ogenblik dat de abdis echter het bestaan van Helena ontdekt, eist ze de baby op. Zuster Zofia ziet de abdis met ‘haar’ baby in een mand de abdij verlaten. Ze volgt de abdis in het bos maar raakt haar spoor bijster. Verloren staat ze op een kruispunt in het bos. Ze weent van wanhoop en verlatenheid. Ze kijkt smekend naar de hemel. De klank van haar wenen gaat over in het mystieke gezang van Hildegard von Bingen, <strong>O Vis Aeternitatis</strong>, terwijl het beeld nu de abdis volgt die baby Helena wegdraagt en bij het maken van een kruisteken voor dood achterlaat bij het kruisbeeld aan de rand van het bos. De extatisch, religieuze muziek van Hildegard von Bingen werkt contrapuntisch. Ook zij was een abdis. Het beeld van haar, aanwezig in haar mystieke muziek, contrasteert met het beeld van de Poolse abdis Jadwiga Oledzka. Hildergard van Bingen bezingt <em>het religieuze wonder van de geboorte, ‘de Incarnatie’</em>. Ze looft inderdaad <em>‘de grote goedheid van de Redder die alle dingen heeft bevrijd door zijn goddelijke Incarnatie, onaangetast door enige zonde’</em>. Dat credo in de goddelijke goedheid contrasteert met het beeld van de moord op baby Helena door de Poolse abdis die meent te moeten handelen uit plichtbesef. Ze drijft hiermee niet alleen de baby de dood in, maar ook haar novice Zofia. De moord zelf, het achterlaten in de mand aan de voet van het kruisbeeld, gebeurt in stilte. Alleen de handelingen van de zuster en de baby zijn versterkt hoorbaar. Bij de sequenties van het afscheid van de zusters van de opgebaarde Zofia weerklinkt in voice-over een fragment uit het <strong>Veni Creator Spiritus</strong>. Het is een smeekbede om de vervulling van de eigen geest en gemoed met de genade van de Heilige Geest. Het is de hymne die tijdens de liturgie van het hoogfeest van Pinksteren wordt gezongen. Vreemd genoeg, monteert de regisseur bij deze rouwscènes geen requiem, bijvoorbeeld geen <em>Dies Irae</em>. Het requiem is echter wel aanwezig, niet in klank maar in de beelden van een donker licht. Voor de eerste keer is het schroomvolle, heilige licht dat de abdij en de zusters omhult, afwezig. De religieuze muziek van het <strong>Veni Creator Spiritus</strong> impliceert ook dat de zusters de zelfmoord van Zofia <em>niet</em> beschouwen als een doodzonde. Ze begeleiden haar met een gebed dat spreekt van een geloof in <em>een genadevolle kracht van de Schepper die hemel en aarde omvat</em>. Bij het beeld van het afscheid van zuster Maria van de opgebaarde Zofia, gaat het <strong>Veni Creator Spiritus</strong> over in de filmmuziek <strong>La Ferme</strong>. Het stuk voor piano en cello klinkt als een instrumentaal requiem. Dat blijkt weerklinken tijdens de scènes met zuster Maria die naar de hoeve van de tante van zuster Zofia stapt om daar tot haar groot verdriet te ontdekken dat haar abdis de baby’s van de zusters heeft gedood. De rouwmuziek vertolkt het intense verdriet van de zusters en in het bijzonder dat van zuster Maria over hun overleden pasgeborenen. De muziek verbindt de scènes van de overleden zuster Zofia met die van het besef van de overleden baby’s, een besef dat zuster Zofia als eerste had gekregen. Behalve de Gregoriaanse gezangen, is er ook <strong>instrumentale scenische muziek in de abdij</strong>. Tijdens een ontspanningsmoment waarbij ook Mathilde aanwezig is, speelt zuster Irena piano. Ze vertolkt <strong>Suite No. 2 in F Major, HWV 427- I. Adagio</strong> van Georg Friedrich Händel. Dit blij moment van ontspanning vindt zijn tegenhanger in de medische post van het Franse Rode Kruis waar er dansmuziek wordt gespeeld. Aan dat muzikaal ontspanningsmoment in de abdij komt een abrupt einde door de onvoorziene geboorte van de baby bij zuster Ludwika. Naast de scenische muziek, is er <strong>de filmmuziek</strong> van Grégoire Hetzel. Zijn compositie <strong>Les tâches quotidiennes</strong> werd al genoemd. In het belangrijke deel naar het einde toe van de film, het deel dat begint met de verhuisscène van het medische kamp met het afscheid van dokter Mathilde en dokter Samuel en eindigt met de dageraad bij het ontwaken van de zusters Maria en Anna in het medische kamp, weerklinkt <strong>Petite messe solennelle- XI. Preludio religioso</strong> van Gioachino Rossini in een pianoversie en zonder gezang. Hiermee duidt de cineaste het deel waarin door het samenspel tussen dokter Mathilde en zuster Maria een definitieve oplossing komt voor de abdijzusters en hun baby’s, als een religieus gebeuren. Door de mis louter instrumentaal en solo voor piano te citeren, vermijdt Anne Fontaine iedere vorm van heroïsme wat dokter Mathilde betreft of religieus triomfalisme wat zuster Maria betreft. Tot slot, is er de compositie <strong>On The Nature Of Daylight</strong> van Max Richter. De Britse componist schreef de compositie in 2003 als zijn pacifistische antwoord op de invasie van Irak door de Amerikaanse troepen. Het stuk verwerkt de aanwezigheid van geweld en oorlog. In die geest past het muzikaal citaat zeker in <strong>Les Innocentes</strong>. Maar de film interpreteert de muziek beeldend en vult ze in die zin ook aan. De muziek begeleidt namelijk de slotbeelden. Die omvatten de komst van de lente en de feestdag waarop de novicen hun kloostergeloften afleggen. Hun familieleden zijn er bij. Tijdens het feest wordt er <strong>een groepsfoto</strong> gemaakt van de zusters met hun kinderen en weeskinderen. Zuster Maria heeft de foto verzonden met een brief aan dokter Mathilde om haar te bedanken in naam van iedereen. Ze noemt Mathilde voor de abdij een Godsgeschenk. Dokter Mathilde is aan het werk in een kliniek terwijl ze in voice-over de brief van zuster Maria hoort voorlezen en ze de groepsfoto bekijkt. De camera zoomt in op haar in haar witte schort tegen een witte achtergrond. Ze lijkt wel een engel. Dit close-up beeld van haar vloeit over naar het moment waarop de fotograaf in de abdij de groepsfoto neemt. Hij gebruikt daarvoor een primitieve vorm van flits. Een kleine explosie van vuur verlicht de groep en maakt de foto. Hiermee gaat het beeld over naar een zwarte achtergrond voor de eindgeneriek. De muziek van Richter die in de titel naar <strong>het wonder van het daglicht</strong> verwijst, begeleidt ook nog de eindgeneriek. </p>
+<p><a name="BET"></a></p>
+<h2 id="-font-color-808000-betekenisruimte-font-"><font color="#808000"><strong>Betekenisruimte</strong></font></h2>
+<p><span class="menstis"><strong>TRAGIEK EN ZINGEVING ALS ZORG</strong>.</span> De film <strong>Les Innocentes</strong> brengt een vergeten drama terug aan de oppervlakte en brengt daarbij postuum hulde aan zeer moedige vrouwen. In de meest dramatische omstandigheden wisten ze hun menselijke waardigheid te bewaren in de zorg voor anderen. Die zorg krijgt in de film twee concrete vrouwengezichten: die van <strong>dokter Mathilde</strong> en die van <strong>zuster Maria</strong>. Op het eerste gezicht zijn die <strong>twee antipoden</strong>. Ze leven namelijk in een totaal andere wereld. Die van de moderne geneeskunde wat dokter Mathilde betreft en die van de eeuwenoude katholieke kloostertraditie van contemplatieve zusters, in casu de Benedictinessen, wat zuster Maria betreft. Bovendien werkt en denkt dokter Mathilde vanuit een communistische achtergrond die radicaal tegenover het katholieke credo van de zusters staat. Hun onderlinge tegenstelling is slechts het vertrekpunt van het filmverhaal met zijn historische verankering. In de ontwikkeling ervan blijkt hoe beide jonge vrouwen, ieder vanuit hun verschillende achtergrond, ontdekken dat ze eigenlijk <strong>zielsverwanten</strong> zijn. Ze staan, zo blijkt, allebei <strong>zorgend midden in de menselijke tragedie</strong> die zich voor hun ogen afspeelt. Geen van beiden weigeren ze de dramatische gebeurtenissen en de gevolgen ervan te verdringen. Ze vinden hun motivatie in <strong>hun sterke wil om de werkelijkheid onder ogen te zien</strong>. Vanaf de eerste medische tussenkomst van dokter Mathilde, de keizersnede bij zuster Zofia, assisteert zuster Maria dokter Mathilde. Verderop in de film treedt <strong>zuster Maria zelfs op als vroedvrouw</strong> bij de bevalling van zuster Anna. Aan de andere kant van het spectrum beweegt dokter Mathilde <strong>in de richting van de religieuze wereld van de kloosterzusters</strong> door toedoen van zuster Maria. In eerste instantie stelt dokter Mathilde zich zuiver medisch op. Geconfronteerd met een noodgeval, treedt ze zeer professioneel op. Ze voelt zich daarna ook medisch verantwoordelijk voor zuster Zofia en haar baby, haar patiënten die ze medisch wil opvolgen. Via de hulp van zuster Maria krijgt ze daartoe ook blijvende toegang tot de abdij. Zuster Maria weet van de abdis de toestemming te krijgen voor dokter Mathilde om de andere zwangere zussen medisch op te volgen. Maar in een eerste moment weigeren de zusters zelf. Zuster Maria en dokter Mathilde voelen zich allebei ‘als roependen in de woestijn’ (<em>Vox Clamantis in Deserto</em>). Een belangrijk keerpunt vormt het moment dat zuster Maria dokter Mathilde opvangt na haar aanranding door de Sovjetsoldaten. Hierdoor overnacht ze in de abdij en ontwaakt ze op de tonen van het <em>Rorate Caeli</em>. Door die ervaring ziet dokter Mathilde voor het eerst de zusters <strong>niet als patiënten, maar als religieuze vrouwen</strong>. Hun wijze van staan in het leven en hun vaste wil om, niettegenstaande het trauma dat ze in zich meedragen, trouw te blijven aan hun religieuze levenskeuze, imponeert dokter Mathilde. In feite herkent ze daarin <strong>haar eigen sterke wil om trouw haar medisch beroep uit te oefenen in de zorg voor wie in nood verkeert</strong>. Nadat dokter Mathilde de zusters redt van de invallende Sovjetroepen die de abdij ervan verdenken ‘vijanden van het volk’ te verbergen, nemen alle zusters dokter Mathilde op in hun gemeenschap. Ze beschouwen hen nu als <strong>één van hen</strong>. Hierna hebben zij en zuster Maria een intens gesprek. Dokter Mathilde luistert naar het verdriet van zuster Maria die terug overrompeld is door de komst van de Sovjetsoldaten. Als verantwoordelijke voor de jonge novicen, handelt ze vanuit <strong>een moederlijke zorg</strong> tegenover hen, terwijl ze zelf ook slachtoffer is. Ze deelt haar eigen verdriet met dokter Mathilde. De jonge dokter neemt met eerbied en grote aandacht het getuigenis van zuster Maria in zich op. De jonge zuster vertelt over haar groot verdriet en over hoe ze haar geloof beleeft in die bijzondere omstandigheden (&#39;<em>Het geloof is vierentwintig uren twijfel en één minuut hoop.</em>’). Beiden groeien mentaal steeds meer naar elkaar toe. Op zeker ogenblik geeft zuster Maria <strong>het kleed</strong> waarmee ze als burgervrouw naar de abdij is gekomen, aan dokter Mathilde die het aantrekt. Het zijn <strong>echte zussen</strong> geworden. Wat hen echt verbindt, is <strong>hun zorgende wil om ‘het leven te dienen’</strong>. Dat zien ze in elkaar en daarin steunen ze ook elkaar. Dat culmineert bij zuster Maria in de weerstand tegen het moordend gedrag van haar abdis aan wie ze gehoorzaamheid is verschuldigd, en bij dokter Mathilde in haar engagement voor de abdijzusters waardoor ze ingaat tegen haar militaire overste die haar huisarrest oplegt. Beiden komen ze tot een echte oplossing voor de abdij die een deel van de taken van de medische missie van het Franse Rode Kruis overneemt, met name de zorg voor de weeskinderen. In <strong>de onderlinge feminiene solidariteit</strong> waarin <strong>zorg, humaniteit en zingeving</strong> elkaar versterken, verschijnt <strong>de relativiteit van de Ideologieën</strong>. Die zijn aanwezig in de verwijzing naar <strong>het communisme</strong> dat dokter Mathilde van huis uit meekreeg, maar ook via de aanwezigheid van de Sovjetsoldaten die zich na de bevrijding van Polen focussen op het opsporen van ‘vijanden van het volk’. <strong>De Ideologie</strong> verschijnt ook in het kleed van de religie, belichaamd door <strong>de abdis</strong>. Ze handelt vanuit de absolute trouw aan het monastieke systeem ten koste van alles, ook van het leven van de ongewenste kinderen. Zuster Maria ontmaskert de wreedheid van dergelijke <strong>verharding van een religieuze beleving tot een ideologisch systeem</strong> dat zich volledig afkeert van het leven in zichzelf, de anderen en de wereld rondom hen. Wat een middel is,wordt een doel op zich. In de lijn van het portret van zuster Maria introduceert de cineaste in een van de cinematografische hoogtepunten van de film <strong>het contrast tussen de historische abdis Hildegard von Bingen via haar <em>O Vis Aeternitatis</em> op de klankband en het personage van abdis Jadwiga Oledzka op de beeldband</strong>. Ook religieuze tradities bezitten geen immuniteit tegenover de ideologische verharding. Daarin wenden ze zich af van <strong>het wonder van het leven zelf, het wonder van de Schepping</strong>, en in het kader van de film kunnen we zeggen &#39;<strong>het Licht van de Schepping</strong>&#39;. Ze gebruiken het als een instrument voor eigen machtsuitoefening. Dergelijke verworden religies voeren <strong>rituelen zonder ziel</strong> op, rituelen zonder contact met de werkelijkheid. Dat blijkt zeer scherp uit <strong>de dialoog tussen moeder overste en zuster Anna</strong>. Het is zuster Anna die op het einde samen met zuster Maria beslist om de laatst geborenen, onder andere haar eigen kind, te redden uit de handen van de abdis, door ze naar de missie van het Rode Kruis te brengen. Zuster Anna beslist ook op het einde om uit de abdij te treden op zoek naar haar ‘verloofde’ die ze niet kent. Het is een Sovjetsoldaat zonder naam. Hij heeft zuster Anna beschermd tegenover zijn medesoldaten, die zelfs met hen daarover heeft gevochten en die er ook voor heeft gezorgd dat zijn medesoldaten de zusters niet hebben vermoord, wat ze vanuit ideologische overwegingen wel geneigd waren te doen. In haar gesprek met de abdis, zegt zuster Anna dat ze haar geloof niet meer kan verzoenen met wat er is gebeurd. Ze ziet zichzelf nog steeds als een bruid van God, maar begrijpt niet waarom Hij dan heeft gewild wat er is gebeurd. </p>
+<blockquote>
+<p>Zij: ‘<em>Het is gebeurd. Dus wilde Hij het</em>.’ <br> 
+De abdis: ‘<em>We kunnen niet weten wat Gods wil is</em>.’<br> 
+Zuster Anna: ‘<em>De enige waarheid is zijn Liefde en dit leven dat ongewild in mij groeit en zich weldra openbaart, wat wil Hij dat ik daarmee doe?</em>’ Haar existentiële en religieuze vragen blijven onbeantwoord.<br> 
+Het enige wat de abdis doet, is zeggen: ‘<em>Laat ons bidden. We zullen bidden. Dat is onze enige troost</em>.’</p>
+</blockquote>
+<p> Deze ideologische respons maakt het gebed als bron van troost tot een leeg ritueel. Het kijkt weg van <strong>de opdracht om wat er in en met het leven gebeurt, onder ogen te zien en zin te geven</strong>. De abdis houdt zich krampachtig vast aan de opgelegde regels en haar eigen autocratische machtspositie (‘<em>Ik ben je overste. Gehoorzaam mij!</em>’). Zo veroordeelt ze zichzelf om <strong>ziende blind</strong> te zijn voor de dramatische gevolgen van haar gedrag tegenover de pasgeborenen en haar eigen medezusters, de onschuldigen. Aan de andere zijde van de Ideologie staat het partijcommunisme van het Sovjetleger. Dat ontleent aan zijn eigen gelijk een vrijgeleide om te verkrachten en te vermoorden. Dit heet nu de historische <strong>Sovjetschande</strong> waarnaar de film duidelijk verwijst. Dokter Mathilde vertelt aan haar collega en vriend Samuel dat ze geen partijlid is maar van huis uit communistisch is opgevoed. Haar ouders hebben hun leven geriskeerd in het verzet tegen de Duitse bezetter. In Polen ervaart ze dat een Ideologie, ook de communistische, <strong>ethisch blind</strong> wordt wanneer ze handelt vanuit <strong>een intellectuele, politieke en militaire machtsdrang</strong>. Zuster Maria en dokter Mathilde overstijgen samen die Ideologieën die het leven niet alleen in de weg staan, maar ook nog vernederen en vernietigen. Ze vinden elkaar in <strong>de humaniserende wil om de tragiek in zich op te nemen en zo het leven te dienen en verzorgen</strong>. Dokter Mathilde vindt haar motivatie in haar wil om ‘<em>levens te redden</em>’ en zuster Maria luistert naar de nood van de haar toevertrouwde jonge zusters en hun baby’s. Zo blijkt hoe <strong>de humaniserende wil tot zingeving</strong> in al zijn modaliteiten van zorg voor de menswording verankert zit in de zorg voor <strong>die ene werkelijkheid van het leven, zijn inherente tragiek inbegrepen</strong>. De film <strong>Les Innocentes</strong> is een belangrijke oefening in levensbeschouwing.</p>
+<p><span class="menstis"><strong>MAGNIFICAT IN Em</strong></span>.  <a name="CON"></a> De cineaste Anne Fontaine die zelf mee het scenario heeft geschreven, heeft ervoor gekozen om twee belangrijke zusterpersonages <strong>Maria</strong> en <strong>Anna</strong> te noemen. Dat is zeker geen toeval. Beide voornamen zijn in de christelijke traditie erg belangrijk: Maria is de naam van de moeder van Jezus en Anna is de naam van de moeder van Maria. Ook de cineaste draagt die naam als voornaam. In <strong>Les Innocentes</strong> weerklinkt zowel visueel als auditief een echo naar <strong>het Magnificat</strong>, de evangelische ode aan het moederschap van de anonieme vrouw. In <strong>het Magnificat</strong> krijgt dat moederschap een hoogst religieuze betekenis. Het evangelische Magnificat is in die zin in de eerste plaats <strong>een uiting van zingeving aan het moederschap en via het prisma van de eenvoudige, Palestijnse Maria aan alle moeders</strong>. Concreet steekt die verwijzing naar dat evangelische Magnificat in de Gregoriaanse gezangen die door de zusters worden gezongen of door de cineast worden geciteerd. De meeste ervan komen ze uit de jaarkrans van <strong>de Advent</strong>, de vier wekentijd waarin de gelovigen <strong>het feest van Kerstmis</strong> voorbereiden in bezinning en gebed. In <strong>Les Innocentes</strong> wordt er niet direct verwezen naar Kerstmis ofschoon het verhaal begint in de decembermaand. De nadruk ligt duidelijk op <strong>de Adventstijd</strong>, wat zich weerspiegelt in de zwangerschappen van de verkrachte zusters. Het hele gebeuren staat in het teken van de te verwachte geboorten. Dat sluit ook aan bij de aandacht in <strong>de evangelische kindheidsverhalen over de zwangerschap van Maria</strong>. Bovendien blijkt uit de verhalen en het exegetische onderzoek ernaar dat de zwangerschap van Maria in de ogen van de mensen ongewenst was. Eén van de historische mogelijkheden is zelfs dat de jonge, Palestijnse Maria wellicht werd verkracht door Romeinse soldaten. De link met de film <strong>Les Innocentes</strong> wordt dan wel erg groot. Hoe dan ook, de Gregoriaanse gezangen herinneren zeer expliciet aan <strong>het christelijke credo van de Incarnatie</strong> en dus van <strong>het religieuze mysterie van de Menswording</strong>. De cineaste beklemtoont dit nog eens zeer uitdrukkelijk via de klankverwijzing naar het mystieke lied van Hildegard von Bingen. De hele film is <strong>een Magnificat, maar cinematografisch geschreven in Em</strong>, de toonaard van het verdriet. In het interview met Christie Huysmans, getuigt Anne Fontaine dat <strong>de christelijke iconen van de Madonna met Kind</strong> voor haar een belangrijke inspiratiebron zijn geweest. Ook de iconen van de Madonna met King kunnen gezien worden als <strong>een visueel Magnificat in Em</strong>. Voorts slaagt de cineaste er esthetisch in om de oude Gregoriaanse gezangen zo in het filmverhaal te integreren dat de toeschouwer voor het eerst <strong>het Gregoriaans als de blues van de christelijke middeleeuwen</strong> kan ervaren. De film opent hiermee via de beslissing van de novice Teresa bij het zingend bidden van <em>Conditor Alme Siderum</em> waarvan het gezang de schreeuw van de hoogzwangere Zofia in zich opneemt. De cineaste laat de Gregoriaanse gezangen ook overgaan in de eigen en ontleende filmmuziek. Het sterkst gebeurt dat in de wake bij het opgebaarde lichaam van zuster Zofia. Het <em>Veni Creator Spiritus</em> vloeit over in de filmmuziek <em>La Ferme</em> dat als een hedendaags muzikaal requiem klinkt. Het vertolkt het grote verdriet dat zuster Maria na de wake bij de overleden Zofia en na haar ontdekking van de moord op de pasgeborenen. Dat laatste gegeven herinnert aan <strong>de kindermoord door koning Herodos de Grote</strong> in <em>Mattheus 2, 16-18</em> over de kindertijd van Jesus. Aan die bron is het kerkelijk feest ontstaan dat bekend staat als <strong>het feest van de Onnozele of Onschuldige Kinderen</strong>. Bij uitbreiding verwijst het naar alle kleine kinderen die ooit zijn vermoord door allerlei machthebbers, een praktijk die nog niet uit de mensenwereld is gebannen. De titel van de film, <strong>Les Innocentes</strong>, zinspeelt ook op die traditie waarin de figuur van Maria en haar pasgeboren kind een hoofdrol spelen. <strong>Het Magnificat in Em</strong> spreekt niet alleen uit de klankwereld van de film. Het ‘weerklinkt’ nog meer door de eigen, unieke cinematografie van Caroline Champetier. <strong>Het ingetogen winterlicht</strong> bedekt niet alleen het landschap rondom de abdij en het omliggende bos met een kleed van zuiverheid. Het beeld ontstaat niet alleen van een zuiverheid op zich, maar van <strong>een verwerkt hemels verdriet</strong>. De sneeuw is wit bevroren regen die uit de hemel komt. In een religieuze beschouwing staat regen voor de hemel die weent. De sneeuw werkt in die zin als een hemelse troost op de aarde met haar wreedheid door de mens aangericht. <strong>Het sneeuwtapijt dat het hemelse licht absorbeert op aarde</strong>, herinnert de mens aan de onschuld. Het bekleedt de met bloed doordrenkte aarde zorgend met een kleed van onschuld. In dat landschap weerklinken de voetstappen van zuster Teresa en zuster Zofia als noten op de notenbalk van de menselijke geschiedenis. <strong>Dat hemels, troostende licht</strong> woont in de abdij en begeleidt ook dokter Mathilde. De zorg van haar en die van zuster Maria vormen <strong>het sneeuwlicht dat verlossing en troost</strong> brengt in een oord dat geroepen is om een teken van onschuld te zijn in de mensenwereld. Het filmcitaat van <strong>On the Nature of the Daylight</strong> bewaart muzikaal het ingetogen verdriet én troost van het sneeuwlicht en begeleidt de eindsequenties van de lente die een nieuwe toekomst aankondigt voor de abdij, de zusters en hun weeskinderen. Het teken van onschuld dat de abdij nastreeft te zijn, was geschonden en is hersteld. De komst van dokter Mathilde maakt daar deel van uit. Uit haar engelachtige, witte verschijning op het einde vloeit de groepsfoto van de zusters met ‘hun’ kinderen voort. Dat einde van de film is niet louter fictief. De overgeleverde nota’s van Madeleine Pauliac zijn strik medisch en zakelijk, aldus Anne Fontaine in het interview met Christie Huysmans. Ze stipt daarin aan dat uit die nota’s niets kan worden afgeleid over de relatie tussen de historische dokter Madeleine en de zusters die ze heeft behandeld. Wel, zo verklaart de cineaste verder, zijn er in Polen nog gelijkaardige gevallen aan het licht gekomen. Het positieve einde van de film is geïnspireerd door wat er in een ander klooster is gebeurd.</p>
+<h2 id="-font-color-808000-context-font-"><font color="#808000"><strong>Context</strong></font></h2>
+<p> De film <strong>Les Innocentes</strong> kende zijn release in bewogen jaar <strong>2016</strong>, het jaar van de onverwachte <em>Brexit</em> en de nog meer onverwachte verkiezing van de Amerikaanse <em>president Donald Trump</em>. Deze laatste won het presidentschap van Hilary Clinton. Ze zou de eerste vrouwelijke president zijn geworden. Wat haar van de democratische overwinning heeft gehaald is <strong>de algemene opkomst van nationalistische reflexen</strong>. Zo in Engeland, zo ook in <em>het America First</em> van president Trump. De film van Anne Fontaine biedt een ingetogen maar betekenisvol antwoord op deze nationalistische opwelling in de democratische wereld, ook in Europa. Met haar film brengt Anne Fontaine <strong>de noodzakelijke herinnering aan de Tweede Wereldoorlog</strong> in beeld. Die oorlog vormde het failliet van <strong>de Europese nationalismen</strong> en het begin van de ideologische Koude Oorlog die vandaag opnieuw onder het Rusland van Poetin de kop opsteek. De film is <strong>een Europese film</strong>, het resultaat van zowel de financiële als artistieke samenwerking tussen Frankrijk en Polen, twee landen met een katholieke achtergrond en elk uit een deel van het tot voor kort ideologisch verdeelde Europa. Dergelijke culturele producties die nationalistische en ideologische grenzen overstijgen, tonen de weg naar <strong>een echte toekomst van het verenigde Europa</strong>. Ongewild verscheen deze Frans-Poolse film in de periode dat de Eureopese Unie <strong>de Pool Donald Tusk als president</strong> heeft. Naast de Europese context, heeft de film ook <strong>een kerk-katholieke context</strong>. Het brengt de vergeten groep van kloosterzusters en hun stille, zorgende bijdrage tot de christelijke, Europese cultuur naar de oppervlakte en uit de zone van de vergetelheid. Uit het eerder genoemde interview van Christie Huysmans met de cineaste weten we dat de Franciscaanse aartsbisschop José Rodriguez Carballo, werkzaam in de Romeinse Curie, <strong>Les Innocentes</strong> na de visie van de film in het Vaticaan <strong>‘un film thérapeutique pour l’Eglise’</strong> heeft genoemd. Waarin die therapie dan bestaat, blijft een open vraag. In het licht van de film zelf, blijkt de inspirerende draagwijdte van <strong>een feminiene benadering van de eeuwenoude katholieke en bij uitbreiding christelijke tradities</strong>. In het oude Europa van de naties zijn die tradities dominant mannelijk en nationaal geweest. <strong>Het klerikalisme</strong> dat de man religieus boven de vrouw stelt, geldt nog steeds. <strong>Les Innocentes</strong> laat vanuit een feminiene herinterpretatie van de die eeuwenoude tradities zien <strong>welke waardevolle betekenis het religieuze en in het bijzonder het christelijke credo</strong> heeft in <strong>het licht van de tragiek in de menselijke geschiedenis die blijkt duren</strong>. </p>
+<p><a name="LIN"></a></p>
+<h2 id="-font-color-808000-links-font-"><font color="#808000"><strong>Links</strong></font></h2>
+<p>Voor de achtergrond over de draagwijdte van de Ideologie en het fenomeen van de Lichtaard (het Licht van de Schepping), zie delen 2 en 3 van <strong>Levensbeschouwing democratisch belicht</strong>. <br>
+Klik hier voor het vermelde interview van Christie Huysmans met de cineaste Anne Fontaine. <a href="http://www.cinefemme.be/spip.php?article64">Klik hier voor het vermelde interview van Christie Huysmans met de cineaste Anne Fontaine.</a>.</p>
+<font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2017</font>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,1087 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title></title>
+  
+<link rel="shortcut icon" href="./favicon.ico" />
+<link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="./favicon-96x96.png" />
+<link rel="icon" type="image/png" sizes="16x16" href=".favicon-16x16.png" />
+
+<style>
+    html {
+      font-family: sans-serif;
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%
+    }
+
+    body {
+      margin: 0
+    }
+
+    article,
+    aside,
+    details,
+    figcaption,
+    figure,
+    footer,
+    header,
+    main,
+    menu,
+    nav,
+    section,
+    summary {
+      display: block
+    }
+
+    audio,
+    canvas,
+    progress,
+    video {
+      display: inline-block
+    }
+
+    audio:not([controls]) {
+      display: none;
+      height: 0
+    }
+
+    progress {
+      vertical-align: baseline
+    }
+
+    [hidden],
+    template {
+      display: none
+    }
+
+    a {
+      background-color: transparent;
+      -webkit-text-decoration-skip: objects
+    }
+
+    a:active,
+    a:hover {
+      outline-width: 0
+    }
+
+    abbr[title] {
+      border-bottom: none;
+      text-decoration: underline;
+      text-decoration: underline dotted
+    }
+
+    b,
+    strong {
+      font-weight: inherit;
+      font-weight: bolder
+    }
+
+    dfn {
+      font-style: italic
+    }
+
+    h1 {
+      font-size: 2em;
+      margin: .67em 0
+    }
+
+    mark {
+      background-color: #ff0;
+      color: #000
+    }
+
+    small {
+      font-size: 80%
+    }
+
+    sub,
+    sup {
+      font-size: 75%;
+      line-height: 0;
+      position: relative;
+      vertical-align: baseline
+    }
+
+    sub {
+      bottom: -.25em
+    }
+
+    sup {
+      top: -.5em
+    }
+
+    img {
+      border-style: none
+    }
+
+    svg:not(:root) {
+      overflow: hidden
+    }
+
+    code,
+    kbd,
+    pre,
+    samp {
+      font-family: monospace, monospace;
+      font-size: 1em
+    }
+
+    figure {
+      margin: 1em 40px
+    }
+
+    hr {
+      box-sizing: content-box;
+      height: 0;
+      overflow: visible
+    }
+
+    button,
+    input,
+    optgroup,
+    select,
+    textarea {
+      font: inherit;
+      margin: 0
+    }
+
+    optgroup {
+      font-weight: 700
+    }
+
+    button,
+    input {
+      overflow: visible
+    }
+
+    button,
+    select {
+      text-transform: none
+    }
+
+    [type=reset],
+    [type=submit],
+    button,
+    html [type=button] {
+      -webkit-appearance: button
+    }
+
+    [type=button]::-moz-focus-inner,
+    [type=reset]::-moz-focus-inner,
+    [type=submit]::-moz-focus-inner,
+    button::-moz-focus-inner {
+      border-style: none;
+      padding: 0
+    }
+
+    [type=button]:-moz-focusring,
+    [type=reset]:-moz-focusring,
+    [type=submit]:-moz-focusring,
+    button:-moz-focusring {
+      outline: 1px dotted ButtonText
+    }
+
+    fieldset {
+      border: 1px solid silver;
+      margin: 0 2px;
+      padding: .35em .625em .75em
+    }
+
+    legend {
+      box-sizing: border-box;
+      color: inherit;
+      display: table;
+      max-width: 100%;
+      padding: 0;
+      white-space: normal
+    }
+
+    textarea {
+      overflow: auto
+    }
+
+    [type=checkbox],
+    [type=radio] {
+      box-sizing: border-box;
+      padding: 0
+    }
+
+    [type=number]::-webkit-inner-spin-button,
+    [type=number]::-webkit-outer-spin-button {
+      height: auto
+    }
+
+    [type=search] {
+      -webkit-appearance: textfield;
+      outline-offset: -2px
+    }
+
+    [type=search]::-webkit-search-cancel-button,
+    [type=search]::-webkit-search-decoration {
+      -webkit-appearance: none
+    }
+
+    ::-webkit-input-placeholder {
+      color: inherit;
+      opacity: .54
+    }
+
+    ::-webkit-file-upload-button {
+      -webkit-appearance: button;
+      font: inherit
+    }
+
+    html {
+      font-size: 100%;
+      line-height: 1.5;
+      box-sizing: border-box;
+      overflow-y: scroll;
+    }
+
+    * {
+      box-sizing: inherit;
+    }
+
+    *:before {
+      box-sizing: inherit;
+    }
+
+    *:after {
+      box-sizing: inherit;
+    }
+
+    body {
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: Lucida Sans Unicode, Lucida Bright, Lucida Grande, sans-serif, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue;
+      font-weight: normal;
+      word-wrap: break-word;
+    }
+
+    img {
+      max-width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    h1 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 2rem;
+      line-height: 2.25rem;
+    }
+
+    h2 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1.51572rem;
+      line-height: 2.25rem;
+    }
+
+    h3 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1.31951rem;
+      line-height: 2.25rem;
+    }
+
+    h4 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1rem;
+      line-height: 1.5rem;
+    }
+
+    h5 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 0.87055rem;
+      line-height: 1.5rem;
+    }
+
+    h6 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 0.81225rem;
+      line-height: 1.5rem;
+    }
+
+    hgroup {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    ul {
+      margin-left: 1.5rem;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      list-style-position: outside;
+      list-style-image: none;
+    }
+
+    ol {
+      margin-left: 1.5rem;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      list-style-position: outside;
+      list-style-image: none;
+    }
+
+    dl {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    dd {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    p {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    figure {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    pre {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      font-size: 0.85rem;
+      line-height: 1.42;
+      background: hsla(0, 0%, 0%, 0.04);
+      border-radius: 3px;
+      overflow: auto;
+      padding: 1.5rem;
+    }
+
+    table {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      font-size: 1rem;
+      line-height: 1.5rem;
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    fieldset {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    blockquote {
+      margin-left: 1.5rem;
+      margin-right: 1.5rem;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    form {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    noscript {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    iframe {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    hr {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: calc(1.5rem - 1px);
+      background: hsla(0, 0%, 0%, 0.2);
+      border: none;
+      height: 1px;
+    }
+
+    address {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    b {
+      font-weight: bold;
+    }
+
+    strong {
+      font-weight: bold;
+    }
+
+    dt {
+      font-weight: bold;
+    }
+
+    th {
+      font-weight: bold;
+    }
+
+    li {
+      margin-bottom: calc(1.5rem / 2);
+    }
+
+    ol li {
+      padding-left: 0;
+    }
+
+    ul li {
+      padding-left: 0;
+    }
+
+    li>ol {
+      margin-left: 1.5rem;
+      margin-bottom: calc(1.5rem / 2);
+      margin-top: calc(1.5rem / 2);
+    }
+
+    li>ul {
+      margin-left: 1.5rem;
+      margin-bottom: calc(1.5rem / 2);
+      margin-top: calc(1.5rem / 2);
+    }
+
+    code {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    kbd {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    samp {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    abbr {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+    }
+
+    acronym {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+    }
+
+    abbr[title] {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+      text-decoration: none;
+    }
+
+    thead {
+      text-align: left;
+    }
+
+    td,
+    th {
+      text-align: left;
+      border-bottom: 1px solid hsla(0, 0%, 0%, 0.12);
+      font-feature-settings: tnum;
+      padding-left: 1rem;
+      padding-right: 1rem;
+      padding-top: 0.75rem;
+      padding-bottom: calc(0.75rem - 1px);
+    }
+
+    th:first-child,
+    td:first-child {
+      padding-left: 0;
+    }
+
+    th:last-child,
+    td:last-child {
+      padding-right: 0;
+    }
+
+    tt,
+    code {
+      background-color: hsla(0, 0%, 0%, 0.04);
+      border-radius: 3px;
+      font-family: Consolas, "Roboto Mono", "Liberation Mono", Menlo, Courier, monospace;
+      padding: 0;
+      padding-top: 0.2em;
+      padding-bottom: 0.2em;
+    }
+
+    pre code {
+      background: none;
+      line-height: 1.42;
+    }
+
+    code:before,
+    code:after,
+    tt:before,
+    tt:after {
+      letter-spacing: -0.2em;
+      content: " ";
+    }
+
+    pre code:before,
+    pre code:after,
+    pre tt:before,
+    pre tt:after {
+      content: "";
+    }
+  </style>
+  <style>
+    @media only screen and (min-width:700px) {
+      .breakpoint-min-width-700 {
+        display: block
+      }
+
+      .breakpoint-max-width-700 {
+        display: none
+      }
+    }
+
+    @media only screen and (max-width:700px) {
+      .breakpoint-min-width-700 {
+        display: none
+      }
+
+      .breakpoint-max-width-700 {
+        display: block
+      }
+    }
+
+    .landing-image {
+      background-image: url(/menstis-theme.jpg);
+      background-size: cover
+    }
+
+    .main-menu-item {
+      font-weight: 700
+    }
+
+    @media only screen and (min-width:1127px) {
+      .main-menu-item {
+        font-size: 1.5em
+      }
+    }
+
+    .blog-image {
+      background-image: url(/menstis-back.jpg);
+      background-size: cover;
+      background-position: 50%
+    }
+
+    body {
+      font-size: 1.5em
+    }
+
+    .page {
+      width: 100%
+    }
+
+    a {
+      color: #f26d80
+    }
+
+    a>strong {
+      color: olive
+    }
+
+    a:hover,
+    h1 {
+      color: #f26d80
+    }
+
+    h1 {
+      font-size: 2.3em
+    }
+
+    h2 {
+      color: olive;
+      font-size: 1.5em
+    }
+
+    hr {
+      border: 0;
+      height: 1px;
+      background: olive
+    }
+
+    .image-fit>img {
+      -o-object-fit: cover;
+      object-fit: cover;
+      height: 225px;
+      width: 360px;
+      position: relative;
+      display: block
+    }
+
+    .image-overlay {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      opacity: 0;
+      overflow: hidden;
+      width: 100%;
+      height: 100%;
+      transition: .5s ease
+    }
+
+    .image-fit:hover .image-overlay {
+      opacity: 1
+    }
+
+    .image-text {
+      white-space: nowrap;
+      color: #fff;
+      font-size: 1.3em;
+      font-weight: 700;
+      position: absolute;
+      overflow: hidden;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      text-shadow: #000 0 0 10px
+    }
+
+    .image-fit-uitgeverij>img {
+      -o-object-fit: cover;
+      object-fit: cover;
+      height: 200px;
+      width: 360px
+    }
+
+    .landing-item {
+      font-weight: 700;
+      font-size: 2em
+    }
+
+    .Header {
+      height: 4em;
+      text-align: center
+    }
+
+    .Header,
+    .parent-blog {
+      width: 100%;
+      display: table
+    }
+
+    .parent-blog {
+      height: 3em;
+      text-align: left;
+      padding-left: 1em
+    }
+
+    .parent-blog>.child-blog {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 2em;
+      color: #fff
+    }
+
+    .menstis-title {
+      width: 100%;
+      height: 2.5em;
+      display: table;
+      text-align: left;
+      padding-left: .5em;
+      background-image: url(/menstis-back.jpg);
+      background-size: cover;
+      background-position: 50%
+    }
+
+    .menstis-title>h1 {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 1.5em;
+      color: #fff
+    }
+
+    .parent-menu {
+      width: 100%;
+      height: 3em;
+      display: table;
+      text-align: center
+    }
+
+    .parent-menu>.child-menu {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 2em;
+      color: #fff;
+      padding: .1em
+    }
+
+    @media only screen and (max-width:726px) {
+      .parent-blog {
+        width: 100%;
+        height: 2.5em;
+        display: table;
+        text-align: left;
+        padding-left: .5em
+      }
+
+      .parent-blog>.child-blog {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 1.5em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (min-width:1127px) {
+      .parent {
+        width: 100%;
+        height: 300px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 12em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (min-width:933px) and (max-width:1127px) {
+      .parent {
+        width: 100%;
+        height: 180px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 7em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (max-width:933px) {
+      .parent {
+        width: 100%;
+        height: 110px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 4em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (max-width:726px) {
+      .parent {
+        width: 100%;
+        height: 90px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 3em;
+        color: #fff
+      }
+    }
+  </style>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.css" />
+</head>
+<body>
+  <div id="react-mount">
+    <div data-reactroot="" data-reactid="1" data-react-checksum="-2022520968">
+      <div data-reactid="2">
+  <div class="ui fluid container " data-reactid="3">
+    <div class="breakpoint-min-width-700" data-reactid="4">
+      <div class="ui massive menu pointing secondary" data-reactid="5">
+        <div class="ui container " data-reactid="6">
+          <div class="item" style="padding:0px;margin-right:20px;" data-reactid="7">
+            <div class="parent-menu blog-image " data-reactid="8">
+              <div class="child-menu" data-reactid="9"><span style="font-weight:bold;" data-reactid="10">
+                  <!-- react-text: 11 -->men(
+                  <!-- /react-text --><span style="color:#f26d80;" data-reactid="12">S</span>
+                  <!-- react-text: 13 -->)tis
+                  <!-- /react-text --></span></div>
+            </div>
+          </div><a class="item" href="/dedag/" data-reactid="14">De Dag</a><a class="item" href="/blog/"
+            data-reactid="15">Blog</a><a class="active item" href="/missie/" data-reactid="16">Missie</a><a
+            class="item" href="/film-focus/" data-reactid="17">FilmFocus</a><a class="item" href="/producties/"
+            data-reactid="18">Producties</a><a class="item" href="/webshop/" data-reactid="19">Webshop</a>
+        </div>
+      </div>
+    </div>
+    <div class="breakpoint-max-width-700" data-reactid="20">
+      <div class="parent-blog blog-image " style="text-align:center;" data-reactid="21">
+        <div class="child-blog" data-reactid="22"><span style="font-weight:bold;" data-reactid="23">
+            <!-- react-text: 24 -->men(
+            <!-- /react-text --><span style="color:#f26d80;" data-reactid="25">S</span><!-- react-text: 26 -->)tis
+            <!-- /react-text --></span></div>
+      </div>
+      <div style="height:10px;" data-reactid="27"></div>
+      <div role="combobox" aria-expanded="false" class="ui fluid search selection dropdown" data-reactid="28">
+        <select type="hidden" aria-hidden="true" data-reactid="29">
+          <option value="" data-reactid="30"></option>
+          <option value="/dedag/" data-reactid="31">De Dag</option>
+          <option value="/blog/" data-reactid="32">Blog</option>
+          <option selected="" value="/missie/" data-reactid="33">Missie</option>
+          <option value="/film-focus/" data-reactid="34">FilmFocus</option>
+          <option value="/producties/" data-reactid="35">Producties</option>
+          <option value="/webshop/" data-reactid="36">Webshop</option>
+        </select><input type="text" value="" aria-autocomplete="list" class="search" name="-search"
+          autocomplete="off" tabindex="0" data-reactid="37" />
+        <div class="text" data-reactid="38">Missie</div><i aria-hidden="true" class="dropdown icon"
+          data-reactid="39"></i>
+        <div role="listbox" class="menu transition" data-reactid="40">
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="41">
+            De Dag
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="43">
+            Blog
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="true" aria-selected="true"
+            class="active selected item" data-reactid="45">
+            Missie
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="47">
+            FilmFocus
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="49">
+            Producties
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item">
+            Webshop
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="height:10px;"></div>
+</div>
+      <div>
+        <div class="ui container" data-reactid="55">
+          <div class="markdown" data-reactid="56">
+           <h1>Samsara</h1><hr>
+<center>
+<img src="samsara.gif" >
+</center>
+
+<p><a name="KLA"></a></p>
+<h2 id="-font-color-808000-klapbord-font-"><font color="#808000"><strong>Klapbord</strong></font></h2>
+<p>Slechts enkele kleine en alternatieve bioscopen durfden het in Vlaanderen aan om de film <strong>Samsara</strong> van de Indische regisseur Pan Nalin te programmeren. De film kreeg aldus een kleine kans om een publiek te vinden. Een van die bioscopen prees de film aan met het volgende statement: &#39;<em>Een jonge boeddhistische monnik raakt volledig in de ban van een beeldschone vrouw. Hun stomende vrijscènes zorgen er uiteindelijk voor dat zijn nirvana eerder overhoop wordt gehaald</em>.&#39; Deze beschamende nonsense doet de film onrecht aan. De presentatie haalt niet eens het niveau van de reclame voor een zuiver commerciële Hollywoodfilm. Het onderkoelde cynisme bewijst volkomen blind te zijn: blind voor de beelden en blind voor hun grote spirituele rijkdom. <strong>Samsara</strong> is namelijk in tal van opzichten een meesterwerk. De film en zijn auteur verwerven zich een vaste plaats in de schatkamer van <em>de religieuze cinematografie</em>.</p>
+<p><a name="SYN"></a></p>
+<h2 id="-font-color-808000-synopsis-font-"><font color="#808000"><strong>Synopsis</strong></font></h2>
+<p>Tashi groeit op als een boeddhistische lama in het schilderachtige berglandschap van het Indische Ladakh. Hij gaat helemaal op in zijn opleiding. Via een strenge discipline en volgehouden studie wil hij de spirituele verlichting bereiken. De oudere Apo en de jongere Sonam omringen en steunen hem. Op zeker ogenblik beslist Tashi drie jaar, drie maanden en drie dagen in afzondering te gaan leven. Heel zijn bestaan staat nu in het teken van meditatie en yoga. Hij bereikt het punt van het nirvana. Met dat punt begint de film. Apo en Sonam brengen Tashi uit zijn nirvanabeleving terug naar het klooster. In boeddhistische termen betekent die terugkeer het opnieuw intreden in het samsara: de kringloop van dood en wedergeboorte. Tashi herstelt fysisch en neemt terug deel aan het kloosterleven. Toch ervaart hij bij zichzelf enige veranderingen. Het beeld van een jonge moeder die haar baby voedt, dringt diep in zijn geest binnen. Hij krijgt seksuele dromen en wordt onrustig. Tijdens een oogstfeest ontmoet hij Pema, de huwbare dochter van een plaatselijke graanboer. Na zijn inwijding in het tantrisme door een asceet, beslist Tashi het klooster te verlaten. Hij treedt binnen in de wereld van het samsara. Hij huwt Pema, ze krijgen een jongen Karma. Tashi maakt zijn schoonvader economisch onafhankelijk van de lokale graanhandelaar, Dawa. Voorts komt hij in conflict met Jamayang, de jonge man uit het dorp aan wie Pema eerder was toegewezen. Tashi ondergaat ook de verleidende kracht van de jonge seizoenarbeidster Sujata. Maar nog meer ontdekt Tashi de eigen wijsheid van Pema zelf. Op zekere dag beslist hij uit de wereld van samsara te stappen en terug te keren naar het klooster. Op zijn weg komt hij echter Pema tegen die hem confronteert met zijn verantwoordelijkheid tegenover haar en hun kind. Die confrontatie werpt Tashi letterlijk op de aarde: hij huilt en kijkt naar de hemel boven hem.</p>
+<p><a name="CIN"></a></p>
+<h2 id="-font-color-808000-cinematografie-font-"><font color="#808000"><strong>Cinematografie</strong></font></h2>
+<p><span class="menstis">AUTODIDACT</span>. Regisseur Pan Nalin  schreef samen met Tim Baker het scenario naar een eigen verhaal van Nalin. Met <strong>Samsara</strong> levert Nalin zijn eerste langspeelfilm af. Gezien het resultaat is dat een enorme verdienste. Als cineast is hij een autodidact die in 1992 een eerste kortfilm draaide, <strong>Khajuraho</strong>. Zijn spirituele Ayurveda-opvoeding thuis, zijn talrijke trektochten doorheen India en Europa, zijn werkervaring in Bollywood te Bombay, zijn filmclub waar hij retrospectieves organiseerde van het werk van Tarkovski, Goddard, Kurosawa, Eisenstein en Bunuel, zijn spirituele leerschool in de Himalayastreek, dat alles mondde in 2001 uit in twee belangrijke internationale films: de fictiefilm <strong>Samsara</strong> en de lange documentaire film <strong>Ayurveda: Art of Being</strong>.</p>
+<p><span class="menstis">ZENEMATOGRAFIE</span>. Het heeft Nalin zeven jaar gekost om de hele productie van <strong>Samsara</strong> rond te krijgen. In <strong>Samsara</strong> ontwikkelt hij een cinematografie die hijzelf doopt met de nieuwe naam <em>zenematografie</em>. Het begrip vertrekt van het boeddhistische begrip zen. De cineast gebruikt het niet in de strikte zin van het Japanse zenboeddhisme. Zen verschijnt hier in een algemene zin, en duidt op de oosterse cultuur waarin meditatie en yoga binnen een vooral boeddhistische omgeving centraal staan. In <strong>Samsara</strong> gaat het om een Tibetaans boeddhisme met veel lokale, Noord-Indische accenten en met een expliciete inbreng van het tantrisme, een in wezen hindoeïtische religie. Deze zenematografische werkwijze impliceert dat de filmploeg, technici en acteurs, tijdens het draaien spirituele werksessies houden. Ze mediteren en beoefenen yoga. Uiteraard uit zich deze cinematografie in de kunst van de beelden en de klanken zelf. Een belangrijk zenematografisch aspect betreft <em>de wereld van het licht en de daarmee verbonden kleuren</em>. De proloog van de film die tevens als generiek dient, introduceert de toeschouwer in <em>de adembenemende, picturale schoonheid van het Indische hooggebebergte in Ladakh</em>. Het licht regisseert. Het onthult een landschap met wijdte en een diepte die de mens sprakeloos maakt en hem tot inkeer brengt. Uit datzelfde magische licht ontstaat ook de diverse kleuren. De filmcrew heeft de grootste zorg besteed aan de kleding van de personages. Vooral aan de kleuren ervan besteedde men heel veel aandacht. Via hun kleding integreren de personages zich in de omgeving of vormen ze ermee een contrast. Dat gegeven speelt ook dramatisch mee op het niveau van het scenario en wel op twee cruciale vlakken. Ten eerste, voltrekt het personage Tashi een belangrijke beweging die begint in de duisternis van zijn nirvanaverblijf: Apo en Sonam brengen hem terug in de werkelijkheid van het licht en dekken Tashi&#39;s ogen af om te voorkomen dat hij tijdens de overgang van duisternis naar licht zijn ogen niet schaadt. Ten tweede, het personge Tashi draagt verschillende kleren in de loop van de film. De spirituele fasen die hij doormaakt, verbeelden zich in zijn kleding.</p>
+<p><span class="menstis">SOUNDSCAPE</span>. Van de talrijke cinematografische kwaliteiten valt ook de verzorgde klankband op.  <strong>Samsara</strong> kent weinig gesproken passages. Dat betekent niet dat de meeste sequenties stil zijn. Veeleer vormen de reële dingen en gebeurtenissen het klankmilieu van <strong>Samsara</strong>. In de eerste plaats geldt dat voor de bergwind. De talrijke beelden van typische Tibetaanse wimpels maken de alom aanwezige en sterke onzichtbare wind tastbaar. De natuurlijke muziek van de bergstroom begeleidt als een vast personage de mentale reis van Tashi. Voorts weerklinkt op een indringende wijze de cultische muziek van de monniken, alsook de etnische muziek van de feestende boerengemeenschap.</p>
+<p><span class="menstis">CIRKEL</span>. De film bevat een rijkdom aan beeldcomposities waarvan de eigen picturale waarde de uitwerking van de betekeniswereld ondersteunt. Er zijn de panoramische beelden die de goed gekozen close-ups omkaderen. Het ritme van de seizoenen krijgt veel aandacht; vooral de sequenties in de winter en die in de oogsttijd dragen hun betekenis over op wat er met de personages gebeurt. Een belangrijk cinematografisch element ent zich op de spirituele titel: <strong>Samsara</strong>. Daarin staat de figuur van de cirkel - de kringloop - centraal. In de geest van de zenemotagrafie gaat het om een dynamische cirkel. De cirkel van de kringloop omschrijft bijvoorbeeld <em>het zeer indrukwekkende openingstafereel met de arend</em> die ook terugkeert in het slotbeeld. Voorts componeert de zenemotografische cirkel <em>de bijzonder originele montage en poëzie van de eerste liefdescène tussen Tashi en Pema</em>. In andere sequenties blijft de camera onbeweeglijk, maar komt de cirkelbeweging in het beeld voor vanuit de beweging van de personages zelf: de opvallend opgebouwde verleidingsscène met Sujata en Tashi, en de dramatische confrontatiescène met Pema en Tashi.</p>
+<p><a name="BET"></a></p>
+<h2 id="-font-color-808000-betekenisruimte-font-"><font color="#808000"><strong>Betekenisruimte</strong></font></h2>
+<p>De zenematografie van <strong>Samsara</strong> schildert via het portret van het hoofdpersonage lama Tashi een boeiende en inspirerende betekeniswereld. De film blijft niet steken in een documentair exotisme. De personages krijgen een eigenheid die past binnen de ontwikkeling van een beeldend uitgewerkt, spiritueel drama. In de kern van dat drama ontwikkelt Nalin Pan een eigen origineel denken dat zijn diepe wortels heeft in <em>de religieuze en spirituele tradities van het Oosten</em>, zowel van de Indische als de Chinese culturen, alsook in <em>de religieuze en spirituele traditie van de Europese auteurscinema van auteurs als Tarkovski, Bunuel en Godard</em>. Wat deze Europese cineasten doen met de Europese, christelijke tradities, realiseert Nalin Pan ten aanzien van de overgeleverde oosterse tradities van vooral het Mahayana boeddhisme en het hindoeïstische tantrisme. Hieruit blijkt dat in het spirituele midden van het cinematografische beeld de westerse en oosterse culturen een gemeenschappelijke ontmoetingsruimte vinden. Nalins beeldende interpretatie van &#39;samsara&#39;, bevindt zich zeer dicht bij Tarkovski&#39;s verbeelding van de heilige waarde van &#39;het leven&#39;. Nalin evoceert dat er in wezen geen scheiding dient te bestaan tussen spirituele waarden en het concrete leven van de mens. In bepaalde boeddhistische interpretaties begint spiritualiteit wanneer iemand <em>de kringloop van dood en wedergeboorte</em> verlaat. Nalin brengt het drama in beeld waarbij de boeddhistische monnik Tashi <em>de omgekeerde weg</em> aflegt: van het bijna-nirvana punt, eigen aan het streven van de monnik, naar het samsara punt, eigen aan het leven dat mensen iedere dag ervaren en waaraan ze een zin geven...met vallen en opstaan.</p>
+<p><a name="CON"></a></p>
+<h2 id="-font-color-808000-context-font-"><font color="#808000"><strong>Context</strong></font></h2>
+<p>Pan Nalins <strong>Samsara</strong> is de eerste langspeelfilm die volledig is opgenomen in <em>Ladakh</em>. Het gebied bevindt zich in Noord-Indië. Het wordt omzoomd door <em>de bergketens van de Grote Himalaya en de Karakoram</em>. Een deel behoort tot de Indische provincie Jamnu, een ander deel tot de Indische provincie Kasmir. Het bevindt zich dus in het gebied waar Indië en Pakistan elkaar diplomatiek en militair bestrijden. Het gebied is zowel historisch als geografisch erg ongewoon voor Indië. Het wordt trouwens ook &#39;Klein Tibet&#39; genoemd. Gezien de grote onderdrukking van de Chinese Tibetaanse cultuur wint <em>het ongeschonden Tibetaanse Ladakh</em> aan belang. Alleen het gevaarlijke westerse, cultuur- en sporttoerisme kan op termijn een bedreiging vormen. Ook dat aspect haalt Nalin aan in <strong>Samsara</strong>. De film betreft een productie van de Duitse maatschappij <em>Pandora Film</em>, gesticht in 1981 en ondertussen uitgegroeid tot het grootste Europese productiehuis voor internationale kunstfilms. Dezelfde productiemaatschappij realiseerde onder andere de erg antropologische en documentair ogende langspeelfilm <strong>Himalaya</strong> van Eric Valli, alsook de tantristische Indische film <strong>Kama Sutra</strong> van Mira Nair. Het productiehuis engageerde zich ook voor films als <strong>Nostalghia</strong> van Tarkovski en <strong>Farewell, My Concubine</strong> van Chen Kaige.</p>
+<p><a name="LIN"></a></p>
+<h2 id="-font-color-808000-links-font-"><font color="#808000"><strong>Links</strong></font></h2>
+<p>Het religieuze levensfenomeen van het licht speelt een hoofdrol in het derde deel van <a href="http://www.menstis.be/uitgeverij/Levensbeschouwing/">Levensbeschouwing democratisch belicht</a>, waar het fenomeen <em>De Lichtaard</em> heet. </p>
+<p>Over <a href="https://en.wikipedia.org/wiki/Pan_Nalin">Nalin</a>.</p>
+<font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2011/2017.</font>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

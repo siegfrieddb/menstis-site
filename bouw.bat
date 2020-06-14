@@ -1,1 +1,1 @@
-deno  bin.ts
+deno run --allow-read --allow-write bin.ts
