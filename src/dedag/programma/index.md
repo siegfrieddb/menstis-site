@@ -2,7 +2,7 @@
 title: Programma 2021
 ---
 
-Het progamma van de **30ste editie** van **De Dag** op krokusmaandag **15 februari 2021** heeft als thema **Beeldgebed**. Het thema is ontleend aan het gelijknamige  [boekje](http://www.menstis.be/webshop/Beeldgebed/) van Sylvain De Bleeckere, verschenen in 2020 en gepresenteerd tijdens **De Dag**. dat tijdens de vorige editie is verschenen.  Het programma verschijnt hier midden december 2020. Er is echter een groot voorbehoud aan verbonden. Wegens de heersende corona-crisis is het nu helemaal niet duidelijk of **De Dag** zal kunnen doorgaan. Van zodra daarover duidelijkheid bestaat, wordt dit hier meegedeeld. Ook op haar Facebook-pagina van **De Dag van de Religieuze Film** zal Men(S)tis vzw daarover communiceren.
+Het progamma van de **30ste editie** van **De Dag** op krokusmaandag **15 februari 2021** heeft als thema **Beeldgebed**. Het thema is ontleend aan het gelijknamige  [boekje](http://www.menstis.be/webshop/Beeldgebed/) van Sylvain De Bleeckere, verschenen in 2020 en gepresenteerd tijdens **De Dag**. dat tijdens de vorige editie is verschenen.  Het programma verschijnt hier midden december 2020. Er is echter een groot voorbehoud aan verbonden. Wegens de heersende corona-crisis is het nu helemaal niet duidelijk of **De Dag** in 2021 zal kunnen doorgaan. Van zodra daarover duidelijkheid bestaat, wordt dit hier meegedeeld. Ook op haar Facebook-pagina van **De Dag van de Religieuze Film** zal Men(S)tis vzw daarover haar volgers informeren.
 
 <img src="dh.jpg">
 
