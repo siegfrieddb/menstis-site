@@ -162,7 +162,13 @@ class JsonRender implements RenderType {
     output: GenOutput,
     entry: SrcEntry,
   ): Promise<void> {
-    let json = JSON.parse(decoder.decode(await input.readFile(entry.path)));
+    let json = null
+    try {
+      json = JSON.parse(decoder.decode(await input.readFile(entry.path)));
+    }
+    catch (er) {
+      throw new Error(`Error in file: ${entry.path}, message: ${er.message}`)
+    }
     if (json.template) {
       //we need to do template things
       try {

@@ -1,0 +1,1102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title></title>
+  
+<link rel="shortcut icon" href="./favicon.ico" />
+<link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="./favicon-96x96.png" />
+<link rel="icon" type="image/png" sizes="16x16" href=".favicon-16x16.png" />
+
+<style>
+    html {
+      font-family: sans-serif;
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%
+    }
+
+    body {
+      margin: 0
+    }
+
+    article,
+    aside,
+    details,
+    figcaption,
+    figure,
+    footer,
+    header,
+    main,
+    menu,
+    nav,
+    section,
+    summary {
+      display: block
+    }
+
+    audio,
+    canvas,
+    progress,
+    video {
+      display: inline-block
+    }
+
+    audio:not([controls]) {
+      display: none;
+      height: 0
+    }
+
+    progress {
+      vertical-align: baseline
+    }
+
+    [hidden],
+    template {
+      display: none
+    }
+
+    a {
+      background-color: transparent;
+      -webkit-text-decoration-skip: objects
+    }
+
+    a:active,
+    a:hover {
+      outline-width: 0
+    }
+
+    abbr[title] {
+      border-bottom: none;
+      text-decoration: underline;
+      text-decoration: underline dotted
+    }
+
+    b,
+    strong {
+      font-weight: inherit;
+      font-weight: bolder
+    }
+
+    dfn {
+      font-style: italic
+    }
+
+    h1 {
+      font-size: 2em;
+      margin: .67em 0
+    }
+
+    mark {
+      background-color: #ff0;
+      color: #000
+    }
+
+    small {
+      font-size: 80%
+    }
+
+    sub,
+    sup {
+      font-size: 75%;
+      line-height: 0;
+      position: relative;
+      vertical-align: baseline
+    }
+
+    sub {
+      bottom: -.25em
+    }
+
+    sup {
+      top: -.5em
+    }
+
+    img {
+      border-style: none
+    }
+
+    svg:not(:root) {
+      overflow: hidden
+    }
+
+    code,
+    kbd,
+    pre,
+    samp {
+      font-family: monospace, monospace;
+      font-size: 1em
+    }
+
+    figure {
+      margin: 1em 40px
+    }
+
+    hr {
+      box-sizing: content-box;
+      height: 0;
+      overflow: visible
+    }
+
+    button,
+    input,
+    optgroup,
+    select,
+    textarea {
+      font: inherit;
+      margin: 0
+    }
+
+    optgroup {
+      font-weight: 700
+    }
+
+    button,
+    input {
+      overflow: visible
+    }
+
+    button,
+    select {
+      text-transform: none
+    }
+
+    [type=reset],
+    [type=submit],
+    button,
+    html [type=button] {
+      -webkit-appearance: button
+    }
+
+    [type=button]::-moz-focus-inner,
+    [type=reset]::-moz-focus-inner,
+    [type=submit]::-moz-focus-inner,
+    button::-moz-focus-inner {
+      border-style: none;
+      padding: 0
+    }
+
+    [type=button]:-moz-focusring,
+    [type=reset]:-moz-focusring,
+    [type=submit]:-moz-focusring,
+    button:-moz-focusring {
+      outline: 1px dotted ButtonText
+    }
+
+    fieldset {
+      border: 1px solid silver;
+      margin: 0 2px;
+      padding: .35em .625em .75em
+    }
+
+    legend {
+      box-sizing: border-box;
+      color: inherit;
+      display: table;
+      max-width: 100%;
+      padding: 0;
+      white-space: normal
+    }
+
+    textarea {
+      overflow: auto
+    }
+
+    [type=checkbox],
+    [type=radio] {
+      box-sizing: border-box;
+      padding: 0
+    }
+
+    [type=number]::-webkit-inner-spin-button,
+    [type=number]::-webkit-outer-spin-button {
+      height: auto
+    }
+
+    [type=search] {
+      -webkit-appearance: textfield;
+      outline-offset: -2px
+    }
+
+    [type=search]::-webkit-search-cancel-button,
+    [type=search]::-webkit-search-decoration {
+      -webkit-appearance: none
+    }
+
+    ::-webkit-input-placeholder {
+      color: inherit;
+      opacity: .54
+    }
+
+    ::-webkit-file-upload-button {
+      -webkit-appearance: button;
+      font: inherit
+    }
+
+    html {
+      font-size: 100%;
+      line-height: 1.5;
+      box-sizing: border-box;
+      overflow-y: scroll;
+    }
+
+    * {
+      box-sizing: inherit;
+    }
+
+    *:before {
+      box-sizing: inherit;
+    }
+
+    *:after {
+      box-sizing: inherit;
+    }
+
+    body {
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: Lucida Sans Unicode, Lucida Bright, Lucida Grande, sans-serif, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue;
+      font-weight: normal;
+      word-wrap: break-word;
+    }
+
+    img {
+      max-width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    h1 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 2rem;
+      line-height: 2.25rem;
+    }
+
+    h2 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1.51572rem;
+      line-height: 2.25rem;
+    }
+
+    h3 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1.31951rem;
+      line-height: 2.25rem;
+    }
+
+    h4 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1rem;
+      line-height: 1.5rem;
+    }
+
+    h5 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 0.87055rem;
+      line-height: 1.5rem;
+    }
+
+    h6 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 0.81225rem;
+      line-height: 1.5rem;
+    }
+
+    hgroup {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    ul {
+      margin-left: 1.5rem;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      list-style-position: outside;
+      list-style-image: none;
+    }
+
+    ol {
+      margin-left: 1.5rem;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      list-style-position: outside;
+      list-style-image: none;
+    }
+
+    dl {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    dd {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    p {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    figure {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    pre {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      font-size: 0.85rem;
+      line-height: 1.42;
+      background: hsla(0, 0%, 0%, 0.04);
+      border-radius: 3px;
+      overflow: auto;
+      padding: 1.5rem;
+    }
+
+    table {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      font-size: 1rem;
+      line-height: 1.5rem;
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    fieldset {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    blockquote {
+      margin-left: 1.5rem;
+      margin-right: 1.5rem;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    form {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    noscript {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    iframe {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    hr {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: calc(1.5rem - 1px);
+      background: hsla(0, 0%, 0%, 0.2);
+      border: none;
+      height: 1px;
+    }
+
+    address {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    b {
+      font-weight: bold;
+    }
+
+    strong {
+      font-weight: bold;
+    }
+
+    dt {
+      font-weight: bold;
+    }
+
+    th {
+      font-weight: bold;
+    }
+
+    li {
+      margin-bottom: calc(1.5rem / 2);
+    }
+
+    ol li {
+      padding-left: 0;
+    }
+
+    ul li {
+      padding-left: 0;
+    }
+
+    li>ol {
+      margin-left: 1.5rem;
+      margin-bottom: calc(1.5rem / 2);
+      margin-top: calc(1.5rem / 2);
+    }
+
+    li>ul {
+      margin-left: 1.5rem;
+      margin-bottom: calc(1.5rem / 2);
+      margin-top: calc(1.5rem / 2);
+    }
+
+    code {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    kbd {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    samp {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    abbr {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+    }
+
+    acronym {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+    }
+
+    abbr[title] {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+      text-decoration: none;
+    }
+
+    thead {
+      text-align: left;
+    }
+
+    td,
+    th {
+      text-align: left;
+      border-bottom: 1px solid hsla(0, 0%, 0%, 0.12);
+      font-feature-settings: tnum;
+      padding-left: 1rem;
+      padding-right: 1rem;
+      padding-top: 0.75rem;
+      padding-bottom: calc(0.75rem - 1px);
+    }
+
+    th:first-child,
+    td:first-child {
+      padding-left: 0;
+    }
+
+    th:last-child,
+    td:last-child {
+      padding-right: 0;
+    }
+
+    tt,
+    code {
+      background-color: hsla(0, 0%, 0%, 0.04);
+      border-radius: 3px;
+      font-family: Consolas, "Roboto Mono", "Liberation Mono", Menlo, Courier, monospace;
+      padding: 0;
+      padding-top: 0.2em;
+      padding-bottom: 0.2em;
+    }
+
+    pre code {
+      background: none;
+      line-height: 1.42;
+    }
+
+    code:before,
+    code:after,
+    tt:before,
+    tt:after {
+      letter-spacing: -0.2em;
+      content: " ";
+    }
+
+    pre code:before,
+    pre code:after,
+    pre tt:before,
+    pre tt:after {
+      content: "";
+    }
+  </style>
+  <style>
+    @media only screen and (min-width:700px) {
+      .breakpoint-min-width-700 {
+        display: block
+      }
+
+      .breakpoint-max-width-700 {
+        display: none
+      }
+    }
+
+    @media only screen and (max-width:700px) {
+      .breakpoint-min-width-700 {
+        display: none
+      }
+
+      .breakpoint-max-width-700 {
+        display: block
+      }
+    }
+
+    .landing-image {
+      background-image: url(/menstis-theme.jpg);
+      background-size: cover
+    }
+
+    .main-menu-item {
+      font-weight: 700
+    }
+
+    @media only screen and (min-width:1127px) {
+      .main-menu-item {
+        font-size: 1.5em
+      }
+    }
+
+    .blog-image {
+      background-image: url(/menstis-back.jpg);
+      background-size: cover;
+      background-position: 50%
+    }
+
+    body {
+      font-size: 1.5em
+    }
+
+    .page {
+      width: 100%
+    }
+
+    a {
+      color: #f26d80
+    }
+
+    a>strong {
+      color: olive
+    }
+
+    a:hover,
+    h1 {
+      color: #f26d80
+    }
+
+    h1 {
+      font-size: 2.3em
+    }
+
+    h2 {
+      color: olive;
+      font-size: 1.5em
+    }
+
+    hr {
+      border: 0;
+      height: 1px;
+      background: olive
+    }
+
+    .image-fit>img {
+      -o-object-fit: cover;
+      object-fit: cover;
+      height: 225px;
+      width: 360px;
+      position: relative;
+      display: block
+    }
+
+    .image-overlay {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      opacity: 0;
+      overflow: hidden;
+      width: 100%;
+      height: 100%;
+      transition: .5s ease
+    }
+
+    .image-fit:hover .image-overlay {
+      opacity: 1
+    }
+
+    .image-text {
+      white-space: nowrap;
+      color: #fff;
+      font-size: 1.3em;
+      font-weight: 700;
+      position: absolute;
+      overflow: hidden;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      text-shadow: #000 0 0 10px
+    }
+
+    .image-fit-uitgeverij>img {
+      -o-object-fit: cover;
+      object-fit: cover;
+      height: 200px;
+      width: 360px
+    }
+
+    .landing-item {
+      font-weight: 700;
+      font-size: 2em
+    }
+
+    .Header {
+      height: 4em;
+      text-align: center
+    }
+
+    .Header,
+    .parent-blog {
+      width: 100%;
+      display: table
+    }
+
+    .parent-blog {
+      height: 3em;
+      text-align: left;
+      padding-left: 1em
+    }
+
+    .parent-blog>.child-blog {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 2em;
+      color: #fff
+    }
+
+    .menstis-title {
+      width: 100%;
+      height: 2.5em;
+      display: table;
+      text-align: left;
+      padding-left: .5em;
+      background-image: url(/menstis-back.jpg);
+      background-size: cover;
+      background-position: 50%
+    }
+
+    .menstis-title>h1 {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 1.5em;
+      color: #fff
+    }
+
+    .parent-menu {
+      width: 100%;
+      height: 3em;
+      display: table;
+      text-align: center
+    }
+
+    .parent-menu>.child-menu {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 2em;
+      color: #fff;
+      padding: .1em
+    }
+
+    @media only screen and (max-width:726px) {
+      .parent-blog {
+        width: 100%;
+        height: 2.5em;
+        display: table;
+        text-align: left;
+        padding-left: .5em
+      }
+
+      .parent-blog>.child-blog {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 1.5em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (min-width:1127px) {
+      .parent {
+        width: 100%;
+        height: 300px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 12em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (min-width:933px) and (max-width:1127px) {
+      .parent {
+        width: 100%;
+        height: 180px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 7em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (max-width:933px) {
+      .parent {
+        width: 100%;
+        height: 110px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 4em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (max-width:726px) {
+      .parent {
+        width: 100%;
+        height: 90px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 3em;
+        color: #fff
+      }
+    }
+  </style>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.css" />
+</head>
+<body>
+  <div id="react-mount">
+    <div data-reactroot="" data-reactid="1" data-react-checksum="-2022520968">
+      <div data-reactid="2">
+  <div class="ui fluid container " data-reactid="3">
+    <div class="breakpoint-min-width-700" data-reactid="4">
+      <div class="ui massive menu pointing secondary" data-reactid="5">
+        <div class="ui container " data-reactid="6">
+          <div class="item" style="padding:0px;margin-right:20px;" data-reactid="7">
+            <div class="parent-menu blog-image " data-reactid="8">
+              <div class="child-menu" data-reactid="9"><span style="font-weight:bold;" data-reactid="10">
+                  <!-- react-text: 11 -->men(
+                  <!-- /react-text --><span style="color:#f26d80;" data-reactid="12">S</span>
+                  <!-- react-text: 13 -->)tis
+                  <!-- /react-text --></span></div>
+            </div>
+          </div><a class="item" href="/dedag/" data-reactid="14">De Dag</a><a class="item" href="/blog/"
+            data-reactid="15">Blog</a><a class="active item" href="/missie/" data-reactid="16">Missie</a><a
+            class="item" href="/film-focus/" data-reactid="17">FilmFocus</a><a class="item" href="/producties/"
+            data-reactid="18">Producties</a><a class="item" href="/webshop/" data-reactid="19">Webshop</a>
+        </div>
+      </div>
+    </div>
+    <div class="breakpoint-max-width-700" data-reactid="20">
+      <div class="parent-blog blog-image " style="text-align:center;" data-reactid="21">
+        <div class="child-blog" data-reactid="22"><span style="font-weight:bold;" data-reactid="23">
+            <!-- react-text: 24 -->men(
+            <!-- /react-text --><span style="color:#f26d80;" data-reactid="25">S</span><!-- react-text: 26 -->)tis
+            <!-- /react-text --></span></div>
+      </div>
+      <div style="height:10px;" data-reactid="27"></div>
+      <div role="combobox" aria-expanded="false" class="ui fluid search selection dropdown" data-reactid="28">
+        <select type="hidden" aria-hidden="true" data-reactid="29">
+          <option value="" data-reactid="30"></option>
+          <option value="/dedag/" data-reactid="31">De Dag</option>
+          <option value="/blog/" data-reactid="32">Blog</option>
+          <option selected="" value="/missie/" data-reactid="33">Missie</option>
+          <option value="/film-focus/" data-reactid="34">FilmFocus</option>
+          <option value="/producties/" data-reactid="35">Producties</option>
+          <option value="/webshop/" data-reactid="36">Webshop</option>
+        </select><input type="text" value="" aria-autocomplete="list" class="search" name="-search"
+          autocomplete="off" tabindex="0" data-reactid="37" />
+        <div class="text" data-reactid="38">Missie</div><i aria-hidden="true" class="dropdown icon"
+          data-reactid="39"></i>
+        <div role="listbox" class="menu transition" data-reactid="40">
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="41">
+            De Dag
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="43">
+            Blog
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="true" aria-selected="true"
+            class="active selected item" data-reactid="45">
+            Missie
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="47">
+            FilmFocus
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="49">
+            Producties
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item">
+            Webshop
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="height:10px;"></div>
+</div>
+      <div>
+        <div class="ui container" data-reactid="55">
+          <div class="markdown" data-reactid="56">
+           <h1>Son of Saul</h1><hr>
+<center>
+<img src="sos.jpg" >
+</center>
+
+<p><a name="KLA"></a></p>
+<h2 id="-font-color-808000-klapbord-font-"><font color="#808000"><strong>Klapbord</strong></font></h2>
+<p><strong>Son of Saul</strong> is een Hongaarse film van de debuterende László Nemes. De film liet vanaf zijn wereldpremière tijdens <em>het Filmfestival van Cannes</em> in 2015 een grote indruk na. De jury gaf aan de film haar Grote Prijs. Dit is na de Gouden Palm, de meest prestigieuze prijs van het festival. Bovendien kreeg de film tijdens <em>de 88ste Academy Awards (de Oscars)</em> de award voor <em>beste niet-Engelstalige film</em>. De regisseur Nemes schreef zelf het scenario, daarbij geholpen door Clara Royer. De casting is ook bijzonder. De regisseur koos acteurs en actrices die hun eigen moedertaal moesten spreken. Er wordt in de film onder andere Duits, Hongaars, Pools en Yiddisch gesproken. Voor het hoofdpersonage koos hij <em>Géza Röhrig</em>. Hij is een orthodoxe, Hongaarse jood, tevens dichter die sinds 2000 in New York woont. Hij werkt er als leraar Joodse studies. Zijn eerste dichtbundel had Auschwitz als onderwerp en was de vertolking van <em>zijn vele bezoeken aan de site van Auschwitz-Birkenau</em> vanuit Krakau waar hij als student een tijdlang verbleef in de jaren tachtig van vorige eeuw. Toen was de site, gelegen achter het toenmalige IJzeren Gordijn, nog geen ‘toeristische’ halte. Röhrig is geen echte acteur; in de jaren tachtig van vorige eeuw speelde hij even mee in een televisieserie. Als goede kennis van de regisseur, kreeg Röhrig de vraag van de regisseur de hoofdrol in diens debuutfilm over de Holocaust voor zijn rekening te nemen. De film werd opgenomen in <em>Budafok, een wijk van Budapest</em>. De Hongaarse architect László Rajk zorgde voor <em>de reconstructie van de crematoria van Auschwitz-Birkenau</em>. Hij werkte namelijk aan de permanente Hongaarse tentoonstelling van het Auschwitz-Birkenau Staatsmuseum in Polen. Het verhaal zelf is <em>fictief</em>, maar het is ontleend aan bijzonder historische feiten. Nemes heeft zich namelijk gebaseerd op <em>de opgetekende getuigenissen van enkele overlevende Sonderkommando’s</em>. Hun nota’s staan gekend onder de internationale naam <em>The Scrolls of Auschwitz</em>. De schrijvers hebben toen hun nota’s verborgen in de grond van het terrein rond het Crematorium III van Birkenau in de hoop dat ze later zouden worden gevonden. Die zijn tussen 1945 en 1980 inderdaad door toeval ontdekt. Nicholas Chare en Dominic Williams publiceerden in 2015 hun onderzoek naar de Scrolls in hun boek <a href="https://www.google.be/search?q=the+scrolls+of+auschwitz&amp;oq=The+Scrolls+o&amp;aqs=chrome.2.69i59j69i57j0l4.8191j0j8&amp;sourceid=chrome&amp;ie=UTF-8#q=the+scrolls+of+auschwitz+pdf">Matters of Testimony: Interpreting the Scrolls of Auschwitz</a>. Er waren circa 950 Sonderkommando’s in Auschwitz-Birkenau. Negentig van hen overleefden de oorlog en het kamp. Son of Saul is het eerste filmdocument dat op de studie ervan is gebaseerd. Aan het historische fenomeen van de Sonderkommando’s werd nooit eerder een film gewijd. In Son of Saul heet het hoofdpersonage Saul. Hij wordt in het grootste vernietigingskamp als Sonderkommando tewerkgesteld. De nazi’s selecteerden namelijk een aantal sterke Joodse mannen die voor hen het monsterlijke werk dienden uit te voeren bij de vergassing en verbranding van de joodse slachtoffers in Auschwitz-Birkenau. Om te voorkomen dat die Joodse Sonderkommando’s zouden gaan samenspannen en rebelleren, werden ze na enige tijd, maximum drie maanden, vervangen en geëxecuteerd.</p>
+<p><a name="SYN"></a></p>
+<h2 id="-font-color-808000-synopsis-font-"><font color="#808000"><strong>Synopsis</strong></font></h2>
+<p><em>Saul Ausländer</em> hoort bij <em>de Hongaarse Joden</em> die in 1944 massaal naar Auschwitz-Birkenau zijn gebracht. Het Duitse leger is stilaan de oorlog aan het verliezen, en de nazi’s willen in verhoogd tempo nog zoveel mogelijk hun <em>Endlösung</em> doorvoeren. De Duitse term Endlösung staat voor de genocide van alle Joden in Europa. Het bewind in Berlijn eiste dat de vernietigingsmachine van Auschwitz-Birkenau op volle toeren draaide. Wanneer Saul Ausländer <em>in oktober 1944</em> in het kamp aankomt, wordt hij geselecteerd voor <em>de Sonderkommando’s</em>. Saul is ingedeeld bij de sectie die instaat voor het collecteren van kostbaarheden in de kleding van hen die zijn vergast, het verwijderen van de lijken uit de gaskamers en het direct daarna schrobben van de vloeren om de volgende groep slachtoffers te kunnen ‘verwerken’. Saul voert de bevelen schijnbaar apathisch en automatisch uit. Hij doet perfect wat van hem wordt verwacht. Dat verandert op de dag dat hij in de gaskamers <em>het lijk vindt van een jongen</em>. Onmiddellijk <em>ontfermt hij zich over het lichaam alsof het dat van zijn zoon betreft</em>. Hij stelt vast dat de jongen nog ademt niettegenstaande de vergassing. Hij moet toezien dat een nazi-dokter de jongen vermoordt. De dokter beveelt het lijk naar de autopsie-afdeling te brengen. Op dat ogenblik stapt Saul naar voren en biedt zich aan om het bevel uit te voeren. Zo maakt hij in de autopsie-afdeling kennis met dokter Miklós. Die blijkt ook een Hongaarse Jood te zijn die gedwongen wordt om de nazi-bevelen uit te voeren. Saul weet Miklós te overtuigen dat niet te doen in het geval van het lijk van de jongen. <em>Hij wil immers diens lijk meenemen om het een gepaste Joodse begrafenis te kunnen geven.</em> Miklós wijst de vraag van Saul niet af. Hij laat voorlopig het lijk ongeschonden en negeert ermee het bevel van de nazi-dokter. Saul zelf begint <em>zijn speurtocht naar een rabbijn</em> die het ritueel van <em>de kaddisj</em> kan uitvoeren. Hij vindt <em>rabbijn Frankel</em>. Die weigert mee te werken en stelt voor dat Saul zelf het ritueel voltrekt. Ondertussen ontstaan er binnen de groep van de Sonderkommando’s twee strekkingen. De eerste, onder leiding van de opstandige Abraham, wil met Oberkapo Biedermann, de Joodse leider van de sectie waartoe Saul en Abraham behoort, een opstand voorbereiden tegen de SS-bewakers. Van de tweede strekking is die van Bierdemann zelf de woordvoerder. Hij stelt voor om de wreedheden in het geheim te fotograferen en het fotomateriaal naar buiten te smokkelen en ermee mogelijke hulp uit te lokken. Om zijn eigen plan te kunnen uitvoeren, werkt Saul mee aan beide plannen. Via de medewerking komt hij in situaties terecht waarop hij inspeelt om een rabbijn te vinden. Zo komt hij via Abraham te weten dat er in een van de secties van de Sonderkommando’s een man is  die <em>‘de Renegaat’</em> wordt genoemd. Hij is van Griekse origine en was voorheen wellicht een rabbijn. Saul zegt in ruil aan Abraham toe om mee te werken met het fotografieplan. Saul vindt de Renegaat bij de leden van de sectie die de assen uit de gasovens in de nabijgelegen rivier moeten scheppen. Wanneer de Renegaat echter weigert in te gaan op Sauls vraag, veroorzaakt Saul bewust een incident om de man toch te dwingen om mee te werken. Het incident leidt tot een ondervraging door de SS-commandant die de Renegaat executeert en Saul terugstuurt naar zijn sectie. Daar slaagt Saul erin het lijk van de jongen dat Miklós heeft verborgen in de autopsiekamer, mee te nemen naar de barak van de Sonderkommando’s in afwachting dat hij een rabbijn vindt. Saul wordt opgeroepen om de tafel op te ruimte van SS-commandant Voss, de nazi-baas van de gaskamers en verbrandingsovens. Saul hoort Voss Biedermann bevelen hem een lijst van zeventig namen te bezorgen. Hieruit leidt Biedermann af dat de mannen van zijn sectie waartoe ook Saul behoort, kortelings zullen worden omgebracht. In overleg met Abraham, besluit Biedermann een opstand voor te bereiden. Saul moet in het kamp van de vrouwen via Ella een pakje met dynamiet zien weg te smokkelen. De vrouw herkent hem, noemt zijn naam en zoekt toenadering, maar Saul blijft gefocust en houdt afstand. Onderweg naar zijn barak, komt Saul terecht in een groep van Hongaarse Joden die pas in het kamp zijn gearriveerd. Ze worden direct naar het bos gebracht om te worden geëxecuteerd. Onmiddellijk gaat Saul op zoek naar een mogelijke rabbijn onder de nieuwelingen. De Fransman <em>Braun</em> maakt zich bekend bij Saul en zegt dat hij een rabbijn is. Daarop vermomt Saul Braun als een Sonderkommando en neemt hem mee naar de barak. Daar stelt Saul vast dat hij tijdens het tumult in het bos zijn pakje dynamiet is kwijtgespeeld. Ondertussen heeft Abraham het lijk van de jongen ontdekt in de barak. Daarover ondervraagd door Abraham, onthult Saul dat de jongen zijn zoon is. Abraham weigert dat te geloven. Tijdens het morgenappel zien Miklós en Saul elkaar. Miklós eist van Saul een ander lijk ter vervanging van dat van de jongen. Wanneer de sectie terug aan het werk moet, ontdekken de mannen dat hun leider Biedermann door de SS is geëxecuteerd. Daarop start Abraham <em>de rebellie</em>. Van dat tumult maakt Saul gebruik om het lijk van de jongen mee te nemen naar de bossen. Hij neemt ook Braun mee. Bij de rivier wil Saul het lijk begraven. Hij vraagt Braun het gebed uit te spreken, maar de man blijkt vals te hebben gespeeld. <em>Hij kent het gebed niet, hij blijkt geen rabbijn te zijn</em>. Daarop steekt Saul met het lijk de rivier over, maar door het gewicht en de stroming kan hij het lijk niet meer houden en moet hij het laten wegdrijven. Een van de medevluchters, de echte rabbijn Frankel, helpt Saul uit de rivier. De ontsnapten verzamelen in een schuur en plannen om aan te sluiten bij het Poolse verzet. Plots ontdekt Saul een Poolse jongen in de nabijheid van de schuur. Saul en de jongen glimlachen naar elkaar. Dan loopt de jongen plots weg, SS-wachten naderen de schuur. De jongen verdwijnt in het bos. </p>
+<p><a name="CIN"></a></p>
+<h2 id="-font-color-808000-cinematografie-font-"><font color="#808000"><strong>Cinematografie</strong></font></h2>
+<p><span class="menstis">CINEMATOGRAFIE VAN DE RADICALE SOLIDARITEIT.</span> De meest opvallende cinematografische keuze die de regisseur heeft gemaakt, is die van -het besloten cameraperspectief-. De panoramische zichten ontbreken met uitzondering van het slotbeeld met het bos. Er is evenmin een alwetende verteller aanwezig om de beelden toe te lichten. In die zin kent de film <em>een claustrofobische look</em>. De openingssequentie is onscherp gefilmd. De toeschouwer kijkt naar een flou beeld waarin hij figuren ziet bewegen zonder ze duidelijk te kunnen onderscheiden. Een van de figuren loopt richting camera. Van het ogenblik af dat de figuur bij de camera is gekomen, ontstaat er een scherp beeld. Hiermee geeft de regisseur een duidelijk teken aan de toeschouwer. <em>Ook de regisseur beschikt niet over aan alziend en alwetend perspectief</em>. Nemes zelf probeert midden in het gebeuren scherp te zien vanuit zijn eigen, beperkte positie. De regisseur beslist dan om zijn camera te binden aan de positie van de man die naar hem toestapt: <em>Saul</em>. Van dan af zit de camera op de hielen van het hoofdpersonage Saul. Hij kleeft er als het ware aan. Die keuze stelt de cameraman voor een grote uitdaging. De acteur en de cameraman moeten voortdurend een soort dansbeweging uitvoeren. De cameraman moet de loodzware filmcamera minutenlang bedienen door achter het hoofdpersonage afwisselend voorwaarts en achterwaarts te lopen. In vergelijking met een doorsnee film zijn er langere sequenties. In totaal bestaat <strong>Son of Saul</strong> uit tachtig cuts (onderbrekingen aangebracht tijdens de montage), terwijl een doorsnee film 200 à 300 cuts telt. Dergelijk gefocust cameragebruik is geïntroduceerd door <em>de gebroeders Dardenne</em> in hun eerste films, vooral in hun <em>Rosetta</em> (1999). Nemes radicaliseert die cinematografische benadering in zijn <strong>Son of Saul</strong> tot in het extreme. Terecht. Op die manier identificeert de cineast zich voor honderd procent met zijn hoofdpersonage. Aldus realiseert Nemes met de film een bijna één op één identificatie met het slachtoffer en bij uitbreiding alle slachtoffers, belichaamd door het personage Saul. Hier wordt <em>de camera het instrument van engagement</em>. De camera handelt als enige <em>in volle solidariteit</em> met de Holocaustslachtoffers. Dat engagement zit echter ook verankerd in <em>een narratieve logica die de historische situatie correct weerspiegelt</em>. De Scrolls of Auschwitz bevestigen samen met de studie van het grondplan van Auschwitz-Birkenau dat de Sonderkommando’s geïsoleerd leefden van de rest van het kamp. Hun barakken bevonden zich direct in de buurt van de gaskamers en verbrandingsovens. Enerzijds beseften de Sonderkommando’s dat ze bij de uitzonderingen, ja in zeker opzicht zelfs bij de geprivilegieerden, hoorden. De gemiddelde levensduur in het kamp was tien dagen na de aankomst. De Sonderkommando’s wisten dat zij dankzij hun gedwongen job langer dan wie ook van alle Joodse slachtoffers, langer in leven konden blijven. Anderzijds leefden en werkten ze volledig afgezonderd. Ze hadden geen enkel overzicht over het kamp. Ze waren volledig onwetend over de beslissingen van de SS van wie ze wisten dat die altijd het bevel konden geven om ook hen, de Sonderkommando’s, op zekere dag om te brengen. Hierdoor konden de Sonderkommando’s met geen derden communiceren over hun bijzondere ervaringen over wat ze zelf in de Scrolls ‘<em>het hart van de hel</em>’ noemen. Verschillenden voelden een sterke nood om te getuigen van hun bevoorrechte ervaringen. Van alle Joden stonden zij letterlijk aan <em>de frontlijn van de Holocaust</em>. Ook in <strong>Son of Saul</strong> blijkt die nood aan communicatie met de buitenwereld in het gegeven van het fotografieplan. De leden van de Sonderkommando’s ervoeren op de meest extreme wijze een eigenschap van ieder menselijke conditie, met name begrensd te zijn in tijd en ruimte. Zij zaten letterlijk en mentaal opgesloten in de tijd en de ruimte van de historische Holocaust. Geen enkele oog- en oorgetuige van de slachtoffers kreeg de tijd om daarvan op zo’n intense manier getuigen. <strong>Son of Saul</strong> blijft trouw aan die unieke getuigenis. Op deze wijze wordt ook de toeschouwer van de film via de camera en de microfoon deelgenoot van dit uniek, historisch getuigenis. Sinds het einde van de Tweede Wereldoorlog kan alleen de kunst van de cinematografie blijvend zo dicht bij de doorleefde horror van de historische Holocaust komen.</p>
+<p><span class="menstis">DE ARCHITECTUURMETAFOOR VAN HET LABYRINT.</span> Als er één metafoor is die de spirit van <em>onze postmoderne tijden</em> vertolkt, is het wel die van <em>het labyrint</em>. En die metafoor werd nergens zo reëel doorleefd als door de slachtoffers van de historische Holocaust. De cinematografie van <strong>Son of Saul</strong> realiseert die metafoor van het labyrint op een meesterlijke manier. Dat gebeurt tegelijk visueel en auditief. Saul krijgt nergens een overzicht van de situatie. Hij beweegt midden in <em>een enge en besloten ruimte</em>. Iedere vluchtpoging is vooraf gedoemd om te mislukken.</p>
+<p><em>De architectuurmetafoor van het labyrint</em> is voor het eerst in de westerse cultuurgeschiedenis geïntroduceerd via <em>het oud-Griekse verhaal</em> van koning Minos van Kreta, beschreven door Herodotos in zijn <em>Historiën</em> uit de 5de eeuw v.C. en vooral bekend gebleven door de literaire evocatie ervan door de Romeinse schrijver Ovidius in zijn <em>Metamorfosen</em>, voltooid in de 1ste eeuw n.C. In de oud-Griekse overlevering staat de Griekse held Theseus centraal. Hij slaagde erin het monster, de Minotaurus, opgesloten in het labyrint, aan wie de Atheners jaarlijks mensenoffers moesten brengen, te overwinnen met de hulp van <em>de draad van Ariadne</em>. De dochter van koning Minos had Theseus een bol van wollen draad meegegeven waardoor hij de weg terug kon vinden. In het oermodel van het Kretenzische labyrint is er één uitgang en is er zelfs via de list van de draad van Ariadne de mogelijkheid om er, eens binnen,gemakkelijk terug uit te geraken. </p>
+<p>De draad van Ariadne <em>onbreekt</em> in het geval van Auschwitz-Birkenau in het algemeen en in de werkplaats en het terrein van de Sonderkommando’s in het bijzonder. Saul en zijn lotgenoten bewegen zich van <em>het ene ruimtelijke cataclysme in het andere</em>. Ze hebben op geen enkele manier enig meesterschap op de labyrintische ruimte en de gebeurtenissen die er zich in voltrekken. Saul probeert in zekere zin een draad van Ariadne te vinden via het lijk van ‘zijn zoon’, maar tijdens de hopeloze ontsnapping verliest hij ook die broze draad. <strong>Son of Saul</strong> Saul werkt met de metafoor van het labyrint en breidt de betekenis ervan uit in alle richtingen. Saul bevindt zich eerst en vooral letterlijk in de labyrintische dodengang zonder uitweg. Het besef van Saul constant in een labyrint rond te lopen is niet alleen visueel uitgewerkt. Het is ook <em>auditief</em> aanwezig. Er is geen filmische muziek die van buitenaf over de beelden wordt gelegd. Saul beweegt zich namelijk in een labyrint van stemmen en geluiden waarvan hij de herkomst amper kan overzien. Támas Zányi, de verantwoordelijke voor de klankband, heeft vijf maanden gewerkt aan de sound design van <strong>Son of Saul</strong>.  </p>
+<p><a name="BET"></a></p>
+<h2 id="-font-color-808000-betekenisruimte-font-"><font color="#808000"><strong>Betekenisruimte</strong></font></h2>
+<p><span class="menstis">KADDISJ</span>. Nemes bouwt de betekeniswereld van <strong>Son of Saul</strong> op via <em>het narratief van de kaddisj</em>. Saul verzet zich, niettegenstaande de overrompelende impact van wat er gebeurt, tegen de industriële en mechanische vergassing van mensen en de dito verbranding van de lijken. Zijn verzet bestaat erin dat hij één lijk weghoudt van de verbrandingsovens met als doel het ritueel te begraven. Daartoe zoekt hij een rabbijn. Die moet namelijk bij de begrafenis het ritueel gebed van <em>de kaddisj</em> uitspreken. Met dit narratief element bouwt de regisseur de betekeniswereld van de film op de hoeksteen van <em>het joodse gebedsleven</em>. Het gebed <a href="https://www.jewishvirtuallibrary.org/the-mourners-kaddish">kaddisj</a> staat centraal tijdens de joodse liturgie in de synagoge. Het gebed scheidt de diverse delen van de eredienst. In de joodse religie speelt de <em>kaddisj</em> ook nog een grote rol tijdens het begrafenisritueel. In dat geval spreekt men van <em>de kaddisj van de rouwenden</em>. Tijdens een begrafenis wordt de kaddisj gebeden en jaarlijks wordt op de verjaardag van het overlijden in familiekring de kaddisj gebeden ter nagedachtenis van de overledene. Ook wordt de kaddisj ‘gezegd’ tijdens de elf maanden durende rouwperiode bij een overlijden. De uitdrukking ‘<em>kaddisj zeggen</em>’ verwijst altijd naar het rouwritueel. In <strong>Son of Saul</strong> gebruikt Saul de woorden _‘<em>kaddisj zeggen</em>’ wanneer hij aan de drie mannen waarvan hij denkt dat ze rabbijn zijn of zijn geweest, vraagt hem te helpen bij de begrafenis van ‘zijn zoon’. </p>
+<p>Via <em>het narratief kaddisj</em> plaatst Nemes het gebeuren van de Holocaust in de bewogen geschiedenis van het Joodse volk. Het vertrouwde Joodse gebed van de kaddisj is in <em>het Aramees</em>, op de laatste zin na die in het Hebreeuws is. Het Aramees was namelijk de taal die de Joden spraken <em>tijdens de Babylonische ballingschap</em> die volgde op de historische verwoesting van Jeruzalem, en dus ook van het hart van het jodendom, de tempel van Jeruzalem, in 583 v.C. Het zeggen van de Kaddish verbindt de generaties met elkaar, en in het bijzonder met <em>het gedeelde rouwproces</em> over het verlies van de eigen thuis en van hen die worden gemist. <em>De kaddisj</em> bewaart in zich het rouwverdriet van het hele volk, dat van generatie tot generatie wordt overgeleverd. </p>
+<p>Het opmerkelijke van de <em>kaddisj</em> als een gebed voor de dode is dat <em>diens naam niet wordt genoemd</em>. Er komt zelfs <em>geen enkele verwijzing naar de dood</em> in voor. Het gebed is namelijk <em>een uitgesproken lofprijzing van God en een heiliging van de naam van God</em>. In die zin is de <em>kaddisj</em> een <em>hymne</em>. Het is opgebouwd uit tien werkwoorden. Het getal tien verwijst naar <em>de Tien Geboden</em>, maar ook naar de tien keren dat God sprak tijdens de schepping van de wereld volgens het boek <em>Genesis</em>. In de eerste regels van de hymne wordt immers direct verwezen naar ‘<em>de wereld die Hij geschapen heeft</em>’. Voorts spreekt de hymne de hoop uit op de spoedige komst van ‘<em>de vrede uit de hemel</em>’. De laatste zin luidt: ‘<em>Hij die vrede maakt in zijn hoge sferen zal ook vrede maken voor ons en voor geheel Israël.</em>’ Het gebed sluit af met de uitnodiging aan de gelovigen het gebed te beamen: ‘<em>Zeg nu: Amen</em>’. </p>
+<p>In <strong>Son of Saul</strong> roept het narratief ‘<em>kaddisj zeggen</em>’ zowel de band met de generaties op als het rouwproces zelf. De overleden ‘zoon’ van Saul, het lijk dat Saul in zijn armen en op zijn schouder meedraagt, belichaamt letterlijk <em>alle slachtoffers van de Holocaust</em> die aan de lopende band worden vergast <em>zonder enig begrafenisritueel</em>. Hij die uitgerekend wordt gedwongen een rol te spelen in die mechanisering van het lijden en de dood van zijn volk, organiseert zijn eigen verzet door zich vast te klampen aan de kaddisj. <strong>Son of Saul</strong> is de kaddisj voor alle Joodse slachtoffers van de Holocaust. De film is een gebed.</p>
+<p><span class="menstis">JOODSE RELIGIE IN RELATIE TOT DE HOLOCAUST.</span> Nemes benadert de Holocaust consequent <em>vanuit de optiek van de slachtoffers</em>, niet vanuit die van de daders. Dat verklaart waarom hij in de opbouw van de betekeniswereld expliciet verwijst naar <em>de joodse religie via de kaddisj en de figuur van de joodse geestelijke, de rabbijn</em>. Saul heeft een strak afgelijnd doel. Hij wil onder de Sonderkommando’s en de nieuw aangevoerde slachtoffers, kost wat kost een echte rabbijn zoeken en vinden. In volgorde komt hij in contact met rabbijn Frankel, die deel uitmaakt van de sectie van Saul, de Renegaat en Braun. In de drie gevallen mislukt Saul zijn poging om de rabbijn te engageren voor het ‘<em>kaddisj zeggen</em>’. De echte rabbijn Frankel weigert, gezien de omstandigheden, de vraag van Saul ernstig te nemen. Frankels weigering houdt Saul niet tegen. Hij wil immers een ritueel correcte begrafenis, met anderen woorden een begrafenis in aanwezigheid van een rabbijn. De tweede poging van Saul betreft de Renegaat. Aan de oever van de rivier Soła waarin de assen worden gedumpt, verplicht Saul de Renegaat mee te werken aan de uitvoering van zijn plan. Ook die poging mislukt. De derde poging vindt plaats tijdens de ontsnapping. Ook die faalt. Saul heeft er alles aan gedaan om Braun te redden vanuit de overtuiging dat de man een rabbijn is. Tijdens de aanzet tot de echte begrafenis in het bos, opnieuw aan de oever van de rivier, blijkt dat Braun helemaal geen rabbijn is. Achterna gezeten door de SS-bewakers, moet Saul de begrafenis onderbreken. Hij neemt het lijkt mee en zwemt ermee de rivier over. De stroming dwingt hem echter het lijk los te laten. <em>Het stromende water</em> neemt letterlijk de last weg van zijn schouders. Dankzij de inspanningen van Saul ontkomt het lijk aan het vuur van de verbrandingsovens en gaat het op in de natuurkracht die weerstand biedt aan dat vuur, <em>het stromende water van de rivier Soła</em>. Het is de rabbijn Frankel die Saul, vechtend tegen de sterke stroming, uit de rivier helpt en hem meeneemt in het bos. Uit deze narratieve elementen blijkt dat Son of Saul de confrontatie tussen de Holocaust en de joodse religie thematiseert. Dat gebeurt uiteraard niet via een theoretische, laat staan theologische beschouwing.</p>
+<p>Behalve via het personage van de rabbijn, werkt Nemes nog via <em>drie andere belangrijke beeldmetaforen</em> een betekeniswereld uit waarin in eerste instantie <em>de Joodse cultuur</em> centraal staat. Het zijn de naam van het hoofdpersonage, het narratief vader-zoon en de metafoor van het lijk.</p>
+<p>Nemes laat de bijzondere groep van de Sonderkommando’s vertegenwoordigen door het hoofdpersonage dat <em>de Joodse naam Saul</em>,in het Latijn Saulus, draagt. De beschikbare online bronnen bevestigen allemaal dat de Hebreeuwse naam <em>Sha&#39;ul</em> de volgende betekeniskern heeft: ‘<em>gevraagd worden voor, gesmeekt of gebeden worden om</em>’. De naam krijgt in de context van <em>de geschiedenis van het Joodse volk</em>, zoals bewaard in de Bijbel, een religieuze betekenis. Hij verwijst naar een antwoord op de religieuze bede van het volk naar hun god, Jahwe, om iemand te zenden die hen uit de nood kan helpen. Saul is het goddelijke antwoord op die smeekbede van het volk. Dat verklaart waarom de betekenis van <em>de naam Saul</em> sterk historisch is <em>verankerd in de Bijbelse geschiedenis van het Joodse volk</em>. <em>De eerste koning van Israël</em> heet inderdaad <em>Saul</em>. Hij werd als eerste man door de profeet Samuel tot koning van Israël gezalfd. Saul is de eerste Messias, de eerste gestalte van het goddelijk Antwoord op de roep om hulp van Zijn volk. Saul leidde als eerste inderdaad het volk van Jahwe in diverse oorlogen tegen de vijanden van Israël, in het bijzonder de Filistijnen. In de context van het Holocaustverhaal krijgt de naam Saul via de centrale figuur van de Sonderkommando een bijzondere wending. De Hongaar Saul ervaart hoe het Joodse volk ook en vooral in de twintigste eeuw nog steeds op vijanden botst. De Holocaust lijkt nu wel <em>het summum van alle vijandige acties</em> ooit ondernomen tegen het Joodse volk te vertegenwoordigen. Dat beleeft Saul aan de lijve. Als Sonderkommando, werkzaam bij de gaskamers en de verbrandingsovens, is hij tevens een kroongetuige van <em>dat onvoorstelbaar summum aan vijandigheid en destructie ten aanzien van het Joodse volk</em>. Maar er is nog meer. De historische koning Saul slaagde er niet in zijn goddelijke opdracht om de diverse stammen van Israël samen te brengen en te verenigen in vrede en voorspoed. In die zin leeft hij ook verder als een mislukte koning die zelfs probeerde zijn opvolger, David, te vermoorden. Dat laatste mislukte echter en Saul stierf zelf, samen met zijn zoon Jonathan, tijdens een veldslag tegen de Filistijnen. Ook de Sonderkammando Saul mislukt in zijn religieuze opdracht. Hij vindt geen rabbijn om ‘zijn zoon’ ritueel te kunnen begraven. Saul wil nog ten koste van alles een messias zijn, een gezalfde, een redder, niet van de levenden, maar van de doden. Hij luistert in zekere zin naar de verstomde smeekbede van de vergaste slachtoffers. Hij neemt die roep op en gaat over tot de actie, ook al is die gedoemd om te mislukken.</p>
+<p>De beeldmetafoor Saul werkt verder door in<em> het narratief vader-zoon</em>. Er is geen ander volk dan het Joodse gekend, waarin <em>het fenomeen van de generaties</em> zo sterk doorweegt in religie en cultuur. De joodse Bijbel besteedt veel aandacht aan stambomen, een traditie die nog doorspeelt in de christelijke evangelies. Dat laatste geldt voor het Evangelie volgens Mattheus, het meeste Joodse van de vier. In Son of Saul beheerst het vader-zoon narratief de loop van de gebeurtenissen. Saul ontfermt zich bij de ontruiming van de gastkamer over een van de slachtoffers, een jongen die nog tekenen van leven geeft. Onmiddellijk adopteert hij de jongeling als zijn zoon. De regisseur laat in het midden of Saul überhaupt kinderen heeft en dan nog eventueel een zoon. De regisseur toont ook nergens een beeld van het gezicht van de jongen en er komt geen herkenningsscène voor, een moment waarin Saul de jongen effectief als zijn echte zoon herkent. Door de gebeurtenissen in het kamp van de Sonderkommando’s te bespelen vanuit de optiek van zijn dode zoon, gewikkeld in een witte lijkwade, plaatst Saul in het kamp <em>de hoeksteen van het Joodse volk</em>. De <em>identiteit</em> van het Joodse volk bestaat immers niet in de eerste plaats uit <em>de religieuze credo’s</em> zoals de onuitspreekbare naam van de ene God, het statuut van het uitverkoren volk van God, de Tien Geboden van Mozes, de voorschriften inzake hygiëne en voedsel, enzovoort. Die religieuze bijzonderheden krijgen hun ware betekenis vanuit de eerste, de <em>genetische identiteit</em>. Al wie <em>kind is van een Joodse moeder</em>, is een Jood. Wie zich als niet-Jood de Joodse godsdienst aanneemt en beoefent, is een proseliet. Hij wordt nooit een echte Jood. Dat werpt een bijzonder licht op <strong>Son of Saul</strong>. Saul komt als Sonderkommando oog in oog te staan met de uiterste consequentie van de Jodenhaat van het Duitse naziregime. De <em>nazi-ideologie</em> richtte zich niet in de eerste plaats tegen in de religie van het Jodendom. Het doelwit ervan waren niet in de eerste plaats de Joodse gelovigen en hun religieus gedrag. De nazi’s concentreerden zich op <em>de genetische hoeksteen van het Jodendom</em>. Al wie als Jood geboren is, is Jood en, in de optiek van <em>Endlösung</em>, een Jood te veel, gelovig of niet. Op basis van hun ideologie gebaseerd op <em>de biologie van het zuivere ras</em>, viseerden de nazi’s het Joodse volk als het onzuivere ras bij uitstek. In hun zoekacties naar Joden, concentreerden ze zich dan ook niet op het gegeven van de religie, maar op dat van de biologische identiteit. Dat gegeven speelt mee in <em>het narratief vader-zoon</em>, eigen aan <strong>Son of Saul</strong>. De Sonderkommando Saul adopteert de slachtoffers vanuit zijn bijzondere positie in het ene personage van ‘zijn’ zoon. In dat gebaar benut hij de laatste, kleine ruimte die hem is gegeven, om niet in de eerste plaats aan zijn eigen zelfbehoud te denken, maar om zich radicaal in te zetten voor het volk dat als een kwalijk insect wordt vertrapt en vernietigd. Saul wil zijn eigen waardigheid kost wat kost behouden door in zijn denken en handelen de Joodse identiteit te bewaren. Hij wil blijven denken en handelen vanuit het vader-zoon narratief.</p>
+<p>Nemes verdiept de beeldmetafoor vader-zoon via <em>die van het lijk</em>. Het anonieme personage van de zoon verschijnt in beeld als bijna-dood. Onmiddellijk daarna vermoordt een nazi-dokter de jongen in de autopsiekamer en daarna komt hij enkel nog in beeld gewikkeld in de lijkwade. Via dit filmische leidmotief slaagt de regisseur erin om de slachtoffers nog <em>een minimum aan waardigheid</em> te verlenen. De filmbeelden richten zich niet op de onvoorstelbare vernedering en ontwaarding van ieder humaniteit. Het blijft bij suggesties. De nadruk ligt van het begin af op <em>het stil verzet van Saul</em>. Zijn engagement bestaat erin dat hij het lijk van de jongen niet wil laten verbranden. Hij wil het een decente begrafenis geven,begeleid door een religieus ritueel. Zijn ondernemen lukt niet wat het religieuze aspect betreft, maar hij slaagt er wel in het lijk ver van de gasovens te houden. Uiteindelijk is het <em>de rivier</em> die het lijk overneemt van Saul en het meevoert in de stroming, weg van het vuur van Auschwitz-Birkenau. <em>Het stromende water waarin het hemelse licht</em> zich weerspiegelt, getuigt in alle opzichten van <em>leven</em>. Het omarmt het lijk en voert het met zijn levenskracht mee. Nemes geeft aan alle slachtoffers van Auschwitz-Birkenau en bij uitbreiding alle slachtoffers van de Holocaust, toch een waardige, humane plaats via het beeld van Sauls zorg om het lijk. Via die beeldmetafoor krijgt de Joodse betekeniswereld van de film ook <em>een algemeen humane resonantie</em>.</p>
+<p><span class="menstis">TRAGIEK EN ZINGEVING.</span> De betekenis die voortkomt uit de Joodse beeldelementen ― <em>kaddisj, de rabbijn, Saul, vader-zoon, het lijk</em> ― reikt inderdaad over de grenzen van de Joodse cultuur. Via de <em>universele beeldtaal van de cinematografie</em> strekt hun betekeniswereld zich ook uit naar <em>de hele huidige mensheid</em>. Dat gebeurt concreet via <em>het element van de taal</em>. De Joodse cultuur onderhoudt een structurele band met de taal. Ze waardeert <em>de joodse Bijbel als het Woord van God zelf</em>. De Boekrol,het Boek, het Woord, ze krijgen een goddelijk statuut. Voortdurend weerklinkt er ‘<em>En God sprak</em>’ als een mantra. Het wezen van God blijkt fundamenteel verbonden te zijn met de Taal. Het goddelijke Woord bepaalt de loop der dingen. Dit Joodse cultuurgegeven werkt door in <em>de monotheïstische religies van het Boek</em>: de christelijke kerken (‘In het begin was er het Woord/Logos’) en de islam (de Koran). Maar ook in <em>het tijdperk van de moderne staten</em> verwierf de Taal/het Woord een eersterangs statuut. De geschreven wetten regelen het openbaar leven. Ook in <em>de wetenschappen</em> (de logoi) domineert de Taal in haar verschillende academische gedaanten. Zelfs de moderne nazi-ideologie beriep zich op de wetenschappelijke Logos van de moderne biologie. In de moderne staten is via de grote impact van de communicatiemiddelen de geschreven en gesproken taal overal aanwezig. Maar in <em>het postmoderne cultuurklimaat</em> is de Taal <em>haar monopolie</em> verloren. <em>Het historische fenomeen Holocaust</em> en de verwerking ervan vanaf de tweede helft van de vorige eeuw, liggen aan de oorsprong van <em>het postmoderne cultuurbewustzijn</em>. <strong>Son of Saul</strong> laat zien wat dit inhoudt. In de betekeniswereld van de film is <em>de taal een onderdeel geworden van een stroom van geluiden en klanken</em> waarin de mens, in casu het hoofdpersonage Saul, zich beweegt. De taal is haar goddelijk statuut, haar hoofdletter, kwijtgespeeld. Er is geen enkel woord of zin die in staat is die klankenstroom stil te leggen. Niemand heeft nog een sleutel, zelfs de nazi’s bezitten die niet. Hun dominante <em>Leer (Logos) van het Ras</em> die Wet geworden is, brengt uiteindelijk een tsunami van de inwerkende werkelijkheid voor, die de meesters van de Wet, de nazi’s, zelf niet meer kunnen bedwingen. Dat blijkt uit hun falen om zelf hun monsterlijke moordmachine te bedienen. Ze zijn verplicht om een deel van hun slachtoffers in te zetten om hun even onwezenlijk als reëel dodenplan uit te voeren. Dat ervaart Saul aan de lijve. Bovendien brengt <em>de moderne ideo-Logos</em> van de nazi’s een Gruwel voort die zich tegen hen keert. Van alle slachtoffers zijn immers de Sonderkommando’s door hun positie de bevoorrechte getuigen. Ze zien en horen alles, terwijl de eigenlijke slachtoffers direct worden geneutraliseerd en vernietigd. De Sonderkommando’s zijn de enige slachtoffers met een herinnering aan de monsterlijke impact van de werkelijkheid, van <em>het vreselijke wrede contactum waarvan de regie in handen is van een elite van mensen die menen met hun Logos de macht over de werkelijkheid in handen te hebben</em>. Omwille van hun eigen rol, vormen de leden van de Sonderkommando’s een groot gevaar voor de nazi’s. Daarom worden ze zelf ook na korte tijd neergeschoten. Dat weten ze en daarom komen ze in opstand. Dat laat <strong>Son of Saul</strong> zien. Die beperkte opstand mislukt, maar is wel de voorbode van de historische militaire en morele nederlaag van de nazi’s. In die nederlaag zindert ook <em>het failliet van iedere beschaving na, die zich wil realiseren op basis van het monopolie van het Woord, de Logos</em>. Wie dat beseft, weet samen met Saul dat de postmoderne mens zich bevindt in <em>het grote labyrint van de werkelijkheid</em>. De eeuwenoude draad van Ariadne ― <em>het Woord waarvan de mens meende dat die hem doorheen het labyrint van de werkelijkheid kon leiden</em> ― is niet langer beschikbaar. </p>
+<p><strong>Son of Saul</strong> evoceert zeer pregnant hoe de mens sinds de Holocaust zijn vertrouwde draad van Ariadne voor altijd heeft verloren. De Holocaust is <em>geen fait divers</em>. Het is geen geschiedenis die voorbij is. <em>Het gebeuren herdefinieert het menselijke vermogen van de collectieve herinnering tot een onbegrensd labyrint</em>. De mens heeft <em>zijn vermogen tot herinnering</em> altijd al ervaren als de mentale plaats bij uitstek is waar hij <em>de impact van de inwerkende werkelijkheid</em> registreert. Daar ervaart de mens het sterkst <em>zijn structurele kwetsbaarheid</em>. Daar leert hij dat hij in situaties kan terecht komen waarin de impact van de werkelijkheid voor hem te immens kan zijn. Bob Dylan dicht dit sterk in de het vers van <em>Not Dark Yet</em>: ‘<em>Sometimes my burden seems more than I can bear.</em>’ Dat geldt heel in het bijzonder voor Saul. Geworpen midden het tumult van de extreme historische omstandigheden, vertoeft hij bijzonder dicht bij de immense impact van de inslaande werkelijkheid. Hij put uit de bron van zijn laatste menselijke kracht om in zijn herinnering die impact vast te houden. Die inslag is zo hevig dat ze alle goede herinneringen verdringt die Saul als mens meedroeg tot op de dag dat hij aankwam in het vernietigingskamp. Die goede herinneringen houden geen stand meer tegenover de actuele herinneringen die hij als Sonderkommando opbouwt. Die nieuwe overrompelende herinneringen <em>ontregelen</em> zijn menszijn. Hij beschikt niet meer over de menselijke middelen ― woorden, gedachten, gebeden, emoties ― om dit te plaatsen en te dragen. De laatste kiem van menselijkheid waaraan hij zich vastklampt, is die van de dode jongen, die hij adopteert als de zoon die hij wellicht nooit heeft gehad, maar die hij wel heeft gewenst, een wens die hij nu nooit meer zal kunnen in vervulling zien gaan. Hij verbergt het lijk vanuit de laatste rest van zijn sterke wil om het dode lichaam een rituele begrafenis te geven, uitgevoerd door een rabbijn. Dit blijkt een illusie te zijn.</p>
+<p>In het filmverhaal van Saul verdicht Nemes <em>het fenomeen van de geschiedenis</em>, dit is de menselijke en de door de mens gevormde tijd. De cineast laat zien hoe die geschiedenis via de herinnering <em>een onbegrensd labyrint</em> is geworden, waarvan niemand nog de ultieme betekenissleutel bezit, ook de regisseur niet. In tegenstelling met andere Holocaustfilms zoals <em>Schindler’s List</em> (1993) van Steven Spielberg, die hun eigen waarde bezitten, toont László Nemes <em>geen panoramisch overzicht</em> van de gebeurtenissen. Samen met Saul, krijgt de toeschouwer geen overkoepelend beeld van de ruimte en het gebeuren. De regisseur identificeert zich helemaal met het perspectief van zijn hoofdpersonage. Hiermee vertegenwoordigt de regisseur <em>het postmoderne blikveld</em>. De werkelijkheid die altijd is geschreven in de modus van <em>het post-Holocaust tijdperk</em>, een onbegrensd labyrint. Wie zoals de regisseur Nemes leeft en werkt in dergelijke epoche, doet dat vanuit de wil tot het scheppen van humaniteit <em>vanuit de sterke beaming van de tragiek</em>. De <em>hardnekkige wil tot zingeving</em> en de tragiek brengen elkaar voor. Zij vormen samen <em>een nieuwe humaniteit</em> midden in het labyrint van de gebeurtenissen. Interessant is, dat de film ook laat zien dat de religies en de traditionele godsdiensten <em>niet buiten die tragiek</em> staan: Sauls zoektocht naar een rabbijn mislukt. In de dramatische situatie is de rabbijn niet meer herkenbaar als rabbijn, en indien die er is, staat hij net zo min als alle andere mensen boven de stroom van de gebeurtenissen. Hij kan zich niet langer beroepen op het onaantastbare Woord van God. De rabbijn, de priester, de imam, ze maken zelf deel uit van de gebeurtenissen. De gebeurtennissen hebben hen <em>hun vertrouwde, godsdienstige draad van Ariadne</em> afgenomen. In <strong>Son of Saul</strong> vindt de rabbijn geen woorden meer om uit te brengen. Die uitvergroting van de extreme gebeurtenis, de Holocaust, het werk overigens van de moderne, verlichte mens, is één van de collectieve herinneringen die de huidige mens helpen te leven vanuit <em>de beaming van het open labyrint</em>. De wil om niet te vergeten als fundament om <em>vanuit de wil tot zingeving in de tragiek te gaan zijn</em>, is het enige anker van humaniteit dat overblijft. In de postmoderne epoche is de kunst van de cinematografie daartoe <em>onmisbaar</em> geworden. Een film als <strong>Son of Saul</strong> is absoluut noodzakelijk. Hij wijst op <em>de enige draad van Ariadne</em> die de postmoderne mens overblijft, de dunne maar onmisbare draad van <em>het werk aan de zingeving midden in de tragiek</em> met haar vermogen tot herinnering. </p>
+<p>Midden in de tragiek, is <strong>Son of Saul</strong> een <em>credo</em>. Dat blijkt uit de slotsequentie. Gefilmd met een subjectieve camera, toont de slotsequentie de laatste blik van Saul. Vanuit de close-up van zijn gelaat ontstaat dan de <em>enige sequentie met een panoramische dimensie</em>. Saul glimlacht voor de eerste keer op het ogenblik dat hij de jongen, nog een kind, ziet die uit het bos naar de schuilplaats van de Sonderkommando’s toekomt. Wanneer de SS-wachters aankomen, ziet Saul nog hoe de jongen door de SS-wachters wordt tegengehouden, waarna ze hem direct weer vrijlaten. Hij ziet nog hoe de jongen terug in het bos verdwijnt. Hoe vreemd het ook lijkt, <em>het credo</em> van die slotsequentie spreekt van <em>het ultieme geloof in de werkelijkheid van het leven, bron van zingeving midden in de menselijke tragiek</em>. Dat <em>credo</em> verschijnt in het korte, maar intense contact tussen de glimlach van Saul, de jongen en de natuur. Die verschijnt in <em>de beeldcompositie van het heldere daglicht en de bomen van het bos, geworteld in de aarde maar reikend naar de hemel</em>. Saul laatste blik is gericht op de jongen, die in metaforische zin zijn andere zoon zou kunnen zijn, die ontsnapt aan de SS en deel blijft uitmaken van <em>het grote leven op aarde</em>. Dat omvat <em>het wonderlijke weefsel van tijd en ruimte</em>, van licht, groen en aarde met in de nabijheid het stromende water van de rivier. In het postmoderne perspectief van de film suggereert Nemes dat <em>dit weefsel</em> geen nieuwe draad van Ariadne is. Het is eerder <em>een credo</em> dat toegang verleent tot het onbegrensde labyrint van tijd en ruimte, van indrukken, ervaringen, gebeurtenissen, gevoelens en gedachten, van de taal met haar eindeloze betekenisweefsels, het onbegrensde labyrint van beelden en klanken, waarin <em>tragiek en zingeving</em> elkaar versterken. </p>
+<p>  <a name="CON"></a></p>
+<h2 id="-font-color-808000-context-font-"><font color="#808000"><strong>Context</strong></font></h2>
+<p><strong>Son of Saul</strong> maakt deel uit van <em>het genre van de Holocaustfilm</em>. De film heeft er zijn eigen, unieke plaats ingenomen. Niettegenstaande het een fictiefilm betreft, slaagt hij erin de toeschouwer bijzonder dicht bij de historische realiteit te brengen via het personage van de Sonderkommando Saul. Nemes kreeg dan ook alle waardering van Claude Lanzmann, de regisseur van <em>Shoah</em>, de belangrijkste documentaire over Auschwitz tot nu toe. Lanzmann prees <strong>Son of Saul</strong> als volgt: ‘<em>It&#39;s a very new film, very original, very unusual. It&#39;s a film that gives a very real sense of what it was like to be in the Sonderkommando. It&#39;s not at all melodramatic. It&#39;s done with a very great modesty.</em>’ Bron: <a href="https://www.nytimes.com/2015/12/15/movies/in-son-of-saul-laszlo-nemes-expands-the-language-of-holocaust-films.html?_r=0">The New York Times</a>. </p>
+<p><strong>Son of Saul</strong> is bijzonder geschikt om in groep, volwassenen en jongeren vanaf zestien, te bekijken op 27 januari. Ieder jaar wordt op die dag de <a href="http://hmd.org.uk">Holocaust Memorial Day</a> georganiseerd. Groot-Brittannië neemt daarbij het voortouw. Dat wereldwijd initiatief is ontstaan uit de <em>Stockholm Declaration</em> van 2000. Toen gingen 46 regeringen akkoord om jaarlijks een dag in het teken te stellen van de Holocaust in <em>opvoeding, publieke herdenking en onderzoek</em>.</p>
+<p>De acteur Rohrig zelf getuigt in de Israëlische krant <em>Haaretz</em> van 17 april 2016 het volgende over het fenomeen en de blijvende betekenis van de <em>Sonderkommando’s</em> als volgt:<em>&#39;Even though the Sonderkommando were fed better than the other prisoners, it was only to assist in the machinery of extermination. They were under a thick and protective armor of numbness, mechanically doing their duty. In such misery, the only way to function is not to think, not to feel. The will to live becomes independent of the person. In some cases, members of the Sondercommando, in extreme despair, snuck into the gas chamber with the other prisoners. Those were saints.</em>&#39;. </p>
+<p><a name="LIN"></a></p>
+<h2 id="-font-color-808000-links-font-"><font color="#808000"><strong>Links</strong></font></h2>
+<p><a href="http://www.comingsoon.net/movies/features/641059-interview-son-of-saul-director-laszlo-nemes-and-geza-rohrig-on-the-unique-vision-of-auschwitz">Interview met Nemes en Rohrig</a></p>
+<p>De verwerking van de historische fenomeen van de Holocaust als collectieve zingeving in het kader van het ontstaan van de staat Israël, komt ook aan de orde in het derde deel van het boek <a href="http://www.menstis.be/uitgeverij/Land/">Het Beloofde Land</a>.</p>
+<p>Voor een verdieping van het gegeven &#39;tragiek en zingeving&#39;, zie <a href="http://www.menstis.be/uitgeverij/Levensbeschouwing/">Levensbeschouwing democratisch belicht</a>.</p>
+<font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2017</font>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

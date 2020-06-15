@@ -1,0 +1,1169 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title></title>
+  
+<link rel="shortcut icon" href="./favicon.ico" />
+<link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="./favicon-96x96.png" />
+<link rel="icon" type="image/png" sizes="16x16" href=".favicon-16x16.png" />
+
+<style>
+    html {
+      font-family: sans-serif;
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%
+    }
+
+    body {
+      margin: 0
+    }
+
+    article,
+    aside,
+    details,
+    figcaption,
+    figure,
+    footer,
+    header,
+    main,
+    menu,
+    nav,
+    section,
+    summary {
+      display: block
+    }
+
+    audio,
+    canvas,
+    progress,
+    video {
+      display: inline-block
+    }
+
+    audio:not([controls]) {
+      display: none;
+      height: 0
+    }
+
+    progress {
+      vertical-align: baseline
+    }
+
+    [hidden],
+    template {
+      display: none
+    }
+
+    a {
+      background-color: transparent;
+      -webkit-text-decoration-skip: objects
+    }
+
+    a:active,
+    a:hover {
+      outline-width: 0
+    }
+
+    abbr[title] {
+      border-bottom: none;
+      text-decoration: underline;
+      text-decoration: underline dotted
+    }
+
+    b,
+    strong {
+      font-weight: inherit;
+      font-weight: bolder
+    }
+
+    dfn {
+      font-style: italic
+    }
+
+    h1 {
+      font-size: 2em;
+      margin: .67em 0
+    }
+
+    mark {
+      background-color: #ff0;
+      color: #000
+    }
+
+    small {
+      font-size: 80%
+    }
+
+    sub,
+    sup {
+      font-size: 75%;
+      line-height: 0;
+      position: relative;
+      vertical-align: baseline
+    }
+
+    sub {
+      bottom: -.25em
+    }
+
+    sup {
+      top: -.5em
+    }
+
+    img {
+      border-style: none
+    }
+
+    svg:not(:root) {
+      overflow: hidden
+    }
+
+    code,
+    kbd,
+    pre,
+    samp {
+      font-family: monospace, monospace;
+      font-size: 1em
+    }
+
+    figure {
+      margin: 1em 40px
+    }
+
+    hr {
+      box-sizing: content-box;
+      height: 0;
+      overflow: visible
+    }
+
+    button,
+    input,
+    optgroup,
+    select,
+    textarea {
+      font: inherit;
+      margin: 0
+    }
+
+    optgroup {
+      font-weight: 700
+    }
+
+    button,
+    input {
+      overflow: visible
+    }
+
+    button,
+    select {
+      text-transform: none
+    }
+
+    [type=reset],
+    [type=submit],
+    button,
+    html [type=button] {
+      -webkit-appearance: button
+    }
+
+    [type=button]::-moz-focus-inner,
+    [type=reset]::-moz-focus-inner,
+    [type=submit]::-moz-focus-inner,
+    button::-moz-focus-inner {
+      border-style: none;
+      padding: 0
+    }
+
+    [type=button]:-moz-focusring,
+    [type=reset]:-moz-focusring,
+    [type=submit]:-moz-focusring,
+    button:-moz-focusring {
+      outline: 1px dotted ButtonText
+    }
+
+    fieldset {
+      border: 1px solid silver;
+      margin: 0 2px;
+      padding: .35em .625em .75em
+    }
+
+    legend {
+      box-sizing: border-box;
+      color: inherit;
+      display: table;
+      max-width: 100%;
+      padding: 0;
+      white-space: normal
+    }
+
+    textarea {
+      overflow: auto
+    }
+
+    [type=checkbox],
+    [type=radio] {
+      box-sizing: border-box;
+      padding: 0
+    }
+
+    [type=number]::-webkit-inner-spin-button,
+    [type=number]::-webkit-outer-spin-button {
+      height: auto
+    }
+
+    [type=search] {
+      -webkit-appearance: textfield;
+      outline-offset: -2px
+    }
+
+    [type=search]::-webkit-search-cancel-button,
+    [type=search]::-webkit-search-decoration {
+      -webkit-appearance: none
+    }
+
+    ::-webkit-input-placeholder {
+      color: inherit;
+      opacity: .54
+    }
+
+    ::-webkit-file-upload-button {
+      -webkit-appearance: button;
+      font: inherit
+    }
+
+    html {
+      font-size: 100%;
+      line-height: 1.5;
+      box-sizing: border-box;
+      overflow-y: scroll;
+    }
+
+    * {
+      box-sizing: inherit;
+    }
+
+    *:before {
+      box-sizing: inherit;
+    }
+
+    *:after {
+      box-sizing: inherit;
+    }
+
+    body {
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: Lucida Sans Unicode, Lucida Bright, Lucida Grande, sans-serif, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue;
+      font-weight: normal;
+      word-wrap: break-word;
+    }
+
+    img {
+      max-width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    h1 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 2rem;
+      line-height: 2.25rem;
+    }
+
+    h2 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1.51572rem;
+      line-height: 2.25rem;
+    }
+
+    h3 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1.31951rem;
+      line-height: 2.25rem;
+    }
+
+    h4 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1rem;
+      line-height: 1.5rem;
+    }
+
+    h5 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 0.87055rem;
+      line-height: 1.5rem;
+    }
+
+    h6 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 0.81225rem;
+      line-height: 1.5rem;
+    }
+
+    hgroup {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    ul {
+      margin-left: 1.5rem;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      list-style-position: outside;
+      list-style-image: none;
+    }
+
+    ol {
+      margin-left: 1.5rem;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      list-style-position: outside;
+      list-style-image: none;
+    }
+
+    dl {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    dd {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    p {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    figure {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    pre {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      font-size: 0.85rem;
+      line-height: 1.42;
+      background: hsla(0, 0%, 0%, 0.04);
+      border-radius: 3px;
+      overflow: auto;
+      padding: 1.5rem;
+    }
+
+    table {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      font-size: 1rem;
+      line-height: 1.5rem;
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    fieldset {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    blockquote {
+      margin-left: 1.5rem;
+      margin-right: 1.5rem;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    form {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    noscript {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    iframe {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    hr {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: calc(1.5rem - 1px);
+      background: hsla(0, 0%, 0%, 0.2);
+      border: none;
+      height: 1px;
+    }
+
+    address {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    b {
+      font-weight: bold;
+    }
+
+    strong {
+      font-weight: bold;
+    }
+
+    dt {
+      font-weight: bold;
+    }
+
+    th {
+      font-weight: bold;
+    }
+
+    li {
+      margin-bottom: calc(1.5rem / 2);
+    }
+
+    ol li {
+      padding-left: 0;
+    }
+
+    ul li {
+      padding-left: 0;
+    }
+
+    li>ol {
+      margin-left: 1.5rem;
+      margin-bottom: calc(1.5rem / 2);
+      margin-top: calc(1.5rem / 2);
+    }
+
+    li>ul {
+      margin-left: 1.5rem;
+      margin-bottom: calc(1.5rem / 2);
+      margin-top: calc(1.5rem / 2);
+    }
+
+    code {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    kbd {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    samp {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    abbr {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+    }
+
+    acronym {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+    }
+
+    abbr[title] {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+      text-decoration: none;
+    }
+
+    thead {
+      text-align: left;
+    }
+
+    td,
+    th {
+      text-align: left;
+      border-bottom: 1px solid hsla(0, 0%, 0%, 0.12);
+      font-feature-settings: tnum;
+      padding-left: 1rem;
+      padding-right: 1rem;
+      padding-top: 0.75rem;
+      padding-bottom: calc(0.75rem - 1px);
+    }
+
+    th:first-child,
+    td:first-child {
+      padding-left: 0;
+    }
+
+    th:last-child,
+    td:last-child {
+      padding-right: 0;
+    }
+
+    tt,
+    code {
+      background-color: hsla(0, 0%, 0%, 0.04);
+      border-radius: 3px;
+      font-family: Consolas, "Roboto Mono", "Liberation Mono", Menlo, Courier, monospace;
+      padding: 0;
+      padding-top: 0.2em;
+      padding-bottom: 0.2em;
+    }
+
+    pre code {
+      background: none;
+      line-height: 1.42;
+    }
+
+    code:before,
+    code:after,
+    tt:before,
+    tt:after {
+      letter-spacing: -0.2em;
+      content: " ";
+    }
+
+    pre code:before,
+    pre code:after,
+    pre tt:before,
+    pre tt:after {
+      content: "";
+    }
+  </style>
+  <style>
+    @media only screen and (min-width:700px) {
+      .breakpoint-min-width-700 {
+        display: block
+      }
+
+      .breakpoint-max-width-700 {
+        display: none
+      }
+    }
+
+    @media only screen and (max-width:700px) {
+      .breakpoint-min-width-700 {
+        display: none
+      }
+
+      .breakpoint-max-width-700 {
+        display: block
+      }
+    }
+
+    .landing-image {
+      background-image: url(/menstis-theme.jpg);
+      background-size: cover
+    }
+
+    .main-menu-item {
+      font-weight: 700
+    }
+
+    @media only screen and (min-width:1127px) {
+      .main-menu-item {
+        font-size: 1.5em
+      }
+    }
+
+    .blog-image {
+      background-image: url(/menstis-back.jpg);
+      background-size: cover;
+      background-position: 50%
+    }
+
+    body {
+      font-size: 1.5em
+    }
+
+    .page {
+      width: 100%
+    }
+
+    a {
+      color: #f26d80
+    }
+
+    a>strong {
+      color: olive
+    }
+
+    a:hover,
+    h1 {
+      color: #f26d80
+    }
+
+    h1 {
+      font-size: 2.3em
+    }
+
+    h2 {
+      color: olive;
+      font-size: 1.5em
+    }
+
+    hr {
+      border: 0;
+      height: 1px;
+      background: olive
+    }
+
+    .image-fit>img {
+      -o-object-fit: cover;
+      object-fit: cover;
+      height: 225px;
+      width: 360px;
+      position: relative;
+      display: block
+    }
+
+    .image-overlay {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      opacity: 0;
+      overflow: hidden;
+      width: 100%;
+      height: 100%;
+      transition: .5s ease
+    }
+
+    .image-fit:hover .image-overlay {
+      opacity: 1
+    }
+
+    .image-text {
+      white-space: nowrap;
+      color: #fff;
+      font-size: 1.3em;
+      font-weight: 700;
+      position: absolute;
+      overflow: hidden;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      text-shadow: #000 0 0 10px
+    }
+
+    .image-fit-uitgeverij>img {
+      -o-object-fit: cover;
+      object-fit: cover;
+      height: 200px;
+      width: 360px
+    }
+
+    .landing-item {
+      font-weight: 700;
+      font-size: 2em
+    }
+
+    .Header {
+      height: 4em;
+      text-align: center
+    }
+
+    .Header,
+    .parent-blog {
+      width: 100%;
+      display: table
+    }
+
+    .parent-blog {
+      height: 3em;
+      text-align: left;
+      padding-left: 1em
+    }
+
+    .parent-blog>.child-blog {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 2em;
+      color: #fff
+    }
+
+    .menstis-title {
+      width: 100%;
+      height: 2.5em;
+      display: table;
+      text-align: left;
+      padding-left: .5em;
+      background-image: url(/menstis-back.jpg);
+      background-size: cover;
+      background-position: 50%
+    }
+
+    .menstis-title>h1 {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 1.5em;
+      color: #fff
+    }
+
+    .parent-menu {
+      width: 100%;
+      height: 3em;
+      display: table;
+      text-align: center
+    }
+
+    .parent-menu>.child-menu {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 2em;
+      color: #fff;
+      padding: .1em
+    }
+
+    @media only screen and (max-width:726px) {
+      .parent-blog {
+        width: 100%;
+        height: 2.5em;
+        display: table;
+        text-align: left;
+        padding-left: .5em
+      }
+
+      .parent-blog>.child-blog {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 1.5em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (min-width:1127px) {
+      .parent {
+        width: 100%;
+        height: 300px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 12em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (min-width:933px) and (max-width:1127px) {
+      .parent {
+        width: 100%;
+        height: 180px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 7em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (max-width:933px) {
+      .parent {
+        width: 100%;
+        height: 110px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 4em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (max-width:726px) {
+      .parent {
+        width: 100%;
+        height: 90px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 3em;
+        color: #fff
+      }
+    }
+  </style>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.css" />
+</head>
+<body>
+  <div id="react-mount">
+    <div data-reactroot="" data-reactid="1" data-react-checksum="-2022520968">
+      <div data-reactid="2">
+  <div class="ui fluid container " data-reactid="3">
+    <div class="breakpoint-min-width-700" data-reactid="4">
+      <div class="ui massive menu pointing secondary" data-reactid="5">
+        <div class="ui container " data-reactid="6">
+          <div class="item" style="padding:0px;margin-right:20px;" data-reactid="7">
+            <div class="parent-menu blog-image " data-reactid="8">
+              <div class="child-menu" data-reactid="9"><span style="font-weight:bold;" data-reactid="10">
+                  <!-- react-text: 11 -->men(
+                  <!-- /react-text --><span style="color:#f26d80;" data-reactid="12">S</span>
+                  <!-- react-text: 13 -->)tis
+                  <!-- /react-text --></span></div>
+            </div>
+          </div><a class="item" href="/dedag/" data-reactid="14">De Dag</a><a class="item" href="/blog/"
+            data-reactid="15">Blog</a><a class="active item" href="/missie/" data-reactid="16">Missie</a><a
+            class="item" href="/film-focus/" data-reactid="17">FilmFocus</a><a class="item" href="/producties/"
+            data-reactid="18">Producties</a><a class="item" href="/webshop/" data-reactid="19">Webshop</a>
+        </div>
+      </div>
+    </div>
+    <div class="breakpoint-max-width-700" data-reactid="20">
+      <div class="parent-blog blog-image " style="text-align:center;" data-reactid="21">
+        <div class="child-blog" data-reactid="22"><span style="font-weight:bold;" data-reactid="23">
+            <!-- react-text: 24 -->men(
+            <!-- /react-text --><span style="color:#f26d80;" data-reactid="25">S</span><!-- react-text: 26 -->)tis
+            <!-- /react-text --></span></div>
+      </div>
+      <div style="height:10px;" data-reactid="27"></div>
+      <div role="combobox" aria-expanded="false" class="ui fluid search selection dropdown" data-reactid="28">
+        <select type="hidden" aria-hidden="true" data-reactid="29">
+          <option value="" data-reactid="30"></option>
+          <option value="/dedag/" data-reactid="31">De Dag</option>
+          <option value="/blog/" data-reactid="32">Blog</option>
+          <option selected="" value="/missie/" data-reactid="33">Missie</option>
+          <option value="/film-focus/" data-reactid="34">FilmFocus</option>
+          <option value="/producties/" data-reactid="35">Producties</option>
+          <option value="/webshop/" data-reactid="36">Webshop</option>
+        </select><input type="text" value="" aria-autocomplete="list" class="search" name="-search"
+          autocomplete="off" tabindex="0" data-reactid="37" />
+        <div class="text" data-reactid="38">Missie</div><i aria-hidden="true" class="dropdown icon"
+          data-reactid="39"></i>
+        <div role="listbox" class="menu transition" data-reactid="40">
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="41">
+            De Dag
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="43">
+            Blog
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="true" aria-selected="true"
+            class="active selected item" data-reactid="45">
+            Missie
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="47">
+            FilmFocus
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="49">
+            Producties
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item">
+            Webshop
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="height:10px;"></div>
+</div>
+      <div>
+        <div class="ui container" data-reactid="55">
+          <div class="markdown" data-reactid="56">
+           <h1>PilgrImage</h1><hr>
+<center>
+<img src="pilgrim.jpg" >
+</center>
+
+<p><a name="KLA"></a></p>
+<h2 id="-font-color-808000-klapbord-font-"><font color="#808000"><strong>Klapbord</strong></font></h2>
+<p>De kortfilm <span style="color:blue"><strong>PilgrImage</strong></span> - bekijk <a href="http://www.menstis.be/producties/Agora/AgoraMovies/">hier</a> de film - is een kleine, onafhankelijke productie van Men(S)tis (Hasselt), in samenwerking met Yot (Brugge). Het concept is van Sylvain De Bleeckere. De regie is een gemeenschappelijk werk van Sylvain De Bleeckere en Kristof Hoornaert. </p>
+<blockquote>
+<p>Met minimale middelen en veel creativiteit maakten ze de opnames in de <em>Heilige-Magdalenakerk</em> (Brugge) op 25 juni 2018, met in de hoofdrol het kerkgebouw en tal van vaste en tijdelijke beelden. Het filmpje ging in première op <em>de website van Men(S)tis</em> op 3 juli 2018. De opnames kaderden in het <a href="http://www.menstis.be/producties/Agora/">Project Agora</a> (Brugge, mei-september 2018). </p>
+<p>Enkele kunstwerken die in het kader ervan werden gerealiseerd en getoond, spelen een hoofdrol in <span style="color:blue"><strong>PilgrImage</strong></span>. De regisseurs gebruikten de tentoonstelling als een filmset. Het toont de volgende beelden uit de Agora-expositie: <em>Humana</em> van Marleen Mertens en in volgorde van verschijning de volgende werken van Jan De Wachter: de tekening <em>Madonna en de slapende geliefde</em>, het doek <em>Verlatenheid</em>, de beelden <em>Solus</em> en <em>De traan</em>, het tapijt <em>Liefdeslabyrint - Allegorie van het leven</em>, de bewerkte botscan <em>Ecce Homo</em> en het schilderij <em>De Madonna van de Tederheid</em>. </p>
+<p>Kristof Hoornaert bediende de <em>camera</em> van een eenvoudig Panasonic fototoestel, en verzorgde, in overleg met Sylvain De Bleeckere, de montage. </p>
+<p>De <em>sounddesign</em> is een gemeenschappelijk concept van  Sylvain De Bleeckere en Jan De Wachter, technisch gerealiseerd door Mark Vercnocke, en met de stem van de Russische componist Alexander Knaifel.</p>
+<p>Geert Delbeke van Yot assisteerde tijdens de opnames. </p>
+<p>Het filmpje is opgedragen aan ― de kort voor de opnames ― overleden <em>Patrick Perquy</em>, priester-leraar, romanist, bijbelkenner, cinefiel, mentor en medewerker van Yot.</p>
+</blockquote>
+<p><a name="SYN"></a></p>
+<h2 id="-font-color-808000-synopsis-font-"><font color="#808000"><strong>Synopsis</strong></font></h2>
+<p>Een pelgrim (m/v) komt aan in een katholieke kerk. De pelgrim neemt verwonderd het kerkgebouw in zich op en merkt onmiddellijk dat zijn vertrouwde beeld van een kerkgebouw niet helemaal klopt. De kaarsen aan de zuilen branden, maar er is geen kerkdienst aan de gang. Er bevindt zich een watervlak in het religieuze gebouw. Daarop staat een vrouwelijke figuur in het wit met een donkerblauwe kroon. Ze lijkt op een verschijning. De pelgrim neemt het beeld van de witte vrouw in zich op en vervolgt daarna een eigen pad doorheen de kerk. Enkele beelden gidsen de pelgrim. Net voor het betreden van het koor stapt hij op een tapijt met een labyrint. De verwondering neemt toe. Het priesterkoor waar het grote altaar zou moeten staan, is helemaal leeg. De pelgrim kijkt even rond, zoekt, ziet aan de oostelijke muur van het koor een beeld van een skelet. Plots ziet de pelgrim links een open deur met een kleine zwarte gang. Hij stapt er naar toe. Dan ontdekt de pelgrim de verborgen kamer waar twee kaarsen branden bij het grote hedendaagse schilderij met een honinggele kleur en het silhouet van de Madonna met Kind. </p>
+<p><a name="CIN"></a></p>
+<h2 id="-font-color-808000-cinematografie-font-"><font color="#808000"><strong>Cinematografie</strong></font></h2>
+<p><span style="color:darkkhaki"><strong>VOETSTAPPENMOVIE IN TRIPTIEKVORM</strong></span>. De <em>proloog</em> van <span style="color:blue"><strong>PilgrImage</strong></span> opent met een triptiek. Centraal verschijnt het beeld <em>Humana</em>, symmetrisch gekadreerd in de neogotische binnenzijde van de deuropening van de kerk. Links en rechts zijn bewegende beelden van het water waarop <em>Humana</em> zicht bevindt. Links weerspiegelt een brandglasraam het zonlicht dat speelt op het rimpelende wateroppervlak. Rechts kleurt het water blauwig door de weerkaatsing van het kleed van <em>Humana</em> op de waterspiegel. Dat blauw ontstaat door de werking van de spots die mede <em>Humana</em> belichten. De pelgrim (m/v) hoort het ruizen van de wind en het stromen van het water. </p>
+<blockquote>
+<p>Dan volgt er een <em>fade out</em> naar een zwart totaalbeeld waarop de titel verschijnt. In het midden van het Engelse woord <em>pilgrimage</em> staat de hoofdletter <em>I</em> waardoor er een woordbeeld ontstaat waarvan het tweede deel bestaat uit het woord <em>Image</em> (het Engelse woord voor <em>beeld</em>). </p>
+<p>Uit het donker van de <em>nieuwe fade out</em> na de titel verschijnt de triptiek terug. Van dan af begint het pad van de pelgrim. Zijn stem weerklinkt op de geluidsband. Hij bidt het Mariagebed in het Russisch. Bij de eerste woorden van het gebed - de aanspreking <em>Maria</em> - komen links en rechts details van de tekening <em>Madonna en de slapende geliefde</em> in beeld. Zo wordt het beeld <em>Humana</em>, nu gefilmd op de rug tegen de achtergrond van het priesterkoor met de grote glasramen, gekoppeld aan dat van de <em>Madonna</em>. De triptiek brengt beide beelden samen. <em>Humana</em> wijst de pelgrim naar de richting van het priesterkoor waar zich in een zijkapel de <em>Madonna van de Tederheid</em> bevindt. </p>
+<p>De pelgrim legt nu de weg af van <em>de zuidelijke ingang van de kerk naar het noordelijke eindpunt</em>, het priesterkoor. Hij volgt de rechtergang. Het midden van de filmtriptiek toont zijn pad. Links en rechts begeleiden hem enkele beelden die in het teken staan van verdriet en lijden: <em>Verlatenheid</em>, <em>Solus</em> en <em>De traan</em>. De pelgrim beschouwt de sculptuur van de wenende man bij de boom (<em>De traan</em>) en eindigt zijn gebed met ‘<em>Amen</em>’.  Van dan af keren het geluid van de wind in de bomen en dat van de golven van de zee terug tot aan het slotbeeld. </p>
+<p>Ondertussen eindigt de beschouwing van het beeld <em>De traan</em> met <em>een nieuwe fade out</em> naar een volledig donker beeld. Dan licht de triptiek terug op met in het midden het tapijt <em>Liefdeslabyrint - Allegorie van het leven</em>, de zijkanten blijven donker. De pelgrim verkent het labyrint en zoekt zijn weg. Dan lichten links en rechts de wegwijzers op: links het glasraam met de heilige Maria Magdalena en rechts het houten beeld van dezelfde heilige maar in een andere positie. Telkens voltrekt er zich een <em>verticale</em> beweging richting naar boven, terwijl de blik van de pelgrim nog neerwaarts richting tapijt op de grond is gericht. De opwaartse beweging van de zijpanelen begeleidt in het middelpaneel de blik van de pelgrim richting het priesterkoor waar het licht door de glasramen schijnt. </p>
+<p>Nu bevindt de pelgrim zich in een nieuwe ruimte die hij verwonderd verkent. Hij ziet echter enkel de leegte van het priesterkoor en het beeld <em>Ecce Homo</em> dat getuigt van ziekte en lijden. De beelden van de zijpanelen zijn nu helemaal donker geworden. </p>
+<p>Na enige aarzeling merkt de pelgrim een <em>open gang</em> die helemaal donker is. Hij stapt de donkerte in. <em>Fade out</em>. Ook het beeld ‘kleurt’ (opnieuw) donker. </p>
+<p>Dan licht uit die duisternis de <em>epiloog</em> van <span style="color:blue"><strong>PilgrImage</strong></span>. Het is een totaalbeeld op met de <em>Madonna van de Tederheid</em> die zich in de kamer bevindt die de pelgrim heeft betreden via de donkere gang. De triptiek is weg, er is nu enkel het statische totaalbeeld met de <em>Madonna van de Tederheid</em> en de twee brandende kaarsen. De camera neemt de positie in van de beschouwende pelgrim die aan het einde van zijn weg is gekomen. </p>
+<p>Laatste <em>fade out</em>. Dan volgt nog het beeld met eindgeneriek.</p>
+</blockquote>
+<p><span style="color:darkkhaki"><strong>SOUNDDESIGN</strong></span>. <span style="color:blue"><strong>PilgrImage</strong></span> heeft een autonome klankband die zelf als een triptiek is opgebouwd. Er komen geen geluiden voor van de stappende pelgrim (m/v). Wel begeleidt een eigen soundtrack zijn weg in de kerk. </p>
+<blockquote>
+<p>Die bestaat in hoofdzaak uit het in <em>het Russisch gebeden Mariagebed</em>. Dat vormt het middendeel van de klankband. De keuze van het gebed is van kunstenaar Jan De Wachter die het als kind van zijn vader heeft geleerd. De Nederlandse tekst is de volgende:</p>
+<blockquote>
+<p><span style="color:olive"><em>Heilige Maria, vol van tedere toewijding. Gedenk dat nooit iemand tevergeefs tot u zijn toevlucht nam, uw hulp inriep, om uw bijstand verzocht. Vervuld van dat vertrouwen in u, kom ik tot u, nader ik, sta ik smekend voor uw voeten. O, Moeder van het vleesgeworden Woord, versmaad mijn gebeden niet, aanhoor mijn smeken en wees mij genadig. Amen</em></span></p>
+</blockquote>
+<p>Dat middendeel van de klankband wordt geflankeerd door een klankmontage van het <em>geluid van de wind die waait in hoge bomen en dat van de golven van de zee</em>. Die montage begeleidt de proloog van het filmpje, alsook de sequenties die volgen na de beschouwing van <em>De traan</em> en leiden naar de kamer met <em>De Madonna van de Tederheid</em>.</p>
+</blockquote>
+<h2 id="-font-color-808000-betekenisruimte-font-"><font color="#808000"><strong>Betekenisruimte</strong></font></h2>
+<p><span style="color:darkkhaki"><strong>HET KERKGEBOUW ALS FEMINIENE ZONE VAN ZIN</strong></span>. In <span style="color:blue"><strong>PilgrImage</strong></span> komen er geen mensen in beeld. Er is enkel de aanwezigheid van de pelgrim (m/v) via de subjectieve camera. Alle beelden vloeien voort uit zijn beschouwende blik. Het kerkgebouw verschijnt als het hoofdpersonage met een eigen identiteit. Met haar ruimtelijk, beeldend wezen toont de kerk zich als <em>een unieke zone van zin</em>. Het gebouw is veel meer dan een verzameling stenen, geordend volgend een bepaalde hoogte, lente en breedte. ‘<em>Is</em>’ is te weinig gezegd. De kerk is niet, ze <em>doet</em>, ze <em>handelt</em>, ze <em>ontplooit</em> een eigen werking. Dat ervaart de pelgrim vanaf het eerste moment van zijn aanwezigheid in het gebouw.</p>
+<blockquote>
+<p>De kerk ontvangt de pelgrim die aan het einde van zijn tocht is aangekomen in de kerk. Van die gastvrijheid getuigt de <em>openheid van het gebouw</em>, en <em>de brandende kaarsen</em>. Die wijzen erop alsof de kerk de komst van de pelgrim heeft verwacht. Ze nodigt hem uit om nog een laatste weg af te leggen, fysiek met de voeten en mentaal met zijn geest en hart. Hij neemt het pad waar dat zich opent van het westen naar het oosten, van achteraan naar vooraan.  <span style="color:blue"><strong>PilgrImage</strong></span> beschrijft die pelgrimsgang in de kerk.</p>
+<p>Het gebaar van openheid en gastvrijheid komt voort uit het <em>feminiene wezen</em> van de kerk. Het hele gebouw stelt een <em>moederlijke</em> geste: ze ontvangt en geeft leven. Ze geeft een <em>thuis</em> aan de lokale, omwonende gemeenschap, maar ook aan de verre vreemdeling die passeert. Ze ontvangt hen allen als de pelgrims die mensen zijn, onderweg in het leven, van hun geboorte tot hun overlijden, generatie na generatie. </p>
+<p>De <em>feminiene</em> werking van de kerk spreekt ook uit het resultaat ervan. De thuis die ze aan het individu en de gemeenschap biedt, vormt een <em>zone van zin</em>. De pelgrims, de mensen, krijgen er een ruimte om zich te bezinnen, om aan de grondstof van hun bestaan, hun ervaringen van vreugde en lijden, een betekenis te geven.  <span style="color:blue"><strong>PilgrImage</strong></span> toont hoe de pelgrim thuiskomt in die zone van zin, daar waar hij toegang krijgt tot zijn diepste wezen als mens onderweg, zoals een kind thuiskomt bij zijn moeder. </p>
+</blockquote>
+<p><span style="color:darkkhaki"><strong>IN DE SCHADUW VAN HET FLUÏDE LEVENSLICHT</strong></span>. Het openingsbeeld - zie het beeld hierboven - in triptiek zet de visuele toon. Het statige beeld <em>Humana</em> staat op het bewegende en spiegelende water. Dat reflecteert het inwerkende licht. </p>
+<blockquote>
+<p>De twee spiegelbeelden onthullen de fluïde kracht van het inwerkende licht. Dat fluïde licht verschijnt ook in het witte kleed van <em>Humana</em>. De blik van de pelgrim (m/v) richt zich met de intensiteit van de verwondering op haar etherische verschijning. Het van het Grieks komende ‘etherisch’ (ether) duidt letterlijk op de verschijning van ‘<em>de heldere lucht van de hemel</em>’. Hier kunnen we dat vrij interpreteren als ‘<em>zo licht als het licht van de hemel</em>’. <em>Humana</em> oogt alsof ze grotendeels uit licht bestaat. Dat geldt in zekere zin ook van de kerkruimte zelf. De glasramen vertellen dat aan de pelgrim, evenals de vele brandende kaarsen aan de zuilen.</p>
+<p>De krachtige, <em>feminiene</em> werking van de kerk komt voort uit de wijze waarop ze het hemelse licht in zich opneemt. Dat licht is hier niet het louter functionele licht, maar dat van <em>het wonder van het aardse licht van de schepping</em>, in het derde deel van <a href="http://www.menstis.be/uitgeverij/Levensbeschouwing/">Levensbeschouwing democratisch belicht</a> ‘<em>de Lichtaard</em>’ genoemd. In het openingsbeeld van <span style="color:blue"><strong>PilgrImage</strong></span> verschijnt het als het fluïde levenslicht. De pelgrim beleeft dat licht langs zijn kerkpad op een bijna mystieke wijze. Hij beseft dat het dat scheppende levenslicht is die de regie voert van het pad dat hij volgt, van <em>Humana</em> naar <em>De Madonna van de Tederheid</em>. Hij volgt het spoor van het licht dat hem vanuit de oostelijke koorruimte wenkt. Daarbij gaat hij tweemaal door een donkere ruimte. Dat gebeurt de eerste maal wanneer hij bij het beeld <em>De traan</em> aankomt en van daar naar het labyrint <em>Liefdeslabyrint - Allegorie van het leven</em> stapt. Daar aangekomen, wijst het licht in de koorruimte hem opnieuw de weg. Daar ontdekt hij dat niet het priesterkoor het einddoel van zijn pad is. Hij moet nog eerst door een donkere gang. Voor de tweede keer stapt hij de duisternis in, alvorens zijn echte einddoel, de kamer van de <em>Madonna van de Tederheid</em>, te bereiken.</p>
+<p>Langs het pad van het fluïde levenslicht gaat de pelgrim inderdaad door <em>donkere plekken</em>. Die verschijnen reeds in het eerste lichtbeeld van de openingstriptiek. Er zijn de schaal van de <em>Humana</em> en de blauwige reflectie van haar gewaad in het rechterluik van het filmbeeld, een effect van een mix van invallend zonlicht en kunstlicht. De <em>donkerblauwe kleur van de hoofdschaal</em> contrasteert met het <em>witte</em> gewaad. Dat contrast is echter niet absoluut.</p>
+<p>De pelgrim ziet hoe vanuit de schaal van <em>Humana</em> blauwe draden door het witte kleed zijn geweven waarin zich in datzelfde blauw druppels hebben gevormd. Ze vertegenwoordigen de fijne stralen en druppels van het verdriet, die in de schaal zijn opgevangen. Ze vloeien door het kleed heen naar het zacht bewegende wateroppervlak. Hierdoor krijgt in het rechterbeeld het watervlak de <em>ingetogen kleur van de blues</em>, de naam van het diepe verdriet dat de mens in zich opslaat langs zijn levensweg. </p>
+<p>De pelgrim spiegelt erin zijn <em>eigen</em> verdriet, evenals het <em>collectieve</em> verdriet wat hij deelt met de mensheid waarvan hij deel uitmaakt. Langs zijn pad in de kerk begeleidt het fluïde levenslicht de pelgrim langs momenten waar dat <em>eigen en gedeelde</em> verdriet verder doordringt in zijn gemoed. Hij herkent zich in het beeld van de man met de traan, buigend bij een afgeknotte boom. Die leidt hem naar het labyrint met een kaart van de verschillende regionen die de mens voortdurend doorloopt in zijn mentaal landschap. De botscan in het priesterkoor confronteert hem met de broosheid van zijn lichaam. </p>
+<p>Het fluïde levenslicht tovert dat alles niet weg. Het neemt die blauwe stemmingen en beelden van verdriet in zich op, belicht ze zelfs, en neemt ze mee in een verticale, hemelwaartse beweging, die spreekt van de <em>feminiene</em> kracht van de dragende zuil en het brandglasraam. Met die kracht stapt de pelgrim doorheen de donkere gang om er in de kamer van <em>De Madonna van de Tederheid</em> aan te komen. In de beeldende beschouwing van de pelgrim echoot het Mariagebed dat hij tijdens zijn weg tot Haar heeft gebeden.</p>
+</blockquote>
+<p><span style="color:darkkhaki"><strong>MENTALE BEE(LD)WEG</strong></span>. Het woord <em>beeweg</em> is in Vlaanderen het dialectwoord voor bedevaart, en is een samendrukking van <em>bedeweg</em>. Zo zegt men bijvoorbeeld dat iemand <em>op bedeweg is geweest</em> naar Lourdes. Langs een bedevaart komt een pelgrim veel andere pelgrims tegen. In <span style="color:blue"><strong>PilgrImage</strong></span> zijn de tochtgenoten van de pelgrim (m/v) beelden; daarnaar verwijst het woord <em>Image</em> in de titel <span style="color:blue"><strong>PilgrImage</strong></span>. De beelden hebben ieder hun eigen narratief. Samen versterken ze elkaar om één groot beeldend gebed zwijgend ‘uit te spreken’. De pelgrim volgt hun spoor, ze vormen zijn bee(ld)weg.</p>
+<blockquote>
+<p><strong><span style="color:teal"> Het neogotische kerkgebouw</span></strong> is het eerste beeldwerk. Dat neemt als moederbeeld alle andere beelden in zich opneemt. De kerk geeft ze ruimte en laat ze tot leven komen. Dat ontdekt de pelgrim tijdens zijn bee(ld)weg. De diverse beelden gidsen hem langs zijn pad in het kerkgebouw. Het zijn tekeningen, schilderijen, een scanfoto, driedimensionale beelden in linnen, gips en hout, alsook nog een tapijt en een brandglasraam.</p>
+<p><strong><span style="color:teal">Humana</span></strong> op het water is een installatie met centraal een vrouwenfiguur met een handgeweven gewaad van linnen (vlas). De installatie met de ruimte, de figuur, de kleding, het water en het licht creëert een uniek weefsel.</p>
+<blockquote>
+<p><em>Humana</em> belichaamt eerst en vooral het feminiene wezen van het neogotische kerkgebouw. De naam roept tevens de vrouwelijke dimensie van het wezen mens op. Het woord <em>humana</em> is het vrouwelijke van het Latijnse bijvoeglijk naamwoord <em>humanus</em>, waarvan in de Europese talen, ook in het Nederlands, het woord <em>humaan</em>, menselijk, van is afgeleid. Het beeld vertegenwoordigt niet alleen alle vrouwen die ooit hebben geleefd, nu leven en nog zullen leven.</p>
+<p><em>Humana</em> vertolkt ook de ingetogen waardigheid van de mens als vrouw, zij wier menselijke verschijning in de voorbije eeuwen van wat men de ‘beschaafde’ mensheid is gaan noemen, altijd in de schaduw heeft gestaan. Vandaar ook de blauwe schaal op haar hoofd. Het blauw is de kleur van haar lijden en verdriet dat ze al eeuwen met zich meedraagt. Door haar gestalte verwijst ze naar haar zes zusters, de <a href="http://my-favourite-planet.de/english/europe/greece/attica/athens/acropolis/acropolis-photos-01-018.html">Kariatiden</a> van het Erechtheion op de Atheense Acropolis. <em>Humana</em> synthetiseert de twee, tegenstrijdige betekenissen van het overgeleverde beeldfenomeen kariatide.</p>
+<p>De Oud-Romeinse lezing ziet in de figuren de tot slaven gemaakte vrouwen van het Spartaanse stadje Karyae die voor eeuwig en altijd lasten op hun hoofd moeten dragen. De meer archeologische visie ziet ze als priesteressen van Karyae die tijdens het tempelfeest voor de godinnen Artemis en Athena de heilige voorwerpen op hun hoofd in manden of schotels naar de tempel brengen. <em>Humana</em> absorbeert beide, tegenstrijdige zienswijzen. In het kader van de installatie in het kerkgebouw krijgt <em>Humana</em> een priesterlijke verschijning, terwijl ze in haar schaal het verdriet van de vrouwelijke mensheid meedraagt.</p>
+</blockquote>
+<p><strong><span style="color:teal">Madonna en de slapende geliefde</span></strong> begeleidt het begin van de tocht van de pelgrim. Vanaf de verschijning van deze tekening begint hij zijn Mariagebed te bidden. Die tekening verbindt de Madonna of Heilige Maria - de meest gekende en vereerde vrouw van de zowel orthodoxe als katholieke christenheid - met iedere vrouw die als geliefde echtgenote door het leven is gegaan, gaat en nog zal gaan. Hiermee roepen het feminiene trio – Humana, de Madonna, de slapende geliefde - bij de pelgrim de herinnering op aan het begin van alle menselijk leven op aarde, de oorsprong ervan: de geboorte van ieder mensenkind, eerst tot leven gekomen in de moederschoot. De heilige Maria, vereerd als Moeder Gods, belichaamt in die zin niet enkel alle moeders, maar ook en tegelijkertijd de heilige gave van het menselijk leven, m.a.w. de heiligheid van het moederschap op zich.</p>
+<p><strong><span style="color:teal">Verlatenheid, Solus, De traan en Ecce Homo</span></strong> versterken langs het pad van de pelgrim elkaar binnen hetzelfde betekenisveld. Ze roepen ervaringen op die zich situeren in het existentiële register van eenzaamheid, psychisch en fysiek lijden. </p>
+<blockquote>
+<p>De mannelijke figuur van <em>Verlatenheid, Solus, De traan</em> evoceren het psychisch of mentaal lijden, <em>Ecce Homo</em> confronteert de pelgrim met het lijden van het lichaam door ziekte. Die beelden spiegelen langs het feminiene pad van de pelgrim de kwetsbare kant van de man en in ruime zin van iedere mens, man of vrouw. </p>
+<p>Dat beeld van de kwetsbare man contrasteert met dat van de eeuwenoude, historische realiteit. Die bewaart de zichtbare tekenen van de masculiene uitoefening van culturele, godsdienstige, economische, politieke en militaire machtsuitoefening die een niet meer te vatten wreedheid en lijden heeft voortgebracht. </p>
+<p>Tot het beeld van de kwetsbare man hoort ook dat van de afgeknotte boom. De boom is in het collectieve bewustzijn van de mens steeds als levensboom gezien en gewaardeerd. Ook <em>Genesis</em> 3:22 en <em>Spreuken</em> 3:18, 30 kennen die zienswijze. En de middeleeuwse bouwers van de gotische kerken gebruikten de hoge bomen als model voor hun hoge zuilen, een verwijzing naar de Bijbelse levensboom. Vele gotische kerkgewelven ogen als een bladerendek ontsprongen aan de kruinen van de hoge zuilen. </p>
+<p>In de feminiene beelden van de kwetsbare man die de pelgrim langs zijn pad in zich opneemt, staat de afgeknotte levensboom op de voorgrond. Dat leert dat zijn verdriet niet alleen op hem, maar ook op het lot van de levensboom betrekking heeft. De slachtoffers van de eeuwenlange, masculiene wreedheid – het werk van heel wat farao’s, keizers, tsaren, koningen, duces, pauzen, grootayatollahs, partijleiders, Führers, generaals - waren niet alleen de gewone stervelingen in het algemeen, maar vooral de vrouwen in het bijzonder, evenals moeder aarde met haar mensen, dieren, bomen en zeeën. De tekenen van die niet meer te overziene aanhoudende destructie komen, op het ritme van de jaren, steeds duidelijker aan de oppervlakte.</p>
+</blockquote>
+<p><strong><span style="color:teal">Liefdeslabyrint - Allegorie van het leven</span></strong> is het kunstzinnige tapijt waarop de pelgrim de overgang maakt van de kerkruimte naar het priesterkoor. Deze installatie met het beschilderde tapijt en twee paar schoenen, één voor een man, één voor een vrouw, is verdeeld in vier kwartieren. Ze dragen de namen: sanguinisch, cholerisch, melancholisch, flegmatisch.</p>
+<blockquote>
+<p>Ze verwijzen naar de vier <em>humores</em> of lichaamsappen die de basis hebben gevormd van de westerse geneeskunde, van de Oud-Griekse tijd tot in de 19de eeuw. Het concept ervan bestaat erin dat iedere mens voortdurend een fluïde balans moet zien te vinden om niet in een of andere extreme stemming te vervallen met tal van schadelijke gevolgen vandien. </p>
+<p>De installatie gebruikt die eeuwenoude voorstelling als een <em>allegorie van het fluïde leven zelf</em> dat de mens eigen is. Het labyrint vormt een halte op de weg van de pelgrim, een moment van intense inkeer, vervuld van het zoeken naar een licht in de donkerte.</p>
+<p>Met zijn twee voeten op de grond verblijft de pelgrim even ‘in het midden’ van zijn levensweg. Op het tapijt staat de zin: <em>Nel mezzo del cammin di nostra vita</em> (<em>In het midden van de weg van ons leven</em>). Met dit vers opent Dantes <em>Divina Commedia</em>. Het roept de levensbeschouwelijke kracht van de mens op die hij ervaart telkens wanneer hij, vrijwillig of daartoe door de omstandigheden gedwongen, even halt houdt langs zijn levensweg en daar dan een korte of lange mentale pelgrimage maakt.</p>
+</blockquote>
+<p><strong><span style="color:teal">De twee Maria Magdalena&#39;s in het lege priesterkoor</span></strong>. Na zijn verkenning van het tapijt met labyrint betreedt de pelgrim het lege priesterkoor. Links en rechts begeleiden hem twee verticale beeldbewegingen. Daarin figureert de nieuwtestamentische heilige <em>Maria Magdalena</em> tweemaal.</p>
+<blockquote>
+<p>Rechts in beeld vormt het houten heiligenbeeld aan de zuil de aanzet van een opwaartse beweging die boven eindigt bij het houten beeld van Adam, waar de vertakking van de zuil begint in de gebogen lijnen van het gewelf. Links van het centrale beeld met het lege priesterkoor is er de eveneens opwaartse beweging van het glasraam dat zich boven de ingang van de kamer met <em>De Madonna van de Tederheid</em> bevindt. De pelgrim merkt dat hier de heilige Maria Magdalena anders wordt voorgesteld. </p>
+<p>De eerste, die van het houten beeld, toont haar als de Maria uit Magdala - Maria Magdalena - het stadje op de westelijke oever van het meer van Tiberias, een volgelinge van Jezus. Ze is aanwezig bij de kruisiging van Jezus. Op de dag na Jezus’ dood en begrafenis gaat ze heel vroeg in de morgen naar het graf met welriekende olie. Daar is ze als eerste getuige van het lege graf van Jezus. Ze bericht over dat lege graf aan de apostelen (<em>Johannes</em> 20: 1-3). </p>
+<p>De tweede figuratie, die van de Maria Magdalena van het brandglasraam, verschilt van de evangelische. Hier toont de voorstelling haar als de berouwvolle zondares die een doodshoofd vasthoudt. Dit is de ‘kerkelijke’ Maria Magdalena, enkel gekend in de katholieke kerktraditie. Die traditie verdicht zich beeldend in de sculptuur in de Brugse Heilige-Magdalenakerk. De sculptuur hangt in de hoogte en verbindt de bovenste uiteinden van de twee zuilen die de theologische en ruimtelijke grens markeren tussen het publieke deel van de kerk en het priesterkoor. In <span style="color:blue"><strong>PilgrImage</strong></span> vertegenwoordigt de figuur van <em>Adam</em> boven de zuil, de hoge sculptuur die in zijn geheel zelf niet in beeld komt. Gezien vanuit het priesterkoor bevinden zich aan de buitenzijden van het in hout uitgewerkte tafereel rechts Adam en links Eva, op het ogenblik dat beiden uit het aards paradijs worden verdreven door de straffende Rechter-God (<em>Genesis</em> 3:23-24). Niemand minder dan kerkvader en paus Gregorius I de Grote (6de eeuw) besliste om catechetische en pastorale redenen alle figuren van christelijke zondaressen te bundelen in de anonieme figuur van de zondares uit <em>Lucas</em> 7: 44-50. De paus identificeerde de anonieme zondares uit het Lucas’ evangelie als de evangelische Maria Magdalena. Ze werd hierdoor het model van alle berouwvolle zondaressen. </p>
+<p>Die kerkelijke herinterpretatie legde zo impliciet een link tussen de nieuwtestamentische Maria Magdalena en de oudtestamentische figuur van <em>Eva</em>, de Bijbelse oermoeder van de zondige mensheid tout court, en heel in het bijzonder de ‘oorzaak’ van de natuurlijke zondigheid van alle vrouwen. De moeder van alle mensen krijgt in de kerkelijke leer van de <em>erfzonde</em> inderdaad de schuld van het harde levenslot van de mensheid. Een grotere, theoretische minachting voor de vrouw bestaat niet. Zie in die optiek ook de film <a href="http://www.menstis.be/film-focus/agora/">Agora</a>.</p>
+<p>In dit licht gezien komt de pelgrim van <span style="color:blue"><strong>PilgrImage</strong></span>, tijdens zijn verwondering in het lege priesterkoor, tot het inzicht dat er een eind is gekomen aan <em>het eeuwenoude mannelijke klerikalisme</em> dat steeds het monopolie over het priesterkoor heeft opgeëist. Alleen in de optiek van de officiële leer van de katholieke Kerk is dat monopolie echter vandaag nog steeds van kracht. </p>
+<p>Langs zijn <em>feminiene</em> kerkpad beseft de pelgrim dat het beeld van de ‘kerkelijke’ Maria Magdalena onrecht aandoet aan de religieuze, feminiene kracht van de mens in het algemeen en die van de vrouw in het bijzonder. Geleid door de ‘evangelische’ Maria Magdalena die getuigt van de geloofskracht van opstanding, ontdekt de pelgrim dat vandaag het heilig levensmysterie in de zijkamer van het lege priesterkoor is te vinden. In die kamer ontdekt hij de warme gloed van <em>De Madonna van de Tederheid</em>, nadat hij eerst het beeld <em>Ecce Homo</em> tot zich heeft laten doordringen.</p>
+</blockquote>
+<p><strong><span style="color:teal">Ecce Homo</span></strong> staat geschreven op de uitvergrote botscan in het lege priesterkoor. Die geijkte woorden komen uit het nieuwtestamentische <em>Passievehaal</em> (<em>Johannes</em> 19:5). In iedere katholieke kerk wordt ernaar verwezen in het eerste tafereel van de kruisweg, opgehangen aan de muren van de kerk. Ecce Homo is hier de botscan van een man. Het beeld bevindt zich in het meest oostelijke punt van het kerkgebouw, daar waar voorheen het hoofdaltaar stond en waar nu meestal een groot kruisbeeld hangt. De scan is gemaakt in het kader van een medisch onderzoek dat leidde tot de vaststelling van een levensbedreigende ziekte. Via dat beeld staat de pelgrim oog in oog met zijn eigen sterfelijkheid, met die van iedere mens en, gezien het kader van het priesterkoor, ook met die van het historisch klerikalisme.</p>
+<p><strong><span style="color:teal">De Madonna van de Tederheid</span></strong> vormt in <span style="color:blue"><strong>PilgrImage</strong></span> het eindpunt van het kerkpad van de pelgrim. Onderweg heeft hij zijn Mariagebed gebeden in het Russisch. Dat heeft een reden. Nog meer dan in de katholieke verering van Maria als de Moeder Gods, heeft de orthodoxe iconenkunst aan het beeld van Maria een hemels karakter gegeven. <a href="https://nl.wikipedia.org/wiki/Moeder_Gods_van_Vladimir">Vladimirskaja</a> of de Moeder Gods van Vladimir, wordt vereerd als de beschermster van Rusland.</p>
+<blockquote>
+<p><em>De Madonna van de Tederheid</em> verwijst naar die beroemde icoon uit de Russisch-orthodoxe christenheid, met name in de zwarte contourlijnen van de Madonna met kind. De pelgrim merkt op dat beiden één en dezelfde contourlijn hebben. Ze vallen samen, ze zijn niet te scheiden. Het kind, meer dan in de historische icoon, maakt hier deel uit van de moeder zelf. De pelgrim schouwt in het beeld de heiligheid van het moederschap. Het grote schilderij is zelf geen icoon. </p>
+<p>De pelgrim merkt op dat het driedimensionale beeld kleurrijk is en refereert naar de gouden glans in de <em>Vladimirskaja</em>. Dat goud heeft hier een honiggele kleur gekregen. De bijen doen alles voor hun moeder-koningin. Ze produceren de gele honing als heilzaam voedsel voor mens en dier. </p>
+<p>Het doek oogt niet gepolijst of afgewerkt, en dit in tegenstelling met de iconen die altijd hemelse perfectie uitstralen. <em>De Madonna van de Tederheid</em> is aards, onaf; ze spreekt van de unieke, eigen-<em>aard</em>-ige schoonheid van de materie in al haar verscheidenheid en moederlijke levenskracht. De <em>Madonna</em> krijgt een <em>sokkel van jute</em>, de natuurlijke stof die verweven is met het dagelijkse leven van vele voorbije generaties. De sporen van het ontstaan van het beeld, van het werken aan het beeld blijven goed zichtbaar en maken deel uit van de verschijning ervan. Het veelvuldig overschilderen en het herhaaldelijk bewerken blijken uit de strepen van de schilderborstels, de krassen van het schildersmes, en de in de verf gedrukte handpalmen. Al die elementen ondersteunen de tederheid waarvan de Moeder-Madonna de visuele gestalte is.</p>
+<p>Links, van onder naar boven, is het woord <em>immaterie</em> in de verf gekrast. Het herinnert de pelgrim eraan dat het beeld in en uit de materie, als uit een moeder (het Latijnse <em>mater</em>), voort is gekomen, ‘geboren’ is. Die moederlijke materie is ook die van moeder aarde, aanwezig in de klankband met de wind en de golvende zee. Niettegenstaande zijn eigen moederlijke materialiteit, heeft het beeld, zoals bij de orthodoxe iconen, ook een immateriële uitstaling. Het brengt uit de materie net als de moeder de tederheid van de menswording voort. In die optiek merkt de pelgrim dat rond de heilige moederfiguur zich een sterrenhemel van handen in wit verzamelt. Deze open handen willen geven, niet nemen. Als naalden van een kompas oriënteren ze zich naar de magnetische, tedere hand van de heilige Moeder. </p>
+</blockquote>
+</blockquote>
+<p><a name="CON"></a></p>
+<h2 id="-font-color-808000-context-font-"><font color="#808000"><strong>Context</strong></font></h2>
+<p>Het filmpje <span style="color:blue"><strong>PilgrImage</strong></span> staat op zichzelf als een kunstzinnige kortfilm. De toeschouwer kan die beleven als een beeldende meditatie en/of gebed. </p>
+<blockquote>
+<p>Tegelijkertijd maakt <span style="color:blue"><strong>PilgrImage</strong></span> ook deel uit van een breed maatschappelijk en cultureel kader. Het betreft namelijk de zoektocht naar de <em>herstemming</em> van de katholieke parochiekerk, in de eerste plaats in Vlaanderen, maar ook elders in de katholieke landen of regio’s in Europa. Het onderzoekswerk van Sylvain De Bleeckere en Roel De Ridder, gepubliceerd in <em>Het open kerkgebouw. Verleden, heden en toekomst van het kerkgebouw in Vlaanderen</em> (Pelckmans, 2014), heeft voor het eerst die thematiek duidelijk geformuleerd en een concrete weg naar de hernieuwde toekomst van de parochiekerk uitgestippeld. </p>
+<p>Het <em>Project Agora</em> van Men(S)tis, voor het eerst in de Brugse <em>Heilige Magdalenakerk</em> gerealiseerd in een nauwe samenwerking met Yot, zet via een creatieve benadering een stap verder richting toekomst. <span style="color:blue"><strong>PilgrImage</strong></span> evoceert een mogelijke richting van &#39;herstemming&#39; van de parochiekerk niet enkel als collectief erfgoed, maar vooral als <em>een hedendaagse zone van zin</em>, die terug aansluiting vindt bij de <em>creativiteit</em> eigen aan de generaties die in het verre en nabije verleden het kerkgebouw hebben voortgebracht en in stand gehouden.</p>
+</blockquote>
+<p><a name="LIN"></a></p>
+<h2 id="-font-color-808000-links-font-"><font color="#808000"><strong>Links</strong></font></h2>
+<p>Zie de sites van <a href="https://www.kristofhoornaert.com/">Kristof Hoornaert</a> en <a href="http://www.marleen-mertens.be/metafora.php">Marleen Mertens</a>.</p>
+<p>Zie ook de site van <a href="http://www.jandewachter.be/Intro">Jan De Wachter</a>. De kunstenaar stelde zelf een verklarende nota op naar aanleiding van de installatie <a href="https://cdn.webdoos.io/yot/54cd231592e2692c342fdc3c3bc67872.pdf">Alles goed? Jan De Wachter!</a>, een belangrijk onderdeel van het Project Agora.  Enkele van de werken uit die meerdelige installatie komen voor in <span style="color:blue"><strong>PilgrImage</strong></span>. Daaruit blijkt dat de kunstwerken die hierboven zijn vermeld en toegelicht - <em>Verlatenheid, Solus, De traan, Ecce Homo</em> – het karakter van een zelfportret hebben. Ook voor <em>De Madonna van de Tederheid</em> putte Jan De Wachter, zo vertrouwde de kunstenaar de auteur toe, inspiratie uit zijn eigen leven. De overleden moeder van de kunstenaar was namelijk vroedvrouw. Ze bezat bijzonder korte, krachtige handen waarmee ze veel kinderen hielp geboren worden. De moeder van de schilder had een grote verering voor de Heilige Maria. Via de nagedachtenis van zijn moeder brengt hij met De Madonna van de Tederheid hulde aan alle vrouwen die als echte moeders in het leven staan en met het leven omgaan. Het vertolkt de bewondering van de kunstenaar voor de verbondenheid van moeder en kind, een verbondenheid die hij als een echt geloofsgebeuren ervaart.</p>
+<p>De auteur dankt Geert Delbeke van Yot en tevens vaste gids in de kerk, want die wees hem op de waarde en het belang van de twee beelden van de Heilige Maria Magdalena in de kerk, die nu ook deel uitmaken van <span style="color:blue"><strong>PilgrImage</strong></span>.</p>
+<p><font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2018</font>.</p>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

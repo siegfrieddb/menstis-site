@@ -1,0 +1,1161 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title></title>
+  
+<link rel="shortcut icon" href="./favicon.ico" />
+<link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="./favicon-96x96.png" />
+<link rel="icon" type="image/png" sizes="16x16" href=".favicon-16x16.png" />
+
+<style>
+    html {
+      font-family: sans-serif;
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%
+    }
+
+    body {
+      margin: 0
+    }
+
+    article,
+    aside,
+    details,
+    figcaption,
+    figure,
+    footer,
+    header,
+    main,
+    menu,
+    nav,
+    section,
+    summary {
+      display: block
+    }
+
+    audio,
+    canvas,
+    progress,
+    video {
+      display: inline-block
+    }
+
+    audio:not([controls]) {
+      display: none;
+      height: 0
+    }
+
+    progress {
+      vertical-align: baseline
+    }
+
+    [hidden],
+    template {
+      display: none
+    }
+
+    a {
+      background-color: transparent;
+      -webkit-text-decoration-skip: objects
+    }
+
+    a:active,
+    a:hover {
+      outline-width: 0
+    }
+
+    abbr[title] {
+      border-bottom: none;
+      text-decoration: underline;
+      text-decoration: underline dotted
+    }
+
+    b,
+    strong {
+      font-weight: inherit;
+      font-weight: bolder
+    }
+
+    dfn {
+      font-style: italic
+    }
+
+    h1 {
+      font-size: 2em;
+      margin: .67em 0
+    }
+
+    mark {
+      background-color: #ff0;
+      color: #000
+    }
+
+    small {
+      font-size: 80%
+    }
+
+    sub,
+    sup {
+      font-size: 75%;
+      line-height: 0;
+      position: relative;
+      vertical-align: baseline
+    }
+
+    sub {
+      bottom: -.25em
+    }
+
+    sup {
+      top: -.5em
+    }
+
+    img {
+      border-style: none
+    }
+
+    svg:not(:root) {
+      overflow: hidden
+    }
+
+    code,
+    kbd,
+    pre,
+    samp {
+      font-family: monospace, monospace;
+      font-size: 1em
+    }
+
+    figure {
+      margin: 1em 40px
+    }
+
+    hr {
+      box-sizing: content-box;
+      height: 0;
+      overflow: visible
+    }
+
+    button,
+    input,
+    optgroup,
+    select,
+    textarea {
+      font: inherit;
+      margin: 0
+    }
+
+    optgroup {
+      font-weight: 700
+    }
+
+    button,
+    input {
+      overflow: visible
+    }
+
+    button,
+    select {
+      text-transform: none
+    }
+
+    [type=reset],
+    [type=submit],
+    button,
+    html [type=button] {
+      -webkit-appearance: button
+    }
+
+    [type=button]::-moz-focus-inner,
+    [type=reset]::-moz-focus-inner,
+    [type=submit]::-moz-focus-inner,
+    button::-moz-focus-inner {
+      border-style: none;
+      padding: 0
+    }
+
+    [type=button]:-moz-focusring,
+    [type=reset]:-moz-focusring,
+    [type=submit]:-moz-focusring,
+    button:-moz-focusring {
+      outline: 1px dotted ButtonText
+    }
+
+    fieldset {
+      border: 1px solid silver;
+      margin: 0 2px;
+      padding: .35em .625em .75em
+    }
+
+    legend {
+      box-sizing: border-box;
+      color: inherit;
+      display: table;
+      max-width: 100%;
+      padding: 0;
+      white-space: normal
+    }
+
+    textarea {
+      overflow: auto
+    }
+
+    [type=checkbox],
+    [type=radio] {
+      box-sizing: border-box;
+      padding: 0
+    }
+
+    [type=number]::-webkit-inner-spin-button,
+    [type=number]::-webkit-outer-spin-button {
+      height: auto
+    }
+
+    [type=search] {
+      -webkit-appearance: textfield;
+      outline-offset: -2px
+    }
+
+    [type=search]::-webkit-search-cancel-button,
+    [type=search]::-webkit-search-decoration {
+      -webkit-appearance: none
+    }
+
+    ::-webkit-input-placeholder {
+      color: inherit;
+      opacity: .54
+    }
+
+    ::-webkit-file-upload-button {
+      -webkit-appearance: button;
+      font: inherit
+    }
+
+    html {
+      font-size: 100%;
+      line-height: 1.5;
+      box-sizing: border-box;
+      overflow-y: scroll;
+    }
+
+    * {
+      box-sizing: inherit;
+    }
+
+    *:before {
+      box-sizing: inherit;
+    }
+
+    *:after {
+      box-sizing: inherit;
+    }
+
+    body {
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: Lucida Sans Unicode, Lucida Bright, Lucida Grande, sans-serif, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue;
+      font-weight: normal;
+      word-wrap: break-word;
+    }
+
+    img {
+      max-width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    h1 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 2rem;
+      line-height: 2.25rem;
+    }
+
+    h2 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1.51572rem;
+      line-height: 2.25rem;
+    }
+
+    h3 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1.31951rem;
+      line-height: 2.25rem;
+    }
+
+    h4 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1rem;
+      line-height: 1.5rem;
+    }
+
+    h5 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 0.87055rem;
+      line-height: 1.5rem;
+    }
+
+    h6 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 0.81225rem;
+      line-height: 1.5rem;
+    }
+
+    hgroup {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    ul {
+      margin-left: 1.5rem;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      list-style-position: outside;
+      list-style-image: none;
+    }
+
+    ol {
+      margin-left: 1.5rem;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      list-style-position: outside;
+      list-style-image: none;
+    }
+
+    dl {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    dd {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    p {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    figure {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    pre {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      font-size: 0.85rem;
+      line-height: 1.42;
+      background: hsla(0, 0%, 0%, 0.04);
+      border-radius: 3px;
+      overflow: auto;
+      padding: 1.5rem;
+    }
+
+    table {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      font-size: 1rem;
+      line-height: 1.5rem;
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    fieldset {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    blockquote {
+      margin-left: 1.5rem;
+      margin-right: 1.5rem;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    form {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    noscript {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    iframe {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    hr {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: calc(1.5rem - 1px);
+      background: hsla(0, 0%, 0%, 0.2);
+      border: none;
+      height: 1px;
+    }
+
+    address {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    b {
+      font-weight: bold;
+    }
+
+    strong {
+      font-weight: bold;
+    }
+
+    dt {
+      font-weight: bold;
+    }
+
+    th {
+      font-weight: bold;
+    }
+
+    li {
+      margin-bottom: calc(1.5rem / 2);
+    }
+
+    ol li {
+      padding-left: 0;
+    }
+
+    ul li {
+      padding-left: 0;
+    }
+
+    li>ol {
+      margin-left: 1.5rem;
+      margin-bottom: calc(1.5rem / 2);
+      margin-top: calc(1.5rem / 2);
+    }
+
+    li>ul {
+      margin-left: 1.5rem;
+      margin-bottom: calc(1.5rem / 2);
+      margin-top: calc(1.5rem / 2);
+    }
+
+    code {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    kbd {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    samp {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    abbr {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+    }
+
+    acronym {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+    }
+
+    abbr[title] {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+      text-decoration: none;
+    }
+
+    thead {
+      text-align: left;
+    }
+
+    td,
+    th {
+      text-align: left;
+      border-bottom: 1px solid hsla(0, 0%, 0%, 0.12);
+      font-feature-settings: tnum;
+      padding-left: 1rem;
+      padding-right: 1rem;
+      padding-top: 0.75rem;
+      padding-bottom: calc(0.75rem - 1px);
+    }
+
+    th:first-child,
+    td:first-child {
+      padding-left: 0;
+    }
+
+    th:last-child,
+    td:last-child {
+      padding-right: 0;
+    }
+
+    tt,
+    code {
+      background-color: hsla(0, 0%, 0%, 0.04);
+      border-radius: 3px;
+      font-family: Consolas, "Roboto Mono", "Liberation Mono", Menlo, Courier, monospace;
+      padding: 0;
+      padding-top: 0.2em;
+      padding-bottom: 0.2em;
+    }
+
+    pre code {
+      background: none;
+      line-height: 1.42;
+    }
+
+    code:before,
+    code:after,
+    tt:before,
+    tt:after {
+      letter-spacing: -0.2em;
+      content: " ";
+    }
+
+    pre code:before,
+    pre code:after,
+    pre tt:before,
+    pre tt:after {
+      content: "";
+    }
+  </style>
+  <style>
+    @media only screen and (min-width:700px) {
+      .breakpoint-min-width-700 {
+        display: block
+      }
+
+      .breakpoint-max-width-700 {
+        display: none
+      }
+    }
+
+    @media only screen and (max-width:700px) {
+      .breakpoint-min-width-700 {
+        display: none
+      }
+
+      .breakpoint-max-width-700 {
+        display: block
+      }
+    }
+
+    .landing-image {
+      background-image: url(/menstis-theme.jpg);
+      background-size: cover
+    }
+
+    .main-menu-item {
+      font-weight: 700
+    }
+
+    @media only screen and (min-width:1127px) {
+      .main-menu-item {
+        font-size: 1.5em
+      }
+    }
+
+    .blog-image {
+      background-image: url(/menstis-back.jpg);
+      background-size: cover;
+      background-position: 50%
+    }
+
+    body {
+      font-size: 1.5em
+    }
+
+    .page {
+      width: 100%
+    }
+
+    a {
+      color: #f26d80
+    }
+
+    a>strong {
+      color: olive
+    }
+
+    a:hover,
+    h1 {
+      color: #f26d80
+    }
+
+    h1 {
+      font-size: 2.3em
+    }
+
+    h2 {
+      color: olive;
+      font-size: 1.5em
+    }
+
+    hr {
+      border: 0;
+      height: 1px;
+      background: olive
+    }
+
+    .image-fit>img {
+      -o-object-fit: cover;
+      object-fit: cover;
+      height: 225px;
+      width: 360px;
+      position: relative;
+      display: block
+    }
+
+    .image-overlay {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      opacity: 0;
+      overflow: hidden;
+      width: 100%;
+      height: 100%;
+      transition: .5s ease
+    }
+
+    .image-fit:hover .image-overlay {
+      opacity: 1
+    }
+
+    .image-text {
+      white-space: nowrap;
+      color: #fff;
+      font-size: 1.3em;
+      font-weight: 700;
+      position: absolute;
+      overflow: hidden;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      text-shadow: #000 0 0 10px
+    }
+
+    .image-fit-uitgeverij>img {
+      -o-object-fit: cover;
+      object-fit: cover;
+      height: 200px;
+      width: 360px
+    }
+
+    .landing-item {
+      font-weight: 700;
+      font-size: 2em
+    }
+
+    .Header {
+      height: 4em;
+      text-align: center
+    }
+
+    .Header,
+    .parent-blog {
+      width: 100%;
+      display: table
+    }
+
+    .parent-blog {
+      height: 3em;
+      text-align: left;
+      padding-left: 1em
+    }
+
+    .parent-blog>.child-blog {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 2em;
+      color: #fff
+    }
+
+    .menstis-title {
+      width: 100%;
+      height: 2.5em;
+      display: table;
+      text-align: left;
+      padding-left: .5em;
+      background-image: url(/menstis-back.jpg);
+      background-size: cover;
+      background-position: 50%
+    }
+
+    .menstis-title>h1 {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 1.5em;
+      color: #fff
+    }
+
+    .parent-menu {
+      width: 100%;
+      height: 3em;
+      display: table;
+      text-align: center
+    }
+
+    .parent-menu>.child-menu {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 2em;
+      color: #fff;
+      padding: .1em
+    }
+
+    @media only screen and (max-width:726px) {
+      .parent-blog {
+        width: 100%;
+        height: 2.5em;
+        display: table;
+        text-align: left;
+        padding-left: .5em
+      }
+
+      .parent-blog>.child-blog {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 1.5em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (min-width:1127px) {
+      .parent {
+        width: 100%;
+        height: 300px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 12em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (min-width:933px) and (max-width:1127px) {
+      .parent {
+        width: 100%;
+        height: 180px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 7em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (max-width:933px) {
+      .parent {
+        width: 100%;
+        height: 110px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 4em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (max-width:726px) {
+      .parent {
+        width: 100%;
+        height: 90px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 3em;
+        color: #fff
+      }
+    }
+  </style>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.css" />
+</head>
+<body>
+  <div id="react-mount">
+    <div data-reactroot="" data-reactid="1" data-react-checksum="-2022520968">
+      <div data-reactid="2">
+  <div class="ui fluid container " data-reactid="3">
+    <div class="breakpoint-min-width-700" data-reactid="4">
+      <div class="ui massive menu pointing secondary" data-reactid="5">
+        <div class="ui container " data-reactid="6">
+          <div class="item" style="padding:0px;margin-right:20px;" data-reactid="7">
+            <div class="parent-menu blog-image " data-reactid="8">
+              <div class="child-menu" data-reactid="9"><span style="font-weight:bold;" data-reactid="10">
+                  <!-- react-text: 11 -->men(
+                  <!-- /react-text --><span style="color:#f26d80;" data-reactid="12">S</span>
+                  <!-- react-text: 13 -->)tis
+                  <!-- /react-text --></span></div>
+            </div>
+          </div><a class="item" href="/dedag/" data-reactid="14">De Dag</a><a class="item" href="/blog/"
+            data-reactid="15">Blog</a><a class="active item" href="/missie/" data-reactid="16">Missie</a><a
+            class="item" href="/film-focus/" data-reactid="17">FilmFocus</a><a class="item" href="/producties/"
+            data-reactid="18">Producties</a><a class="item" href="/webshop/" data-reactid="19">Webshop</a>
+        </div>
+      </div>
+    </div>
+    <div class="breakpoint-max-width-700" data-reactid="20">
+      <div class="parent-blog blog-image " style="text-align:center;" data-reactid="21">
+        <div class="child-blog" data-reactid="22"><span style="font-weight:bold;" data-reactid="23">
+            <!-- react-text: 24 -->men(
+            <!-- /react-text --><span style="color:#f26d80;" data-reactid="25">S</span><!-- react-text: 26 -->)tis
+            <!-- /react-text --></span></div>
+      </div>
+      <div style="height:10px;" data-reactid="27"></div>
+      <div role="combobox" aria-expanded="false" class="ui fluid search selection dropdown" data-reactid="28">
+        <select type="hidden" aria-hidden="true" data-reactid="29">
+          <option value="" data-reactid="30"></option>
+          <option value="/dedag/" data-reactid="31">De Dag</option>
+          <option value="/blog/" data-reactid="32">Blog</option>
+          <option selected="" value="/missie/" data-reactid="33">Missie</option>
+          <option value="/film-focus/" data-reactid="34">FilmFocus</option>
+          <option value="/producties/" data-reactid="35">Producties</option>
+          <option value="/webshop/" data-reactid="36">Webshop</option>
+        </select><input type="text" value="" aria-autocomplete="list" class="search" name="-search"
+          autocomplete="off" tabindex="0" data-reactid="37" />
+        <div class="text" data-reactid="38">Missie</div><i aria-hidden="true" class="dropdown icon"
+          data-reactid="39"></i>
+        <div role="listbox" class="menu transition" data-reactid="40">
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="41">
+            De Dag
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="43">
+            Blog
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="true" aria-selected="true"
+            class="active selected item" data-reactid="45">
+            Missie
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="47">
+            FilmFocus
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="49">
+            Producties
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item">
+            Webshop
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="height:10px;"></div>
+</div>
+      <div>
+        <div class="ui container" data-reactid="55">
+          <div class="markdown" data-reactid="56">
+           <h1>Ida</h1><hr>
+<center>
+<img src="Ida.jpg" >
+</center>
+
+<p><a name="Ida"></a></p>
+<h2 id="-font-color-808000-klapbord-font-"><font color="#808000"><strong>Klapbord</strong></font></h2>
+<p>Met <strong>Ida</strong> bevestigt Pawel Pawlikowski zijn unieke plaatst in het landschap van de Europese film. In 2013 won hij ermee de Best Film Award van het London Film Festival en in 2015 mocht hij in Los Angeles de Academy Award (Oscar) for Foreign Language Film in ontvangst nemen. In 2014 kreeg hij al de LUX Film Prize van het Europese Parlement uitgereikt in het Europees Parlement te Straasburg. In <strong>Ida</strong>, waarvoor hij zelf samen met de Britse toneelauteur Rebecca Lenkiewicz het scenario schreef, verwerkt Pawlikowski zijn eigen Poolse en katholieke achtergrond. Hij werd in 1957 geboren in de Poolse hoofdstad Warschau, maar als tiener emigreerde hij samen met zijn moeder naar het vrije Europa, eerst in Engeland, dan in West-Duitsland en uiteindelijk definitief in Engeland. Ze verlieten het Polen van de Koude Oorlog, de toenmalige satellietstaat van de communistische Sovjet-Unie. Toch kreeg hij in dat communistische Polen een katholieke opvoeding. Hij beschouwt zichzelf nog steeds als een katholiek gelovige. In zijn late tienerjaren vernam hij dat zijn grootmoeder langs vaderszijde Joods was en in Auschwitz wad omgekomen. Deze elementen uit zijn biografie vormen de grondstof voor zijn persoonlijk verhaal dat <strong>Ida</strong> heet. Met de film keert Pawlikowski letterlijk terug naar het Polen van zijn kindertijd in het jaar 1962.</p>
+<p><a name="SYN"></a></p>
+<h2 id="-font-color-808000-synopsis-font-"><font color="#808000"><strong>Synopsis</strong></font></h2>
+<p>Anna is een Poolse, jonge vrouw. In 1962  beëindigt ze haar opleiding als novice, aspirant-zuster, in een vrouwenklooster. 
+Daar is ze als weesmeisje opgevangen en opgegroeid. Nu is ze op het punt gekomen om haar eeuwige geloften als kloosterzuster af te leggen. 
+Juist dan verneemt ze via haar overste, een moederfiguur voor Anna, tot haar grote verwondering dat ze toch nog een familielid heeft, een tante. 
+Ze heet Wanda. Via de moeder overste verzoekt ze Anna om haar te komen opzoeken. 
+Dat bezoek aan haar tante in de naburige stad vormt voor Anna het begin van een even innerlijke als biografische reis naar zichzelf. 
+Die innerlijke reis is tevens een gedachtenreis in het complexe oorlogsverleden van Polen. 
+Door toedoen van Wanda verneemt Anna dat haar echte naam Ida Lebenstein is en dat ze geboren is 
+als Joodse dochter van Haïm Lebenstein en Róza Herc, de artistieke zus van Wanda. Met haar tante Wanda 
+als gids bezoekt Ida de voormalige ouderlijke boerderij en leert ze de huidige, Poolse bewoners ervan, de Skiba’s, kennen. 
+Via dat spoor ontdekken Wanda en Ida het verborgen graf van haar ouders én van het enige zoontje van Wanda zelf. 
+Ze leefden alle vier ondergedoken voor de ouders nabij hun huis dat ze aan Poolse mensen hebben moeten overlaten. 
+Wanda en Ida ontdekken dat de zoon die nu het huis bewoont, uit vrees voor de Duitsers de ouders van Ida 
+en het zoontje van Wanda heeft gedood en begraven in het nabije bos. De kleine Ida heeft hij gespaard omdat 
+ze niet als Jodin herkenbaar was. Op aanwijzing van de huidige bewoner ontgraven Wanda en Ida de stoffelijke 
+resten van hun omgebrachte familieleden en geven hen een waardige begrafenis op het kerkhof. Tijdens haar
+ tocht leert Anna/Ida ook Wanda beter kennen. Haar oudere tante is een alleenstaande vrouw die in het heersende 
+ communistische regime werkt als een strenge rechter(‘Rode Wanda’). Tegelijkertijd leert de jong enovice de 
+ tegenpool van haar religieuze levenswijze kennen. De tante geeft haar bestaan zin door het verleden te verdringen
+  via alcohol en seksuele escapades. Wanda stelt bovendien Ida’s levenskeuze om als katholieke zuster door het leven te gaan, 
+  radicaal in vraag. Wanneer Anna/Ida terugkeert naar het klooster om haar eeuwig geloften af te leggen,
+   aarzelt ze. Ze is de schok van het bezoek aan haar tante Wanda nog aan het verwerken. Bedroefd vraagt ze uitstel. 
+   Ondertussen pleegt haar tante zelfmoord en is Anna/Ida haar enige erfgename. Ze neemt deel aan de seculiere begrafenis.
+    In het appartement van Wanda kruipt ze in de kleren van haar tante en experimenteert ze voor even met de levenswijze van de tante.
+     Na een seksuele flirt met de jonge saxofoonspeler Lis, besluit ze terug te keren naar haar klooster,
+      haar echte thuis dat in de letterlijke zin haar ‘moederhuis’ is geweest en blijft.</p>
+<p><a name="CIN"></a></p>
+<h2 id="-font-color-808000-cinematografie-font-"><font color="#808000"><strong>Cinematografie</strong></font></h2>
+<p><span class="menstis">ZWART-WIT IN GRIJSMODUS</span>. Pawlikowski kiest voor een cinematografie in zwart-wit.
+ Die bewuste keuze komt voort vanuit zijn nostalgische terugkeer naar het Polen van zijn kindertijd,
+  het Polen van het begin van de jaren zestig van vorige eeuw. In een interview met Ferdinand Derus (DVD Ida,
+   Cinéart, 2014) vertelt de regisseur dat zijn oude indrukken van zijn vaderland geen kleur kennen. 
+   Polen was toen ook geen blij land. Zijn moeder koos ervoor om samen met haar kind in het vrije
+    Westen een betere toekomst te zoeken. Dat negatief gegeven belet Pawlikowski niet om <em>vanuit
+     een zekere nostalgie</em> naar het Polen van zijn kindertijd terug te kijken. Vandaar om het contrast
+      tussen wit en zwart niet extreem uit te werken, maar eerder te milderen. Dat gebeurt bijvoorbeeld
+       door te kiezen voor de novicen en niet voor de volwaardige kloosterzusters. De kleding van de
+        echte zusters kent immers een sterk contrast tussen de zwart en de witte delen. 
+        De kleding van de novicen daarentegen heeft <em>het grijs als dominante kleur</em>. In de
+         beginsequenties zet de regisseur het zwart-wit sterk in de verf door de taferelen
+          te situeren in een winters sneeuwlandschap. De witte sneeuw accentueert de contrasten
+           met het kloostergebouw en de personages. Eens de reis van Anna/Ida naar haar tante begint,
+            verdwijnt de sneeuw en gaat het scherpere zwart-wit contrast over in een algemeen grijs.
+            Bovendien past het grijs
+          ook bij <em>de sluier van verdriet</em> die over de reis van Anna naar Wanda gaat, een reis naar 
+          het traumatische leven van het Polen in de Tweede Wereldoorlog én van het naoorlogse Polen.
+           Het <em>grijze zwart-wit</em> is niet louter nostalgie, het is evenzeer <em>de kleur van de rouw</em> die Anna/Ida 
+           en Wanda samen dragen tijdens hun tocht naar de dood van hun familie. <strong>Ida</strong> is een filmische partituur geschreven in <em>de toonaard van Em</em>. </p>
+<p><span class="menstis">UNIEKE BEELDCOMPOSITIES</span>. De film <strong>Ida</strong> heeft een bijzondere beeldende signatuur door de beslissing 
+van de regisseur Pawlikowski om niet alleen in zwart-wit te filmen, maar ook om te kiezen voor het beeldformaat 4:3.
+ Dit rechthoekig formaat (4 eenheden in de breedte, 3 eenheden in de hoogte) benadert het vierkant. Dit betekent
+ dat er horizontaal weinig ruimte is, wat bijvoorbeeld wel het geval is voor panoramische formaten zoals 16:9 dat 
+ voor de eerste generatie breedbeeldtelevisie is gebruikt en ook als panoramisch filmformaat veel is gebruikt. 
+ Het 4:3-formaat is erg geschikt voor het gebruik van close-ups. Het vreemde bij <strong>Ida</strong> is dat Pawlikowski weinig close-ups heeft voorzien.
+  Hij gebruikt het beeld in formaat 4:3 door in te gaan tegen de natuurlijke werking ervan. 
+  Hij exploreert namelijk het formaat om toch ruimte te scheppen in het beeld. Dat gebeurt door
+   in de meeste sequenties de acteurs onderaan in het beeld te plaatsen, waardoor er boven hen
+    heel wat ruimte ontstaat. Zo zijn in tal van taferelen enkel de hoofden van de personages 
+    zichtbaar en ontstaat er boven hen in het beeld heel wat ruimte. Dat is bijvoorbeeld het geval 
+    in het openingsbeeld. We zien Anna links onderaan in beeld. Alleen haar hoofd is zichtbaar samen
+     met het hoofd van het Heilig Hart-beeld dat ze aan het restaureren is. In een heel wat sequenties
+      bevinden de acteurs zich aan een van de twee zijkanten van het beeld, waardoor er naast hen dan
+       weer een ruimtelijke werking ontstaat. De novicen dragen in de proloog het Heilig Hartbeeld
+        naar buiten en lopen daarbij helemaal rechts in beeld. Ze vallen hierdoor bijna niet op in
+         het grote ruimtebeeld van een van de binnenkoeren van het kloostergebouw. Een ander middel
+          om ruimte te scheppen binnen het gebruikte beeldformaat, is het gebruik van het diagonaal
+           vogelperspectief. De camera bevindt zich boven het gefilmde tafereel, maar niet in loodrechte zin.
+            In een veeleer diagonaal of schuin vogelperspectief ontstaat er groter ruimtebeeld. Dat gebeurt
+             in het tafereel waarmee de proloog van de film afsluit. Nadat de vier novicen het 
+             gerestaureerde Heilig Hartbeeld naar buiten hebben gedragen en op  zijn sokkel hebben 
+             getild (ook dat gebeurt helemaal onderaan in het beeld), componeert Pawlikowski een uniek
+              beeldsetting. In een schuin vogelperspectief bevinden de vier jonge vrouwen zich onderaan 
+              rechts in het beeldkader. Ze stellen zich in een halve cirkel voor het beeld op, 
+              ze maken een kruisteken, vouwen hun handen en bidden elk in stilte. Daar het tafereel
+               zich in de rechterhoek van het beeldkader situeert, ontstaat er een asymmetrische
+                compositie die zowel aandacht schenkt aan de intimiteit en de poëzie van het tafereel 
+                als aan de omgevende ruimte van de besneeuwde plein voor het kloostergebouw.
+                 De sokkel met het religieuze beeld staat in het midden van de cirkel van een stenen muur.
+                  Het hele beeld verschijnt in een sneeuwlandschap met erin het pad met de voetsporen van de zusters.  </p>
+<p><span class="menstis">CONTEMPLATIEF BLIKVELD</span>. De authenticiteit van de film ontspringt niet alleen aan het originele gebruik van zwart-wit en het ongewone beeldformaat. Daarnaast is er ook de unieke acteursregie. Pawlikowski werkt met twee Poolse actrices. De in Polen zeer gewaarde actrice, Agata Kulesza, neemt de complexe rol van Wanda voor haar rekening, terwijl Agata Trzebuchowska die de rol van Anna/Ida speelt, nooit eerder acteerde. Pawlikowski heeft haar door toeval ontdekt. Hij heeft haar voor de rol gevraagd omwille van haar bijzondere verschijning die eenvoud, ingetogenheid en onschuld uitstraalt. De jonge vrouw had geen enkele theater- of filmervaring. Door de bijzondere acteursregie zet Agata Trzebuchowska een unieke vertolking neer. Haar verschijning als de jonge novice Anna/Ida heeft niets van enige theatrale opvoering. Ze vertolkt niet, ze is zichzelf. Dat haar verschijning de volle aandacht van de camera krijgt, blijkt ook uit de ontdramatisering van de al schaarse dialogen. Pawlikowski en Lenkiewicz herleiden de gesprekken tot een minimum. Zelfs in dramatische scènes blijft  het psychologisch realisme achterwege. Dat is niet evident daar de narratieve basislijn zich juist situeert in het domein van de identiteit van de personages Anna/Ida en Wanda. Pawlikowski focust vooral op de contemplatieve blik van Anna/Ida. Zij staat schouwend in het leven en de camera neemt haar attitude over. Die contemplatieve houding ent zich op het personage van de novice, de jonge kloosterzuster die zich op enkele weken van haar definitieve toetreding tot het kloosterleven bevindt. Maar ook het personage zelf komt vooral in beeld als een contemplatieve verschijning. Anna/Ida is geen praatster, zelfs niet in erg dramatische scènes, zoals wanneer ze op zeker moment in het bos oog in oog staat met Feliks Skiba. Die man bewoont nu met zijn gezin het ouderlijke huis van Ida’s ouders. Tijdens de oorlog heeft hij met zijn vader het huis overgenomen in ruil voor het helpen onderduiken van Ida’s ouders, Ida zelf en het zoontje van Wanda. Op zeker dag heeft de toen nog jonge zoon van de Skiba’s, Feliks, beslist om de ouders en het zoontje van Wanda eigenhandig om te brengen en hun lijken in het bos onder de grond te verstoppen. In de scène bevindt Feliks zich in de put waar hij de stoffelijke resten van zijn slachtoffers heeft opgegraven. Ida en Wanda hebben die stoffelijke resten elk in een doek gewikkeld. De man zit emotioneel geslagen in de aarden put. Ida kijkt naar hem aan de rand van de put die tot dan toe het onzichtbare graf van haar ouders en neefje is geweest. Zij stelt hem met een rustige stem de existentiële vraag: ‘En ik? Waarom ben ik er niet?’ Ida luistert aandachtig naar de bekentenis van de man. Om zijn eigen hachje te redden tegenover de nazi’s, de bezetters, heeft hij eigenhandig de Joodse mensen die hem waren toevertrouwd, vermoord en hun lijken in het bos ‘weggestopt’. Blijkbaar heeft hij dit uit zelfbehoud gedaan want hij wilde geen risico lopen om de boerderij van de Lebensteins te verliezen indien de Joodse familie zou worden ontdekt door de nazi’s. Zelfs in dergelijke dramatische scène blijft Ida trouw aan haar contemplatieve houding waarmee ze de dingen die gebeuren in zich opneemt. Schijnbaar emotieloos absorbeert ze de onthullende en verschrikkelijke bekentenis van Feliks Skiba. Omdat Ida nog erg klein was en niet als Joodse herkenbaar was, geeft hij haar als weeskind aan pastoor André gegeven die haar op zijn beurt heeft overgedragen aan de zusters. Die hebben het kind binnen de muren van hun klooster verborgen hebben gehouden en na de oorlog hebben ze het Joodse meisje opgevoed tot katholieke novice. Ook voor de oudere Wanda betekent de onverwachte komst van haar enig familielid, haar nichtje Ida, het begin van een contemplatieve reis doorheen het bewogen landschap van haar existentie, vol dramatische herinneringen. Een unieke scène waarin beide vrouwen hun schouwende houding voor een ogenblik verlaten en overgaan tot een gemeenschappelijke actie, is die van de begrafenis op het Joodse kerkhof van Lublin. In de scène bedekken ze met hun handen de aarde over de stoffelijke resten van Ida’s ouders en het zoontje van Wanda. Deze laatste heeft handschoenen aan, Ida daarentegen werkt we aarde weg met haar blote handen. Er zijn geen anderen bij betrokken, er zijn geen werkinstrumenten voor handen, er is geen muziek en er worden geen woorden gesproken. Er is geen ritueel. Het laatste shot van het tafereel is dat van de geknielde Ida die een kruisteken maakt. De vanzelfsprekendheid van Ida’s contemplatieve blik die ook door de regisseur wordt overgenomen vindt ook haar bevestiging in de even ongewone als spontane cinematografie. Om die te realiseren heeft Pawlikowski, daarbij uitgedaagd door bijzondere omstandigheden, beroep gedaan op een jonge en debuterende cameraman, Lukasz Zal, die nog nooit eerder aan een langspeelfilm had meegewerkt. Met een zelfde onbevangenheid als die van de hoofdactrice Agata Trzebuchowska voor de camera, handelde Zal op de set vanuit zijn natuurlijke, schouwende houding van achter de camera. Voor zijn uniek camerawerk kreeg Zal een Bafta- en Oscarnominatie. Al die gegevens die getuigen van een zeer bewuste contemplatieve instelling tegenover het verhaal, verdicht zich in de beslissing van Pawlikowski om ieder scène in één take vast te leggen. Alles moest goed zijn na één opname. In die werkwijze bundelden zich alle creatieve beslissingen die het authentieke, contemplatieve blikveld van de film <strong>Ida</strong> hebben voortgebracht.</p>
+<p><span class="menstis">KLANKWERELD</span>. De soberheid van de klankwereld ent zich helemaal op de stilte die eigen is aan het contemplatieve blikveld van de film. Die soberheid drukt zich uit in de klanken die de even reële als spirituele reis van de jonge vrouw Anna/Ida en Wanda vergezellen. Dat blijkt al uit het openingstafereel. Anna beëindigt het gelaat van het Heilig Hartbeeld in een ruimte waar ook haar medezusters aan het werk zijn. Het eerste geluid waarmee de film opent op de achtergrond van een volledig zwart beeld, is dat van de ongure wind buiten waarvan blijkt dat het een sneeuwwind is. Ieder geluid dat de zusters maken in de ruimte weerklinkt zeer helder en met een zekere echo. Dat geldt voor de voetstappen van de vier jonge zusters die het religieuze beeld naar de sokkel brengen tegenover de frontmuur van het kloostergebouw. Ook het plaatsen van het beeld op de sokkel weerklinkt op die manier. Ofschoon de camera zelf op een afstand blijft staan, zijn de geluiden van heel kortbij opgenomen. Bij het inpakken van haar reiskoffer horen we het sluiten van de koffer als muzieknoten die voortkomen uit de compositie van het reële leven van Anna/Ida. Voor de hele film geldt dat de scenaristen Pawlikowski en Lenkiewicz bewust de dialogen tot een minimum beperken. Het contact van Anna/Ida met de wereld waarin ze zich beweegt, is hoofdzakelijk schouwend en de gesproken woorden vormen slechts een beperkt deel van die schouwende aanwezigheid van Anna/Ida. Een uitstekend voorbeeld hiervan is de mededeling van de moeder overste aan Anna om haar tante te gaan opzoeken. Het grote verhaal dat hieraan voorafgaat, is weggelaten. De toeschouwer krijgt direct een eigen plaats in het verhaal dat zich voor zijn ogen begint te ontwikkelen. Hij dient de schouwende blik van de camera over te nemen en zelf actief te gaan interpreteren. De zwijgzaamheid, eigen aan Anna/Ida en in zekere zin ook aan Wanda, verstrekt de klank van de stilte die bestaat uit de natuurlijke geluiden van de natuur en de menselijke omgeving. De filmmuziek is evenals de dialogen erg beperkt. Wel speelt de scenische muziek een belangrijke rol, dit is de muziek die live in het beeld aanwezig is via musicerende personages of een geluidsdrager zoals een radio of platenspeler. Het nevenpersonage van de jonge altsaxofoonspeler Lis die al liftend langs de weg het verhaal binnenkomt, brengt ook muziek in het beeld. Hij speelt mee in een band die met Amerikaanse geïnspireerde pop, rock en jazz op aanvraag feestjes opluisteren. Naast Poolse pop- en rocksongs die de tijdgeest van het begin van de sixties in Polen oproepen, zijn er enkele bijzondere muzikale fragmenten opgenomen in het filmverhaal. Dat is bijvoorbeeld het geval voor een van de composities waarbij Lis soleert. Het betreft de instrumentale, bluesy ballade Naima (1959) van de Amerikaanse jazzlegende John Coltrane. De naam van de compositie is ontleend aan de voornaam van de vrouw van Coltrane. De woordbetekenis van Naima met een Afro-Arabische origine is ‘gracieus’ en sluit qua betekenis nauw aan bij de Engelse meisjesnaam Grace, het woord voor ‘genade’. In de film komt de life uitvoering voor in het hotel waar Ida en haar tante verblijven en waar ook de band met Lis speelt. Na hun optreden jammen de musici nog voor zichzelf. Hun enige toehoorder is op dat moment Anna/Ida. Na hun jamsessie maken Anna/Ida en Lis kennis met elkaar. Ze vraagt Lis wat ze hebben gespeeld. Hij antwoordt: ‘Naima van Coltrane’. Hij vraagt: ‘Vond je het goed?’ Ze antwoordt: ‘Heel goed’. Een tweede belangrijk voorbeeld van scenische muziek, komt voor in een de meest dramatische scènes van de film. Het betreft de zelfmoordscène van Wanda. Eerst legt de vrouw een vinylplaat op de grammofoonspeler. Het allegro vivace van Mozarts laatste symfonie weerklinkt door de kamer. De symfonie, door Mozart enkele maanden voor zijn niet voorziene dood gecomponeerd, is de Symfonie nummer 41 in C groot (1788). Ze wordt ook de Jupiter Symfonie genoemd. De naam Jupiter verwijst naar de planeet van ons zonnestelsel waarvan de naam ontleend is aan de Romeinse mythologie waarin Jupiter de hoofdrol speelt van de oppergod, de Romeinse tegenhanger van de Griekse oppergod Zeus. Jupiter/Zeus beheerst het hemelgewelf en bepaalt aldus de gebeurtenissen op aarde via de gunstige of ongunstige weersomstandigheden. Wanda laat de plaat met de krachtige en in zeker zin triomfantelijke symfonische muziek draaien terwijl ze, na te hebben ontbeten, uit het open raam naar haar dood springt. Naast de scenische muziek, is er nog de filmmuziek die enkel via de klankband de beelden begeleidt. De eigen filmmuziek van <strong>Ida</strong>, een compositie van de Deen Kristian Eidnes Andersen, onderlijnt de ingetogen en nostalgische sfeer die het eigen verdriet van Ida en Wanda over hun verloren familie verklankt. De filmmuziek wordt voor het eerst hoorbaar op het ogenblik dat Wanda haar nichtje Ida terug komt ophalen. Ze had de jonge vrouw eerst weg gestuurd, maar ze bedenkt zich. Ze gaat Ida zoeken in de wachtzaal van het station en neemt haar terug mee naar haar appartement. Daar bekijken ze samen het familiealbum. Van dan af vormen de twee vrouwen, de twee generaties, voor het eerst een familie. De tante en het nichtje voelen zich van dan af verbonden, waarna ze onder leiding van Wanda een gemeenschappelijke zoektocht beginnen naar hun familie die ze in de oorlog hebben verloren. De filmmuziek onderlijnt hun familieband en hun beider wil om de resten van hun gemeenschappelijke oorsprong te gaan zoeken. Tot slot, is er naast de eigen filmmuziek, nog een belangrijk muzikaal citaat. Dat begeleidt de slotbeelden met Anna/Ida die als novice met haar reiskoffer te voet op weg is naar haar klooster nadat ze in de stad de begrafenis van haar tante heeft bijgewoond en het appartement van haar tante, waar ze de nacht heeft doorgebracht met Lis, achter zich heeft gelaten. De keuze van de muziek bij die slotbeelden is frappant. Het betreft namelijk de muziek van de religieuze cantate Ich ruf zu dir Herr Jesu Christ (1732) van Johann Sebastiaan Bach. De regisseur gebruikt niet de cantate zelf, maar de instrumentale versie die Bach als koraalprelude heeft opgenomen in zijn Orgelbüchlein. In <strong>Ida</strong> gebruikt de regisseur niet die orgeluitvoering, maar de meer ingetogen pianoversie ervan, een bewerking door Ferruccio Busoni in een vertolking door Alfred Brendel. </p>
+<p><a name="BET"></a></p>
+<h2 id="-font-color-808000-betekenisruimte-font-"><font color="#808000"><strong>Betekenisruimte</strong></font></h2>
+<p><span class="menstis">EVA EN MARIA.</span> Pawlikowski heeft in zijn film <strong>Ida</strong> duidelijk het fenomeen religiositeit of religieus leven willen thematiseren via een welbewust uitgekend vrouwenportret. Anna/Ida staat centraal. We leren haar kennen als een jonge novice in een klooster in de weken voor ze de grote beslissing neemt om definitief tot te treden tot het klooster. De regisseur werkt het filmportret van Anna/Ida uit via een spiegelportret, namelijk dat van Wanda. De uitwerking van dat portret gebeurt psychologisch. Er vinden geen psychologisch getinte analyses, gesprekken, discussies of confrontaties plaats. De regisseur mijdt op dat vlak ieder dramatisch realisme. Dat komt omdat hij zijn film veeleer onder de oppervlakte van de gebeurtenissen en de eerste impressies wil laten bewegen. Dat verklaart de bewuste keuze voor de levensbeschouwelijke houding die consequent is uitgetekend in het dubbele vrouwenportret. Het is zeker geen toeval dat de familieband tussen beide vrouwen dan pas echt tot stand komt in de scène waarin ze samen voor het eerst kijken naar de familiefoto’s die Wanda heeft bewaard. Hun beider motivatie om samen op weg te gaan, komt voort uit hun gemeenschappelijke wil om samen hun leven via het prisma van de familiegeschiedenis te beschouwen. Via die weg willen ze samen én elk op hun manier hun leven onder ogen zien. Ze gaan letterlijk onderweg, wat de film het karakter geeft van een road movie. Uiteindelijk bewegen ze allebei langs de levensbeschouwelijke weg van de zingeving. Hier komt het tweeledige portret volledig tot zijn recht en krijgt het zijn rijke dieptewerking. Vanuit zijn eigen katholieke achtergrond en beleving, werkt Pawlikowski het portret van Anna/Ida en Wanda uit vanuit een eigen herinterpretatie van de twee belangrijkste Bijbelse vrouwenfiguren, Eva en Maria. Vanuit een christelijke perspectief belichaamt Eva het oudtestamentische beeld van de vrouw en Maria het nieuwtestamentische. Voor Pawlikowski vormen beide Bijbelse vrouwbeelden de grondstof voor zijn eigen creatieve en actualiserende hertekening. Daarbij pretendeert hij niet om de Bijbelwetenschap van de exegese te beoefenen. Via beide filmportretten actualiseert hij de levensbeschouwelijke reflectie over de betekenis en draagwijdte van een religieuze levenswijze. Anna/Ida en Wanda zijn binnen de verhaallijn verwanten. Dat geldt ook in het domein van de levensbeschouwelijke zingeving. Ze willen allebei een verbondenheid met de oorsprong van hun bestaan, belichaamd in de ouders van Anna/Ida en in de zus van Wanda. Hierdoor verloopt de weg van Anna/Ida naar haar religieuze leven als kloosterzuster niet meer in een rechte lijn. Ze miste iets. Ze kende zichzelf als weeskind. Ook de moeder overste en de andere zusters kenden Anna enkel als een weeskind. Anna/Ida groeide op als kind en nadien als novice met een witte vlek op de landkaart van haar bestaan. Via Wanda kan ze die witte plek inkleuren. Wanneer ze voor de eerste keer terugkeert naar het klooster voor het feest van haar intrede, beseft Anna/Ida dat ze er niet klaar voor is. Haar tante heeft haar geconfronteerd met de woorden: ‘Dat is het leven!’, daarbij verwijzend naar haar eigen vrije omgang met mannen en de drank. Anna/Ida heeft voor het eerst het leven buiten het klooster gezien en de existentiële vraag van haar tante in zich opgenomen: ‘Hoe kan je weten waar je afstand van doet, als je het niet hebt geprobeerd?’ Wanneer Anna/Ida na de zelfmoord van haar tante, terugkeert naar de stad en het appartement, kruipt ze letterlijk in de kleren van haar tante. Ze zoekt Lis op en brengt in het appartement van Wanda de nacht door met de jonge muzikant. ’s Morgens kleedt zich weer aan als novice en gaat stilzwijgend op weg naar het klooster, haar thuis. In de lijn van de evangelieverhalen is Maria een reëel Joods meisje wier bestaan verweven zit met de geschiedenis van haar familie, haar volk en land. Anna/Ida draagt die verbondenheid op het einde van de film in zich. Nu neemt ze bewust als zelfstandige vrouw zelf de beslissing om op weg te gaan naar het klooster, een weg die ze als weesmeisje ooit is gegaan door toedoen van anderen. Haar religieuze opvoeding en vorming was tot aan het begin van het verhaal een automatisme. Haar religieus leven baadde in de gewoonte van de vanzelfsprekendheid. Haar korte, maar intense levensbeschouwelijke weg heeft geholpen die evidentie te overstijgen. Wanda daarentegen weigert ieder religieus leven. Haar Joodse roots staan niet in het teken van enige religiositeit, maar in dat van het ras dat door de nazi’s gruwelijk als doelwit is genomen. Daar heeft ze tegen gestreden binnen het communistische verzet in Polen. Ze heeft het communistische atheïsme politiek en existentieel omhelsd. Als juriste en lid van de communistische partij heeft ze in de naoorlogse periode als rechter van de staat gewerkt in politieke processen, in feite schijnprocessen om ‘vijanden van het volk’ uit te schakelen. Niet voor niets wordt ze daarvoor geprezen tijdens haar begrafenis op het einde waarvan de Internationale speelt. Wanda stond bekend als ‘Rode Wanda’. Tegelijkertijd leert Ida haar tante kennen in de periode dat haar politieke faam aan het tanen is wegens haar overdadig drankgebruik. Ze is alcoholiste geworden en een nymfomane die voortdurend met andere mannen het bed deelt. Nadat ze samen met Ida de stoffelijke resten van haar zoontje, haar enig kind, en die van haar zus en schoonbroer heeft begraven, besluit ze uit het leven te stappen. Ze verschijnt hier als een Eva, de vrouw die haar mislukking in het gekregen leven inziet. In tegenstelling met de Bijbelse Eva, stelt Pawlikowski Wanda niet voor als iemand die een morele schuld draagt na de rebellie tegen God de Schepper. De regisseur en het hoofdpersonage Anna/Ida nemen een levensbeschouwelijk standpunt in. Ze respecteren wat zich voordoet en respecteren het leven dat verschijnt in zijn onvoorziene en vooral dramatische gedaanten. Noch de regisseur noch zijn hoofdpersonage willen die dramatiek wegredeneren vanuit een of ander moralistisch wereldbeeld dat als een sluier over het leven zelf heen wordt gelegd. </p>
+<p><span class="menstis">VERTICALISERING VAN HET BEELD</span>. Pawlikowski bouwt de eigen religieuze betekeniswereld van de film ook uit via de verticalisering van het beeld. Eén aspect ervan is de verticalisering van het beeldkader zelf. Dat blijkt uit het gebruik van de bijzondere ruimtewerking die hij realiseert door bewust gebruik te maken van het oude en vandaag ongebruikelijke formaat 4:3. Daarmee slaagt hij erin om in de ruimtewerking niet zozeer de horizontale, maar vooral de verticale beweging op de voorgrond te plaatsen. Dat sluit zeer sterk aan bij het levensbeschouwelijke blikveld van de novice Anna/Ida. In de proloog plaatsen de vier novicen, onder wie Anna, het Heilig Hartbeeld op een sokkel, stellen zich op in een halve cirkel bij het beeld en kijken naar omhoog, richting beeld. De levensbeschouwelijke blik van Anna/Ida kent ruimte. Dat betekent ze weet zich opgenomen in een groter geheel dat zowel de aarde als de hemel omsluit. Het is niet zo dat ze met haar hoofd in de wolken loopt. Integendeel, ze houdt haar blik op het leven rondom zich open. In die open blik verschijnt voor Anna/Ida het aardse leven op een hemelse horizon. Die verticalisering van het beeldkader krijgt nog versterking via het beeldmotief van de trap. De weg die Anna/Ida volgt, verloopt niet louter horizontaal. De belangrijke momenten ervan kennen een verticale beweging. De regisseur besteedt daar expliciet aandacht aan. Er zijn drie belangrijke trapmomenten. Anna moet de trap opgaan om het appartement van haar tante te kunnen bereiken. Anna/Ida en Wanda moeten de trap oplopen om de kamer van vader Skiba te vinden. In beide scènes verloopt het betreden van de trap opwaarts. De derde trapscène situeert zich in het hotel. Anna/Ida bevindt zich boven bij de grote spiraaltrap. Ze hoort beneden de band van Lis jammen. Ze beslist uiteindelijk de trap af te lopen en te gaan kijken en luisteren. Daar vindt dan haar kennismaking met de jonge saxofonist plaats. De drie trapscènes vormen een betekenisvolle trapbeweging, eerst opwaarts dan neerwaarts. De opwaartse beweging betekent voor Anna/Ida dat ze moeite moet doen. Ze moet haar weg zoeken en vinden op plaatsen die haar vreemd zijn. En toch, zo ontdekt ze, hebben die plaatsen iets maar haar zelf, haar onbekende zelf, te maken. Haar tante bewaart een familiealbum. De neerwaartse beweging daarentegen heeft een andere uitstraling. Hier zien we eerst Ida vanuit een kikvorsperspectief helemaal boven de spiraaltrap in het licht staan. Ze lijkt wel op een engel die vanuit de hemel neerkijkt. Vervolgens bekijken we vanuit haar hemelperspectief de brede spiraaltrap die lijkt te eindigen in het donkere niets daar ergens beneden. Ida bevindt zich in een religieus cocon met een hemelse aura. Via de kennismaking met haar tante, komt ze in een heel andere wereld terecht, de wereld van heel concrete mensen die zonder beschutting en bescherming hun leven trachten te leven, met vallen en opstaan. Dat hebben ook haar ouders gedaan in moeilijke, historische omstandigheden, dat heeft ook het gezin Skiba gedaan in diezelfde dramatische omstandigheden, Wanda en Lis tekenen hun bestaan nu uit in het heden. Ida daalt voor het eerst de trap van de hogere sfeer af richting het heden zoals het nu is. Dat is ook de betekenis van haar reis. Die brengt haar in contact met de anderen. Die waren in het klooster helemaal afwezig, temeer dat ze ervan overtuigd was dat ze in de wereld buiten het klooster helemaal niemand had. Dan ontdekt ze het bestaan van haar tante Wanda die in een heel andere wereld dan een klooster leeft. Tevens komt ze in contact met Lis, het andere geslacht, een andere cultuur. Al die contacten absorbeert ze en vanuit die ervaring keert ze terug naar haar vertrekpunt, het klooster en haar geloften. De film toont niet meer de aankomst van Anna/Ida in het klooster. De weg die de jonge religieuze doorloopt, staat centraal. Dat dit een religieuze weg is, daarover laat de regisseur geen twijfel bestaan. Hij monteert bij de stappende Anna/Ida het koraalgebed van Bach in een rustige, meditatieve versie: Ich ruf zu dir Herr Jesu Christ. Met dit door en door menselijke gebed stapt Anna/Ida naar haar klooster. Ze geeft in haar religieus leven een tweede onschuld gevonden.</p>
+<p><span class="menstis">MAGNIFICAT IN Em</span>. De film Ida oogt als een eigentijds Magnificat in Em. De term Magnificat duidt op een van de meest merkwaardige teksten uit de Evangelies (Lucas 1, 46-55). Dat fragment kenmerkt mede de eigenheid van het christendom. Het vertoont qua genre enige verwantschap met het oudtestamentische loflied van Hanna (1 Sam. 2:1-10). Inhoudelijk getuigt het echter van een heel eigen religieuze houding die sterk aanleunt bij de Bergrede in Matteüs 5-7, met name de Zaligsprekingen (Matteüs 5, 3-12). Het evangelische Magnificat is een blijvende artistieke inspiratiebron gebleken. We vinden het terug bij de Gregoriaanse Vespers, alsook bij Claudio Monteverdi, Giovanni Pergolesi, Johan Sebastiaan Bach, Antonio Vivaldi, Franz Schubert en Arvo Pärt. Het thema van het Magnificat vormt een tweeluik met dat van het Stabat Mater, verbonden met het beeld van de Mater Dolorosa, geïnspireerd door het evangelietafereel van Johannes 19, 25-27. Michelangelo heeft dat tafereel in Rome beeldend onsterfelijk gemaakt met zijn Pietà. Die herinnering aan zowel de Bijbelse bronnen als aan de artistieke expressies leert ons hoe het christelijke, religieuze geloof verankert zit in het fenomeen van de Menswording via de historische figuur van de jonge moeder van Jezus, Maria. Zij belichaamt letterlijk en daardoor ook beeldend de eigen tragiek van die Menswording. Ze omvat de fysieke geboorte, maar ook de dood. Niet de dood in het algemeen, maar de historische dood van haar kind Jezus, waarvan de herinnering is bewaard in de evangelische passieverhalen. In de herinnering weerklinken in één samenklank de doorleefde blijheid en vreugde van de geboorte én de dramatiek van de dood. Deze laatste werd zichtbaar in de historische terechtstelling, het onrechtmatige lijden dat Maria’s zoon overkwam in de noodlottige regie van de moeizame historische menswording van de mens tijdens de hoogdagen van het Romeinse Rijk. Maar ook in het Magnificat zelf is die éne samenklank al hoorbaar. De jonge vrouw zingt haar vreugde uit wegens haar zwangerschap die niet zozeer van de mensen, maar vooral van Godswege het fiat krijgt. In de ogen van de mensen, in het bijzonder van haar Joodse omgeving, beleeft Maria haar zwangerschap eerder als een schande. Ze is namelijk ongehuwd. Exegeten hebben de voorbije decennia het feit van de ongehuwde, zwangere Maria, de moeder van Jezus, steeds meer in de verf gezet. Daarbij relativeren ze de eeuwenoude dogmatische interpretaties die wegens hun abstractie zich te ver van de evangelische, verhalende en tevens historische oorsprong zelf van het christelijke geloof in de Menswording hebben verwijderd. Het is binnen die religieuze, christelijke sfeer dat de Pools-Britse regisseur Pawlikowski zich beweegt in zijn filmisch portret van de katholieke novice Ida. De jonge vrouw handelt niet vanuit een dogmatische reflex. Ze staat levensbeschouwelijk in het leven. Ze is een verwante van de evangelische Maria. Ze heet trouwens Anna, de naam van de moeder van Maria, in de volksdevotie gekend als de Heilige Anna of Sint Anna, beschreven in De geboorte van Maria, het Proto-Evangelie van Jacobus. De verwantschap tussen de filmische Anna en de evangelische Maria blijkt niet alleen uit hun leeftijd. Veel meer vinden we die in de opmerkelijk proloog van de film. De regisseur verwijst er namelijk naar de artistieke traditie van het katholieke, christelijke geloof eerder dan naar de dogmatische, kerkelijke. In de eerste scène zien we de novice Anna zeer geconcentreerd het gelaat schilderen van het Heilig Hartbeeld. Later blijkt dat Anna/Ida die artistieke genen van haar moeder heeft geërfd. Die maakte, zo vernemen we via Wanda, glasramen in lood in de koestal om de dieren blij te stemmen. In een tweede tafereel zien we in de proloog hoe Anna en haar drie, jonge medezusters het beeld in een stille processie naar buiten dragen. Ze brengen het in een winterse sneeuwwind naar de sokkel in de voortuin van het klooster. Tijdens die niet-officiële processie ontstaat er een bijzonder cinematografisch beeld. Het standbeeld oogt nu als een lijk en de vier zusters verschijnen als de dragers van het dode lichaam. Samen leggen ze echter het beeld niet in een graf, maar laten ze het herrijzen door het op een sokkel te plaatsen. Ze wekken het als het ware tot leven. Dat krijgt nog zijn bevestiging in de opstelling van de vier in stilte biddende zusters rond het beeld. De regisseur linkt het gekende Heilig Hartbeeld dat in de katholieke volksdevotie van eind negentiende en eerste helft twintigste eeuw een hoofdrol heeft gespeeld, met het personage van de novice Anna. Het standbeeld verbeeldt de warme hartelijkheid en volle menselijkheid, verbonden met het christelijke credo van de Menswording. Die hartverwarmende menselijkheid krijgt in het Magnificat een diep religieuze duiding. En zoals in de proloog van de film het Heilig Hartbeeld door de vier jonge zusters in de koude, winterse omgeving wordt geplaatst, zo ook klinkt in het Magnificat de onmenselijke hardheid van de historische omgeving door. In de film vormt het Heilig Hartbeeld de hartslag zelf van Anna haar geloof, ook al staat het in het teken van een groot verdriet dat ze als weeskind vanaf haar eerste levensjaren meedraagt. Dat verdriet neemt alleen maar toe op het ritme van haar tocht naar haar tante. Ze vindt dat grote verdriet ook terug bij haar tante zelf en via haar tante in de geschiedenis waar ze zelf, zo beseft ze, deel van uitmaakt. Zoals aangestipt, weerklinkt die historische dimensie, verdicht in het verdriet van een jonge vrouw, in het evangelische Magnificat. De jonge Maria draagt ook in zich het verdriet van haar volk dat onder het juk leeft van een heerszuchtige koning Herodes en van het grote Rijk van de Romeinse keizer. De echo van dat verdriet is hoorbaar in de jubel van de jonge, ongehuwde zwangere vrouw Maria, in haar Magnificat in Em.  <a name="CON"></a></p>
+<h2 id="-font-color-808000-context-font-"><font color="#808000"><strong>Context</strong></font></h2>
+<p>Pawlikowski situeert zijn filmverhaal in 1962. Dat jaartal verwijst naar zijn kindertijd in Polen. Maar het gekozen jaartal is meer dan dat. Het refereert ook naar een bijzondere historische context die een sterk licht werpt op het verhaal zelf. Allereerst verwijst 1962 naar het begin van een belangrijke dynamiek in de katholieke Kerk met de opening van het Tweede Vaticaans Concilie door paus Johannes XXIII. Hij kondigde een nieuwe wind, een nieuwe geest aan in de Kerk. De paus zelf die heel dicht stond bij het gelovige volk zelf, gaf het startsein van wat hij de aggiornamento-beweging noemde. Die moest de Kerk en het christelijke geloof in dialoog doen treden met de bestaande tijd. De wereldvreemdheid van de Kerk moest worden afgebouwd. Die wereldvreemdheid had zich geïnstalleerd met het Eerste Vaticaans Concilie (1869-1870). De Kerk van Rome koos toen voor een anti-modernistisch beleid en ging de strijd aan tegen de nieuwe ontwikkeling in de samenleving. Ze zette de intellectuele wapens van het klerikalisme en het moralisme in. Pawlikowski regisseert de proloog van de film duidelijk met een artistieke verwijzing naar de geest van het Tweede Vaticaans Concilie. Hij interpreteert die vanuit een eigen Poolse context met een zowel binnenkerkelijke als buitenkerkelijke inslag. Binnenkerkelijk:  Pawlikowski plaatst de jonge vrouw Anna op de voorgrond. De novice vormt samen met haar medezusters de jeugd van de Poolse Kerk. Zij halen het Heilig Hartbeeld van onder het stof, renoveren het en dragen het samen naar buiten waar ze het doen herrijzen. Voor deze jonge gelovigen staat in hun religieus leven het Heilig Hart centraal dat klopt voor de levende mensen in de concrete samenleving. Net zoals in het programma van het Concilie opent de film met de opdracht van moeder overste aan Anna om de wereld in te trekken en die te leren kennen alvorens haar kloostergelofte af te leggen. Het is ook betekenisvol dat Pawlikowski niet focust op de zusters zelf. Die zijn eerder figuranten. Zij dragen de sterk contrasterende kloosterkleding: zwart met verwijzing naar de dood, de dood voor de wereld, en zuiver wit, verwijzend naar de hemelse zuiverheid na de dood. Het concrete leven valt hierbij buiten het bereik van het kloosterleven. Anna en haar medezusters daarentegen dragen nog het grijs, een mix van het contrasterende zwart en wit. De film handelt ook niet over de strenge kloosterregels zelf. Het individu staat centraal. Anna/Ida absorbeert de religieuze levenswijze vanuit haar eigen wil en na haar persoonlijk contact met het leven buiten de kloostermuren. Pawlikowski brengt hiermee ook hulde aan de belangrijke bijdrage van heel wat katholieke instellingen in het redden van Joodse kinderen van de Holocaust door ze te verbergen in hun midden. Tegelijkertijd herinnert de regisseur ook aan de eigen weerbaarheid van de Poolse katholieke Kerk tegen de communistische Ideologie die na de Tweede Wereldoorlog onder dwang van de Sovjet-Unie werd geïnstalleerd. Die geestelijke en culturele weerbaarheid zou uitmonden in de beweging Solidarność, die de grondslag heeft gelegd voor de val van het communisme niet alleen in Polen (1989), maar ook in het hele Oostblok. De keuze voor de Poolse paus Johannes-Paulus II (1978-2005) hangt ook samen met die succesrijke bovengrondse en ondergrondse katholieke Poolse beweging. Hieruit blijkt al de buitenkerkelijke draagwijdte van wat volgens Pawlikowski het Tweede Vaticaans Concilie voor Polen betekende. Via het portret van Anna/Ida plaatst hij ook de eigen en unieke waarde van een spiritueel, religieus leven tegenover iedere vorm van een zuiver materialistisch levenswijze, die tot voor kort door het communistische bewind werd opgelegd en die vandaag richting westerse consumptiemaatschappij opschuift. Het personage van de tante Wanda incorporeert die materialistische levenswijze onder het communisme. Dat gebeurt in de film via een directe verwijzing naar de beruchte schijnprocessen tegen de zogenaamde ‘vijanden van het volk’. Wanda is duidelijk een van de strenge rechters die dergelijke schijnprocessen heeft voorgezeten. Ze staat bekend als ‘Rode Wanda’. De film toont echter hoe haar persoonlijk leven een puinhoop is. Pawlikowski stelt hiermee de achilleshiel van een moderne samenleving die, zoals Polen in de tijd van de Koude Oorlog, wordt verplicht te leven onder de regie van een zuivere materialistische Ideologie. Pawlikowski evoceert dat in het tafereel van de begrafenis van Wanda. De officiële schijn die de loftrompet steekt over ‘de Rode Wanda’, met de Internationale als orgelpunt, contrasteert met de novice Anna/Ida die in beeld komt terwijl ze van buiten af de politieke plechtigheid gadeslaat. In het kader van de context, speelt ook het kloostergebouw zelf een beeldende rol. Pawlikowski gebruikt voor de locatie van het klooster, het historische Zamoyski Paleis in Zamość nabij Lublin, gelegen in het Zuidoosten van Polen nabij de grens met Oekraïne. De adellijke Poolse familie Zamoyski heeft in de late 16de eeuw het paleis gebouwd én de stad Zamość gesticht. De geschiedenis van Polen weerspiegelt zich in de lotgevallen van het paleis dat anno 2016 nog op een nieuwe bestemming wachtte. In de 19de eeuw werd het historische paleis omgebouwd tot een militair hospitaal, terwijl  in het begin van 20ste eeuw het stedelijke gerechtshof huisvestte. Zowel de nazi’s als de communisten na hen vernederden de familie Zamoyski. Na de val het communisme werd de nazaat van de familie Zamoyski in ere hersteld, maar het gebouw blijft voorlopig leeg en onbestemd staan. Pawlikowski stelt met zijn film <strong>Ida</strong> een duidelijk gebaar. Hij herinterpreteert via het paleis Polen als een nog te renoveren historische monument voor. Hij bestemt concreet het lege paleis tot een zusterklooster waar een gerenoveerd Heilig Hartbeeld de bezoekers verwelkomt. Hiermee wijst de regisseur op de blijvende noodzaak om de Poolse samenleving na  het trauma van de Duitse bezetting met de Holocaust en dat van het communisme, op te bouwen op spirituele hoeksteen. Met deze artistieke en spirituele boodschap sluit Pawlikowski zich aan bij zijn Poolse voorganger, Krzysztof Kieslowski die met zijn Dekalog (1989) in diezelfde geest de Poolse postcommunistische samenleving had opgeroepen. Pawlikowski ziet die spirituele hoeksteen van de Poolse samenleving in opbouw in een christelijke religiositeit zoals hij die portretteert via het hoofdpersonage van de novice Anna/Ida. Een novice is iemand die zich nog in een leerproces bevindt. Daarbij legt de regisseur ook de nadruk op de fundamentele waarde van de vrijheid zonder dewelke in een postmoderne samenleving geen authentieke religiositeit mogelijk is. Dat laat hij zien door Ida in contact te laten komen met Lis, de jonge saxofonist. Die vindt van zichzelf dat hij iets van een zigeuner heeft. Hij trekt rond als muzikant van actuele westerse muziek: pop, rock en jazz. Pawlikowski bevestigt zelf dat in het begin van de jaren zestig in Polen een vrij grote marge van vrijheid heerste dan in andere communistische Oostbloklanden. Na de kritiek op het bewind van Stalin naar het einde van de jaren vijftig toe in de Sovjet-Unie, ontstond in Polen een zekere marge van vrijheid van expressie. De jeugd speelde daar op in. Ze importeerde en imiteerde de populaire muziek uit het vrije Westen. In de film laat Pawlikowski het hoofdpersonage Anna/Ida die culturele vrijheid kritisch absorberen en integreren in haar religieuze beleving waaraan ze trouw blijft, zoals blijkt uit de slotbeelden. </p>
+<p><a name="LIN"></a></p>
+<h2 id="-font-color-808000-links-font-"><font color="#808000"><strong>Links</strong></font></h2>
+<p>Voor de eigenheid van de levensbeschouwelijke blik zoals die in de film <strong>Ida</strong> zowel door de regisseur als door zijn hoofdpersonage wordt beoefend, zie: het eerste deel van Levensbeschouwing democratisch belicht. En voor het gegeven van de Ideologie, zie het tweede deel van hetzelfde boek.
+<a href="https://www.facebook.com/idafilm">De officiële site van de film</a>.</p>
+<font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2017</font>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

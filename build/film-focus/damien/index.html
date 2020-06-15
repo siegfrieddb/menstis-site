@@ -1,0 +1,1128 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title></title>
+  
+<link rel="shortcut icon" href="./favicon.ico" />
+<link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="./favicon-96x96.png" />
+<link rel="icon" type="image/png" sizes="16x16" href=".favicon-16x16.png" />
+
+<style>
+    html {
+      font-family: sans-serif;
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%
+    }
+
+    body {
+      margin: 0
+    }
+
+    article,
+    aside,
+    details,
+    figcaption,
+    figure,
+    footer,
+    header,
+    main,
+    menu,
+    nav,
+    section,
+    summary {
+      display: block
+    }
+
+    audio,
+    canvas,
+    progress,
+    video {
+      display: inline-block
+    }
+
+    audio:not([controls]) {
+      display: none;
+      height: 0
+    }
+
+    progress {
+      vertical-align: baseline
+    }
+
+    [hidden],
+    template {
+      display: none
+    }
+
+    a {
+      background-color: transparent;
+      -webkit-text-decoration-skip: objects
+    }
+
+    a:active,
+    a:hover {
+      outline-width: 0
+    }
+
+    abbr[title] {
+      border-bottom: none;
+      text-decoration: underline;
+      text-decoration: underline dotted
+    }
+
+    b,
+    strong {
+      font-weight: inherit;
+      font-weight: bolder
+    }
+
+    dfn {
+      font-style: italic
+    }
+
+    h1 {
+      font-size: 2em;
+      margin: .67em 0
+    }
+
+    mark {
+      background-color: #ff0;
+      color: #000
+    }
+
+    small {
+      font-size: 80%
+    }
+
+    sub,
+    sup {
+      font-size: 75%;
+      line-height: 0;
+      position: relative;
+      vertical-align: baseline
+    }
+
+    sub {
+      bottom: -.25em
+    }
+
+    sup {
+      top: -.5em
+    }
+
+    img {
+      border-style: none
+    }
+
+    svg:not(:root) {
+      overflow: hidden
+    }
+
+    code,
+    kbd,
+    pre,
+    samp {
+      font-family: monospace, monospace;
+      font-size: 1em
+    }
+
+    figure {
+      margin: 1em 40px
+    }
+
+    hr {
+      box-sizing: content-box;
+      height: 0;
+      overflow: visible
+    }
+
+    button,
+    input,
+    optgroup,
+    select,
+    textarea {
+      font: inherit;
+      margin: 0
+    }
+
+    optgroup {
+      font-weight: 700
+    }
+
+    button,
+    input {
+      overflow: visible
+    }
+
+    button,
+    select {
+      text-transform: none
+    }
+
+    [type=reset],
+    [type=submit],
+    button,
+    html [type=button] {
+      -webkit-appearance: button
+    }
+
+    [type=button]::-moz-focus-inner,
+    [type=reset]::-moz-focus-inner,
+    [type=submit]::-moz-focus-inner,
+    button::-moz-focus-inner {
+      border-style: none;
+      padding: 0
+    }
+
+    [type=button]:-moz-focusring,
+    [type=reset]:-moz-focusring,
+    [type=submit]:-moz-focusring,
+    button:-moz-focusring {
+      outline: 1px dotted ButtonText
+    }
+
+    fieldset {
+      border: 1px solid silver;
+      margin: 0 2px;
+      padding: .35em .625em .75em
+    }
+
+    legend {
+      box-sizing: border-box;
+      color: inherit;
+      display: table;
+      max-width: 100%;
+      padding: 0;
+      white-space: normal
+    }
+
+    textarea {
+      overflow: auto
+    }
+
+    [type=checkbox],
+    [type=radio] {
+      box-sizing: border-box;
+      padding: 0
+    }
+
+    [type=number]::-webkit-inner-spin-button,
+    [type=number]::-webkit-outer-spin-button {
+      height: auto
+    }
+
+    [type=search] {
+      -webkit-appearance: textfield;
+      outline-offset: -2px
+    }
+
+    [type=search]::-webkit-search-cancel-button,
+    [type=search]::-webkit-search-decoration {
+      -webkit-appearance: none
+    }
+
+    ::-webkit-input-placeholder {
+      color: inherit;
+      opacity: .54
+    }
+
+    ::-webkit-file-upload-button {
+      -webkit-appearance: button;
+      font: inherit
+    }
+
+    html {
+      font-size: 100%;
+      line-height: 1.5;
+      box-sizing: border-box;
+      overflow-y: scroll;
+    }
+
+    * {
+      box-sizing: inherit;
+    }
+
+    *:before {
+      box-sizing: inherit;
+    }
+
+    *:after {
+      box-sizing: inherit;
+    }
+
+    body {
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: Lucida Sans Unicode, Lucida Bright, Lucida Grande, sans-serif, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue;
+      font-weight: normal;
+      word-wrap: break-word;
+    }
+
+    img {
+      max-width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    h1 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 2rem;
+      line-height: 2.25rem;
+    }
+
+    h2 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1.51572rem;
+      line-height: 2.25rem;
+    }
+
+    h3 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1.31951rem;
+      line-height: 2.25rem;
+    }
+
+    h4 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 1rem;
+      line-height: 1.5rem;
+    }
+
+    h5 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 0.87055rem;
+      line-height: 1.5rem;
+    }
+
+    h6 {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      color: hsla(0, 0%, 0%, 0.8);
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      font-weight: bold;
+      text-rendering: optimizeLegibility;
+      font-size: 0.81225rem;
+      line-height: 1.5rem;
+    }
+
+    hgroup {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    ul {
+      margin-left: 1.5rem;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      list-style-position: outside;
+      list-style-image: none;
+    }
+
+    ol {
+      margin-left: 1.5rem;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      list-style-position: outside;
+      list-style-image: none;
+    }
+
+    dl {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    dd {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    p {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    figure {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    pre {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      font-size: 0.85rem;
+      line-height: 1.42;
+      background: hsla(0, 0%, 0%, 0.04);
+      border-radius: 3px;
+      overflow: auto;
+      padding: 1.5rem;
+    }
+
+    table {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+      font-size: 1rem;
+      line-height: 1.5rem;
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    fieldset {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    blockquote {
+      margin-left: 1.5rem;
+      margin-right: 1.5rem;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    form {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    noscript {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    iframe {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    hr {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: calc(1.5rem - 1px);
+      background: hsla(0, 0%, 0%, 0.2);
+      border: none;
+      height: 1px;
+    }
+
+    address {
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      margin-bottom: 1.5rem;
+    }
+
+    b {
+      font-weight: bold;
+    }
+
+    strong {
+      font-weight: bold;
+    }
+
+    dt {
+      font-weight: bold;
+    }
+
+    th {
+      font-weight: bold;
+    }
+
+    li {
+      margin-bottom: calc(1.5rem / 2);
+    }
+
+    ol li {
+      padding-left: 0;
+    }
+
+    ul li {
+      padding-left: 0;
+    }
+
+    li>ol {
+      margin-left: 1.5rem;
+      margin-bottom: calc(1.5rem / 2);
+      margin-top: calc(1.5rem / 2);
+    }
+
+    li>ul {
+      margin-left: 1.5rem;
+      margin-bottom: calc(1.5rem / 2);
+      margin-top: calc(1.5rem / 2);
+    }
+
+    code {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    kbd {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    samp {
+      font-size: 0.85rem;
+      line-height: 1.5rem;
+    }
+
+    abbr {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+    }
+
+    acronym {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+    }
+
+    abbr[title] {
+      border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
+      cursor: help;
+      text-decoration: none;
+    }
+
+    thead {
+      text-align: left;
+    }
+
+    td,
+    th {
+      text-align: left;
+      border-bottom: 1px solid hsla(0, 0%, 0%, 0.12);
+      font-feature-settings: tnum;
+      padding-left: 1rem;
+      padding-right: 1rem;
+      padding-top: 0.75rem;
+      padding-bottom: calc(0.75rem - 1px);
+    }
+
+    th:first-child,
+    td:first-child {
+      padding-left: 0;
+    }
+
+    th:last-child,
+    td:last-child {
+      padding-right: 0;
+    }
+
+    tt,
+    code {
+      background-color: hsla(0, 0%, 0%, 0.04);
+      border-radius: 3px;
+      font-family: Consolas, "Roboto Mono", "Liberation Mono", Menlo, Courier, monospace;
+      padding: 0;
+      padding-top: 0.2em;
+      padding-bottom: 0.2em;
+    }
+
+    pre code {
+      background: none;
+      line-height: 1.42;
+    }
+
+    code:before,
+    code:after,
+    tt:before,
+    tt:after {
+      letter-spacing: -0.2em;
+      content: " ";
+    }
+
+    pre code:before,
+    pre code:after,
+    pre tt:before,
+    pre tt:after {
+      content: "";
+    }
+  </style>
+  <style>
+    @media only screen and (min-width:700px) {
+      .breakpoint-min-width-700 {
+        display: block
+      }
+
+      .breakpoint-max-width-700 {
+        display: none
+      }
+    }
+
+    @media only screen and (max-width:700px) {
+      .breakpoint-min-width-700 {
+        display: none
+      }
+
+      .breakpoint-max-width-700 {
+        display: block
+      }
+    }
+
+    .landing-image {
+      background-image: url(/menstis-theme.jpg);
+      background-size: cover
+    }
+
+    .main-menu-item {
+      font-weight: 700
+    }
+
+    @media only screen and (min-width:1127px) {
+      .main-menu-item {
+        font-size: 1.5em
+      }
+    }
+
+    .blog-image {
+      background-image: url(/menstis-back.jpg);
+      background-size: cover;
+      background-position: 50%
+    }
+
+    body {
+      font-size: 1.5em
+    }
+
+    .page {
+      width: 100%
+    }
+
+    a {
+      color: #f26d80
+    }
+
+    a>strong {
+      color: olive
+    }
+
+    a:hover,
+    h1 {
+      color: #f26d80
+    }
+
+    h1 {
+      font-size: 2.3em
+    }
+
+    h2 {
+      color: olive;
+      font-size: 1.5em
+    }
+
+    hr {
+      border: 0;
+      height: 1px;
+      background: olive
+    }
+
+    .image-fit>img {
+      -o-object-fit: cover;
+      object-fit: cover;
+      height: 225px;
+      width: 360px;
+      position: relative;
+      display: block
+    }
+
+    .image-overlay {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      opacity: 0;
+      overflow: hidden;
+      width: 100%;
+      height: 100%;
+      transition: .5s ease
+    }
+
+    .image-fit:hover .image-overlay {
+      opacity: 1
+    }
+
+    .image-text {
+      white-space: nowrap;
+      color: #fff;
+      font-size: 1.3em;
+      font-weight: 700;
+      position: absolute;
+      overflow: hidden;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      text-shadow: #000 0 0 10px
+    }
+
+    .image-fit-uitgeverij>img {
+      -o-object-fit: cover;
+      object-fit: cover;
+      height: 200px;
+      width: 360px
+    }
+
+    .landing-item {
+      font-weight: 700;
+      font-size: 2em
+    }
+
+    .Header {
+      height: 4em;
+      text-align: center
+    }
+
+    .Header,
+    .parent-blog {
+      width: 100%;
+      display: table
+    }
+
+    .parent-blog {
+      height: 3em;
+      text-align: left;
+      padding-left: 1em
+    }
+
+    .parent-blog>.child-blog {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 2em;
+      color: #fff
+    }
+
+    .menstis-title {
+      width: 100%;
+      height: 2.5em;
+      display: table;
+      text-align: left;
+      padding-left: .5em;
+      background-image: url(/menstis-back.jpg);
+      background-size: cover;
+      background-position: 50%
+    }
+
+    .menstis-title>h1 {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 1.5em;
+      color: #fff
+    }
+
+    .parent-menu {
+      width: 100%;
+      height: 3em;
+      display: table;
+      text-align: center
+    }
+
+    .parent-menu>.child-menu {
+      font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 2em;
+      color: #fff;
+      padding: .1em
+    }
+
+    @media only screen and (max-width:726px) {
+      .parent-blog {
+        width: 100%;
+        height: 2.5em;
+        display: table;
+        text-align: left;
+        padding-left: .5em
+      }
+
+      .parent-blog>.child-blog {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 1.5em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (min-width:1127px) {
+      .parent {
+        width: 100%;
+        height: 300px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 12em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (min-width:933px) and (max-width:1127px) {
+      .parent {
+        width: 100%;
+        height: 180px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 7em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (max-width:933px) {
+      .parent {
+        width: 100%;
+        height: 110px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 4em;
+        color: #fff
+      }
+    }
+
+    @media only screen and (max-width:726px) {
+      .parent {
+        width: 100%;
+        height: 90px;
+        display: table;
+        text-align: center
+      }
+
+      .parent>.child {
+        font-family: Lucida Sans Unicode, Lucida Bright, sans-serif;
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 3em;
+        color: #fff
+      }
+    }
+  </style>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.css" />
+</head>
+<body>
+  <div id="react-mount">
+    <div data-reactroot="" data-reactid="1" data-react-checksum="-2022520968">
+      <div data-reactid="2">
+  <div class="ui fluid container " data-reactid="3">
+    <div class="breakpoint-min-width-700" data-reactid="4">
+      <div class="ui massive menu pointing secondary" data-reactid="5">
+        <div class="ui container " data-reactid="6">
+          <div class="item" style="padding:0px;margin-right:20px;" data-reactid="7">
+            <div class="parent-menu blog-image " data-reactid="8">
+              <div class="child-menu" data-reactid="9"><span style="font-weight:bold;" data-reactid="10">
+                  <!-- react-text: 11 -->men(
+                  <!-- /react-text --><span style="color:#f26d80;" data-reactid="12">S</span>
+                  <!-- react-text: 13 -->)tis
+                  <!-- /react-text --></span></div>
+            </div>
+          </div><a class="item" href="/dedag/" data-reactid="14">De Dag</a><a class="item" href="/blog/"
+            data-reactid="15">Blog</a><a class="active item" href="/missie/" data-reactid="16">Missie</a><a
+            class="item" href="/film-focus/" data-reactid="17">FilmFocus</a><a class="item" href="/producties/"
+            data-reactid="18">Producties</a><a class="item" href="/webshop/" data-reactid="19">Webshop</a>
+        </div>
+      </div>
+    </div>
+    <div class="breakpoint-max-width-700" data-reactid="20">
+      <div class="parent-blog blog-image " style="text-align:center;" data-reactid="21">
+        <div class="child-blog" data-reactid="22"><span style="font-weight:bold;" data-reactid="23">
+            <!-- react-text: 24 -->men(
+            <!-- /react-text --><span style="color:#f26d80;" data-reactid="25">S</span><!-- react-text: 26 -->)tis
+            <!-- /react-text --></span></div>
+      </div>
+      <div style="height:10px;" data-reactid="27"></div>
+      <div role="combobox" aria-expanded="false" class="ui fluid search selection dropdown" data-reactid="28">
+        <select type="hidden" aria-hidden="true" data-reactid="29">
+          <option value="" data-reactid="30"></option>
+          <option value="/dedag/" data-reactid="31">De Dag</option>
+          <option value="/blog/" data-reactid="32">Blog</option>
+          <option selected="" value="/missie/" data-reactid="33">Missie</option>
+          <option value="/film-focus/" data-reactid="34">FilmFocus</option>
+          <option value="/producties/" data-reactid="35">Producties</option>
+          <option value="/webshop/" data-reactid="36">Webshop</option>
+        </select><input type="text" value="" aria-autocomplete="list" class="search" name="-search"
+          autocomplete="off" tabindex="0" data-reactid="37" />
+        <div class="text" data-reactid="38">Missie</div><i aria-hidden="true" class="dropdown icon"
+          data-reactid="39"></i>
+        <div role="listbox" class="menu transition" data-reactid="40">
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="41">
+            De Dag
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="43">
+            Blog
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="true" aria-selected="true"
+            class="active selected item" data-reactid="45">
+            Missie
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="47">
+            FilmFocus
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
+            data-reactid="49">
+            Producties
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item">
+            Webshop
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="height:10px;"></div>
+</div>
+      <div>
+        <div class="ui container" data-reactid="55">
+          <div class="markdown" data-reactid="56">
+           <h1>Father Damien</h1><hr>
+<p><center>
+<img src="priesterkleed.jpg" >
+</center>
+<a name="KLA"></a></p>
+<h2 id="-font-color-808000-klapbord-font-"><font color="#808000"><strong>Klapbord</strong></font></h2>
+<p><span style="color:blue"><strong>Father Damien</strong></span>
+is de titel van _het historische filmeposis hoofdzakelijk <em>een Vlaamse productie</em>. In Vlaanderen is de film uitgebracht onder de titel <em>Damiaan</em>, terwijl de internationale titel <em>Molokai: The Story of Father Damien</em> is. Die wordt gewoonlijk verkort tot <em>Father Damien</em>.</p>
+<blockquote>
+<p>Na haar wereldpremière op woensdag 10 maart 1999 (Antwerpen) oogstte de film van regisseur <em>Paul Cox</em> bij de filmpers een onbarmhartige kritiek. De toeschouwers reageerden echter positief op de film. Die is en blijft <em>de belangrijkste film over de historische figuur van pater Damiaan</em>.</p>
+<p>De toeschouwer kijkt geboeid naar de film over de merkwaardige geschiedenis die zo onvoorstelbaar is dat geen menselijke verbeelding ze zou kunnen bedenken. De grote episode van <em>Damiaans leven en sterven op Molokai</em> komt helder in beeld, mede dank zij het scenario van Briley dat gebaseerd is op het historisch onderzoek dat de Vlaamse historica <em>Hilde Eynikel</em> heeft gepubliceerd onder de titel <em>Damiaan. De definitieve biografie</em> (1999).</p>
+</blockquote>
+<p><a name="SYN"></a></p>
+<h2 id="-font-color-808000-synopsis-font-"><font color="#808000"><strong>Synopsis</strong></font></h2>
+<p>Na een korte introductie in Honolulu waar <em>de jonge Vlaamse pater Damiaan</em> zich als vrijwilliger opgeeft om als priester naar <em>het lepra-eiland Molokai</em> te vertrekken, evoceert de film het verblijf van Damiaan op Molokai. Het verhaal begint met zijn aankomst tot aan zijn dood als melaatse priester. De film schenkt vooral aandacht aan <em>het spiritueel portret van pater Damiaan</em>, zijn innerlijke strijd, en aan het menselijk portret dat het engagement van pater Damiaan toont voor de menswaardigheid van de leprazieken die op het eiland zijn gedumpt. Daarbij komen enkele belangrijke, historische nevenpersonages in beeld.</p>
+<blockquote>
+<p>Er is vooral <em>Rudolph Meyer</em>, de Duitse ingenieur die met zijn gezin aan de bovenkant van de pali woont, en het algemeen toezicht houdt op de leprozerie. Hij wordt een bondgenoot van Damiaan.</p>
+<p>Daarnaast is er <em>William Williamson</em>, verpleger, patiënt, Brit en protestant. De man is besmet geraakt tijdens zijn werk als verpleger in Honolulu en, ook verbannen naar Molokai, wacht hij nu op de spoedige komst van de dood.</p>
+<p>De jonge dokter <em>Nathaniel Emerson</em> komt Damiaan helpen, maar hij houdt de alomtegenwoordige ellende niet uit en vertrekt.</p>
+<p>Andere tijdelijke bezoekers geven de jonge priester moed, vooral omdat ze zijn werk bewonderen en het ook materieel en/of medisch ondersteunen. Een echte riem onder het hart is het bezoek van <em>princes Liliuokalani</em>.</p>
+<p>Wanneer hij al melaats is geworden, krijgt pater Damiaan assistentie van broeder <em>Joseph Ira Dutton</em> en blijvende hulp van de Belgische priester <em>Louis-Lambert Conrady</em>. In 1888 krijgt de melaatse Damiaan ook bezoek van <em>Edward Clifford</em>, Britse schilder en schrijver die een portret schildert van hem. Op het einde komen enkele zusters onder leiding van <em>Ann Cope</em>, zuster Marianne, de stervende zieke priester helpen en bijstaan.</p>
+</blockquote>
+<p><a name="CIN"></a></p>
+<h2 id="-font-color-808000-cinematografie-font-"><font color="#808000"><strong>Cinematografie</strong></font></h2>
+<p><span style="color:darkkhaki"><strong>CONFLICT TUSSEN LYRIEK EN EPIEK.</strong></span> De toeschouwer ervaart dat de film lijdt onder <em>het esthetische conflict</em> tussen de filmdichter Paul Cox die zijn trouw aan de historische waarheid op een <em>poëtische</em> wijze wil vertolken en de eisen van de productie die de opdracht gaf voor een <em>epische</em> film, bestemd voor een groot publiek.</p>
+<blockquote>
+<p>De eisen van de epiek vragen voortgang, strak ritme, spanning. Het is duidelijk dat Cox soms meer <em>filmische tijd</em> zou willen voor het beeld zelf. Dat is het geval bijvoorbeeld bij <em>de openingsscène</em> waarmee hij de personage van Damiaan en de lepra via het meisje Maulani introduceert. Oorspronkelijk opgenomen via een prachtig gecomponeerde pan, is het beeldend elan van die introductie op de montagetafel tot een minimum gereduceerd en is de epische kern – de achtervolging – maximaal op de voorgrond gebracht.</p>
+<p>In dezelfde geest worden enkele cruciale scènes te abrupt afgebroken. De toeschouwer leeft zich in de dramatische situaties in – vooral de scène van de overboord gegooide melaatsen, de biechtscéne – maar de montage dwingt hem direct over te schakelen naar een volgend tafereel.</p>
+<p>Het is duidelijk dat Cox tal van sequenties heeft willen laten uitmonden in <em>een lyrisch-poëtisch en bezinnend moment</em>. De eisen van de <em>epiek</em> halen het daarbij af en toe van de <em>lyriek</em>. Maar die plaatsen waar de strijd duidelijk zichtbaar is en waar het dictaat van de epiek bij de montage het verlangen van de lyriek, het beeld, afremt, zijn uitzonderingen, geen algemene regel. In de versie van  Cox zelf, de ‘director’s cut’ genoemd, is dat conflict tussen epiek en lyriek in het voordeel van de lyriek beslecht.</p>
+</blockquote>
+<p><span style="color:darkkhaki"><strong>KLANKBAND.</strong></span> Een van de sterkste en tevens unieke cinematografische kwaliteiten van <span style="color:blue"><strong>Father Damien</strong></span> is de klankband. Die vormt een unieke compositie met de originele filmmuziek van de Belgische componist <em>Wim Mertens</em> en de natuurlijke geluiden van <em>de wind op het eiland Molokai</em> zelf.</p>
+<blockquote>
+<p>Het is de grote verdienste van de productie dat de opnames zijn kunnen gebeuren op Molokai zelf. <em>As Music in the Trees</em> is de titel van een nummer van Wim Mertens. De titel verwijst naar een scène van Damiaan met een blinde leprajongen. Wanneer de priester de jongen vraagt waarom hij niet slaapt, bekent de jongen bang te zijn van de wind. Damiaan stelt hem gerust:<em>&#39;Denk aan de wind als muziek in de bomen&#39;</em>. De angst om de wind bij de jongen is geen inbeelding. In feite deelt Damiaan dezelfde angst. Alle leprabewoners kennen dat gevoel. Het hoort bij de plek. De wind regeert immers als heer en meester over Kalaupapa, het schiereiland van Molokai.</p>
+</blockquote>
+<p><span style="color:darkkhaki"><strong>PANORAMISCH BEELD.</strong></span> De cinematografie van <span style="color:blue"><strong>Father Damien</strong></span> is gekenmerkt door <em>het poëtisch gebruik van het panoramische beeld</em>. Via de pano laat Cox de spirit van de plek, <em>de genius loci</em>, het beeld mee componeren.</p>
+<blockquote>
+<p>Die genius loci is hier audiovisueel: zichtbaar verschijnt de geest van de plek in het landschap van de oceaan, het schiereiland en het gebergte, de pali, en hoorbaar laat die geest zijn stem weerklinken met <em>de kracht van de wind</em>. Daar waar het kan en zinvol is, laat Cox op de klank- en beeldband ofwel via korte inlassen ofwel midden in de scène zelf, de wind mee het portret van Damiaan regisseren.</p>
+<p>Het gebruik van een super 35mm camera bevordert de filmpoëtische werking van de panoramische beelden. Cox ent het verhaal op de geografische realiteit van de wind en geeft daardoor aan het filmportret van Damiaan een poëtische dimensie. De wind groeit zo uit tot een <em>metaforisch</em> element dat geleidelijk de waarde krijgt van de hoeksteen van de betekenisruimte van de film.</p>
+</blockquote>
+<p><a name="BET"></a></p>
+<h2 id="-font-color-808000-betekenisruimte-font-"><font color="#808000"><strong>Betekenisruimte</strong></font></h2>
+<p><span style="color:darkkhaki"><strong>IN HET TEKEN VAN HET KRUIS.</strong></span> Midden in de betekenisruimte van de film staat <em>het christelijke kruis</em>.</p>
+<blockquote>
+<p>Damiaan maakt verschillende keren <em>het kruisteken</em>: om te bidden nadat hij als eerste vrijwilliger aangeduid is om als priester van de melaatsen naar Molokai te gaan, om zijn eerste mis te beginnen op Molokai, voorts ook als opening van zijn preek over het gemis en het gevoel een outcast te zijn, of wanneer hij een biecht begint te horen; het gebeurt eveneens in zijn kerk wanneer hij er gaat bidden nadat Emerson hem duidelijk heeft gemaakt dat hij melaats geworden is.</p>
+<p>Naast het kruisteken, is er <em>het kruisbeeld</em>. Damiaan vindt een groot kruisbeeld in het vervallen kerkje van Molokai. Het beeld van <em>de Gekruisigde Jezus</em> lijkt voor Damiaan een trouwe gezel te zijn. Het beeld lijkt hem zelfs te verwachten en te verwelkomen. Wanneer hij bewust is dat hij melaats geworden is, gaat hij de Gekruisigde danken voor de verschillende jaren die hij gezond is gebleven en heeft kunnen werken. Maar het beeld van de Gekruisigde spreekt ook van lijden en dood. De lepra is het gezicht van het lijden en de dood op Molokai. Het gewicht van die destructieve werkelijkheid weegt zwaar op Damiaans schouders en ook dat maakt deel uit van zijn diep eenzaamheidsgevoel. Hij die iedereen helpt, is zelf verstoken van iedere geestelijke bijstand. Vandaar Damiaans voortdurende nood om te biechten.</p>
+<p>De opvallende aanwezigheid van het kruisbeeld in talrijke Molokai-sequenties geeft <em>een religieuze, christelijke duiding</em> aan het werk van Damiaan. Het kruisbeeld spiegelt er niet alleen het lijden van de zieken, het spreekt ook nog een andere taal. Damiaan is daar de tolk van.</p>
+<p>In zijn eerste preek op Molokai thematiseert hij niet alleen <em>het Kruis van Jezus</em>, hij verwijst er ook letterlijk naar. Na het maken van het kruisteken, introduceert hij de letterlijke verwijzing naar het kruisbeeld in zijn kerk als volgt:</p>
+<blockquote>
+<p><em>&#39;I do not have the disease that has sent you tot Molokai, but I want you to remind that all men know loneliness, all men know isolation and despair. And all men are afflicted in their hearts or in their bodies by sores and wounds that make them outcasts. Outcasts to all but Him…&#39;</em> </p>
+</blockquote>
+<p>Bij het woord <em>‘Him’</em> draait Damiaan zich even om en wijst naar het beeld van de Gekruisigde. Welnu, in de scène die zich afspeelt in de werkkamer van de bisschop, blijkt er ook een kruisbeeld aan de muur te hangen. Cox filmt de scène zo dat de drie vertegenwoordigers van de macht met hun rug naar het kruisbeeld staan gekeerd. Zij keren zich niet om naar het kruisbeeld.</p>
+<p>Cox vervolgt <em>de beeldspraak van het kruis</em> tot in de sterfscène. Ook hier werkt hij beeldend, met name via het spel van  licht en donker in de vorm van licht en schaduw. In de scène vraagt zuster Marianne aan Damiaan om vergeving omdat zij, de zusters, zo lang hebben gewacht om naar Molokai zelf te komen. Ze vraagt hem zijn zegen. Een laatste keer maakt Damiaan het zegenende gebaar van het kruisteken. Cox filmt het gebeuren zo dat de schaduw van de zegende hand van Damiaan wordt geprojecteerd op de muur van de kamer. Die schaduw valt juist aan de voet van het kruisbeeld dat aan de muur hangt.</p>
+</blockquote>
+<p><span style="color:darkkhaki"><strong>IN HET TEKEN VAN DE WIND.</strong></span> Wanneer Damiaan Little Bishop troost door de boze wind van Kalaupapa voor te stellen als muziek, dan gebruikt hij <em>een beeldspraak waarin de wind een nieuwe en helende dimensie</em> krijgt.</p>
+<blockquote>
+<p>Tegenover de wind van Molokai plaatst Damiaan een andere wind, of beter: hij buigt die wind zoveel als hij kan om in een andere richting. Het windscherm dat hij bouwt, is daarvan een voorbeeld. In die scène stelt Cox Damiaan zelf voor als een krachtige wind. Dit raakt de kern van het beeldend denken dat Cox in <span style="color:blue"><strong>Father Damien</strong></span> uitwerkt.</p>
+<p>De wind als beeldspraak die iets belangrijks onthult over de <em>betekenis van de figuur van Damiaan</em>. Geen oceaanwind, geen leprawind, maar <em>de wind als helende kracht</em>. De komst van Damiaan naar Molokai doet inderdaad in menig opzicht <em>een windscherm van helende humaniteit</em> ontstaan. Hij schudt het stof dat de oceaanwind in de hut van William heeft geblazen, letterlijk uit de hut. In die scène gaat Damiaan met zijn rug naar de wind zijn. Ook al lijkt het hopeloos, hij wil een windscherm zijn voor de oceaan-en leprawind.</p>
+<p>In Cox’ filmische tekening van Damiaan krijgt de wind de betekenis van <em>opbouwende levensadem</em>. Damiaans aanwezigheid geeft adem aan de in wanhoop levende lepraleiders. Hij kan de ziekte niet genezen, maar hij brengt terug humaniteit in de aardse hel van Molokai. Zijn aandacht voor de kinderen, zijn verzet tegen alcoholisme en gedwongen prostitutie, Maulani die zich aan hem spiegelt en de kracht vindt om in een mooie scène neen te zeggen tegen ‘het goede leven’ van alcohol en goedkope seks.</p>
+<p>Damiaans aanwezigheid, zijn werk, geeft aan de hel van ‘het goede leven’ een andere windrichting. Zijn waken bij de stervenden in de dodenhut, deze en andere handelingen laten een weldoende wind van humaniteit waaien in de harten van de verweesde zieken. Wanneer de melaatse missionaris sterft, moet hij inderdaad buigen voor de leprawind. Maar tegelijkertijd geeft hij op Molokai een hele, andere wind gebracht. <em>Een wind die muziek maakt in de bomen</em>. Letterlijk: William sterft terwijl hij hoort hoe het melaatsenkoor van Damiaan <em>het Miserere</em> instudeert.</p>
+<p>Muziek is wind, geluid, de adem van klanken. Muziek, dat zijn voor Little Bishop en al de andere melaatsen de woorden van Damiaan. Al die vormen van muziek krijgen een filmische ondersteuning door de eigenlijke filmmuziek, ingetogen, droevig, maar ook bezield.&#39;De muziek in de bomen&#39; is <em>de Heilige Geest, de helende geest, de goddelijke en bezielende Levensadem</em> die door de eenvoudige Damiaan over Molokai is komen waaien. Dat is niet ongezien gebleven.</p>
+<p>Zijn getuigenis is uitgegroeid tot een begenadigd moment in de humane en religieuze geschiedenis van de moderne mensheid, waarvan Cox’ film niet alleen vertellend en episch, maar ook beeldend en poëtisch de herinnering doorgeeft.</p>
+</blockquote>
+<p><a name="CON"></a></p>
+<h2 id="-font-color-808000-context-font-"><font color="#808000"><strong>Context</strong></font></h2>
+<p>De opdrachtfilm <span style="color:blue"><strong>Father Damien</strong></span> van Cox is <em>een blijvend waardig en authentiek portret</em> dat aan deze Vlaamse zoon van christelijke goedheid alle recht doet. Door de film kan pater Damiaan <em>een blijvende inspiratiebron</em> zijn voor de  komende generaties. De film helpt begrijpen waarom pater Damiaan in 2005 tijdens een selectieprogramma van de VRT werd gekozen tot <em>‘de grootste Belg’</em>. Door de katholieke Kerk werd hij met name door paus Johannes-Paulus II op 4 juni 1995 <em>zalig</em> verklaard. Op 11 oktober 2009 verklaarde  paus Benedictus XVI te Rome pater Damiaan <em>heilig</em>.</p>
+<p><a name="LIN"></a></p>
+<h2 id="-font-color-808000-links-font-"><font color="#808000"><strong>Links</strong></font></h2>
+<p>In 1999 schreef Sylvain De Bleeckere het filmdossier <em>Damiaan. Gevoelig episch en karaktervol filmportret.</em> In 2009 heeft hij dit herwerkt. Het uitgebreide dossier is <a href="http://www.menstis.be/blog/">hier</a> te downloaden. </p>
+<font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2011/2017</font>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
