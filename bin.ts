@@ -67,14 +67,6 @@ function asJs(input: GenInput, path: string=".") {
   return new Proxy(new AsJsObj(input, path), jsFileProxy)
 }
 
-//let defaultTemplate = decoder.decode(await Deno.readFile(path.join('./layouts/default.ejs')))
-let defaultHeader = decoder.decode(
-  await Deno.readFile(path.join("./layouts/header.html")),
-);
-let defaultFooter = decoder.decode(
-  await Deno.readFile(path.join("./layouts/footer.html")),
-);
-
 //we could allow it to access the full source
 interface RenderType {
   selector(entry: SrcEntry): boolean;

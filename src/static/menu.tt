@@ -48,7 +48,7 @@
             data-reactid="43">
             Blog
           </div>
-          <div style="pointer-events:all;" role="option" aria-checked="true" aria-selected="true"
+          <div style="pointer-events:all;" role="option" aria-checked="{{dynamic.menu.missie.selected}}" aria-selected="true"
             class="active selected item" data-reactid="45">
             Missie
           </div>

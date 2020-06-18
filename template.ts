@@ -24,8 +24,14 @@ export class Template {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   private getProperty(src: any, path: string): string {
     let out = src;
+    let isTemplate = false
     for (const p of path.split(".")) {
       out = out[p];
+      isTemplate = p === 'tt'
+    }
+    if (isTemplate) {
+      var recTempl = new Template(out)
+      out = recTempl.render(src)
     }
     return out;
   }
