@@ -8,7 +8,7 @@
 <body>
   <div id="react-mount">
     <div data-reactroot="" data-reactid="1" data-react-checksum="-2022520968">
-      {{static.menu.html}}
+      {{static.menu.tt}}
       <div>
         <div class="ui container" data-reactid="55">
           <div class="markdown" data-reactid="56">

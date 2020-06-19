@@ -1,4 +1,5 @@
 {
   "template": "film-focus/index.tt",
-  "source": "film-focus"
+  "source": "film-focus",
+  "title" : "FilmFocus"
 }
