@@ -402,71 +402,7 @@ async function transformWithFilters(
     //}
   });
 }
-/*
-async function copySrc(src: string, dest: string) {
-  let inventory: SrcEntry[] = [];
-  let pendingProms: Promise<void>[] = [];
-  await scanfiles(src, "", inventory);
-  // await Deno.mkdir(dest)
-  for (var entry of inventory) {
-    await fs.ensureDir(path.join(dest, path.dirname(entry.path)));
-    if (path.extname(entry.path) === ".md") {
-      let markdownFc = decoder.decode(
-        await Deno.readFile(path.join(src, entry.path)),
-      );
-      //strip header
-      let yamlBegin = markdownFc.indexOf("---");
-      if (yamlBegin !== -1) {
-        let yamlEnd = markdownFc.indexOf("---", yamlBegin + 1);
-        if (yamlEnd === -1) {
-          throw new Error("yaml begin marker --- not matched");
-        }
-        markdownFc = markdownFc.substring(yamlEnd);
-      }
 
-      //parse markdown
-      const markup = Marked.parse(markdownFc);
-
-      //apply ejs template
-      //let templReader = await render(defaultTemplate, {content: markup})
-
-      //var outFile = await Deno.create(path.join(dest, entry.path.slice(0, -2) + "html"))
-      let content = defaultHeader + markup + defaultFooter;
-      ///await Deno.copy(templReader, outFile)
-      await Deno.writeFile(
-        path.join(dest, entry.path.slice(0, -2) + "html"),
-        encoder.encode(content),
-      );
-    } else {
-    }
-    let cpProm = Deno.copyFile(
-      path.join(src, entry.path),
-      path.join(dest, entry.path),
-    );
-    pendingProms.push(cpProm);
-  }
-  await Promise.allSettled(pendingProms);
-}
-
-async function scanfiles(
-  baseDir: string,
-  subDir: string,
-  results: SrcEntry[],
-): Promise<void> {
-  let pendingProms: Promise<void>[] = [];
-  var dirToCheck = path.join(baseDir, subDir);
-  for await (const dirEntry of Deno.readDir(dirToCheck)) {
-    if (dirEntry.isDirectory) {
-      pendingProms.push(
-        scanfiles(baseDir, path.join(subDir, dirEntry.name), results),
-      );
-    } else if (dirEntry.isFile) {
-      results.push({ path: path.join(subDir, dirEntry.name) });
-    }
-  }
-  await Promise.allSettled(pendingProms);
-}
-*/
 
 // clean up
 if (await fs.exists(buildFolder)) {
@@ -476,7 +412,7 @@ if (await fs.exists(buildFolder)) {
 //combine all render types
 let renderTypes: RenderType[] = [
   new MarkdownRender(),
-  new CopyRender([".jpg", ".html",".pdf",".mp3", ".m4v"]),
+  new CopyRender([".jpg", ".html",".pdf",".mp3", ".m4v",".js"]),
   new JsonRender(),
 ];
 
