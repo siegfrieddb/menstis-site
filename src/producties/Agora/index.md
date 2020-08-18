@@ -15,9 +15,14 @@ Kerkraden die interesse hebben, kunnen contact opnemen met Men(S)tis via: info@m
 >2) De _Verhalenkamer_ waar iedere woensdagnamiddag en zaterdagnamiddag (15u00 - 17u00) iemand een verhaal vertelde, en naar aanleiding waarvan telkens de koffiebar open was.
 >3) De _Filmstudio Lichtaard_. In juni 2018 realiseerden Sylvain De Bleeckere en Kristof Hoornaert de kortfilm **PilgrImage**. Het filmpje is [hier](./AgoraMovies/) te bekijken. Over **PilgrImage** kan je een uitgebreide voorstelling vinden in [FilmFocus](http://www.menstis.be/film-focus/pilgrimage/). 
 
+
 Triënnale Brugge 2018 kende aan het **Project AGORA** haar logo '_Inspired by Triennale Brugge 2018_' toe.
 
 Als verwerking van het pilootproject AGORA verscheen in 2019 het boek [Meerstemmig Kerkgebouw](http://www.menstis.be/webshop/Kerkgebouw/).
+
+<span style="color:fuchsia">**AGORA PROJECT: DE BARTHOLOMEUSKERK: ONZE AGORA**</span>
+
+![Agora](./Agora.jpg)
 
 © Men(S)tis, 2020.
 
