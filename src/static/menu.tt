@@ -1,0 +1,73 @@
+<div data-reactid="2">
+  <div class="ui fluid container " data-reactid="3">
+    <div class="breakpoint-min-width-700" data-reactid="4">
+      <div class="ui massive menu pointing secondary" data-reactid="5">
+        <div class="ui container " data-reactid="6">
+          <div class="item" style="padding:0px;margin-right:20px;" data-reactid="7">
+            <div class="parent-menu blog-image " data-reactid="8">
+              <div class="child-menu" data-reactid="9"><span style="font-weight:bold;" data-reactid="10">
+                  <!-- react-text: 11 -->men(
+                  <!-- /react-text --><span style="color:#f26d80;" data-reactid="12">S</span>
+                  <!-- react-text: 13 -->)tis
+                  <!-- /react-text --></span></div>
+            </div>
+          </div>
+            <a class="{{menu.deDag.active}} item" href="/dedag/" data-reactid="14">De Dag</a>
+            <a class="{{menu.blog.active}} item" href="/blog/">Blog</a>
+            <a class="{{menu.missie.active}} item" href="/missie/">Missie</a>
+            <a class="{{menu.filmFocus.active}} item" href="/film-focus/">FilmFocus</a>
+            <a class="{{menu.producties.active}} item" href="/producties/">Producties</a>
+            <a class="{{menu.webshop.active}} item" href="/webshop/">Webshop</a>
+        </div>
+      </div>
+    </div>
+    <div class="breakpoint-max-width-700" data-reactid="20">
+      <div class="parent-blog blog-image " style="text-align:center;" data-reactid="21">
+        <div class="child-blog" data-reactid="22"><span style="font-weight:bold;" data-reactid="23">
+            men(
+            <span style="color:#f26d80;" data-reactid="25">S</span>)tis
+            </span></div>
+      </div>
+      <div style="height:10px;" data-reactid="27"></div>
+      <div role="combobox" aria-expanded="false" class="ui fluid search selection dropdown" data-reactid="28">
+        <select type="hidden" aria-hidden="true" data-reactid="29">
+          <option value="" data-reactid="30"></option>
+          <option value="/dedag/" data-reactid="31">De Dag</option>
+          <option value="/blog/" data-reactid="32">Blog</option>
+          <option selected="" value="/missie/" data-reactid="33">Missie</option>
+          <option value="/film-focus/" data-reactid="34">FilmFocus</option>
+          <option value="/producties/" data-reactid="35">Producties</option>
+          <option value="/webshop/" data-reactid="36">Webshop</option>
+        </select><input type="text" value="" aria-autocomplete="list" class="search" name="-search"
+          autocomplete="off" tabindex="0" data-reactid="37" />
+        <div class="text" data-reactid="38">Missie</div><i aria-hidden="true" class="dropdown icon"
+          data-reactid="39"></i>
+        <div role="listbox" class="menu transition" data-reactid="40">
+          <div style="pointer-events:all;" role="option" aria-checked={{ menu.deDag.selected }} aria-selected={{ menu.deDag.selected }} class="item"
+            data-reactid="41">
+            De Dag
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked={{ menu.blog.selected }} aria-selected={{ menu.blog.selected }} class="item"
+            data-reactid="43">
+            Blog
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked={{ menu.missie.selected }} aria-selected={{ menu.missie.selected }}
+            class="active selected item" data-reactid="45">
+            Missie
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked={{ menu.filmFocus.selected }} aria-selected={{ menu.filmFocus.selected }} class="item">
+            FilmFocus
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked={{ menu.producties.selected }} aria-selected={{ menu.producties.selected }} class="item"
+            data-reactid="49">
+            Producties
+          </div>
+          <div style="pointer-events:all;" role="option" aria-checked={{ menu.webshop.selected }} aria-selected= {{ menu.webshop.selected }} class="item">
+            Webshop
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="height:10px;"></div>
+</div>

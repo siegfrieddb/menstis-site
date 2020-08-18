@@ -7,7 +7,7 @@
 </head>
 <body>
   <div class="ui fluid container ">
-    {{static.menu.html}}
+    {{static.menu.tt}}
     <div class="ui container">
       <div class="three column stackable ui grid ">
         {{content}}

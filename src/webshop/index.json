@@ -1,4 +1,5 @@
 {
   "template": "webshop/index.tt",
-  "source": "webshop" 
+  "source": "webshop",
+  "title": "Webshop" 
 }

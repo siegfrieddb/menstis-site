@@ -1,0 +1,19 @@
+menu:
+  deDag:
+    selected: false
+    active: ""
+  blog:
+    selected: false
+    active: ""
+  missie: 
+    selected: false
+    active: ""
+  filmFocus:
+    selected: false
+    active: ""
+  producties: 
+    selected: false
+    active: ""
+  webshop:
+    selected: false
+    active: ""

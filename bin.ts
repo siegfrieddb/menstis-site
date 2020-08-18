@@ -3,10 +3,7 @@ import { ensureDir } from "https://deno.land/std/fs/ensure_dir.ts";
 import * as path from "https://deno.land/std/path/mod.ts";
 import * as yaml from "https://deno.land/std/encoding/yaml.ts";
 import { Marked } from "https://deno.land/x/markdown/mod.ts";
-//import { render } from 'https://deno.land/x/dejs@0.7.0/mod.ts';
-//import { Template } from "https://deno.land/x/tiny_templates/mod.ts"; //almost too small to handle
 import {Template} from "./template.ts"
-import { isMediaType } from "https://deno.land/x/oak/isMediaType.ts";
 const fs = { exists, ensureDir };
 
 const srcFolder = "./src";
@@ -24,6 +21,67 @@ interface DestEntry {
   content: string;
 }
 
+
+
+
+/**
+ * Simple object check.
+ * @param item
+ * @returns {boolean}
+ */
+export function isObject(item: any) {
+  return (item && typeof item === 'object' && !Array.isArray(item));
+}
+
+/**
+ * Deep merge two objects.
+ * @param target
+ * @param ...sources
+ */
+export function mergeDeep(target: any, ...sources: any): any {
+  if (!sources.length) return target;
+  const source = sources.shift();
+
+  if (isObject(target) && isObject(source)) {
+    for (const key in source) {
+      if (isObject(source[key])) {
+        if (!target[key]) Object.assign(target, { [key]: {} });
+        mergeDeep(target[key], source[key]);
+      } else {
+        Object.assign(target, { [key]: source[key] });
+      }
+    }
+  }
+
+  return mergeDeep(target, ...sources);
+}
+
+async function addDefaultYaml(ymlStart: any, input: GenInput, dirPath: string) {
+  let curDir : string | null = path.dirname(dirPath)
+  let recYaml = [ymlStart]
+  while (curDir) {
+    try {
+      let extraYml = path.join(curDir, "default.yml")
+      let ymlInfo =  yaml.parse(decoder.decode( await input.readFile(extraYml)))
+      recYaml.push(ymlInfo)
+      
+    } catch (er) {
+      //ignore TODO: we need stat 
+      //console.log(er)
+    }
+    if (curDir === ".") {
+      curDir = null
+    } else {
+      curDir = path.dirname(curDir)
+    }
+  }
+  recYaml.reverse()
+  let yamlContent = {}
+  for(const ymlCt of recYaml) {
+    yamlContent = mergeDeep(yamlContent,ymlCt)
+  }
+  return yamlContent
+}
 
 const jsFileProxy = {
   get: function (target: any, property: any): any { //do not understand this conditional type shit yet, i would like to have string | Symbol
@@ -59,21 +117,21 @@ class AsJsObj {
       filePath.pop()
       filePath[filePath.length-1] = fileName
     }
-    return decoder.decode(this["@input"].readFileSync(filePath.join('\\')))
+    const fPath = filePath.join('\\')
+    let content = null
+    try {
+      content = this["@input"].readFileSync(fPath)
+    }
+    catch(er) {
+      throw new Error(`Can not read file ${fPath}: ${er.message}`)
+    }
+    return decoder.decode(content)
   }
 }
 
 function asJs(input: GenInput, path: string=".") {
   return new Proxy(new AsJsObj(input, path), jsFileProxy)
 }
-
-//let defaultTemplate = decoder.decode(await Deno.readFile(path.join('./layouts/default.ejs')))
-let defaultHeader = decoder.decode(
-  await Deno.readFile(path.join("./layouts/header.html")),
-);
-let defaultFooter = decoder.decode(
-  await Deno.readFile(path.join("./layouts/footer.html")),
-);
 
 //we could allow it to access the full source
 interface RenderType {
@@ -116,6 +174,9 @@ class MarkdownRender implements RenderType {
     } catch (er) {
       throw new Error(`Failed to read yaml header of file ${entry.path} (error: ${er.message})`)
     }
+    yamlContent = await addDefaultYaml(yamlContent, input, entry.path)
+      
+
 
     // parse markdown
     let markup = Marked.parse(markdownFc);
@@ -132,9 +193,8 @@ class MarkdownRender implements RenderType {
     }
     while (!templStr && curDir != ".") {
       try {
-        templStr = decoder.decode(
-          await input.readFile(path.join(curDir, "default.tt")),
-        );
+        template = path.join(curDir, "default.tt")
+        templStr = decoder.decode( await input.readFile(template))
       } catch (er) {
         //ignore TODO: we need stat 
         //console.log(er)
@@ -145,7 +205,13 @@ class MarkdownRender implements RenderType {
       throw new Error(`can not find a single template, provide a default.tt in one of the parent directory of file ${entry.path}`)
     }
     var templ = new Template(templStr);
-    var renderedOut = templ.render({ content: markup, static: asJs(input,"./static") });
+    var renderedOut = null
+    try {
+      renderedOut = templ.render({ content: markup, static: asJs(input,"./static") , ...yamlContent});
+    }
+    catch(er) {
+      throw new Error(`Could not render template ${template}: ${er.message}`)
+    }
     
     let outPath = entry.path.slice(0, -2) + "html";
     await output.WriteFile(outPath, encoder.encode(renderedOut));
@@ -180,7 +246,12 @@ class JsonRender implements RenderType {
         } else if (json.source === "webshop") {
           content = await this.renderWebshop(input);
         }
-        var renderedOut = templ.render({ content: content, static: asJs(input,"./static") });
+
+        //
+        let curDir
+        let ymlContent = await addDefaultYaml(json, input, entry.path)
+
+        var renderedOut = templ.render({ content: content, static: asJs(input,"./static"), ...ymlContent });
         let outPath = entry.path.slice(0, -4) + "html";
         await output.WriteFile(outPath, encoder.encode(renderedOut));
       } catch (er) {
@@ -331,71 +402,7 @@ async function transformWithFilters(
     //}
   });
 }
-/*
-async function copySrc(src: string, dest: string) {
-  let inventory: SrcEntry[] = [];
-  let pendingProms: Promise<void>[] = [];
-  await scanfiles(src, "", inventory);
-  // await Deno.mkdir(dest)
-  for (var entry of inventory) {
-    await fs.ensureDir(path.join(dest, path.dirname(entry.path)));
-    if (path.extname(entry.path) === ".md") {
-      let markdownFc = decoder.decode(
-        await Deno.readFile(path.join(src, entry.path)),
-      );
-      //strip header
-      let yamlBegin = markdownFc.indexOf("---");
-      if (yamlBegin !== -1) {
-        let yamlEnd = markdownFc.indexOf("---", yamlBegin + 1);
-        if (yamlEnd === -1) {
-          throw new Error("yaml begin marker --- not matched");
-        }
-        markdownFc = markdownFc.substring(yamlEnd);
-      }
 
-      //parse markdown
-      const markup = Marked.parse(markdownFc);
-
-      //apply ejs template
-      //let templReader = await render(defaultTemplate, {content: markup})
-
-      //var outFile = await Deno.create(path.join(dest, entry.path.slice(0, -2) + "html"))
-      let content = defaultHeader + markup + defaultFooter;
-      ///await Deno.copy(templReader, outFile)
-      await Deno.writeFile(
-        path.join(dest, entry.path.slice(0, -2) + "html"),
-        encoder.encode(content),
-      );
-    } else {
-    }
-    let cpProm = Deno.copyFile(
-      path.join(src, entry.path),
-      path.join(dest, entry.path),
-    );
-    pendingProms.push(cpProm);
-  }
-  await Promise.allSettled(pendingProms);
-}
-
-async function scanfiles(
-  baseDir: string,
-  subDir: string,
-  results: SrcEntry[],
-): Promise<void> {
-  let pendingProms: Promise<void>[] = [];
-  var dirToCheck = path.join(baseDir, subDir);
-  for await (const dirEntry of Deno.readDir(dirToCheck)) {
-    if (dirEntry.isDirectory) {
-      pendingProms.push(
-        scanfiles(baseDir, path.join(subDir, dirEntry.name), results),
-      );
-    } else if (dirEntry.isFile) {
-      results.push({ path: path.join(subDir, dirEntry.name) });
-    }
-  }
-  await Promise.allSettled(pendingProms);
-}
-*/
 
 // clean up
 if (await fs.exists(buildFolder)) {
@@ -405,7 +412,7 @@ if (await fs.exists(buildFolder)) {
 //combine all render types
 let renderTypes: RenderType[] = [
   new MarkdownRender(),
-  new CopyRender([".jpg", ".html",".pdf",".mp3", ".m4v"]),
+  new CopyRender([".jpg", ".html",".pdf",".mp3", ".m4v",".js"]),
   new JsonRender(),
 ];
 
@@ -423,3 +430,4 @@ await transformWithFilters(
 console.log(
     "done"
 )
+Deno.exit()

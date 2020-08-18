@@ -1,6 +1,4 @@
 
-# Missie
-
 De missie van de vereniging zonder winstgevend doel, **Men(S)tis,** rust op **de waarden 'mens, geest en leven'**.
 **Het eerste element,** **de mens,** is aanwezig in de naam die leest als 'mens, menstis'.
  **Men(S)tis vzw** **wil het mysterie van de menswording** blijven huldigen en exploreren in **al** zijn dimensies.

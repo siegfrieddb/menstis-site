@@ -1,0 +1,5 @@
+menu:
+  webshop: 
+    selected: true
+    active: "active"
+title: "Webshop"
