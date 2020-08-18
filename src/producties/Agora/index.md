@@ -22,8 +22,11 @@ Als verwerking van het pilootproject AGORA verscheen in 2019 het boek [Meerstemm
 
 <span style="color:fuchsia">**AGORA PROJECT: DE BARTHOLOMEUSKERK: ONZE AGORA**</span>
 
-![Agora](./Agora.jpg)
+![hil1](./hil1.jpg)
 
+In de zomer van 2021 realiseert Men(S)tis vzw het Project De Barholomeuskerk: Onze Agora in de gelijknamige parochiekerk van Hillegem, Herzele, in de Vlaamse Ardennen. Die realisatie is mogelijkheid dankzij de actieve medewerking en steun van de cultuurdienst van de gemeente Herzele, de centrale kerkraad en de meewerkende kunstenaars Marleen Mertens en Jan De Wachter. Het Project is iedere zaterdag- en zondagnamiddag van 14u00 tot 18u00 gratis te bezoeken. Ter plaatse is een uitgebreide info gratis ter beschikking van de bezoekers.
+
+![hil2](./hil2.jpg)
 © Men(S)tis, 2020.
 
 
