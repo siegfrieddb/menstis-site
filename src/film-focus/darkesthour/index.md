@@ -87,6 +87,8 @@ In zijn historische rede van 14 mei 1947 in de Royal Albert Hall in Londen, rech
 
 Churchill werd de naoorlogse gangmaker voor de Europese beweging. Dit leidde tot de oprichting van de allereerste Europese organisatie De Raad van Europa. Churchills Europees engagement werd ook de inspiratiebron voor het belangrijke Marshallplan van de Amerikaanse General Marshall. Die verwees expliciet naar Churchill als zijn inspiratie. Zonder dat plan had de naoorlogse wederopbouw voor de bevolking van de bevrijde Europese landen in het Noorden en het Westen, een erg moeizaam verloop gekend.
 
+In Time Magazine van 15-22 februari 2021, een themanummer over _The Black Renaissance_, verscheen een interview van Michele Obama met Amanda Gorman, de jonge zwarte dichteres die wereldwijd indruk maakte op de Inauguration Day van president Biden met de voordracht van haar gelegenheidsgedicht _The Hill We Climb_. Michelle Obama vroeg aan Amanda Gorman welke kunstenaars die in andere domeinen dan de poëzie werken, haar hebben geïnspireerd. Ze antwoordde: _'While I was writing the Inaugural poem, I was reading a lot of Frederick Douglass, a lot of Winston Churchill, a lot of Abraham Lincoln._' (p. 63)
+
 
 <a name="LIN"></a>
 
