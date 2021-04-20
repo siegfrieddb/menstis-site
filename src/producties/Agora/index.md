@@ -33,7 +33,11 @@ De twee foto's tonen de twee delen van het Project. De **Humana** van Marleen Me
 
 ![hil2](./hil2.jpg)
 
-© Men(S)tis, 2020.
+Naar aanleiding van dit project verscheen in maart 2021 het boekje _Kerkgebouw2. Hillegem. Herbestemming van neogotische parochiekerken_. Het is een gezamenlijke uitgave van Men(S)tis en Gemeentebestuur Herzele. Het boekje in zakformaat is een dialoog van beeld en woord. De tekst en de lay-out zijn van Sylvain De Bleeckere. Het ISBN-nummer is 978-90-805-1650-4. Het is te verkrijgen via cultuur@herzele.be. Een bericht naar cultuurbeleidscoördinator Jan Hermans volstaat. Hij ondersteunde ook de productie van het boekje.  
+
+![hilkaft](./hilkaft.jpg)
+
+© Men(S)tis, 2020-2021.
 
 
 
