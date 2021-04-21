@@ -7,4 +7,4 @@ linktext: "Lees bibliografie"
 ---
 Het betreft de bibliografie van het gepubliceerde werk van prof.dr.em. Sylvain De Bleeckere. De bibliografie kwam tot stand naar aanleiding van zijn keynote-lezing **Les Écritures cinématographiques** tijdens het **VIIIième Colloque International van Le Reseau de Recherche en Narrotologie et Bible** met als thema: _Le Récit: thèmes bibliques et variations. Lectures et récritures littéraires et arstistiques_, aan de Université de Lorraine, Metz, van 26 tot 29 mei 2016.
 
-Laatste update bibliografie: 04.2021
+Laatste update bibliografie: april 2021
