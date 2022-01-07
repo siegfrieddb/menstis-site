@@ -1,5 +1,5 @@
 ---
-title: Programma 2021
+title: Programma 
 ---
 
 Het progamma van de **30ste editie** van **De Dag** zal als thema **Beeldgebed** hebben. De voorbereidingen zijn al afgerond en de flimkeuze ligt al vast. Het gekozen thema is ontleend aan het gelijknamige  [boekje](http://www.menstis.be/webshop/Beeldgebed/) van Sylvain De Bleeckere, verschenen in 2020 en gepresenteerd tijdens de voorlopig laatste, de 29ste editie van **De Dag**. 
