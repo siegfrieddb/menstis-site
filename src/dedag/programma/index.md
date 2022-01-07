@@ -2,9 +2,9 @@
 title: Programma 2021
 ---
 
-Het progamma van de **30ste editie** van **De Dag** zal als thema **Beeldgebed** hebben. Het thema is ontleend aan het gelijknamige  [boekje](http://www.menstis.be/webshop/Beeldgebed/) van Sylvain De Bleeckere, verschenen in 2020 en gepresenteerd tijdens de jongste, de 29ste editie van **De Dag**. 
+Het progamma van de **30ste editie** van **De Dag** zal als thema **Beeldgebed** hebben. De voorbereidingen zijn al afgerond en de flimkeuze ligt al vast. Het gekozen thema is ontleend aan het gelijknamige  [boekje](http://www.menstis.be/webshop/Beeldgebed/) van Sylvain De Bleeckere, verschenen in 2020 en gepresenteerd tijdens de voorlopig laatste, de 29ste editie van **De Dag**. 
 
- Wegens de heersende corona-crisis zal de 30ste editie van **De Dag** niet plaatsvinden in 2021. Of dit in 2022 zal kunnen, daarover kan nu nog niets met zekerheid worden gezegd. Ook op haar Facebook-pagina van **De Dag van de Religieuze Film** zal Men(S)tis vzw daarover haar volgers informeren.
+ Wegens de aanhoudende corona-pandemie zal de 30ste editie van **De Dag** enkel plaatsvinden op krokusmaandag van het eerste corona-vrije jaar, als dat er ooit komt. Dat kan ten vroegste in 2023 zijn. Ook op haar Facebook-pagina van **De Dag van de Religieuze Film** zal Men(S)tis vzw daarover haar volgers informeren. Hieronder worden kort twee van de belangrijke films van de 29ste editie voorgesteld met een link naar een uitgebreide studie op deze site. Beide films blijven zeker erg relevant. De eerste helpt om de dramatische gebeurtenissen in de US op 6 januari 2021 in een groter perspectief te zien en de tweede herinnert aan de strijd van een jonge generatie op zoek naar zichzelf, een zoektocht die in de voorbije twee crisisjaren een nieuw accent heeft gekregen.
 
 
 <img src="dh.jpg">
