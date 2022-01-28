@@ -128,4 +128,4 @@ Anny Gray, _Victory in the Kitchen. The Life of Chrurchill's Cook._ London, Prof
 
 
 
-<font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2020</font>
+<font size="-2">© Sylvain De Bleeckere, Men(S)tis, 2020/2022</font>
