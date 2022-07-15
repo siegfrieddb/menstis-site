@@ -32,13 +32,13 @@ Met het meest kenmerkende, christelijke gebed, _het Onzevader_, als opstap, diep
 
 >Creatieve scholen en hun hun alerte onderwijsmensen.
 
->Actieve, religieuze leesgroepen en/of gebedsgroepen.
+
 
 **Technische gegevens**
 
 Het boekje ligt in de hand door zijn vierkant formaat van 14cm. De stoffen kaft met zilveren boord en letters straalt ingetogenheid en een bijna liturgische waardigheid uit.<br>
 
-Het boekje telt **120 bladzijden** en **17 beelden**. Kunstenaars [Marleen Mertens](http://www.marleen-mertens.be/), [Jan De Wachter](http://www.jandewachter.be/Intro), [Vincent Spaas](https://www.vincentspaas.com/), [Jef Van Eynde](http://www.jefvaneynde.be/) en [Kristof Hoornaert](https://www.kristofhoornaert.com/) leverden op vraag van de auteur nieuwe beelden aan die zich integreren in het boekje. Het boekje werkt ook met een uitsnede van een beeld van Leonardo da Vinci. Het bijzondere boekdesign is een ontwerp van de auteur in samenwerking met Jan De Meester van de drukkerij [Cultura](http://www.cultura.be/), Wetteren.<br> 
+Het boekje telt **120 bladzijden** en **17 beelden**. Kunstenaars [Marleen Mertens](http://www.marleen-mertens.be/), [Jan De Wachter](http://www.jandewachter.be/Intro), [Vincent Spaas](https://www.vincentspaas.com/), [Jef Van Eynde](http://www.jefvaneynde.be/) en [Kristof Hoornaert](https://www.kristofhoornaert.com/) leverden op vraag van de auteur nieuwe beelden aan die zich integreren in het boekje. Het boekje werkt ook met een uitsnede van een beeld van Leonardo da Vinci. Het bijzondere boekdesign is een ontwerp van de auteur in samenwerking met Jan De Meester van de drukkerij Cultura, Wetteren.<br> 
 
 Door zijn mooi uitzicht, zijn handig formaat, zijn visueel boekdesign, zijn bijzondere inhoud, is het een **ideaal geschenk** om aan een bijzonder iemand te geven.
  

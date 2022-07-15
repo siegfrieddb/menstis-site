@@ -1,51 +1,35 @@
 ---
-title : Beeldgebed
+title : Tijdsgewricht
 ---
 
 
-![](./bg.jpg)
+![](./tg.jpg)
 
 **Auteur**
 
-Sylvain De Bleeckere
+Sylvain De Bleeckere in nauwe samenwerking met Jean Decoster
 
 **Beschrijving**
 
-BEELDGEBED is een even kunstzinnig als zinscheppende boekje. Het bestaat uit een origineel weefsel van beelden en woorden die samen peilen naar het **beeldende hart van het christendom**.
-Met het meest kenmerkende, christelijke gebed, _het Onzevader_, als opstap, diept het boekje in het eerste deel, _**Woordbeeld**_, het onderscheid uit tussen bidden als werkwoord en gebeden als woorden. In die optiek bijft het boekje stilstaan bij de **tragiek** eigen aan de taal en de talen, namelijk die van de interpretatie. Dat inzicht - denk aan het verhaal over de Toren van Babel - belicht kritisch de eeuwenlange kerkelijke traditie dat bidden gelijk is aan het opzeggen van voorgeschreven woorden, gebeden genoemd. Vandaag ervaren we meer dan ooit dat woorden, ook religieuze woorden zoals gebeden, terecht zijn gekomen in een verstikkend en onvruchtbaar moeras van woorden.
-
-**BEELDGEBED** neemt in het tweede deel, _**Beeldwoord**_, stapt uit dat moeras van het eeuwenoude geloof in woorden, door mensen bekleed met het zegel van eeuwigheid. De eerst stap daartoe bestaat in de kritische afstand tegenover  de visie en aanpak van de apostel Paulus en de inzoom op de **beeldrijke evangelies en de lichticoon Jezus**. Via een inzicht in **de interpretatie van de tragiek**, waaruit de christelijke grondteksten zijn voortgekomen, valt er een ander dan tradioneel licht op bidden. Hier verschijnt bidden als werkwoord, als levensbeschouwelijke praxis. Dat gebeurt via de spiegel van het **feminien-beeldende** karakter van Jezus' handelen en spreken. Daarin verschijint de blijvende relevantie van het oermenselijke fenomeen '**tafelgemeenschap**' - grondslag van Jezus' handelen - voor een **actuele, groeiende democratische samenleving**. Inspirerende herinneringsbeelden aan Jezus kunnen vandaag nog onze gemeenschap voeden. BEELDGEBED opent een nieuwe visie op de beproeving waarmee de wereldwijde samenleving met haar consumptiezucht progressief te kampen heeft: de mentale gezondheid van iedere persoon.
+TIJDSGEWRICHT is een hybrideboek. Het combineert op een unieke wijze beeld en woord. Het beeld bestaat concreet uit meer dan honderd hoogwaardige beelden die een overzicht geven van **het artistieke werk dat de Tiense kunstenaar Jean Decoster** heeft gerealiseerd in de periode 2001-2021. Toen bestond zijn grondstof uit vezels en cellulose van planten, vooral van kozo, de plant waarvan het Japanse papier wordt gemaakt, hedera helix (klimop), equisetum telmateia (reuzenpaardestaart), urtica dioica (brandnetel), (aspargus planta, aspergeplant), ginkgo biloba (ginkgo).Tegelijkertijd bestaat het boek uit **een uitgebreide tekst van auteur Sylvain De Bleeckere**. De tekst is ontstaan uit een zeer intense dialoog tussen de auteur en de kunstenaar in de loop van het jaar 2021, het tweede coronajaar. De titel van het tekstdeel luidt: *Tijdsgewricht en tijdsreliek. De kunstzinnige alchemie van Jean Decostere*. De indeling van de zes hoofdstukken van de tekst bepalen ook de indeling van de presentatie van de kunstwerken. Ieder hoofdstuk opent met een representatief werk waar de auteur uitvoerig aandacht aan besteedt. Doorheen de hoofdstukken weeft de auteur een spanningsboog die in crescendo uitmondt in het zesde hoofdstuk, *Postscriptum: Zelfportret*. De thema’s die de auteur in dialoog met het oeuvre van Jean Decoster belicht, zijn: tijd, verwevenheid en metamorfose, creatieve zorg om de aarde, dood en leven, hedendaagse kunst als ritueel met een spirituele, bijna mystieke diepgang. De verwevenheid van beeld en woord, van kunst en beschouwing, maken van het omgaan met het boek een intieme, levensbeschouwelijke reis..
 
 **Doelgroepen**
 
 >Al wie levensbeschouwelijk actief is.
 
->Al wie een kunstminnend oog en geest heeft.
+>Al wie zich graag confronteert met hedendaagse kunst.
 
->Al wie zich wil verwonderen over het unieke universeel-menselijk oerfenomeen dat 'bidden' heet.
-
->Al wie moedig durft nadenken over het lot van de christelijke kerken (orthodox, katholiek, protestant).
-
->Al wie beseft dat de humane rijkdom van het christendom verder reikt dan het domein van de traditionele kerken die zich in een morele crisis bevinden.
-
->Al wie leeft en werkt vanuit een democratische gezindheid die niet kan worden gerecupereerd of gemanipuleerd door welke politieke partij dan ook.
-
->Creatieve scholen en hun hun alerte onderwijsmensen.
-
->Actieve, religieuze leesgroepen en/of gebedsgroepen.
 
 **Technische gegevens**
 
-Het boekje ligt in de hand door zijn vierkant formaat van 14cm. De stoffen kaft met zilveren boord en letters straalt ingetogenheid en een bijna liturgische waardigheid uit.<br>
+Het boek heeft een A4-formaat. 
+Het boekje telt 168 bladzijden. Het concept, de tekst en de lay-out zijn van Sylvain De Bleeckere. 
+Het is een gemeenschappelijke uitgave van Ductus, Tienen, en Men(S)tis, Hasselt, 2022.
+ISBN: 978 90 805 1657 1.
 
-Het boekje telt **120 bladzijden** en **17 beelden**. Kunstenaars [Marleen Mertens](http://www.marleen-mertens.be/), [Jan De Wachter](http://www.jandewachter.be/Intro), [Vincent Spaas](https://www.vincentspaas.com/), [Jef Van Eynde](http://www.jefvaneynde.be/) en [Kristof Hoornaert](https://www.kristofhoornaert.com/) leverden op vraag van de auteur nieuwe beelden aan die zich integreren in het boekje. Het boekje werkt ook met een uitsnede van een beeld van Leonardo da Vinci. Het bijzondere boekdesign is een ontwerp van de auteur in samenwerking met Jan De Meester van de drukkerij [Cultura](http://www.cultura.be/), Wetteren.<br> 
+Kostrpijs: 32,00 EUR
 
-Door zijn mooi uitzicht, zijn handig formaat, zijn visueel boekdesign, zijn bijzondere inhoud, is het een **ideaal geschenk** om aan een bijzonder iemand te geven.
- 
-De uitgever is **Men(S)tis**, Hasselt, 2020.<br>
-ISBN: 978 90 805 1655 7.<br>
-Kostrpijs: 20,00 EUR<br>
+TIJDSGEWRICHT is niet te koop in de boekhandel. Het is verkrijgbaar via jean.decoster@skynet.be.
 
-BEELDGEBED is niet in de boekhandel. Het is verkrijgbaar bij Men(S)tis via info@menstis.be.<br> 
 
-© Men(S)tis, 2020.
+© Men(S)tis, 2022.
