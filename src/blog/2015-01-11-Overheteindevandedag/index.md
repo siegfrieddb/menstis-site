@@ -1,6 +1,6 @@
 ---
 title: Adieu à Dieu - Over het einde van De Dag
-date: "2024-02-26T00:00:00Z"
+date: "2015-01-11T00:00:00Z"
 layout: post
 attachment: "adieu.pdf"
 linktext: "Lees nota"
