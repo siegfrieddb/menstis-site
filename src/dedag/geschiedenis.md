@@ -53,7 +53,8 @@ Hier volgt het overzicht van de vertoonde films per jaargang. Sommige film zijn 
 FilmFocus van deze website. De eerste zes jaargangen stonden in het teken
 van het thema **Het Licht van de Schepping**, tevens de titel van het boek
 van Sylvain De Bleeckere, verschenen naar aanleiding van **de 
-eerste editie van De Dag van de Religieuze Film in 1992**.
+eerste editie van De Dag van de Religieuze Film in 1992**. De **29ste editie°** in 2020 was de laatste editie.
+Zie daarover de nota **Adieu à Dieu** op de pagina BLOG.
 
 >Jaargang 29 (2020) **Het Onzevader. Deel III: Breng ons niet in beproeving**: Darkest Hour, Cold War, La prière.<br>
 >Jaargang 28 (2019) **Het Onzevader. Deel II: Uw Rijk Kome**: The Birth of a Nation, Lincoln, Selma.<br>
