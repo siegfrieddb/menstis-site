@@ -2,7 +2,7 @@
 title: Adieu à Dieu - Over het einde van De Dag
 date: "2024-02-26T00:00:00Z"
 layout: post
-attachment: "ad.pdf"
+attachment: "adieu.pdf"
 linktext: "Lees nota"
 
 ---
