@@ -12,7 +12,7 @@
                   <!-- /react-text --></span></div>
             </div>
           </div>
-            <a class="{{menu.deDag.active}} item" href="/dedag/" data-reactid="14">De Dag</a>
+            <a class="{{menu.deDag.active}} item" href="/dedag/" data-reactid="14">Archief De Dag</a>
             <a class="{{menu.blog.active}} item" href="/blog/">Blog</a>
             <a class="{{menu.missie.active}} item" href="/missie/">Missie</a>
             <a class="{{menu.filmFocus.active}} item" href="/film-focus/">FilmFocus</a>

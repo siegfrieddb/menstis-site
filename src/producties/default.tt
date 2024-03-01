@@ -730,7 +730,7 @@
     }
 
     .blog-image {
-      background-image: url(/56e8a59140ef8c3761af89e12d58bbe8.jpg);
+      background-image: url(/menstis-back.jpg);
       background-size: cover;
       background-position: 50%
     }
@@ -980,14 +980,17 @@
             <div class="ui massive menu pointing secondary" data-reactid="5">
               <div class="ui container " data-reactid="6">
                 <div class="item" style="padding:0px;margin-right:20px;" data-reactid="7">
+                  
                   <div class="parent-menu blog-image " data-reactid="8">
                     <div class="child-menu" data-reactid="9"><span style="font-weight:bold;" data-reactid="10">
                         <!-- react-text: 11 -->men(
                         <!-- /react-text --><span style="color:#f26d80;" data-reactid="12">S</span>
                         <!-- react-text: 13 -->)tis
-                        <!-- /react-text --></span></div>
+                        <!-- /react-text --></span>
+                    </div>
                   </div>
-                </div><a class="item" href="/dedag/" data-reactid="14">De Dag</a><a class="item" href="/blog/"
+
+                </div><a class="item" href="/dedag/" data-reactid="14">Archief De Dag</a><a class="item" href="/blog/"
                   data-reactid="15">Blog</a><a class="item" href="/missie/" data-reactid="16">Missie</a><a class="item"
                   href="/film-focus/" data-reactid="17">FilmFocus</a><a class="active item" href="/producties/"
                   data-reactid="18">Producties</a><a class="item" href="/webshop/" data-reactid="19">Webshop</a>
@@ -1018,7 +1021,7 @@
               <div role="listbox" class="menu transition" data-reactid="40">
                 <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"
                   data-reactid="41">
-                  <!-- react-text: 42 -->De Dag
+                  <!-- react-text: 42 -->Archief De Dag
                   <!-- /react-text -->
                 </div>
                 <div style="pointer-events:all;" role="option" aria-checked="false" aria-selected="false" class="item"

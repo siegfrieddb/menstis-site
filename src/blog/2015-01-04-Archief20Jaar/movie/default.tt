@@ -730,7 +730,7 @@
     }
 
     .blog-image {
-      background-image: url(/56e8a59140ef8c3761af89e12d58bbe8.jpg);
+      background-image: url(/menstis-back.jpg);
       background-size: cover;
       background-position: 50%
     }

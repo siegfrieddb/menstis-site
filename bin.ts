@@ -262,13 +262,13 @@ class JsonRender implements RenderType {
   }
 
   async renderFilmFocus(input: GenInput) {
-    function getFilm(film: string) {
+    function getFilm(film: string, title: string) {
       return `
       <div class="column">
         <div class="image-fit" onclick="window.location.href = '/film-focus/${film}/' ">
           <img class="ui image" src="/film-focus/${film}/front.jpg" />
           <div class="image-overlay" >
-            <div class="image-text" >${film}</div>
+            <div class="image-text" >${title}</div>
           </div>
         </div>
       </div>`;
@@ -276,7 +276,34 @@ class JsonRender implements RenderType {
 
     let content = "";
     for await (let entry of input.readDir("film-focus")) {
-      content += getFilm(entry.path);
+
+      let mdfilePath = `/film-focus/${entry.path}/index.md`
+
+      let markdownFc = decoder.decode(
+        await input.readFile(mdfilePath),
+      );
+      let yamlContent: any = null 
+      yamlContent = { template: "" };
+      try {
+        
+        let yamlBegin = markdownFc.indexOf("---");
+        if (yamlBegin !== -1) {
+          let yamlEnd = markdownFc.indexOf("---", yamlBegin + 1);
+          if (yamlEnd === -1) {
+            throw new Error("yaml begin marker --- not matched");
+          }
+          let yamlRaw = markdownFc.substring(yamlBegin + 3, yamlEnd)
+          yamlContent = yaml.parse(yamlRaw);
+  
+          markdownFc = markdownFc.substring(yamlEnd);
+        }
+      } catch (er) {
+        throw new Error(`Failed to read yaml header of file ${entry.path} (error: ${er.message})`)
+      }
+      yamlContent = await addDefaultYaml(yamlContent, input, entry.path)
+
+
+      content += getFilm(entry.path,yamlContent.title);
     }
     return content;
   }
