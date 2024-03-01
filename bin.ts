@@ -313,9 +313,6 @@ class JsonRender implements RenderType {
       <div class="column">
         <div class="image-fit" onclick="window.location.href = '/webshop/${article}/' ">
           <img class="ui image" src="/webshop/${article}/front.jpg" />
-          <div class="image-overlay" >
-            <div class="image-text" >${article}</div>
-          </div>
         </div>
       </div>`;
     }
