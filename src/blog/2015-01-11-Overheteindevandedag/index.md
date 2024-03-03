@@ -2,7 +2,7 @@
 title: "Adieu à Dieu - Over het einde van De Dag"
 date: "2015-01-11T00:00:00Z"
 layout: post
-attachment: "adieu1.pdf"
+attachment: "adieu.pdf"
 linktext: "Lees nota"
 
 ---
