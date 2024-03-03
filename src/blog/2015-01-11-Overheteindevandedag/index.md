@@ -6,7 +6,7 @@ attachment: "adieu.pdf"
 linktext: "Lees nota"
 
 ---
-Met als titel **Adieu à Dieu** belicht Sylvain De Bleeckere het waarom van het einde van _De Dag van de Religieuze Film_.
+Met als titel **Adieu à Dieu** belicht Sylvain De Bleeckere het waarom van het einde van De Dag van de Religieuze Film.
 De nota kan in pdf hieronder worden gedownload. 
 
 
