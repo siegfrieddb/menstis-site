@@ -11,7 +11,7 @@ tag: film
 ## <font color="#808000">**Klapbord**</font>
 
 <span style="color:blue">**Father Damien**</span>
-is de titel van _het historische filmeposis hoofdzakelijk _een Vlaamse productie_. In Vlaanderen is de film uitgebracht onder de titel _Damiaan_, terwijl de internationale titel _Molokai: The Story of Father Damien_ is. Die wordt gewoonlijk verkort tot _Father Damien_.
+is de titel van het historische filmeposis hoofdzakelijk _een Vlaamse productie_. In Vlaanderen is de film uitgebracht onder de titel _Damiaan_, terwijl de internationale titel _Molokai: The Story of Father Damien_ is. Die wordt gewoonlijk verkort tot _Father Damien_.
 
 >Na haar wereldpremière op woensdag 10 maart 1999 (Antwerpen) oogstte de film van regisseur _Paul Cox_ bij de filmpers een onbarmhartige kritiek. De toeschouwers reageerden echter positief op de film. Die is en blijft _de belangrijkste film over de historische figuur van pater Damiaan_.
 
