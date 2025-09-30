@@ -188,7 +188,7 @@ Met zijn film <span style="color:blue">**Andrei Roublev**</span> positioneert Ta
 
 ## <font color="#808000">**Links**</font>
 
-Voor een verdieping van de belangrijke noties _Toeschouwerschap, Beeldend denken, Tragiek, Zingeving & Levensbeschouwing, Ideologie,_ zie [Levensbeschouwing democratisch belicht](http://www.menstis.be/uitgeverij).
+Voor een verdieping van de belangrijke noties _Toeschouwerschap, Beeldend denken, Tragiek, Zingeving & Levensbeschouwing, Ideologie,_ zie [Levensbeschouwing democratisch belicht](http://www.menstis.be/webshop).
 
 Sylvain De Bleeckere bestudeert sinds 1980 het oeuvre van Andrei Tarkovsky. Zie [bibliografie](http://www.menstis.be/blog/).
 
