@@ -4,7 +4,7 @@ layout: film
 tag: film
 ---
 <center>
-<img src="ahl.jpg" >
+<img src="ahl.jpg">
 </center>
 
 - [Klapbord](#hid_bord)
